@@ -41,5 +41,6 @@ st.set_page_config(
 year = st.sidebar.selectbox('year', get_years())
 cik = st.sidebar.selectbox('cik', get_ciks(year))
 st.title("EDGAR's Summary Viewer")
-st.text_area("Item 7", get_text(year, cik), disabled = True)
-st.text_area("Summary", get_summary(year, cik), disabled = True) 
+tab1, tab2 = st.tabs(["Item 7", "Summary"])
+tab1.text_area("Item 7", get_text(year, cik), disabled = True, height  = 500)
+tab2.text_area("Summary", get_summary(year, cik), disabled = True, height  = 500)
