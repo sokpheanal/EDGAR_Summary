@@ -5,7 +5,7 @@ import pathlib
 
 @st.cache_resource
 def get_config() -> dict[str, any]:
-    with open(".streamlit/config.toml", "rb") as fp:
+    with open("config.toml", "rb") as fp:
         data = toml.load(fp)
     return data
 @st.cache_data
