@@ -2,6 +2,7 @@
 import streamlit as st
 import tomllib as toml
 import pathlib
+import time
 
 @st.cache_resource
 def get_config() -> dict[str, any]:
@@ -31,8 +32,8 @@ def get_text(year: str, cik: str) -> str:
 def get_summary(year: str, cik: str) -> str:
     text = get_text(year, cik)
     #TODO: implement the summary logic
+    time.sleep(10)
     return "My summary here"
-
 
 st.set_page_config(
     page_title = "Summary"
@@ -42,5 +43,8 @@ year = st.sidebar.selectbox('year', get_years())
 cik = st.sidebar.selectbox('cik', get_ciks(year))
 st.title("EDGAR's Summary Viewer")
 tab1, tab2 = st.tabs(["Item 7", "Summary"])
-tab1.text_area("Item 7", get_text(year, cik), disabled = True, height  = 500)
-tab2.text_area("Summary", get_summary(year, cik), disabled = True, height  = 500)
+with tab1:
+    tab1.text_area("Item 7", get_text(year, cik), disabled = True, height  = 500)
+with st.spinner('Summarizing the document...'):
+   with tab2:
+       tab2.text_area("Summary", get_summary(year, cik), disabled = True, height  = 500)
