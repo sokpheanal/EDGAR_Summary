@@ -2,8 +2,8 @@
 import streamlit as st
 import tomllib as toml
 import pathlib
-import time
 import chardet
+from openai import OpenAI
 
 @st.cache_resource
 def get_config() -> dict[str, any]:
@@ -21,65 +21,37 @@ def get_ciks(year: str) -> list[str]:
     year_folder = pathlib.Path(corpus_folder).joinpath(year)
     ciks = [p.name.split('.', 1)[0] for p in year_folder.iterdir() if p.is_file()]
     return ciks
-@st.cache_data
 def get_text(year: str, cik: str) -> str:
     corpus_folder = get_config()['folders']['corpus']
     year_folder = pathlib.Path(corpus_folder).joinpath(year)
     cik_file = [p.name for p in year_folder.iterdir() if p.name.startswith(cik)][0]
-    #TODO: implement the file reading logic for ANSI vs UTF8
-    with open(year_folder.joinpath(cik_file), "r") as fp:
+    with open(year_folder.joinpath(cik_file), "rb") as fp:
         raw_text = fp.read()
-        # Detecting encoding
         encoding = chardet.detect(raw_text)['encoding']
         text = raw_text.decode(encoding)
     return text
-@st.cache_data
-def summarize_text(text):
-    prompt = f"Summarize the following text in 15 sentences:\n{text}"
-  
-    chat_completion = openai.ChatCompletion.create(
-        model="text-davinci-003",
-        messages = system + chat_history + user,
-        max_tokens=500,
-        stop=["\n\n"],
-        temperature=0.7
-    )
-    return chat_completion.choices[0].message['content']
-@st.cache_data
-def text_to_chunks(text):
-    chunks = [[]]
-    chunk_total_words = 0
-
-    sentences = nlp(text)
-
-    for sentence in sentences.sents:
-        chunk_total_words += len(sentence.text.split(" "))
-
-        if chunk_total_words > 2700:
-            chunks.append([])
-            chunk_total_words = len(sentence.text.split(" "))
-
-        chunks[len(chunks)-1].append(sentence.text)    
-    return chunks
-@st.cache_data
+@st.cache_data(max_entries = 10, persist = True)
 def get_summary(year: str, cik: str) -> str:
+    print(f"get_summary({year},{cik})")
     text = get_text(year, cik)
-    chunks = text_to_chunks(text)
-    chunk_summaries = []
+    #TODO: setup prompts in config.toml to allow for easy customization
+    system = [{"role": "system", "content": "You are Summary AI."}]
+    user = [{"role": "user", "content": f"Summarize this briefly:\n\n{text}"}]
+    chat_history = []
+    #TODO: add in rate limiting
+    # this gets hit a lot when you have more than 1 tab open
+    with OpenAI(api_key = st.secrets["openai_api_key"]) as client:
+        chat_completion = client.chat.completions.create(
+            messages = system + chat_history + user,
+            model = "gpt-3.5-turbo",
+            max_tokens = 500,
+            top_p = 0.9)
+        xxx = chat_completion.choices[0].message.content
+        return xxx
 
-    #TODO: implement the summary logic
-
-    for chunk in chunks:
-        chunk_summary = summarize_text(" ".join(chunk))
-        chunk_summaries.append(chunk_summary)
-
-    section_summary = " ".join(chunk_summaries)
-    return section_summary
-    time.sleep(10)
-
-st.set_page_config(
-    page_title = "Summary"
-)
+st.set_page_config(page_title = "Summary")
+st.cache_data.clear()
+st.cache_resource.clear()
 
 year = st.sidebar.selectbox('year', get_years())
 cik = st.sidebar.selectbox('cik', get_ciks(year))
