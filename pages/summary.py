@@ -36,7 +36,7 @@ def get_summary(year: str, cik: str) -> str:
     text = get_text(year, cik)
     #TODO: setup prompts in config.toml to allow for easy customization
     system = [{"role": "system", "content": "You are Summary AI."}]
-    user = [{"role": "user", "content": f"Summarize this briefly:\n\n{text}"}]
+    user = [{"role": "user", "content": f"Summarize this in 20 sentences:\n\n{text}"}]
     chat_history = []
     #TODO: add in rate limiting
     # this gets hit a lot when you have more than 1 tab open
@@ -56,9 +56,14 @@ st.cache_resource.clear()
 year = st.sidebar.selectbox('year', get_years())
 cik = st.sidebar.selectbox('cik', get_ciks(year))
 st.title("EDGAR's Summary Viewer")
-tab1, tab2 = st.tabs(["Item 7", "Summary"])
+tab1, tab2, tab3 = st.tabs(["About", "Item 7", "Summary"])
 with tab1:
-    tab1.text_area("Item 7", get_text(year, cik), disabled = True, height  = 500)
+    tab1.header('About Our Web-App', anchor=None, help=None, divider=False)
+    tab1.markdown('''Welcome to our innovative web application tailored for Private Equity investment firms, offering a streamlined solution to digest the Management's Discussion and Analysis (MD&A) sections within 10-K filings.
+                   We understand the critical role MD&A plays in investment decision-making, and our platform aims to simplify the process by extracting key insights from these complex documents.
+                   Designed with efficiency in mind, our user-friendly interface empowers investors to quickly access and comprehend essential information, enabling more informed and strategic investment decisions.''')
+with tab2:
+    tab2.text_area("Item 7", get_text(year, cik), disabled = True, height  = 500)
 with st.spinner('Summarizing the document...'):
-   with tab2:
-       tab2.text_area("Summary", get_summary(year, cik), disabled = True, height  = 500)
+   with tab3:
+       tab3.text_area("Summary", get_summary(year, cik), disabled = True, height  = 500)
