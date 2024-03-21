@@ -36,7 +36,7 @@ def get_summary(year: str, cik: str) -> str:
     text = get_text(year, cik)
     #TODO: setup prompts in config.toml to allow for easy customization
     system = [{"role": "system", "content": "You are Summary AI."}]
-    user = [{"role": "user", "content": f"Summarize this in 20 sentences:\n\n{text}"}]
+    user = [{"role": "user", "content": f"Summarize this in 5 sentences:\n\n{text}"}]
     chat_history = []
     #TODO: add in rate limiting
     # this gets hit a lot when you have more than 1 tab open
