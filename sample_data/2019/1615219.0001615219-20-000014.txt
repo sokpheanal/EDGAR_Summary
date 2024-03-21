@@ -1,0 +1,166 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations Overview
+This Management’s Discussion and Analysis provides material historical and prospective disclosures intended to enable investors and other users to assess our financial condition and results of operations. Statements that are not historical are forward-looking and involve risks and uncertainties discussed under the headings “SPECIAL NOTE REGARDING Forward-Looking Statements” and “Risk Factors” of this report. The following discussion of our results of operations and financial condition should be read in conjunction with our financial statements and the related notes thereto included elsewhere in this report. These risks could cause our actual results to differ materially from any future performance suggested below.
+Introduction
+Our Management's Discussion and Analysis of Financial Condition and Results of Operations, or MD&A, is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition, and cash flows. The MD&A is organized as follows:
+•
+Overview - A discussion of our business and overall analysis of financial and other highlights in order to provide context for the remainder of the MD&A.
+•
+Recent Events - A discussion of our recent financing activities.
+•
+Results of Operations - An analysis of our financial results comparing the years ended December 31, 2019 and 2018.
+•
+Liquidity and Capital Resources - An analysis of changes in our audited consolidated balance sheets and    cash flows, and discussion of our financial condition and potential sources of liquidity.
+•
+Critical Accounting Policies and Significant Judgments and Estimates - A discussion of critical accounting policies and those that require us to make subjective estimates and judgments.
+Overview
+We are a clinical-stage biotechnology company focused on developing effective epigenetic-based cancer treatments for indications with high unmet medical need. Our lead epigenetic enzyme technology was licensed from the University of Utah Research Foundation in 2011.
+We are focused on epigenetic strategies for cancer treatment. Epigenetics refers to the system that regulates gene expression through conformational changes to the chromatin rather than changes to the DNA sequence itself. Our lead compound, Seclidemstat (“SP-2577”), is a small molecule that inhibits the epigenetic enzyme lysine specific demethylase 1 (“LSD1”). LSD1 is an enzyme that removes mono- and di-methyl marks on histones (core protein of 
+47
+Table of Content
+s
+chromatin) to alter gene expression. LSD1’s enzymatic activity can cause genes to turn on or off and thereby affect the cell’s gene expression and overall activity. In addition, LSD1 can act via its scaffolding properties, independently of its enzymatic function, to alter gene expression and modulate cell fate. In healthy cells, LSD1 is necessary for stem cell maintenance and cell development processes. However, in several cancers LSD1 is highly expressed and acts aberrantly to incorrectly silence or activate genes leading to disease progression. High levels of LSD1 expression are often associated with aggressive cancer phenotypes and poor patient prognosis. Hence, development of targeted LSD1 inhibitors is of interest for the treatment of various cancers. SP-2577 uses a novel, reversible mechanism to effectively inhibit LSD1’s enzymatic and scaffolding properties and thereby treat and prevent cancer progression.
+Our first indication of interest for SP-2577 is a devastating bone and soft-tissue cancer called Ewing sarcoma. Ewing sarcoma mostly afflicts adolescents and young adults, with the median age of diagnosis being 15. The most commonly expressed fusion oncoprotein in Ewing sarcoma is the EWS-FLI fusion protein, which is present in approximately 85% of Ewing sarcoma cases. The LSD1 enzyme associates with EWS-FLI (and other E26 Transformation-Specific (“ETS”) fusion proteins) and is thought to promote tumorigenesis. We believe the SP-2577 molecule helps inhibit EWS-FLI activity by disrupting EWS-FLI from associating with coregulators (including LSD1) that are necessary for its cancer promoting activity. Therefore, we believe that SP-2577 can potentially reverse the aberrant gene expression and thereby possibly prevent Ewing sarcoma cell proliferation and even promote cell death. Preclinical studies of SP-2577 in certain Ewing sarcoma animal models show a significant tumor reduction as well as a significant survival benefit compared to untreated animals. Our ongoing Phase 1/2 clinical trial is designed as a single agent dose escalation followed by a dose expansion study. The trial can enroll up to 50 relapsed or refractory Ewing sarcoma patients. The primary objectives of the study are to assess the safety and tolerability of SP-2577. Secondary objectives include assessing preliminary efficacy of SP-2577.
+As LSD1 can associate with over 60 regulatory proteins other than EWS-FLI, we believe that LSD1 may also play a critical role in progression of various other cancer types. These include both solid tumors and hematologic malignancies. In the second quarter of 2019, we initiated a second company-sponsored Phase 1 trial to study SP-2577 in Advanced Solid Tumors. The Advanced Solid Tumor (“AST”) trial is a single agent dose escalation, dose expansion study enrolling patients with advanced malignancies, excluding Ewing sarcoma or central nervous system tumors.
+In addition, recent data from “LSD1 Ablation Stimulates Anti-tumor Immunity and Enables Checkpoint Blockade” by W. Sheng, et al. and “Inhibition of Histone Lysine-specific Demethylase 1 Elicits Breast Tumor Immunity and Enhances Antitumor Efficacy of Immune Checkpoint Blockade” by Y. Qin, et al. suggests that LSD1 plays a role in tumor immune activity and can sensitize tumors to checkpoint inhibitors. These recent works have sparked interest in combining LSD1 inhibitors with checkpoint inhibitors. We are conducting preclinical work with SP-2577 in this area.
+We have no products approved for commercial sale and have not generated any revenue from product sales. We have never been profitable and have incurred operating losses in each year since inception. We had an accumulated deficit of $12,076,700 as of December 31, 2019. Substantially all of our operating losses resulted from expenses incurred in connection with our research and development programs and from general and administrative costs associated with our operations.
+We expect to continue to incur significant expenses and increasing operating losses for at least the next several years as we initiate and continue the clinical development of, and seek regulatory approval for, our product candidates, add personnel necessary to continue to operate as a public company upon closing of the merger, and work to develop an advanced clinical pipeline of product candidates. We expect that our operating losses will fluctuate significantly from quarter-to-quarter and year-to-year due to timing of clinical development programs and efforts to achieve regulatory approval.
+As of December 31, 2019, we had cash and cash equivalents of $3.7 million, which includes $1.0 million for funds received from CPRIT. These funds are to be used for allowable expenses, primarily research and development expenses. The grant has a mandatory fund matching requirement. The Company believes that as of December 31, 2019, CPRIT fund matching requirements had been fully met. As of December 31, 2019, we have received an aggregate of $9.6 million from the CPRIT grant and there was $9.1 million of funds available for us to draw upon meeting certain requirements.
+48
+Table of Content
+s
+We believe that our cash and cash equivalents currently on hand are sufficient to fund our anticipated operating and capital requirements through at least 12 months from the date this report is filed, however we will continue to require substantial additional capital to continue our clinical development activities. Accordingly, we will need to raise substantial additional capital to continue to fund our operations. The amount and timing of our future funding requirements will depend on many factors, including the pace and results of our development, regulatory and commercialization efforts. Failure to raise capital as and when needed, on favorable terms or at all, would have a negative impact on our financial condition and our ability to develop and commercialize our product candidates.
+We intend to obtain additional capital through the sale of equity securities in one or more offerings or through issuances of debt instruments. We may also consider new collaborations or selectively partnering our technology. However, we cannot provide any assurance that we will be successful in accomplishing any of our plans to obtain additional capital or be able to do so on terms acceptable to us.
+Recent Events
+On February 11, 2020, we completed our underwritten public offering of 7,101,307 Class A Units, plus the full exercise of the underwriter's over-allotment option to purchase an additional 1,252,173 shares and 1,246,519 Class B Units at a per unit price of $1.15. Total gross proceeds from the offering were $11.0 million prior to deducting underwriting discounts and commissions and offering expenses. Each Class A Unit consisted of one share of our common stock and a five-year warrant to purchase one share of our common stock at an exercise price of $1.15 (the “Warrants”). Each Class B Unit consisted of one share of Series A convertible preferred stock (the “Series A Preferred Stock”) and a Warrant.
+On October 24, 2019, we entered into a common stock purchase agreement with Aspire Capital Fund, LLC (“Aspire Capital”), which provides that, upon the terms and subject to the conditions and limitations set forth therein, we may offer to Aspire Capital up to an aggregate of $10.9 million of shares of our common stock over a 30-month period. Upon execution of the agreement, we sold to Aspire Capital 210,526 shares of common stock at $4.75 per share for proceeds of $1.0 million, and we issued to Aspire Capital 101,810 shares of our common stock in consideration for entering into the agreement. In December 2019, we issued to Aspire Capital 438,525 shares of common stock for proceeds of approximately $1.6 million.  Under the terms of our recent $11.0 million capital raise, the Aspire Capital agreement can be used in very limited circumstances. 
+As of December 31, 2019, our available cash was approximately $3.7 million.
+Results of Operations
+The following table sets forth the consolidated results of our operations for the year ended December 31, 2019 compared to the year ended December 31, 2018.
+Year Ended December 31, 2019
+Year Ended December 31, 2018
+Change
+$
+Grant revenue
+$
+3,465,055
+$
+1,951,351
+$
+1,513,704
+Research and development expenses
+4,018,951
+1,287,621
+2,731,330
+General and administrative expenses
+7,711,181
+2,348,361
+5,362,820
+Change in fair value of warrant liability
+1,311,333
+—
+1,311,333
+Interest income (expense), net
+15,648
+14,994
+654
+Income from discontinued operations
+1,833
+—
+1,833
+Net loss
+$
+(6,936,263)
+$
+(1,669,637)
+$
+(5,266,626)
+Grant Revenue
+Grant revenue, which was derived solely from the CPRIT grant, was $3,465,055 during the year ended December 31, 2019 compared to $1,951,351 during the year ended December 31, 2018. The increase in revenue from the CPRIT grant was due to an increase in overall expenses which resulted in an increase in the amount of expenses 
+49
+Table of Content
+s
+reimbursable under the grant. Given the nature of the development process, grant revenue will fluctuate depending on the stage of development and the timing of expenses.
+As of December 31, 2019, we had $541,701 of deferred revenue, which consisted of payments received from the CPRIT grant. This deferred revenue is expected to be recognized through the first half of 2020.
+Research and Development Expenses
+Research and development expenses were $4,018,951 during the year ended December 31, 2019 compared to $1,287,621 during the year ended December 31, 2018. This increase of $2,731,330 was principally due to increased chemistry, manufacturing and control expenses related to production of tablets to be used in clinical trials, as well as consulting fees related to clinical trials and a pre-clinical study for our next generation Seclidemstat program. We initiated our Phase 1 clinical trial for Ewing Sarcoma in September 2018 and have since increased the number of patients enrolled and clinical sites. The Phase 1 clinical trial for advanced solid tumor was initiated in the second quarter of 2019.
+General and Administrative Expense
+General and administrative expenses were $7,711,181 for the year ended December 31, 2019 compared to $2,348,361 for the year ended December 31, 2018. This increase of $5,362,820 was principally due to increased legal and professional service fees. Legal and professional fees increased significantly in the current period mainly due to merger and financing activities. We incurred approximately $760,000 of legal and professional fees related to the merger with Flex Pharma and financing activities. We also incurred a success fee of $1,350,000 upon the closing of the merger transaction with Flex Pharma.
+Insurance expenses increased approximately $474,000 mainly due to higher premium on director and officer liability insurance. Payroll expense increased $470,000 which was primarily due to increases in salaries, wages and stock-based compensation expenses for the year ended December 31, 2019. 
+Change in Fair Value of Warrant Liability
+The change in fair value of warrant liability was primarily due to the fluctuation of the price of our common stock which was $15.17 per share on the date of issuance on July 19, 2019 compared to $3.78 per share on December 31, 2019.
+Liquidity and Capital Resources
+Overview
+Since inception, we have incurred operating losses and we anticipate that we will continue to incur losses for the foreseeable future. To date, we have generated revenue from the CPRIT grant, and have not generated any cash inflows from product sales.
+We do not know when, or if, we will generate any revenue from product sales. We do not expect to generate any revenue from product sales unless and until we obtain regulatory approval for and commercializes any of our product candidates. At the same time, we expect our expenses to increase in connection with our ongoing development and manufacturing activities, particularly as we continue the research, development, manufacture and clinical trials of, and seek regulatory approval for our product candidates. Presently, we have sufficient cash and cash equivalents to enable us to fund our anticipated level of operations and meet our obligations as they become due during the twelve months following the date of issuance of this Annual Report on Form 10-K. 
+As of December 31, 2019, we had $1,381,255 of working capital and our cash and cash equivalents totaled $3,738,900, which were held in bank deposit accounts and money market funds. Our cash and cash equivalents and restricted cash balance decreased during the year ended December 31, 2019, primarily due to our net loss incurred.
+Cash Flows
+50
+Table of Content
+s
+Year Ended December 31, 2019
+Year Ended December 31, 2018
+Net cash (used in) provided by:
+Operating activities
+$
+(11,580,096)
+$
+4,177,189
+Investing activities
+5,607,908
+—
+Financing activities
+3,579,307
+1,435,255
+Net decrease in cash and cash equivalents
+$
+(2,392,881)
+$
+5,612,444
+Operating Activities
+Cash used in operating activities was $11,580,096 for the year ended December 31, 2019, as compared to $4,177,189 of cash provided by operating activities for the year ended December 31, 2018. This increase in cash used in operating activities was primarily due to payments made for legal and professional services related to the merger transaction as well as research activities. Total payments for legal fees, including spending related to the merger, was approximately $1.7 million for the year ended December 31, 2019. Additionally, there was a one-time nonrecurring payment made for liabilities assumed from Flex Pharma of approximately $1.7 million.
+Investing Activities
+Net cash provided by investing activities during the year ended December 31, 2019 was related to $5,403,634 net cash received from Flex Pharma upon the merger and $204,274 net cash received from the sale of the HOTSHOT business.
+There were no cash flows from investing activities for the year ended December 31, 2018.
+Financing Activities
+Net cash provided by financing activities was $3,579,307 and $1,435,255 for the years ended December 31, 2019 and 2018, respectively. Proceeds received from issuances of equity securities increased from $2,025,269 for the year ended December 31, 2018 to $4,130,786 for the year ended December 31, 2019. Additionally, payments to redeem equity securities was $615,014 for the year ended December 31, 2018. There was no such redemption during the year ended December 31, 2019. During the year ended December 31, 2019, the Company made dividend payments of $133,594 to preferred unit holders and $417,885 of principal payments on the insurance financing note. There were no such payments during the year ended December 31, 2018.
+Future Capital Requirements
+As of December 31, 2019, we had $3,738,900 in cash and cash equivalents.
+We expect to continue to incur additional costs associated with operating as a public company. In addition, subject to obtaining regulatory approval of any of our product candidates, we anticipate we will need substantial additional funding in connection with our continuing operations.
+We expect our research and development expenses to substantially increase in connection with our ongoing activities, particularly as we advance our product candidates in or towards clinical development.
+Salarius’ future capital requirements are difficult to forecast and will depend on many factors, including but not limited to:
+•
+the terms and timing of any strategic alliance, licensing and other arrangements that Salarius may establish;
+•
+the initiation and progress of Salarius’ ongoing pre-clinical studies and clinical trials for its product candidates;
+•
+the number of programs Salarius pursues;
+•
+the outcome, timing and cost of regulatory approvals;
+51
+Table of Content
+s
+•
+the cost and timing of hiring new employees to support Salarius’ continued growth;
+•
+the costs involved in patent filing, prosecution, and enforcement; and
+•
+the costs and timing of having clinical supplies of Salarius’ product candidates manufactured.
+We believe that our cash and cash equivalents currently on hand are sufficient to fund our anticipated operating and capital requirements through at least 12 months from the date this report is filed.
+We expect to finance our future cash needs primarily through the issuance of additional equity and potentially through borrowing and strategic alliances with partner companies. To the extent that we raise additional capital through the issuance of additional equity or convertible debt securities, the ownership interest of our stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of existing stockholders. Debt financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. If we raise additional funds through marketing and distribution arrangements or other collaborations, strategic alliances or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when needed, we may be required to delay, limit, reduce or terminate our product development or commercialization efforts or grant rights to develop and market product candidates to third parties that we would otherwise prefer to develop and market itself.
+Successful development of product candidates is highly uncertain and may not result in approved products. Completion dates and completion costs can vary significantly for each product candidate and are difficult to predict. We anticipate that we will make determinations as to which programs to pursue and how much funding to direct to each program on an ongoing basis in response to the scientific and clinical success of each product candidate and ongoing assessments as to each product candidate’s commercial potential. We will need to raise additional capital and may seek to do so through public or private equity or debt financings, government or other third-party funding, marketing and distribution arrangements and other collaborations, strategic alliances and licensing arrangements or a combination of these approaches. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. Our failure to raise capital or enter into such other arrangements as and when needed would have a negative impact on our financial condition and our ability to develop our product candidates.
+Critical Accounting Policies and Significant Judgments and Estimates
+Our management's discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities as of the date of the consolidated balance sheet and the reported amounts of expenses during the reporting period. In accordance with GAAP, we base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances at the time such estimates are made. Actual results may differ materially from our estimates and judgments under different assumptions or conditions. We periodically review our estimates in light of changes in circumstances, facts and experience. The effects of material revisions in estimates are reflected in our consolidated financial statements prospectively from the date of the change in estimate.
+Our significant accounting policies are described in Note 2 to our audited consolidated financial statements for the year ended December 31, 2019 in this Annual Report on Form 10-K. We believe that our accounting policies relating to revenue recognition, research and development expenses, stock-based compensation and fair value of financial instruments are the most critical to understanding and evaluating our reported financial results. We have identified these policies as critical because they both are important to the presentation of our financial condition and results of operations and require us to make judgments and estimates on matters that are inherently uncertain and may change in future periods. For more information regarding these policies, you should refer to Note 2 of our audited consolidated financial statements included in this Annual Report on Form 10-K. 
+Off-Balance Sheet Arrangements
+52
+Table of Content
+s
+Salarius has not entered into any off-balance sheet arrangements and does not have any holdings in variable interest entities.
+Application of New Accounting Standards
+In February 2016, the Financial Accounting Standards Board (the “FASB”) issued guidance for accounting for leases. The guidance requires lessees to recognize assets and liabilities related to long-term leases on the balance sheet and expands disclosure requirements regarding leasing arrangements. The guidance is effective for reporting periods beginning after December 15, 2018 for public entities. The guidance must be adopted on a modified retrospective basis and provides for certain practical expedients. We adopted this guidance effective January 1, 2019 using the following practical expedients:
+•
+we did not reassess if any expired or existing contracts are or contain leases; and
+•
+we did not reassess the classification of any expired or existing leases.
+Upon adoption of the new guidance on January 1, 2019, there was no impact on our financial statements.
+Additionally, we made ongoing accounting policy elections whereby we (i) do not recognize right-of-use assets or lease liabilities for short-term leases (those with original terms of 12-months or less) and (ii) combine lease and non-lease elements of our operating leases.

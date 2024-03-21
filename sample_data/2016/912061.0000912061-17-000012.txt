@@ -1,0 +1,937 @@
+Item 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Business Overview
+ 
+We are an international direct-selling and e-commerce company. Subsidiaries controlled by us sell personal care, wellness, and “quality of life” products under the “NHT Global” brand.  Our wholly-owned subsidiaries have an active physical presence in the following markets: North America; Greater China, which consists of Hong Kong, Taiwan and China; South Korea; Singapore; Malaysia; Japan; and Europe. We also operate in Russia and Kazakhstan through our engagement with a local service provider. See Note 10 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report for further information about our net sales by geographic area. 
+ 
+As of 
+December 31, 2016
+, we were conducting business through 
+118,960
+ active members, compared to 
+109,360
+ in 
+2015
+ and 
+54,360
+ in 
+2014
+. We consider a member “active” if they have placed at least one product order with us during the preceding year. Our priority is to focus our resources in our most promising markets, which we consider to be Greater China and countries where our existing members have the connections to recruit prospects and sell our products, such as Southeast Asia. We have also begun investing some resources in Central and South America. 
+ 
+We generate 
+98%
+ of our net sales from subsidiaries located outside North America, with sales of our Hong Kong subsidiary representing 
+92%
+ of net sales in the latest fiscal year. Because of the size of our foreign operations, operating results can be impacted negatively or positively by factors such as foreign currency fluctuations, and economic, political and business conditions around the world. In addition, our business is subject to various laws and regulations, in particular, regulations related to direct selling activities that create uncertain risks for our business, including improper claims or activities by our members and potential inability to obtain necessary product registrations.  For further information regarding some of the risks associated with the conduct of our business in China, see “Item 1A. Risk Factors,” and more specifically under the captions “Risk Factors - Because our Hong Kong operations account for a substantial portion of our overall business...” and “Risk Factors - Our operations in China are subject to compliance with a myriad of applicable laws and regulations...”.
+ 
+China has been and continues to be our most important business development project.  We operate an e-commerce direct selling model in Hong Kong that generates revenue derived from the sale of products to members in Hong Kong and elsewhere, including China.  Substantially all of our Hong Kong revenues are derived from the sale of products that are delivered to members in China.  Through a separate Chinese entity, we operate an e-commerce retail platform in China.  We believe that neither of these activities require a direct selling license in China, which we do not currently hold.  We have previously sought to obtain a direct selling license, and in August 2015 initiated the process for submitting a new preliminary application for a direct selling license in China.  If we are able to obtain a direct selling license in China, we believe that the incentives inherent in the direct selling model in China would incrementally benefit our existing business. Increased sales in China that could be derived from obtaining a direct selling license may be partially offset by the higher fixed costs associated with the establishment and maintenance of required service centers and branch offices.  We are unable to predict whether and when we will be successful in obtaining a direct selling license to operate in China, and if we are successful, when we will be permitted to conduct direct selling operations and whether such operations would be profitable.
+Income Statement Presentation
+ 
+We mainly derive revenue from sales of products. Substantially all of our product sales are to independent members at published wholesale prices. Product sales are recorded when the products are shipped and title passes to independent members, which generally is upon our delivery to the carrier that completes delivery to the members. We estimate and accrue a reserve for product returns based on our return policies and historical experience. Enrollment package revenue, including any nonrefundable set-up fees, is deferred and recognized over the term of the arrangement, generally twelve months. We bill members for shipping charges and recognize the freight revenue in net sales.  Event and training revenue is deferred and recognized as the event or training occurs. 
+ 
+Cost of sales consists primarily of products purchased from third-party manufacturers, freight cost for transporting products to our foreign subsidiaries and shipping products to members, import duties, packing materials, product royalties, costs of promotional materials sold to our members at or near cost, and provisions for slow moving or obsolete inventories. Cost of sales also includes purchasing costs, receiving costs, inspection costs and warehousing costs.
+ 
+27
+Table of Contents
+Member commissions
+ 
+are our most significant expense and are classified as an operating expense. Under our compensation plan, members are paid weekly commissions by our subsidiary in which they are enrolled, generally in their home country currency, for product purchases by their down-line member network across all geographic markets. Our China subsidiary maintains an e-commerce retail platform and does not pay any commissions. This “seamless” compensation plan enables a member located in one country to enroll other members located in other countries where we are authorized to conduct our business. Currently, there are basically two ways in which our members can earn income:
+•
+through commissions paid on product purchases made by their down-line members; and
+•
+through retail markups on sales of products purchased by members at wholesale prices (in some markets, sales are for personal consumption only and income may not be earned through retail mark-ups on sales in that market).
+ 
+Each of our products is designated a specified number of bonus volume points. Commissions are based on total personal and group bonus volume points per weekly sales period. Bonus volume points are essentially a percentage of a product’s wholesale price. As the member’s business expands from successfully enrolling other members who in turn expand their own businesses by selling product to other members, the member receives higher commissions from purchases made by an expanding down-line network. In some of our markets, to be eligible to receive commissions, a member may be required to make nominal monthly or other periodic purchases of our products. Certain of our subsidiaries do not require these nominal purchases for a member to be eligible to receive commissions. In determining commissions, the number of levels of down-line members included within the member’s commissionable group increases as the number of memberships directly below the member increases. Under our current compensation plan, certain of our commission payouts may be limited to a hard cap dollar amount per week or a specific percentage of total product sales. In some markets, commissions may be further limited. In some markets, we also pay certain bonuses on purchases by up to three generations of personally enrolled members, as well as bonuses on commissions earned by up to three generations of personally enrolled members. Members can also earn income, trips and other prizes in specific time-limited promotions and contests we hold from time to time. Member commissions are dependent on the sales mix and, for each of fiscal 
+2016
+, 
+2015
+ and 
+2014
+ represented 
+44%
+, 
+48%
+ and 46%, respectively, of net sales. Occasionally, we make modifications and enhancements to our compensation plan to help motivate members, which can have an impact on member commissions. We may also enter into agreements for business or market development, which could result in additional compensation to specific members.
+ 
+Selling, general and administrative expenses consist of administrative compensation and benefits, travel, credit card fees and assessments, professional fees, certain occupancy costs, and other corporate administrative expenses (including stock-based compensation). In addition, this category includes selling, marketing, and promotion expenses (including the costs of member training events and conventions that are designed to increase both product awareness and member recruitment). Because our various member conventions are not always held at the same time each year, interim period comparisons will be impacted accordingly. 
+The functional currency of our international subsidiaries is generally their local currency. Local currency assets and liabilities are translated at the rates of exchange on the balance sheet date, and local currency revenues and expenses are translated at average rates of exchange during the period. Equity accounts are translated at historical rates.  The resulting translation adjustments are recorded directly into accumulated other comprehensive income.
+ 
+Sales by our foreign subsidiaries are transacted in the respective local currencies and are translated into U.S. dollars using average rates of exchange for each monthly accounting period to which they relate.  Most of our product purchases from third-party manufacturers are transacted in U.S. dollars.  Consequently, our sales and net earnings are affected by changes in currency exchange rates, with sales and earnings generally increasing with a weakening U.S. dollar and decreasing with a strengthening U.S. dollar, see “Item 7A. Quantitative and Qualitative Disclosures About Market Risk” and more specifically under the caption “Foreign Currency Exchange Risk” for further information. 
+28
+Table of Contents
+Results of Operations
+ 
+The following table sets forth our operating results as a percentage of net sales for the periods indicated:
+ 
+Year Ended December 31,
+ 
+2016
+ 
+2015
+ 
+2014
+Net sales
+100.0
+%
+ 
+100.0
+%
+ 
+100.0
+ %
+Cost of sales
+19.1
+ 
+20.4
+ 
+21.7
+Gross profit
+80.9
+ 
+79.6
+ 
+78.3
+Operating expenses:
+ 
+ 
+ 
+ 
+ 
+Commissions expense
+43.5
+ 
+47.8
+ 
+45.7
+Selling, general and administrative expenses
+15.0
+ 
+13.6
+ 
+15.8
+Depreciation and amortization
+0.1
+ 
+0.1
+ 
+0.1
+Total operating expenses
+58.6
+ 
+61.5
+ 
+61.6
+Income from operations
+22.3
+ 
+18.1
+ 
+16.7
+Other expense, net
+—
+ 
+—
+ 
+(0.2
+)
+Income before income taxes
+22.3
+ 
+18.1
+ 
+16.5
+Income tax provision
+3.1
+ 
+0.2
+ 
+0.2
+Net income
+19.2
+%
+ 
+17.9
+%
+ 
+16.3
+ %
+ 
+The following table sets forth revenue by market for the periods indicated (in thousands):
+ 
+Year Ended December 31,
+ 
+2016
+ 
+2015
+ 
+2014
+North America
+$
+5,909
+ 
+2.0
+%
+ 
+$
+5,992
+ 
+2.3
+%
+ 
+$
+2,812
+ 
+2.3
+%
+Hong Kong
+1
+263,482
+ 
+91.6
+ 
+245,737
+ 
+92.8
+ 
+111,028
+ 
+89.1
+China
+9,086
+ 
+3.2
+ 
+4,425
+ 
+1.7
+ 
+1,538
+ 
+1.2
+Taiwan
+6,213
+ 
+2.2
+ 
+5,965
+ 
+2.3
+ 
+4,628
+ 
+3.7
+South Korea
+691
+ 
+0.2
+ 
+1,128
+ 
+0.4
+ 
+1,009
+ 
+0.8
+Japan
+86
+ 
+—
+ 
+92
+ 
+—
+ 
+89
+ 
+0.1
+Singapore
+169
+ 
+0.1
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+Russia, Kazakhstan and Ukraine
+2
+858
+ 
+0.3
+ 
+1,139
+ 
+0.4
+ 
+3,113
+ 
+2.5
+Europe
+1,234
+ 
+0.4
+ 
+382
+ 
+0.1
+ 
+373
+ 
+0.3
+Total
+$
+287,728
+ 
+100.0
+%
+ 
+$
+264,860
+ 
+100.0
+%
+ 
+$
+124,590
+ 
+100.0
+%
+1
+ 
+Substantially all of our Hong Kong revenues are derived from the sale of products that are delivered to members in China. See “Item 1A. Risk Factors”.
+2
+ 
+We discontinued our Ukraine operations during the second quarter of 2015.
+Financial Results of 2016 Compared to 2015
+Net Sales
+ 
+Net sales were 
+$287.7 million
+ for the year ended 
+December 31, 2016
+ compared with 
+$264.9 million
+ a year ago, an increase of $22.8 million, or 
+9%
+.  Hong Kong net sales, substantially all of which were shipped to members residing in China, increased 
+$17.7 million
+, or 
+7%
+, over the prior year. Hong Kong experienced an increase of 
+7,800
+ active members, or 
+8%
+, during 2016, which contributed to the increase in product sales volume. We also launched new 
+Wellness
+ products during 2016, which contributed approximately $11.2 million to our top-line growth. However, we believe our net sales increase was adversely impacted by the following: 
+•
+A primary factor was the special measures the Chinese government implemented in preparation of the G20 Summit in Hangzhou, one of our top markets, in which they relocated city residents, emptied entire districts, blocked urban traffic and shut down businesses in July, August and early September 2016.
+29
+Table of Contents
+•
+Also, we did not offer a comparable incentive trip promotion in 2016 as the 2015 supplemental incentive trip promotion to the U.S., which proved to be appealing and contributed to increased sales in 2015. 
+•
+Finally, the devaluation of the Chinese yuan, which depreciated 7% against the Hong Kong dollar during 2016, indirectly affected our financial results by increasing the product pricing in the currency of our Chinese members. 
+ 
+Outside of our Hong Kong business, net sales increased 
+$5.1 million
+, or 
+27%
+, compared with the prior year, driven by a 105% increase in our China e-commerce business and a 223% increase in Europe, offset by the performance of South Korea, which decreased 39% and our Commonwealth of Independent States (“CIS”) market, which decreased 25%. The 
+$4.7 million
+ net sales increase in our China e-commerce business was primarily driven by increased sales in our 
+Home
+ product line, which was introduced during the fourth quarter of 2015. The 
+$852,000
+ net sales increase in Europe was primarily driven by our 
+Wellness
+ product line. 
+ 
+As of 
+December 31, 2016
+, deferred revenue was 
+$4.9 million
+, which primarily consisted of 
+$2.2 million
+ in unshipped product orders, and 
+$2.3 million
+ and 
+$430,000
+ pertaining to auto ship advances and unamortized enrollment package revenue, respectively.
+ 
+Gross Profit
+ 
+Gross profit was 
+80.9%
+ of net sales for the year ended 
+December 31, 2016
+ compared with 
+79.6%
+ of net sales for the year ended 
+December 31, 2015
+. The gross profit margin percentage increase is due to higher event and training revenue, higher product margins and lower logistics costs.
+ 
+Commissions
+ 
+Commissions were 
+43.5%
+ of net sales for the year ended 
+December 31, 2016
+ compared with 
+47.8%
+ of net sales for the year ended 
+December 31, 2015
+.  The decrease as a percentage of net sales resulted primarily from the reduction in our on-going cash and other incentive programs which cost 3.0% of net sales for the year ended 
+December 31, 2016
+ compared with 6.4% of net sales for the year ended 
+December 31, 2015
+. 
+ 
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses were 
+$43.2 million
+ for the year ended 
+December 31, 2016
+ compared with 
+$36.0 million
+ for the year ended 
+December 31, 2015
+. Selling, general and administrative expenses increased by 
+$7.2 million
+, or 
+20%
+, mainly due to an increase in event costs, member training costs, professional fees, and an increase in credit card fees and assessments due to higher net sales, offset by a decrease in our employee-related expenses, as compared to the year ended 
+December 31, 2015
+.
+ 
+Income Taxes
+ 
+An income tax provision of 
+$9.0 million
+ was recognized for the year ended 
+December 31, 2016
+ compared with 
+$552,000
+ for the year ended 
+December 31, 2015
+. The increase is due to greater profitability of our international operations, as well as the repatriation of foreign earnings back to the U.S. during the year. As a result of capital return activities approved by the Board of Directors during the first quarter of 2016 and anticipated future capital return activities, we then determined that a portion of our undistributed foreign earnings were no longer deemed reinvested indefinitely by our non-U.S. subsidiaries. We repatriated 
+$19.8 million
+ to the U.S. during the three months ended March 31, 2016, part of which was offset by U.S. net operating losses.  Accordingly, the deferred tax liability previously established for undistributed foreign earnings up to existing U.S. net operating losses was reduced.  The excess amount repatriated during the year ended 
+December 31, 2016
+ was generated from current foreign earnings.  In addition, during the three months ended 
+December 31, 2016
+, we released our remaining valuation allowance against U.S. deferred tax assets as it was determined that it is more likely than not that we will realize the tax benefits of our deferred assets in future periods. We will continue to periodically reassess the needs of our foreign subsidiaries and update our indefinite reinvestment assertion as necessary. To the extent that additional foreign earnings are not deemed permanently reinvested, we expect to recognize additional income tax provision at the applicable U.S. corporate tax rate.
+30
+Table of Contents
+Financial Results of 2015 Compared to 2014
+Net Sales
+Net sales were $264.9 million for the year ended December 31, 2015 compared with $124.6 million a year ago, an increase of $140.3 million, or 113%.  Hong Kong net sales, substantially all of which were shipped to members residing in China, increased $134.7 million, or 121%, over the prior year.  Hong Kong experienced an increase of 54,100 active members, or 116%, during 2015, which is comparable to the increase in net sales. The sales increase in Hong Kong was primarily due to a substantial increase in product sale volumes attributable to the increase in new active members and effectiveness of our leadership development, promotional programs, incentives, events, new products, training, commission plans and services. During 2015, our on-going member cash and incentive programs, including a supplemental incentive trip promotion to the U.S. offered during part of 2015, were more appealing to our members than those offered during the prior year and contributed to increased sales. Additionally, we hosted the largest event in our company’s history in Hong Kong during August 2015, and launched new 
+Wellness
+ products that resulted in additional sales of approximately $7.0 million.
+ 
+Outside of our Hong Kong business, net sales increased $5.6 million, or 41%, compared with the prior year. Double or triple digit percentage sales increases occurred in North America, Taiwan, South Korea and the China e-commerce business. These increases were offset by the performance of our CIS market, which continued to be negatively impacted by the political unrest in the region, as well as the devaluation of the Russian ruble, and decreased $2.0 million, or 63%, compared with the prior year.
+ 
+As of December 31, 2015, deferred revenue was $4.0 million, which primarily consisted of $1.8 million in unshipped product orders, and $1.6 million and $331,000 pertaining to auto ship advances and unamortized enrollment package revenue, respectively.
+ 
+Gross Profit
+ 
+Gross profit was 79.6% of net sales for the year ended December 31, 2015 compared with 78.3% of net sales for the year ended December 31, 2014. The gross profit margin percentage increase was primarily attributable to higher product margins, lower third party service provider fees in Russia and lower logistics costs in Hong Kong.
+ 
+Commissions
+ 
+Commissions were 47.8% of net sales for the year ended December 31, 2015 compared with 45.7% of net sales for the year ended December 31, 2014.  The increase as a percentage of net sales for the year ended December 31, 2015 primarily resulted from an increase in the cost of our on-going member cash and other incentive programs. 
+ 
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses were $36.0 million for the year ended December 31, 2015 compared with $19.7 million for the year ended December 31, 2014. Selling, general and administrative expenses increased by $16.3 million, or 83%, mainly due to an increase in employee-related costs and incentive program accruals, professional fees, director costs, and facility costs, as well as an increase in credit card fees and assessments due to higher net sales as compared to the year ended December 31, 2014.
+ 
+Income Taxes
+ 
+An income tax provision of $552,000 was recognized for the year ended December 31, 2015 compared with $266,000 for the year ended December 31, 2014. The increase was due to greater profitability of our international operations, as well as the repatriation of foreign earnings back to the U.S. during the year. As a result of capital return activities approved by the Board of Directors during the three months ended September 30, 2015, and anticipated future capital return activities intended to take full advantage of existing U.S. net operating losses, we determined that a portion of our undistributed foreign earnings were no longer deemed reinvested indefinitely by our non-U.S. subsidiaries beginning in the quarter ended September 30, 2015.  As such, an accumulated deferred tax liability of $9.3 million was recorded against these undistributed earnings, which included the impact of utilization of foreign tax credits. However, because it was anticipated that these earnings would be offset by U.S. net operating losses that had previously been fully offset by a valuation allowance, we also released a similar amount of valuation allowance. Accordingly, there was no significant impact on the income tax provision for the year ended December 31, 2015.  
+31
+Table of Contents
+During 2015, $18.4 million in foreign earnings were repatriated back into the U.S. which were offset by U.S. net operating losses. As of December 31, 2015 there was a remaining deferred tax liability of $2.8 million, which was offset by an equivalent amount of net operating loss deferred tax assets.  This represented the remaining balance of the U.S. tax impact of undistributed foreign earnings that was planned to be repatriated to the U.S. as of December 31, 2015.  All other undistributed foreign earnings were intended to be permanently reinvested in non-U.S. operations to fund and expand the non-U.S. subsidiaries as of December 31, 2015. 
+Liquidity and Capital Resources
+ 
+At 
+December 31, 2016
+, our cash and cash equivalents totaled 
+$125.9 million
+. Total cash and cash equivalents increased by 
+$21.0 million
+ and $60.1 million during 
+2016
+ and 
+2015
+, respectively.  We consider all highly liquid investments with original maturities of three months or less, when purchased, to be cash equivalents.  As of 
+December 31, 2016
+, we had 
+$73.5 million
+ in available-for-sale investments classified as cash equivalents. In addition, cash and cash equivalents included $120.0 million held in bank accounts overseas, which included 
+$6.8 million
+ held in banks located in China subject to foreign currency controls.
+ 
+At 
+December 31, 2016
+, the ratio of current assets to current liabilities was 
+2.47
+ to 1.00 and we had 
+$84.1 million
+ of working capital. Working capital as of 
+December 31, 2016
+ increased 
+$27.9 million
+ compared to our working capital as of 
+December 31, 2015
+, primarily due to cash generated from operations.
+Cash provided by operations during 
+2016
+ was 
+$53.2 million
+ compared to 
+$81.3 million
+ during 
+2015
+. The decrease in operating cash flows resulted primarily from the timing of increased commission-related payments, the increase of our members' utilization of our eWallet functionality and U.S. income tax payments resulting from the repatriation of overseas profits of $7.4 million, offset by a reduction in our inventory purchases and increased net income during 
+2016
+. 
+Cash flows used in investing activities totaled 
+$905,000
+ during 
+2016
+. Software development costs of 
+$666,800
+ were incurred during the year ended 
+December 31, 2016
+ for our Oracle ERP upgrade and enhancement of our back office software platform. Cash flows used in investing activities totaled $3.7 million during the year ended December 31, 2015 and consisted primarily of our June 2015 funding of a bank deposit amount in the amount of CNY 20 million (USD $3.3 million at June 30, 2015) for our direct selling license application. Such deposit is required by Chinese laws to establish a consumer protection fund. In August 2015, cash deposits in the amount of $218,000 were received from certain South Korean credit card processing companies. Additionally, buildout costs of $608,000 were incurred during 2015 for new offices located in California, Hong Kong and Singapore, at the multi-purpose facility in Zhongshan, China and at the new Healthy Lifestyle Center in Monterey Park, California. 
+Cash flows used in financing activities during 
+2016
+ totaled 
+$30.6 million
+. We used $23.7 million to repurchase shares of our common stock.  On January 12, 2016, the Board of Directors authorized an increase to our stock repurchase program first approved on July 28, 2015 from $15.0 million to $70.0 million. Repurchases are expected to be executed to the extent that our earnings and cash-on-hand allow, and will be made in accordance with all applicable securities laws and regulations, including Rule 10b-18 of the Exchange Act. For all or a portion of the authorized repurchase amount, we may enter into one or more plans that are compliant with Rule 10b5-1 of the Exchange Act that are designed to facilitate these purchases. The stock repurchase program does not require us to acquire a specific number of shares, and may be suspended from time to time or discontinued. During February 2016, pursuant to the stock repurchase program, we authorized our broker to proceed with the purchase of shares of our common stock in the open market. During the year ended 
+December 31, 2016
+, the stock repurchase program resulted in our purchasing a total of 903,031 shares of our common stock for an aggregate purchase price of $23.7 million, plus transaction costs. As of 
+December 31, 2016
+, $32.0 million of the $70.0 million stock repurchase program approved on July 28, 2015 and increased on January 12, 2016 remained available for future purchases, inclusive of related estimated income tax. Cash flows used in financing activities during 2015 totaled $17.5 million, and consisted primarily of $16.1 million used to repurchase a total of 547,042 shares of our common stock and $1.7 million in cash dividends. 
+32
+Table of Contents
+Other financing cash flows during 2016 included the following cash dividend payments (in thousands, except per share amounts) to holders of our common stock:
+Declaration Date
+ 
+Per Share
+ 
+Amount
+ 
+Record Date
+ 
+Payment Date
+October 23, 2016 (special)
+ 
+$
+0.35
+ 
+$
+3,941
+ 
+November 15, 2016
+ 
+November 25, 2016
+October 23, 2016
+ 
+0.08
+ 
+901
+ 
+November 15, 2016
+ 
+November 25, 2016
+July 19, 2016
+ 
+0.07
+ 
+787
+ 
+August 16, 2016
+ 
+August 26, 2016
+April 21, 2016
+ 
+0.06
+ 
+686
+ 
+May 10, 2016
+ 
+May 20, 2016
+March 1, 2016
+ 
+0.05
+ 
+576
+ 
+March 16, 2016
+ 
+March 24, 2016
+Total
+ 
+$
+0.61
+ 
+$
+6,891
+ 
+ 
+ 
+ 
+Subsequent to 
+December 31, 2016
+, on 
+January 24, 2017
+, the Board of Directors declared a cash dividend of 
+$0.09
+ and a special cash dividend of 
+$0.35
+ on each share of common stock outstanding. Such dividends were paid on 
+March 3, 2017
+ to stockholders of record on 
+February 21, 2017
+. Payment of any future dividends on shares of common stock will be at the discretion of our Board of Directors.
+ 
+We believe that our existing internal liquidity, supported by cash on hand and cash flows from operations should be adequate to fund normal business operations and address our financial commitments for the foreseeable future.
+ 
+We do not have any significant unused sources of liquid assets. If necessary, we may attempt to generate more funding from the capital markets, but currently do not believe that will be necessary.
+Our priority is to focus our resources on investing in our most important markets, which we consider to be Greater China and countries where our existing members may have the connections to recruit prospects and sell our products, such as Southeast Asia.  We will continue to invest in our Mainland China entity for such purposes as establishing China-based manufacturing capabilities, increasing public awareness of our brand and our products, sourcing more Chinese-made products, building a chain of service stations, opening additional Healthy Lifestyle Centers or branch offices, adding local staffing and other requirements for a China direct selling license application. We have also begun to invest some resources in Central and South America.
+Quarterly Results of Operations (Unaudited)
+The following table sets forth unaudited quarterly operating results for each of the last eight fiscal quarters. The information for each of these quarters has been prepared on the same basis as the audited annual financial statements included elsewhere in this annual report and, in the opinion of management, includes all adjustments, which includes only normal recurring adjustments, necessary for the fair statement of the results of operations for these periods. This data should be read in conjunction with our audited consolidated financial statements and related notes included in “Item 8. Financial Statements and Supplementary Data” of this annual report. These quarterly operating results are not necessarily indicative of our operating results for any future period.
+ 
+2016
+ 
+2015
+ 
+4th
+Quarter
+ 
+3rd
+Quarter
+ 
+2nd
+Quarter
+ 
+1st
+Quarter
+ 
+4th
+ 
+3rd
+ 
+2nd
+ 
+1st
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(In Thousands, Except Per Share Data)
+Net sales
+$
+62,312
+ 
+$
+70,679
+ 
+$
+80,391
+ 
+$
+74,346
+ 
+$
+73,656
+ 
+$
+80,779
+ 
+$
+69,716
+ 
+$
+40,709
+Gross profit
+50,375
+ 
+57,052
+ 
+65,332
+ 
+60,066
+ 
+58,583
+ 
+64,778
+ 
+55,622
+ 
+31,779
+Income from operations
+20,014
+ 
+15,208
+ 
+14,927
+ 
+13,987
+ 
+13,893
+ 
+14,803
+ 
+12,263
+ 
+6,918
+Net income
+19,048
+ 
+12,557
+ 
+12,201
+ 
+11,280
+ 
+13,699
+ 
+14,531
+ 
+12,273
+ 
+6,738
+Income per common share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+1.70
+ 
+1.12
+ 
+1.08
+ 
+0.96
+ 
+1.13
+ 
+1.19
+ 
+0.99
+ 
+0.54
+Diluted
+1.70
+ 
+1.12
+ 
+1.07
+ 
+0.95
+ 
+1.13
+ 
+1.18
+ 
+0.98
+ 
+0.54
+33
+Table of Contents
+Contractual Obligations
+The following table summarizes our contractual obligations as of December 31, 2016 and the expected effect on our cash flow and liquidity in future periods (in thousands):
+ 
+ 
+Total
+ 
+2017
+ 
+2018-2019
+ 
+2020-2021
+ 
+Thereafter
+Operating leases
+ 
+$
+3,923
+ 
+$
+1,559
+ 
+$
+1,154
+ 
+$
+510
+ 
+$
+700
+Purchase obligations
+ 
+20,745
+ 
+9,725
+ 
+11,020
+ 
+—
+ 
+—
+Long-term incentive
+ 
+10,064
+ 
+1,874
+ 
+2,390
+ 
+1,963
+ 
+3,837
+Other commitments
+ 
+357
+ 
+107
+ 
+163
+ 
+87
+ 
+—
+Total
+ 
+$
+35,089
+ 
+$
+13,265
+ 
+$
+14,727
+ 
+$
+2,560
+ 
+$
+4,537
+We have entered into non-cancelable operating lease agreements for locations within the United States and for our international subsidiaries, with expirations through September 2025 totaling 
+$3.9 million
+.
+ 
+In May 2013, we entered into an exclusive distribution agreement with one of our suppliers to purchase their product through July 2016 which automatically renews annually unless terminated 90 days prior to the termination date. To maintain exclusivity, we are required to purchase a minimum of $40,000 of product per month until the termination date. As of 
+December 31, 2016
+, we were in compliance with the exclusivity provision.
+ 
+In February 2016, we amended a supply agreement with one of our suppliers to maintain worldwide exclusivity in return for purchasing a minimum of $9.4 million of product annually on average over the next three years, plus certain raw material guarantees.  If we do not purchase the minimum product as required, then a Cure Payment, as defined, will be due to the supplier. The term of the agreement is three years commencing February 2016 and shall automatically renew for successive three year terms unless notice of termination is provided by either party. 
+In recognition of the achievement of specified performance goals, financial rewards are awarded under our 2014 Long-Term Incentive Plan with cash payments through December 2023. See Note 1 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report for additional information. 
+We have evaluated our tax positions and have determined that there are no uncertain tax positions for the current year or years prior.
+ 
+We have employment agreements with certain members of our management team that can be terminated by either the employee or us upon four weeks’ notice.  The employment agreements entered into with the management team contain provisions that guarantee the payments of specified amounts in the event of a change in control, as defined, or if the employee is terminated without cause, as defined, or terminates employment for good reason, as defined. 
+Critical Accounting Policies and Estimates 
+ 
+A summary of our significant accounting policies is provided in Note 1 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report. The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reported period. The process of determining significant estimates is fact specific and takes into account historical experience and current and expected economic conditions. To the extent that there are material differences between the estimates and actual results, future results of operations will be affected.
+ 
+Critical accounting policies and estimates are defined as both those that are material to the portrayal of our financial condition and results of operations and as those that require management’s most subjective judgments.  Management believes our critical accounting policies and estimates are those related to revenue recognition, as well as those used in the determination of liabilities related to sales returns, member commissions and income taxes.
+34
+Table of Contents
+Revenue Recognition.  
+Product sales are recorded when the products are shipped and title passes to independent members. Product sales to members are made pursuant to a member agreement that provides for transfer of both title and risk of loss upon our delivery to the carrier that completes delivery to the members, which is commonly referred to as “F.O.B. Shipping Point.” We primarily receive payment by credit card at the time members place orders. Our sales arrangements do not contain right of inspection or customer acceptance provisions other than general rights of return. Amounts received for unshipped product are recorded as deferred revenue. Such amounts totaled 
+$2.2 million
+ and 
+$1.8 million
+ at 
+December 31, 2016
+ and 
+2015
+, respectively. Shipping charges billed to members are included in net sales. Costs associated with shipments are included in cost of sales. Event and training revenue is deferred and recognized as the event or training occurs.
+ 
+Enrollment package revenue, including any nonrefundable set-up fees, is deferred and recognized over the term of the arrangement, generally twelve months. Enrollment packages provide members access to both a personalized marketing website and a business management system. No upfront costs are deferred as the amount is nominal. At 
+December 31, 2016
+ and 
+2015
+, enrollment package revenue totaling 
+$430,000
+ and 
+$331,000
+ was deferred, respectively. Although we have no immediate plans to significantly change the terms or conditions of enrollment packages, any changes in the future could result in additional revenue deferrals or could cause us to recognize the deferred revenue over a longer period of time. Additionally, deferred revenue includes advances for auto ship orders. In certain markets, when a member’s cumulative commission income reaches a certain threshold, a percentage of the member’s weekly commission is held back as an advance and applied to an auto ship order once the accumulated amount of the advances is sufficient to pay for the pre-selected auto ship package of the member.  Such advances were 
+$2.3 million
+ and 
+$1.6 million
+ at 
+December 31, 2016
+ and 
+2015
+, respectively.
+ 
+Allowance for Sales Returns.
+ An allowance for sales returns is provided during the period the product is shipped.  The allowance is based upon the return policy of each country, which varies from 14 days to one year, and their historical return rates, which range from 1% to 7% of sales.  Sales returns were 2% and 1% of sales for the years ended 
+December 31, 2016
+ and 
+2015
+, respectively.  The allowance for sales returns was 
+$1.6 million
+ at 
+December 31, 2016
+ and 
+2015
+.  No material changes in estimates have been recognized during the periods presented.
+ 
+Commissions.
+ Independent members earn commissions based on total personal and group bonus volume points per weekly sales period.  Each of our products are designated a specified number of bonus volume points, which is essentially a percentage of the product’s wholesale price.  We accrue commissions when earned and as the related revenue is recognized and pay commissions on product sales generally two weeks following the end of the weekly sales period.
+ 
+Independent members may also earn incentives based on meeting certain qualifications during a designated incentive period, which may range from several weeks to up to a year.  These incentives may be both monetary and non-monetary in nature.  For each individual incentive, we estimate the total number of qualifiers as well as the expected per qualifier cost and accrue all costs associated with incentives throughout the qualification period.  We regularly review and update, if necessary, the estimates of both qualifiers and cost as more information is obtained during the qualification period.  Any resulting change in total cost is recognized over the remaining qualification period. Accrued commissions, including the estimated cost of our international recognition incentive program and other supplemental programs, totaled 
+$13.6 million
+ and 
+$19.6 million
+ at 
+December 31, 2016
+ and 
+2015
+, respectively.
+ 
+Income Taxes. 
+ Deferred income taxes are recognized for differences between the financial reporting and tax bases of assets and liabilities at enacted statutory rates for the years in which the temporary differences are expected to be recovered or settled. We evaluate the probability of realizing the future benefits of any of our deferred tax assets and record a valuation allowance when we believe a portion or all of our deferred tax assets may not be realized. Deferred tax expense or benefit is a result of changes in deferred tax assets and liabilities. Based on the technical merits of our tax position, tax benefits may be recognized if we determine it is more likely than not that our position will be sustained on examination by tax authorities. The complex nature of these estimates requires us to anticipate the likely application of tax law and make judgments on the largest benefit that has a greater than fifty percent likelihood of being realized prior to the completion and filing of tax returns for such periods.  As of 
+December 31, 2016
+, we no longer have a valuation allowance against our U.S. deferred tax assets. We maintain a valuation allowance in certain foreign jurisdictions with an overall tax loss. The valuation allowance will be reduced at such time as management believes it is more likely than not that the deferred tax assets will be realized. Any reductions in the valuation allowance will reduce future income tax provision.
+35
+Table of Contents
+Provision for income taxes depends on the statutory tax rates in each of the jurisdictions in which we operate. As a result of capital return activities, we determined that a portion of our current undistributed foreign earnings are no longer deemed reinvested indefinitely by our non-U.S. subsidiaries. We will continue to periodically reassess the needs of our foreign subsidiaries and update our indefinite reinvestment assertion as necessary. To the extent that additional foreign earnings are not deemed permanently reinvested, we expect to recognize additional income tax provision at the applicable U.S. corporate tax rate. As of 
+December 31, 2016
+, we recorded a deferred tax liability for earnings that we plans to repatriate out of accumulated earnings in future periods. All undistributed earnings in excess of 50% of current earnings on an annual basis are intended to be reinvested indefinitely as of 
+December 31, 2016
+. 
+We estimate what our effective tax rate will be for the full fiscal year at each interim reporting period and record a quarterly tax provision based on that estimated effective tax rate. Throughout the year that estimated rate may change based on variations in our business, changes in our corporate structure, changes in the geographic mix and amount of income, applicable tax laws and regulations, communications with tax authorities, as well as our estimated and actual level of annual pre-tax income. We adjust our income tax provision in the reporting period in which the change in our estimated rate occurs so that the year-to-date provision is consistent with the anticipated annual tax rate. 

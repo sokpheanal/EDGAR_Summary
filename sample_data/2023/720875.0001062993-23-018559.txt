@@ -1,0 +1,168 @@
+Sales of Equity Securities
+We did not sell any shares of common stock during the year ended June 30, 2023 and 2022.
+Purchases of Equity Securities
+We did not purchase any shares of common stock during the year ended June 30, 2023 or in the prior 11 fiscal years.
+Item 6. [Reserved]
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion contains assumptions, estimates and other forward-looking statements that involve a number of risks and uncertainties, including those discussed under the heading "Cautionary Note Regarding Forward-Looking Statements," on page 1 of this Form 10-K, "Risk Factors" (Part I, Item 1A of this Form 10-K) and elsewhere in this Form 10-K. These risks could cause our actual results to differ materially from those anticipated in these forward-looking statements.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the Consolidated Financial Statements and related Notes thereto, which are included in Part II, Item 8 of this report. In the following Management's Discussion and Analysis of Financial Condition and Results of Operations, we have rounded many numbers to the nearest one thousand dollars. These numbers should be read as approximate.
+Overview
+We design, manufacture, and sell a broad range of restorative products for clinical use in physical therapy, rehabilitation, orthopedics, pain management, and athletic training. Through our distribution channels, we market and sell to orthopedists, physical therapists, chiropractors, athletic trainers, sports medicine practitioners, clinics, and hospitals.
+Results of Operations
+Fiscal Year 2023 Compared to Fiscal Year 2022
+Net Sales
+Net sales in fiscal year 2023 decreased $3,729,000, or 8.4%, to $40,609,000, compared to net sales of $44,338,000 in fiscal year 2022. The year-over-year decrease is primarily attributable to the acquisition of a competitor by a rehabilitation product category customer, reduction in overall volume for OEM customers and a general reduction in demand for the orthopedic soft bracing product category.
+Gross Profit
+Gross profit for the year ended June 30, 2023 decreased $523,000, or 4.9%, to $10,150,000, or 25.0% of net sales. By comparison, gross profit for the year ended June 30, 2022 was $10,673,000, or 24.1% of net sales. The increase in gross profit as a percentage of net sales was driven by net price realization and overall product mix. The year-over-year decrease in gross profit was primarily attributable to a reduction in sales related to third-party distributed products that have been discontinued offset by a reduction in freight-in expense, stabilized raw material costs, and changes in product mix.
+
+                        
+23
+Selling, General, and Administrative Expenses
+Selling, general, and administrative ("SG&A") expenses decreased $428,000, or 2.8%, to $15,002,000 for the year ended June 30, 2023, compared to $15,430,000 for the year ended June 30, 2022. The decrease in SG&A was driven primarily by a reduction in salaries and benefits.
+Interest Expense, net
+Interest expense, net decreased approximately $30,000, or 20.3%, to $118,000 for the year ended June 30, 2023, compared to $148,000 for the year ended June 30, 2022. The decrease in interest expense is primarily due to the maturity of long-term debt and lower imputed interest related to finance leases. The largest component of interest expense is imputed interest related to the sale/leaseback of our Utah facility, which totaled $116,000 and $130,000, respectively, for the years ended June 30, 2023 and 2022.
+Other Income (Expense), net
+Other income (expense), net decreased approximately $914,000 to ($3,000) for the year ended June 30, 2023, compared to other income, net of $911,000 for the year ended June 30, 2022. The decrease in other income, net is primarily due to a $943,000 employee retention credit for funds received or receivable from the U.S. federal government under the CARES Act in the prior year.
+Loss Before Income Taxes
+Pre-tax loss for the year ended June 30, 2023 was $4,973,000 compared to a loss of $3,993,000 for the year ended June 30, 2022. The change was primarily attributable to a decrease of $523,000 in gross profit, decrease of $885,000 in net other income (expense), and decrease of $428,000 in SG&A.
+Net Loss
+Net loss for the year ended June 30, 2023 was $4,973,000 compared to a net loss of $3,993,000 for the year ended June 30, 2022. The reasons for the change in net loss are the same as those given under the headings Loss Before Income Taxes in this Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A").
+Net Loss Attributable to Common Stockholders
+Net loss attributable to common stockholders was $5,664,000 ($1.46 per share) for the year ended June 30, 2023, compared to a net loss of $4,726,000 ($1.32 per share) for the year ended June 30, 2022. The change for the year is due primarily to a $980,000 increase in net loss, partially offset by a $42,000 decrease in deemed dividends on convertible preferred stock and accretion of discounts.
+
+                        
+24
+Liquidity and Capital Resources
+We have historically financed operations through cash from operating activities, available cash reserves, and proceeds from the sale of our equity securities. As of June 30, 2023, we had $399,000 in cash and cash equivalents, compared to $550,000 as of June 30, 2022.
+Working capital was $4,478,000 as of June 30, 2023, compared to working capital of $9,291,000 as of June 30, 2022. The current ratio was 1.6 to 1 as of June 30, 2023 and 1.9 to 1 as of June 30, 2022. Current assets were 41.3% of total assets as of June 30, 2023, and 54.3% of total assets as of June 30, 2022.
+We believe that our cash generated from operations, current capital resources, and equity proceeds provide sufficient liquidity to fund operations for the next 12 months. However, the continuing effects of the COVID-19 pandemic on the global supply chain, higher personnel costs, and changes to product mix, could have an adverse effect on our liquidity and cash and we continue to evaluate and take action, as necessary, to preserve adequate liquidity and ensure that our business can continue to operate during these uncertain times. Additionally, we operate in a rapidly evolving and unpredictable business environment that may change the timing or amount of expected future cash receipts and expenditures. Accordingly, there can be no assurance that we may not be required to raise additional funds through the sale of equity or debt securities or from credit facilities. Additional capital, if needed, may not be available on satisfactory terms, or at all.
+We are parties to an equity distribution agreement (as amended, the “Equity Distribution Agreement”) originally with Canaccord Genuity LLC and Roth Capital Partners LLC (the “Agents”), pursuant to which we may offer and sell up to $3,875,150 of our common stock in one or more “at the market offerings” through the Agents under our Registration Statement on Form S-3 (File No. 333-256280), which was declared effective by the SEC on July 1, 2022 (the “2021 Registration Statement”), subject to applicable limitations on the aggregate market value of securities that may be sold during any 12 calendar month period imposed by Form S-3 on registrants having an aggregate market value of securities of less than $75 million. Under the terms of the Equity Distribution Agreement, we have agreed to pay the Agent(s) participating in an applicable offering a fixed commission rate equal to 3.0% of the gross sale price per share of common stock sold in such offering. On April 7, 2023, we filed a prospectus supplement to the base prospectus included in the 2021 Registration Statement for the sale of up to $2,671,513 of our common stock pursuant to the terms of the Equity Distribution Agreement (the “ATM”). As of the date hereof, we have not commenced any sales under the ATM.
+Line of Credit
+On August 1, 2023, the Company entered into a Loan and Security Agreement (the "Loan Agreement") with Gibraltar Business Capital, LLC ("Lender"), to provide asset- based financing to the Company to be used for operating capital. Amounts available under the Loan Agreement (the "Revolving Loans") will be subject to a borrowing base calculation of up to a maximum availability of $7,500,000 (the "Revolving Loan Commitment") and will bear interest at SOFR plus 5.00%. The Company paid a closing fee of 1.00% of the Revolving Loan Commitment and the line is subject to a monthly unused line fee in an annualized amount equal to 0.50% on the difference between the Revolving Loan Commitment and the average outstanding principal balance of the Revolving Loans for such month. The maturity date is three years from the date of the promissory note evidencing the Revolving Loans, subject to extension in accordance with the terms of the Loan Agreement.
+The Loan Agreement provides for revolving credit borrowings by the Company in an amount up to the lesser of the Revolving Loan Commitment and a borrowing base amount equal to the sum of stated percentages of eligible accounts receivable and inventory, less reserves, computed on a weekly basis.
+The obligations of the Company under the Loan Agreement are secured by a first-priority security interest in substantially all of the assets of the Company (including, without limitation, accounts receivable, equipment, inventory and other goods, intellectual property, contract rights and other general intangibles, cash, deposit accounts, equity interests in subsidiaries and joint ventures, investment property, documents and instruments, and proceeds of the foregoing).
+The Loan Agreement contains affirmative and negative covenants, including covenants that restrict the ability of the Company and its subsidiaries to, among other things, incur or guarantee indebtedness, incur liens, dispose of assets, engage in mergers and consolidations, make acquisitions or other investments, make changes in the nature of its business, and engage in transactions with affiliates. The Loan Agreement also contains financial covenants applicable to the Company and its subsidiaries, including a maximum monthly consolidated leverage ratio of 1.0 to 1.0 if excess availability is less than $1,000,000 of the borrowing base.
+In June 2023, the Company incurred $94,000 of debt issuance costs, which were recorded within other non-current assets on the June 30, 2023 consolidated balance sheet.
+
+                        
+25
+Reverse Stock Split
+On November 17, 2022, the Company's shareholders approved Articles of Amendment to the Company's Amended and Restated Articles of Incorporation (the "Articles of Amendment") to effect a reverse stock split at a ratio in the range of 1-for-2 to 1-for-5, with such ratio to be determined in the discretion of the Company's board of directors and with such reverse stock split to be effected at such time and date, if at all, as determined by the Company's board of directors in its sole discretion. Thereafter, the Company's Board of Directors set the split ratio in the reverse stock split at 1-for-5 and approved and authorized the filing of the Articles of Amendment to effect the reverse stock split with the Utah Department of Commerce, Division of Corporations and Commercial Code. The Articles of Amendment and reverse stock split became effective at 5:00 p.m. Eastern Standard Time on February 1, 2023. At the effective time, every five issued and outstanding shares of common stock were converted into one share of common stock, with any fractional shares resulting from the reverse stock split rounded up to the nearest whole share. The reverse stock split did not affect the Company's authorized shares of common stock or preferred stock, which remained at 100,000,000 and 50,000,000 shares, respectively. The par value of each share of common stock remained unchanged. Proportionate adjustments were made to the per share exercise price and/or the number of shares issuable upon the exercise or vesting of all stock options, restricted stock and warrants outstanding at February 1, 2023, which resulted in a proportional decrease in the number of shares of the Company's common stock reserved for issuance upon exercise or vesting of such stock options, restricted stock and warrants, and, in the case of stock options and warrants, a proportional increase in the exercise price of all such stock options and warrants. Additionally, the reverse stock split had no impact on the number of shares of the Company's preferred stock issued and outstanding. However, the conversion price of the outstanding preferred stock increased and the number of shares of common stock issuable upon conversion of such preferred 'tock decreased in proportion to the 1-for-5 split ratio.
+Unless noted, all common shares and per share amounts contained in the consolidated financial statements and management's discussion and analysis have been retroactively adjusted to reflect a one-for-five reverse stock split.
+Cash and Cash Equivalents and Restricted Cash
+Our cash and cash equivalents and restricted cash position decreased $148,000 to $553,000 as of June 30, 2023, compared to $701,000 as of June 30, 2022. Primary uses of cash in the year ended June 30, 2023, included $187,000 in purchases of property and equipment, $327,000 of principal payments on finance lease liability, and $5,000 principal payments on long-term debt. Primary sources of cash included $371,000 of net cash provided by operating activities.
+Accounts Receivable
+Trade accounts receivable, net of allowance for doubtful accounts, decreased approximately $1,694,000, or 31.3%, to $3,722,000 as of June 30, 2023, from $5,416,000 as of June 30, 2022. The decrease was driven primarily by a reduction in overall revenue and differences in the timing of collections around the end date of each respective quarter. Trade accounts receivable represents amounts due from our customers including dealers and distributors that purchase our products for redistribution, medical practitioners, clinics, hospitals, colleges, universities, and sports teams. We believe that our estimate of the allowance for doubtful accounts is adequate based on our historical experience and relationships with our customers. Accounts receivable are generally collected within approximately 40 days of invoicing.
+Inventories
+Inventories, net of reserves, decreased $4,668,000, or 38.7%, to $7,403,000 as of June 30, 2023, compared to $12,071,000 as of June 30, 2022. The decrease was primarily due to steps taken to adjust inventory management in response to the impact of COVID-19 on the global supply chain and right-sizing incoming material purchases to match demand. We believe that our estimate of the allowance for inventory obsolescence is adequate based on our analysis of inventory, sales trends, and historical experience.
+Accounts Payable
+Accounts payable decreased approximately $1,639,000 or 26.6%, to $4,530,000 as of June 30, 2023, from $6,169,000 as of June 30, 2022. The decrease was driven primarily by a decrease in inventory purchases and timing of payments.
+
+                        
+26
+Debt
+Long-term debt was $0 as of June 30, 2023, compared to $5,000 as of June 30, 2022.
+Finance Lease Liability
+Finance lease liability as of June 30, 2023 and 2022 totaled approximately $2,018,000 and $2,260,000, respectively. Our finance lease obligations consist primarily of our Utah building lease. In conjunction with the sale and leaseback of our Utah building in August 2014, we entered into a 15-year lease, classified as a finance lease, originally valued at $3,800,000. The building lease asset is amortized on a straight-line basis over 15 years at approximately $252,000 per year. Total accumulated amortization related to the leased building is approximately $2,246,000 and $1,994,000 at June 30, 2023 and 2022, respectively. The sale generated a profit of $2,300,000, which is being recognized straight-line over the life of the lease at approximately $150,000 per year as an offset to amortization expense. The balance of the deferred gain is $928,000 and $1,078,000 as of June 30, 2023 and 2022, respectively. Lease payments, currently approximately $32,000, are payable monthly and increase annually by approximately 2% per year over the life of the lease. Imputed interest for the years ended June 30, 2023 and 2022 was approximately $116,000 and $130,000, respectively. In addition to the Utah building, we lease certain equipment pursuant to arrangements which have been determined to be finance leases. As of June 30, 2023, future minimum gross lease payments required under the finance leases were as follows:
+
+                        
+
+                            
+2024
+$
+404,650
+ 
+
+                            
+2025
+ 
+412,342
+ 
+
+                            
+2026
+ 
+420,188
+ 
+
+                            
+2027
+ 
+428,200
+ 
+
+                            
+2028
+ 
+428,080
+ 
+
+                            
+Thereafter
+ 
+495,832
+ 
+
+                            
+Total
+$
+2,589,292
+ 
+Operating Lease Liability
+Operating lease liability as of June 30, 2023 and June 30, 2022 totaled approximately $3,630,000 and $1,574,000, respectively. Our operating lease liability consists primarily of building leases for office, manufacturing, and warehouse space. The increase was primarily due to the Company's decision to exercise its third option and extend its operating lease for an additional five years in New Jersey.
+Inflation
+Cost inflation including increases in ocean container rates, raw material prices, labor rates, and domestic transportation costs have impacted profitability. Continued imbalances between supply and demand for these resources may continue to exert upward pressure on costs. Our ability to recover these costs increased through price increases may continue to lag the cost increases, resulting in downward pressure on margins.
+
+                        
+27
+Stock Repurchase Plan
+In 2011, our Board of Directors adopted a stock repurchase plan authorizing repurchases of shares in the open market, through block trades or otherwise. Decisions to repurchase shares under this plan are based upon market conditions, the level of our cash balances, general business opportunities, and other factors. The Board may periodically approve amounts for share repurchases under the plan. As of June 30, 2023, approximately $449,000 remained available under this authorization for purchases under the plan. No purchases have been made under this plan since 2011.
+Critical Accounting Policies
+This MD&A is based upon our Consolidated Financial Statements (see Part II, Item 8 below), which have been prepared in accordance with accounting principles generally accepted in the U.S. ("GAAP"). The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses as well as the disclosure of contingent assets and liabilities. We regularly review our estimates and assumptions. The SEC has requested that all registrants address their most critical accounting policies. The SEC has indicated that a "critical accounting policy" is one which is both important to the representation of the registrant's financial condition and results and requires management's most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. We base our estimates on past experience and on various other assumptions our management believes to be reasonable under the circumstances, the results of which form the basis for making judgments about carrying values of assets and liabilities that are not readily apparent from other sources. Actual results will differ, and may differ materially from these estimates under different assumptions or conditions. Additionally, changes in accounting estimates could occur in the future from period to period. Our management has discussed the development and selection of our most critical financial estimates with the audit committee of our Board of Directors. The following paragraphs identify our most critical accounting policies:
+Inventories
+The nature of our business requires that we maintain sufficient inventory on hand at all times to meet the requirements of our customers. We record finished goods inventory at the lower of standard cost, which approximates actual cost (first-in, first-out) or market. Raw materials are recorded at the lower of cost (first-in, first-out) or market. Inventory valuation reserves are maintained for the estimated impairment of the inventory. Impairment may be a result of slow-moving or excess inventory, product obsolescence or changes in the valuation of the inventory. In determining the adequacy of reserves, we analyze the following, among other things:
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+Any modifications to estimates of inventory valuation reserves are reflected in cost of goods sold within the statements of operations during the period in which such modifications are determined necessary by management. As of June 30, 2023 and 2022, our inventory valuation reserve balance, was approximately $496,000 and $379,000, respectively, and our inventory balance was $7,403,000 and $12,071,000, net of reserves, respectively.
+
+                        
+28
+Revenue Recognition
+Our sales force and distributors sell Manufactured and Distributed Products to end users, including orthopedists, physical therapists, chiropractors, athletic trainers, sports medicine practitioners, clinics, and hospitals. Revenue is recognized when performance obligations under the terms of a contract with a customer are satisfied which occurs upon the transfer of control of a product. This occurs either upon shipment or delivery of goods, depending on whether the contract is FOB origin or FOB destination. Revenue is measured as the amount of consideration expected to be received in exchange for transferring products to a customer. Contracts sometimes allow for forms of variable consideration including rebates and incentives. In these cases, the Company estimates the amount of consideration to which it will be entitled in exchange for transferring products to customers utilizing the most likely amount method. Rebates and incentives are estimated based on contractual terms or historical experience and a liability is maintained for rebates and incentives that have been earned but are unpaid. Revenue is reduced by estimates of potential future contractual discounts including prompt payment discounts. Provisions for contractual discounts are recorded as a reduction to revenue in the period sales are recognized. Estimates are made of the contractual discounts that will eventually be incurred. Contractual discounts are estimated based on negotiated contracts and historical experience. Shipping and handling activities are accounted for as fulfillment activities. As such, shipping and handling are not considered promised services to our customers. Costs for shipping and handling of products to customers are recorded as cost of sales.
+Allowance for Doubtful Accounts
+We must make estimates of the collectability of accounts receivable. In doing so, we analyze historical bad debt trends, customer credit worthiness, current economic trends and changes in customer payment patterns when evaluating the adequacy of the allowance for doubtful accounts. Our accounts receivable balance was $3,722,000 and $5,416,000, net of allowance for doubtful accounts of $131,000 and $248,000 as of June 30, 2023 and 2022, respectively.
+Deferred Income Taxes
+A valuation allowance is required when there is significant uncertainty as to the realizability of deferred tax assets. The realization of deferred tax assets is dependent upon our ability to generate sufficient taxable income within the carryforward periods provided for in the tax law for each tax jurisdiction. We have considered the following possible sources of taxable income when assessing the realization of our deferred tax assets:
+●
+ 
+●
+ 
+●
+ 
+●
+ 
+We considered both positive and negative evidence in determining the continued need for a valuation allowance, including the following:
+Positive evidence:
+●
+ 
+●
+ 
+
+                        
+29

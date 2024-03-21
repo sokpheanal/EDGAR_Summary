@@ -1,0 +1,211 @@
+Overview 
+We have developed our WattUp® wireless power technology, consisting of proprietary semiconductor chipsets, software controls, hardware designs and antennas, that enables radio frequency (“RF”) based charging for electronic devices. The WattUp technology has a broad spectrum of capabilities, including near field wireless charging and at-a-distance wireless charging at various distances. In November 2016 we entered into a Strategic Alliance Agreement with Dialog Semiconductor plc (“Dialog”), an industry leader in Bluetooth low energy semiconductors and power management semiconductors. In conjunction with the Strategic Alliance Agreement, Dialog manufactures and is the exclusive distributor of integrated circuit (“IC”) products that incorporate our designs and provides sales and logistic support to customers on a global basis. We believe our proprietary WattUp technologies are well suited for many applications, including home automation, surface and implanted medical devices, electronic shelf labels, industrial IoT sensors, tracking devices, hearables, wearables, consumer electronics, public safety and military applications. Potential future applications include smartphones, commercial and industrial robotics, as well as automotive solutions and other devices with charging requirements that would otherwise require battery replacement or a wired power connection.
+We believe our technology is innovative in its approach, in that we are developing solutions that charge electronic devices with an RF energy zone. We are developing solutions that deliver wire-free energy for near field charging applications and are also developing at-a-distance charging at distances up to approximately three feet, as well as low-power charging for distances up to 15 feet and beyond, some of which involve mobility charging. 
+To-date, we have developed multiple transmitters and receivers, including prototypes as well as partner production designs. The transmitters vary based on form factor, power specifications and frequencies, while the receivers are designed for applications including Bluetooth tracking tags, IoT sensors, hearing aids, electronic shelf labels, fitness bands, health sensors and devices, smartwatches, smartphones, smartglasses, industrial applications, keyboards, mice, headsets, earbuds, headphones, and more. 
+We have engagements with companies in the consumer electronics (CE), industrial, military and medical device markets that are in the both evaluation and product cycle pre-production stages of integrating WattUp-technology into devices being developed for the end-user. The first end product featuring our technology entered the market in 2019 and we expect additional WattUp enabled products to be announced and launched in 2021. We are also in discussions with potential customers in the consumer and industrial spaces that are considering our solutions to supply low power distance charging for products that could enter the market in 2022.
+In December 2017, we announced Federal Communications Commission (“FCC”) certification of our first-generation WattUp Mid Field transmitter, which simultaneously powers multiple devices at a distance of up to three feet. This transmitter underwent rigorous, multi-month testing to verify that it met consumer safety and regulatory requirements. We believe this was the first certification of a Part 18 FCC-approved non-contact wireless charging transmitter, and that it establishes engineering design precedents that can streamline future regulatory approvals for our technology and for our customers’ end-products that employ our technology. 
+Our technology solution consists principally of transmitter controller ICs, power amplifier ICs and receiver ICs, as well as novel antenna designs, application prototypes and proprietary software algorithms. We submitted our first IC design for wafer fabrication in 2013 and since then have developed subsequent generations of transmitter and receiver ICs, antenna designs, and software algorithms.  We have endeavored to optimize our technology by reducing size and cost, while at the same time increasing performance which enables our designs to be integrated into a broad range of devices. We have developed a “building block” approach that allows us to scale our product implementations by combining multiple transmitter building blocks or multiple receiver building blocks to meet the power, distance, size and cost requirements of customer applications requirements. Our technology is readily scalable because the same ICs that are used for contact-based charging can be used for distance-based charging solutions. We have developed two classes of chip solutions, a CMOS-based technology focused on low cost, small footprint and low power (less than 5 watts) and a GaAs/GaN-based technology capable of delivering higher power with greater efficiency. We intend to continue to invest in research and development with high power capabilities of 20 watts and beyond at high levels of efficiency. We also intend to continue to invest in improving product performance, efficiency, cost-performance, integration and miniaturization as required to reach multiple markets and expand the power-at-a-distance ecosystem, while maintaining a technology lead on potential competitors. 
+24
+ 
+We 
+sell
+ evaluation kits to potential 
+customers
+ of our technology, to allow their respective engineering and product management departments to test and evaluate the technology. Our customers’ product development, technology integration and product introduction cycles occur over multiple quarters and generally more than a year 
+to two years 
+can elapse before first evaluation and final shipment of the customer’s product. Once our customers begin to sell products to end customers that incorporate our technology, we would expect the commercialization cycle to shorten over time as the technology matures and market acceptance grows.
+We maintain exclusive rights to all intellectual property in our technology. We have implemented an aggressive intellectual property strategy and are continuing to pursue patent protection for new innovations. As of March 1, 2021, the Energous IP portfolio contained 231 awarded patents organized along five (5) critical paths to implementation that we believe a competitor may have to navigate to commercialize WPT technology. The paths are: Processing Algorithms, Antenna Designs, Transmitter and Receiver ASICs, Other Software Controls (e.g., Bluetooth
+â
+Our seasoned management team has both private and public company experience, as well as relevant industry experience. In addition, we have identified and hired key engineering resources in the areas of IC development, antenna development, hardware, software and firmware engineering as well as integration and testing, which will allow us to continue to expand our technology and intellectual property and to meet our customers’ support requirements.
+Critical Accounting Estimates and Policies 
+The following discussion and analysis of financial condition and results of operations is based upon our financial statements, which have been prepared in conformity with accounting principles generally accepted in the United States of America. Certain accounting policies and estimates are particularly important to the understanding of our financial position and results of operations and require the application of significant judgment by our management or can be materially affected by changes from period to period in economic factors or conditions that are outside of our control. As a result, they are subject to an inherent degree of uncertainty. In applying these policies, our management uses their judgment to determine the appropriate assumptions to be used in the determination of certain estimates. Those estimates are based on our historical operations, our future business plans and projected financial results, the terms of existing contracts, our observance of trends in the industry, information provided by our customers and information available from other outside sources, as appropriate. Please see Note 3 to our financial statements for a more complete description of our significant accounting policies. 
+Basis of Presentation.
+ The accompanying audited financial statements and footnotes for the years ended December 31, 2020 and 2019 have been prepared in accordance with generally accepted accounting principles in the United States of America (“U.S. GAAP”) and applicable rules and regulations of the SEC regarding financial information. 
+Revenue Recognition.
+ On January 1, 2018, we adopted Accounting Standards Update No. 2014-09, "Revenue from Contracts with Customers" (Topic 606).
+25
+ 
+In accordance with Topic 606, we recognize revenue using the following five-step approach: 
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+1.
+
+
+Identify the contract with a customer.
+
+
+
+
+
+
+
+
+ 
+
+
+2.
+
+
+Identify the performance obligations in the contract.
+
+
+
+
+
+
+
+
+ 
+
+
+3.
+
+
+Determine the transaction price of the contract.
+
+
+
+
+
+
+
+
+ 
+
+
+4.
+
+
+Allocate the transaction price to the performance obligations in the contract.
+
+
+
+
+
+
+
+
+ 
+
+
+5.
+
+
+Recognize revenue when the performance obligations are met or delivered.
+Our revenue currently consists of product development projects revenue and royalty revenue from Dialog. We also provide contract services for Dialog.  
+We record revenue associated with product development projects that we enter into with certain customers. In general, these product development projects are complex, and we do not have certainty about our ability to achieve the project milestones. The achievement of a milestone is dependent on our performance obligation and requires acceptance by the customer. We recognize this revenue at a point in time based on when the performance obligation is met. The payment associated with achieving the performance obligation is generally commensurate with our effort or the value of the deliverable and is nonrefundable. We record the expenses related to these product development projects in research and development expense, in the periods such expenses were incurred.
+We record royalty revenue from our manufacturing partner, Dialog, and such royalty revenue is recognized at a point in time based on shipments from Dialog to its customers.
+We recognize contract services revenue from Dialog over a period of time as the services are performed. The costs associated with this revenue are recognized as the services are performed and are included in cost of services revenue.
+During 2020 and 2019, we recorded revenue of $327,350 and $200,143, respectively. 
+Research and Development.
+ Research and development expenses are charged to operations as incurred. For internally developed patents, all patent application costs are expensed as incurred as research and development expense. Patent application costs, generally legal costs, are expensed as research and development costs until such time as the future economic benefits of such patents become more certain. Also included in research and development costs are payroll costs and stock-based compensation for employees within the department. We incurred research and development costs of $17,066,122 and $23,228,810 for 2020 and 2019, respectively. 
+Income Taxes
+. We recognize deferred tax assets and liabilities for the expected future tax consequences of items that have been included in or excluded from our financial statements or tax returns. Deferred tax assets and liabilities are determined on the basis of the difference between the tax basis of assets and liabilities and their respective financial reporting amounts (“temporary differences”) at enacted tax rates in effect for the years in which the temporary differences are expected to reverse. 
+For 2020 and 2019, we had $12,848,719 and $17,137,156, respectively, of research and development expenses capitalized for federal income tax purposes, with amortization commencing upon our receiving an economic benefit from the related research. As of December 31, 2020, we had approximately $205,474,000 gross federal net operating loss carryforwards (“NOLs”) and a federal research and development tax credit carryforward of approximately $5,092,000. As of December 31, 2020 and 2019, deferred tax assets consisted principally of net operating loss and tax credit carryforwards, the research and development costs and stock-based compensation, and such deferred tax assets were fully reserved. Accordingly, our effective tax rate for 2020 and 2019 was nil. 
+Internal Revenue Code Section 382 imposes limitations on the use of net operating loss carryforwards when the stock ownership of one or more 5% stockholders (stockholders owning 5% or more of our outstanding capital stock) has increased on a cumulative basis by more than 50 percentage points. Accordingly, an ownership change could trigger a limitation of the use of the loss carryforward. We completed a Section 382 analysis as of December 31, 2020 and determined that none of our federal net operating loss carryforwards or federal research and development tax credits are limited.
+26
+ 
+In assessing the realization of deferred tax assets, management
+ considers whether it is more li
+kely than not that 
+all or 
+some portion of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the future generation of taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and taxing strategies in making this assessment. Based on this assessment, management has established a full valuation allowance against 
+all of
+ the net deferred tax assets for each period, since it is more likely than not that all of the deferred tax assets will not be realized. 
+Tax benefits are recognized only for tax positions that are more likely than not to be sustained upon examination by tax authorities. The amount recognized is measured as the largest amount of benefit that is greater than 50 percent likely to be realized upon settlement. A liability for “unrecognized tax benefits” is recorded for any tax benefits claimed in our tax returns that do not meet these recognition and measurement standards. As of December 31, 2020 and 2019, no liability for unrecognized tax benefits was required to be reported. The guidance also discusses the classification of related interest and penalties on income taxes. Our policy is to record interest and penalties on uncertain tax positions as a component of income tax expense. No interest or penalties were recorded for 2020 and 2019.
+Common Stock Purchase Warrants and Other Derivative Financial Instruments.
+ We classify as equity any contracts that (i) require physical settlement or net-share settlement or (ii) provide a choice of net-cash settlement or settlement in our shares (physical settlement or net-share settlement) providing that such contracts are indexed to our shares as defined in ASC 815-40 “Contracts in Entity’s Own Equity” (“ASC 815-40”). We classify as assets or liabilities any contracts that (i) require net-cash settlement (including a requirement to net cash settle the contract if an event occurs and if that event is outside our control) or (ii) give the counterparty a choice of net-cash settlement or settlement in shares (physical settlement or net-share settlement). We assess classification of common stock purchase warrants and other free-standing derivatives at each reporting date to determine whether a change in classification between assets and liabilities or equity is required.  
+Leases. 
+We have adopted the new lease standard as of January 1, 2019, ASU No. 2016-02, “Leases (Topic 842).” The new lease standard requires the recognition on the balance sheet of right-of-use assets and operating lease liabilities. We elected the optional transition method and adopted the new guidance on January 1, 2019 on a modified retrospective basis with no restatement of prior period amounts.
+Results of Operations 
+Operating Expenses
+Research and development expenses include costs associated with our efforts to develop our technology, including personnel compensation, consulting, engineering supplies and components, intellectual property costs, regulatory expense and general office expenses specifically related to the research and development department. Sales and marketing expenses include costs associated with selling and marketing our technology to our customers, including personnel compensation, public relations, graphic design, tradeshow, engineering supplies utilized by the sales team and general office expenses specifically related to the sale and marketing department. General and administrative expenses include costs for general and corporate functions, including personnel compensation, facility fees, travel, telecommunications, insurance, professional fees, consulting fees, general office expenses, and other overhead.
+ 
+For the Years Ended December 31, 2020 and 2019 
+Revenues.
+ During 2020 and 2019, we recorded revenue of $327,350 and $200,143, respectively. 
+Operating Expenses and loss from operations.
+ Operating expenses are made up of research and development, sales and marketing, general and administrative expenses and cost of services revenue. Operating expenses for 2020 and 2019 were $32,226,514 and $39,008,043, respectively. 
+Research and Development Expenses. 
+Research and development costs for 2020 and 2019 were $17,066,122 and $23,228,810, respectively. The $6,162,688 decrease in research and development expenses is primarily due to a $3,364,132 decrease in compensation, including a $1,877,798 decrease in payroll costs and a $1,486,335 decrease in 
+27
+ 
+stock-based compensation due to a lower headcount, a $1,9
+41
+,
+453
+ decrease in chip development, manufacturing and engineering component costs due to 
+reduced 
+project 
+costs
+, a $
+354
+,
+880
+ decrease in 
+depreciation
+, a $
+196
+,
+701
+ decrease in 
+regulatory testing fees
+, a $
+161
+,
+636
+ decrease in legal 
+fees pertaining to patents and intellectual property 
+and a $
+104
+,
+127
+ decrease in 
+consulting fees, partially offset by an $88,458 increase in legal fees pertaining to regulatory matters
+.
+ 
+Sales and Marketing Expenses.
+ Sales and marketing expenses for 2020 and 2019 were $5,880,350 and $5,418,967, respectively. The $461,383 increase in sales and marketing expenses is primarily due to a $487,500 increase in compensation, including a $544,095 increase in payroll costs due to a higher headcount, partially offset by a $56,595 decrease in stock-based compensation, a $435,930 increase in consulting and third party services, a $64,771 increase in rent expense and a $64,126 increase in recruiting costs, partially offset by a $369,356 decrease in travel, meals and entertainment as a result of COVID-19 restrictions, a $136,115 decrease in tradeshow expenses and an $88,628 decrease in engineering supplies and components used by sales and marketing staff. 
+General and Administrative Expenses.
+ General and administrative costs for 2020 and 2019 were $9,153,503 and $10,360,266, respectively. The $1,206,763 decrease in general and administrative expense is primarily due to a $1,284,794 decrease in compensation, including a $1,205,680 decrease in stock-based compensation due to certain equity awards becoming fully amortized during 2020 and also forfeited awards as a result of the retirement of certain board members and a $79,114 decrease in payroll costs, a $209,216 decrease in recruiting costs, a $184,914 decrease in travel, meals and entertainment as a result of COVID-19 restrictions and $134,110 decrease in general office expenses, partially offset by a $334,368 increase in insurance premiums, a $149,317 increase in consulting fees, a $114,030 increase in general corporate legal expense and a $71,442 increase in accounting and auditing fees.
+Cost of Services Revenue.
+ During 2020 and 2019, we recorded cost of services revenue of $126,539 and $0, respectively. These costs are related to our contract services performed for Dialog.
+Loss from Operations.
+ Loss from operations for 2020 and 2019 was $31,899,164 and $38,807,900, respectively. 
+Interest Income.
+ Interest income for 2020 was $71,212, compared to $416,274 for 2019, primarily due to lower interest rates for the savings account. 
+Net Loss.
+ As a result of the above, net loss for 2020 was $31,832,086, compared to $38,399,089 for 2019.  
+Liquidity and Capital Resources 
+During 2020 and 2019, we recorded revenue of $327,350 and $200,143, respectively. We incurred a net loss of $31,832,086 and $38,399,089 for 2020 and 2019, respectively. Net cash used in operating activities was $24,791,545 and $26,621,145 for 2020 and 2019, respectively. We are currently meeting our liquidity requirements through the proceeds of securities offerings that raised net proceeds of $53,556,202 during 2020 and $4,557,693 during the fourth quarter of 2019, along with payments received from customers.
+We believe our current cash on hand, together with anticipated revenues and funds raised from the at-the-market (“ATM”) finance offering will be sufficient to fund our operations into March 2022. Although we intend to continue our research and development activities, there can be no assurance that our available resources will be sufficient to enable us to generate revenues sufficient to sustain operations. Accordingly, we may pursue additional financing, which could include offerings of equity or debt securities, bank financings, commercial agreements with customers or strategic partners, and other alternatives, depending upon market conditions. There is no assurance that such financing would be available on terms that we would find acceptable, or at all.
+During 2020, cash flows used in operating activities were $24,791,545, consisting of a net loss of $31,832,086, less non-cash expenses aggregating $9,044,076 (representing principally stock-based compensation of $7,897,970, decrease in right-of-use lease assets of $764,285 and depreciation and amortization expense of $356,310), a $722,291 decrease in operating lease liabilities, a $574,680 decrease in accounts payable, a $486,810 decrease in accrued expenses and a $186,471 increase in prepaid expenses and other current assets. During 2019, cash flows used in operating activities were $26,621,145, consisting of a net loss of $38,399,089, less non-cash 
+28
+ 
+expenses aggregating $12,2
+56
+,613 (representing principally stock-based compensation of $10,646,580, increase in right-of-use lease assets of $786,342 and depreciation 
+and amortization 
+expense of $781,228), a $284,748 increase in accrued 
+expenses
+ and a $130,809 decrease in prepaid 
+expenses and other current 
+assets, partially offset by a $662,766 increase in operating lease liabilities and a $189,866 decrease in accounts payable.
+ 
+During 2020 and 2019, cash flows used in investing activities were $136,631 and $196,199, respectively. The cash used in 2020 primarily consisted of the purchases of new lab equipment. The cash used in 2019 primarily consisted of purchased leasehold improvements related to the construction of a regulatory testing chamber within our office space.
+During 2020, cash flows provided by financing activities were $53,973,748, which consisted of $53,556,202 in net proceeds from the sale of shares of our common stock to the public in ATM offerings and proceeds from contributions to the employee stock purchase program (“ESPP”) of $417,546. During 2019, cash flows provided by financing activities were $28,394,948, which consisted of $23,319,156 in net proceeds from an offering of shares and warrants pursuant to a shelf registration statement, $4,557,693 in net proceeds from the sales of shares to the public in ATM offerings, proceeds from contributions to the ESPP of $457,362 and proceeds from the exercise of stock options of $400,103, offset by $339,366 in shares withheld for the payment of payroll taxes for the delivery of RSUs and PSUs. 
+Research and development of new technologies is, by its nature, unpredictable. Although we intend to continue our research and undertake development activities, there can be no assurance that our available resources will be sufficient to enable us to generate revenues sufficient to sustain operations.
+Furthermore, since we have no committed source of financing, there can be no assurance that we will be able to raise capital as and when we need it to continue our operations. 
+ 
+Off-Balance Sheet Transactions 
+We do not have any off-balance sheet transactions. 

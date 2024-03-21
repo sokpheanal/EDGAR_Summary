@@ -1,0 +1,275 @@
+Item 7.            Management’s Discussion and Analysis of the Results of Operations
+Forward-Looking Statements
+Statements in the following discussion and throughout this report that are not historical in nature are “forward-looking statements.” You can identify forward-looking statements by the use of words such as “expect,” “anticipate,” “estimate,” “may,” “will,” “should,” “intend,” “believe,” and similar expressions. Although we believe the expectations reflected in these forward-looking statements are reasonable, such statements are inherently subject to risk and we can give no assurances that our expectations will prove to be correct. Actual results could differ from those described in this report because of numerous factors, many of which are beyond our control. These factors include, without limitation, those described under Item 1A “Risk Factors.” We undertake no obligation to update these forward-looking statements to reflect events or circumstances after the date of this report or to reflect actual outcomes. Please see “Forward-Looking Statements” at the beginning of this Form 10-K.
+The following discussion of our financial condition and results of operations should be read in conjunction with our financial statements and the related notes thereto and other financial information appearing elsewhere in this Form 10-K. We undertake no obligation to update any forward-looking statements in the discussion of our financial condition and results of operations to reflect events or circumstances after the date of this report or to reflect actual outcomes
+Overview
+We are a specialty pharmaceutical company that seeks to develop and commercialize our product principally for use in the acute/intensive care hospital setting. Our current product candidate is intravenous (“IV”) Tramadol, for the treatment of post-operative acute pain. Under the terms of certain agreements described herein, we have an exclusive license to develop and commercialize IV Tramadol in the United States. In 2016, we completed a pharmacokinetic study for IV Tramadol in healthy volunteers as well as an end of phase 2 meeting with the U.S. Food and Drug Administration (“FDA”). In the third quarter of 2017, we initiated a Phase 3 development program of IV Tramadol for the management of post-operative pain. In December 2019, we submitted a New Drug Application (“NDA”) for IV Tramadol and received a Complete Response Letter (the “First CRL”) from the FDA in October 2020. In February 2021, we resubmitted the NDA for IV Tramadol. The FDA assigned a Prescription Drug User Fee Act (“PDUFA”) goal date of April 12, 2021 for the resubmitted NDA for IV Tramadol. On June 14, 2021, we announced that we had received a second Complete Response Letter (the “Second CRL”) from the FDA regarding our NDA for IV Tramadol. We continue to pursue regulatory approval for IV Tramadol and had a Type A meeting with the FDA in July 2021. We submitted a formal dispute resolution request (“FDRR”) with the Office of Neuroscience of the FDA on July 27, 2021. On August 26, 2021, we received an Appeal Denied Letter from the Office of Neuroscience of the FDA in response to the FDRR submitted on July 27, 2021. On August 31, 2021, we submitted a FDRR with the Office of New Drugs (“OND”) of the FDA. On October 21, 2021, we received a written response from the OND of the FDA stating that the OND needs additional input from an Advisory Committee in order to reach a decision on the FDRR. On February 15, 2022, we had an Advisory Committee meeting with the FDA. In the final part of the public meeting, the Advisory Committee voted yes or no on the following question: “Has the Applicant submitted adequate information to support the position that the benefits of their product outweigh the risks for the management of acute pain severe enough to require an opioid analgesic in an inpatient setting?” The results were 8 yes votes and 14 no votes. To date, we have not received approval for the sale of our product candidate in any market and, therefore, have not generated any sales revenue from our product candidate.
+Recent Developments
+On November 12, 2018, we, InvaGen Pharmaceuticals Inc. (“InvaGen”), and Madison Pharmaceuticals, Inc. entered into a Stock Purchase and Merger Agreement (“SPMA”), pursuant to which we agreed to our sale in a two-stage transaction. In the first stage, InvaGen agreed to purchase, for $35 million, common shares representing 33.3% of the fully diluted capitalization of our stock. In the second stage, InvaGen would acquire the remaining issued and outstanding of our capital stock for approximately $180 million in a reverse subsidiary merger transaction (the “Merger Transaction”). The SPMA was approved by a majority of our stockholders, including a majority of our non-affiliated stockholders, at our special shareholder meeting on February 6, 2019. On February 8, 2019, InvaGen 
+54
+Table of Contents
+​
+acquired 5,833,333 shares of our common stock at $6.00 per share (the “Stock Purchase Transaction”) for net proceeds of $31.5 million after deducting commission fees and other offering costs, representing a 33.3% stake in our capital stock on a fully diluted basis. On November 1, 2021, we terminated the SPMA.
+In November 2021, through an underwritten public offering, we sold 2,238,805 shares of our common stock at a price of $1.34 per share resulting in net proceeds of $2.6 million. In addition, in December 2021, through an underwritten public offering, we sold 1,910,100 shares of our common stock at a price of $1.07 per share resulting in net proceeds of $1.8 million.
+On January 5, 2022, Mr. Joseph Vazzano notified us that he was resigning from his role as our Chief Financial Officer to pursue other opportunities, effective January 14, 2022. On January 7, 2022, the Board of Directors appointed Dr. Lucy Lu, M.D., our President and Chief Executive Officer, as our interim Chief Financial Officer and Principal Financial Officer.
+Background
+On June 26, 2017, we completed an initial public offering (“IPO”) of our common stock, resulting in net proceeds of approximately $34.2 million after deducting underwriting discounts, and other offering costs.
+We used the proceeds from our IPO to initiate our first Phase 3 trial of IV Tramadol in patients with moderate-to-severe pain following bunionectomy, which had its first patient dosed in September 2017. In May 2018, we announced the study met its primary endpoint and all key secondary endpoints.
+In December 2018, we initiated the second Phase 3 trial in patients with moderate-to-severe pain following abdominoplasty upon successful completion of the bunionectomy study. In June 2019, we announced the study met its primary endpoint and all key secondary endpoints.
+In December 2017, we initiated an open-label safety study, which was completed during the second quarter of 2019. The results showed that IV Tramadol is well-tolerated with a side effect profile consistent with known pharmacology.
+In December 2019, we submitted an NDA pursuant to Section 505(b)(2) of the Federal Food, Drug and Cosmetic Act. In February 2020, the FDA accepted our NDA submission and set a PDUFA goal date of October 10, 2020. On October 12, 2020, we announced that we had received the First CRL from the FDA regarding our NDA. In November 2020, we had a Type A Meeting with the FDA to discuss issues raised in the First CRL. On February 12, 2021, we resubmitted the NDA to the FDA for IV Tramadol. The NDA resubmission followed the receipt of official minutes from a Type A meeting with the FDA, which was conducted following receipt of the First CRL. The NDA resubmission included revised language relating to the proposed product label and a report relating to terminal sterilization validation. The FDA assigned a PDUFA goal date of April 12, 2021 for the resubmitted NDA for IV Tramadol. On June 14, 2021, we announced that we had received the Second CRL from the FDA regarding our NDA for IV Tramadol. We continue to pursue regulatory approval for IV Tramadol and in connection therewith, had a Type A meeting with the FDA in July 2021. We submitted a FDRR with the Office of Neuroscience of the FDA on July 27, 2021. On August 26, 2021, we received an Appeal Denied Letter from the Office of Neuroscience of the FDA in response to the FDRR submitted on July 27, 2021. On August 31, 2021, we submitted a FDRR with the OND of the FDA. On October 21, 2021, we received a written response from the OND of the FDA stating that the OND needs additional input from an Advisory Committee in order to reach a decision on the FDRR. On February 15, 2022, we had an Advisory Committee meeting with the FDA. In the final part of the public meeting, the Advisory Committee voted yes or no on the following question: “Has the Applicant submitted adequate information to support the position that the benefits of their product outweigh the risks for the management of acute pain severe enough to require an opioid analgesic in an inpatient setting?” The results were 8 yes votes and 14 no votes. On March 18, 2022, we received an Appeal Denied Letter from the OND in response to the FDRR. We are evaluating next steps with regard to IV Tramadol.
+On November 12, 2018, we, InvaGen, and Madison Pharmaceuticals, Inc. entered into the SPMA, in which we agreed to our sale in a two-stage transaction. In the first stage, InvaGen agreed to purchase, for $35 million, common shares representing 33.3% of our fully diluted capital stock. In the second stage, InvaGen would acquire our remaining issued and outstanding capital stock for approximately $180 million pursuant to the Merger Transaction. The SPMA was approved by a majority of our stockholders, including a majority of our non-affiliated stockholders, at our special shareholder meeting on February 6, 2019. On February 8, 2019, InvaGen acquired 5,833,333 shares of our common stock at $6.00 per share (the “Stock Purchase Transaction”) for net proceeds of $31.5 million after deducting commission fees and other offering costs, representing a 33.3% stake in our capital stock on a fully diluted basis.
+55
+Table of Contents
+​
+Consummation of the Merger Transaction was conditioned upon, among other things, FDA approval of IV Tramadol, its labeling and scheduling, and the absence of certain other restrictions in effect with respect to IV Tramadol. Pursuant to the SPMA, if FDA approval of IV Tramadol was not obtained on or before April 30, 2021, InvaGen would not be subject to the mandatory closing obligations set forth in the SPMA with respect to the Merger Transaction (but would instead retain an option to complete the Merger Transaction up until such time as the SPMA was terminated). Pursuant to the SPMA, we could choose to terminate the SPMA after October 31, 2021, if FDA approval of IV Tramadol had not occurred by such time. On November 1, 2021, we terminated the SPMA.
+Even though the SPMA has been terminated, InvaGen retains certain rights pursuant to the Stockholders Agreement, entered into on November 12, 2018 between us, InvaGen and Fortress, and other agreements entered into in connection therewith on such date. These rights exist as long as InvaGen maintains at least 75% of the common shares acquired in the Stock Purchase Transaction and include among other things, the right to restrict us from certain equity issuances and changes to our capital stock without obtaining InvaGen’s prior written consent.
+Over the past year, we have communicated with InvaGen relating to InvaGen’s assertions that Material Adverse Effects (as defined in the SPMA) have occurred due to the impact of the COVID-19 pandemic on potential commercialization and projected sales of IV Tramadol. Additionally, in connection with the resubmission of our NDA in February 2021, InvaGen communicated to us that it believes the proposed label for IV Tramadol would also constitute a Material Adverse Effect (as defined in the SPMA) on the purported basis that the proposed label under certain circumstances would make the product commercially unviable. Even though the SPMA has been terminated, it is still possible for InvaGen to pursue monetary claims against us and/or Fortress based on the foregoing or other potential causes of action.
+Our net loss for the years ended December 31, 2021 and 2020 was approximately $3.7 million and $5.2 million, respectively. As of December 31, 2021, we had an accumulated deficit of approximately $77.0 million. Substantially all our net losses resulted from costs incurred in connection with our research and development program of IV Tramadol and from general and administrative costs associated with our operations.
+We expect to continue to incur research and development costs and increased general and administration related costs and incur operating losses for at least the next several years as we develop and seek regulatory approval for IV Tramadol in the U.S.
+We may need to obtain additional capital through the sale of debt or equity financings or other arrangements to fund our operations, research and development activity or regulatory approval activity; however, there can be no assurance that we will be able to raise needed capital under acceptable terms, if at all. The sale of additional equity may dilute existing stockholders and newly issued shares may contain senior rights and preferences compared to currently outstanding shares of common stock. Issued debt securities may contain covenants and limit our ability to pay dividends or make other distributions to stockholders. If we are unable to obtain such additional financing, future operations would need to be scaled back or discontinued.
+We are a majority controlled subsidiary of Fortress. For related party transactions, see Note 4.
+Avenue Therapeutics, Inc. was incorporated in Delaware on February 9, 2015. Our executive offices are located at 1140 Avenue of the Americas, Floor 9, New York, NY 10036. Our telephone number is (781) 652-4500, and our email address is info@avenuetx.com.
+Critical Accounting Policies and Use of Estimates
+Our discussion and analysis of our financial condition and results of operations are based on our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States (U.S. GAAP). The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosure of contingent assets and liabilities in our financial statements. On an ongoing basis, we evaluate our estimates and judgments, including those related to accrued expenses and stock-based compensation. We base our estimates on historical experience, known trends and events and various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+Research and Development
+Research and development costs are expensed as incurred. Advance payments for goods and services that will be used in future research and development activities are expensed when the activity has been performed or when the goods have been received rather 
+56
+Table of Contents
+​
+than when the payment is made. Upfront and milestone payments due to third parties that perform research and development services on our behalf will be expensed as services are rendered or when the milestone is achieved. Costs incurred in obtaining technology licenses are charged to research and development expense if the technology licensed has not reached technological feasibility and has no alternative future use.
+Research and development costs primarily consist of personnel related expenses, including salaries, benefits, travel, and other related expenses, stock-based compensation, payments made to third parties for license and milestone costs related to in-licensed products and technology, payments made to third party contract research organizations for preclinical and clinical studies, investigative sites for clinical trials, consultants, the cost of acquiring and manufacturing clinical trial materials, costs associated with regulatory filings and patents, laboratory costs and other supplies.
+Costs incurred in obtaining technology licenses are charged to research and development expense if the technology licensed has not reached commercial feasibility and has no alternative future use. The licenses purchased by us require substantial completion of research and development, regulatory and marketing approval efforts in order to reach commercial feasibility and has no alternative future use. Accordingly, the total purchase price for the licenses acquired are reflected as research and development — licenses acquired on our Statement of Operations.
+Stock-Based Compensation
+We expense stock-based compensation to employees, consultants and board members over the requisite service period based on the estimated grant-date fair value of the awards. Stock-based awards with graded-vesting schedules are recognized on a straight-line basis over the requisite service period for each separately vesting portion of the award.
+The assumptions used in calculating the fair value of stock-based awards represent management’s best estimates and involve inherent uncertainties and the application of management’s judgment.
+Income Taxes
+No income tax expense or benefit was recognized in the accompanying financial statements. Our deferred tax assets are comprised primarily of net operating loss carryforwards. We maintain a full valuation allowance on our deferred tax assets since we have not yet achieved sustained profitable operations. As a result, we have not recorded any income tax benefit since our inception.
+Results of Operations
+Comparison of the Years Ended December 31, 2021 and 2020
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+For The Years Ended
+​
+Change
+​
+​
+​
+December 31,
+​
+  
+ 
+​
+($ in thousands)
+    
+2021
+    
+2020
+    
+$
+    
+%
+​
+Operating expenses:
+ 
+​
+  
+ 
+​
+  
+​
+​
+  
+​
+​
+​
+Research and development
+​
+$
+ 1,254
+​
+$
+ 2,866
+​
+$
+ (1,612)
+​
+ (56)
+%
+General and administrative
+​
+ 
+ 2,484
+​
+ 
+ 2,347
+​
+ 
+ 137
+​
+6
+%
+Loss from operations
+​
+ 
+ (3,738)
+​
+ 
+ (5,213)
+​
+ 
+ 1,475
+​
+ (28)
+%
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Interest income
+​
+ 
+ (7)
+​
+ 
+ (62)
+​
+ 
+ (55)
+​
+ (89)
+%
+Net Loss
+​
+$
+ (3,731)
+​
+$
+ (5,151)
+​
+$
+ 1,420
+​
+ (28)
+%
+​
+Research and Development Expenses
+For the years ended December 31, 2021 and 2020, research and development expenses were $1.3 million and $2.9 million, respectively. The $1.6 million decrease primarily reflects decreases of: $0.9 million due to the commercial validation batches and NDA review work done in 2020 with our supplier, $0.6 million in consulting and NDA review activities associated with advisory committee preparation and NDA information requests in 2020 and $0.1 million in non-cash stock compensation costs.
+57
+Table of Contents
+​
+We expect our research and development activities to continue as we develop and seek regulatory approval for IV Tramadol, reflecting costs associated with the following:
+·
+employee-related expenses;
+·
+license fees and milestone payments related to in-licensed product and technology;
+·
+expenses incurred under agreements with contract research organizations, investigative sites and consultants that conduct our clinical trials;
+·
+the cost of acquiring and manufacturing clinical trial materials; and
+·
+costs associated with non-clinical activities, and regulatory approvals.
+General and Administrative Expenses
+General and administrative expenses consist principally of professional fees for legal and consulting services, market research, personnel-related costs, public reporting company related costs and other general operating expenses not otherwise included in research and development expenses. We expect our general and administrative costs to continue as we seek potential regulatory approval and potential commercialization of our product candidate.
+For the years ended December 31, 2021 and 2020, general and administrative expenses were $2.5 million and $2.4 million, respectively. The $0.1 million increase primarily reflects increases of $0.2 million in legal expenses related to the SPMA and FDRR  and $0.2 million in personnel expenses partially offset by a decrease of $0.2 million in non-cash stock compensation costs.
+Interest Income
+Interest income was $7,000 and $62,000 for the years ended December 31, 2021 and 2020, respectively. The decrease in interest income was due to the cash used in operations.
+Liquidity and Capital Resources
+We have incurred substantial operating losses since our inception and expect to continue to incur significant operating losses for the foreseeable future and may never become profitable. As of December 31, 2021, we had an accumulated deficit of $77.0 million. We have used the funds from our IPO, from the InvaGen share purchase and from our public offerings in 2021 to finance our operations. We will continue to use these funds primarily for general corporate purposes, which may include financing our growth and developing our product candidate.
+We believe that our cash and cash equivalents are only sufficient to fund our operating expenses into the second quarter of 2022. We need to secure additional funds through equity or debt offerings, or other potential sources. Furthermore, under the Stockholder’s Agreement, any equity funding must be approved by InvaGen. We cannot be certain that additional funding will be available on acceptable terms, or at all. These factors individually and collectively raise substantial doubt about our ability to continue as a going concern.
+In addition to the foregoing, based on current assessments, we do not expect any material impact on our regulatory timeline and our liquidity due to the worldwide spread of the COVID-19 virus. However, we are continuing to assess the effect on our operations by monitoring the spread of COVID-19 and the actions implemented to combat the virus throughout the world.
+Cash Flows for the Years Ended December 31, 2021 and 2020
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+For The Years Ended
+​
+​
+December 31,
+($ in thousands)
+    
+2021
+    
+2020
+Total cash and cash equivalents (used in)/provided by:
+ 
+​
+  
+ 
+​
+  
+Operating activities
+​
+$
+ (3,750)
+​
+$
+ (4,613)
+Investing activities
+​
+ 
+ —
+​
+ 
+ (1,000)
+Financing activities
+​
+ 
+ 4,381
+​
+ 
+ —
+Net increase/(decrease) in cash and cash equivalents
+​
+$
+ 631
+​
+$
+ (5,613)
+​
+58
+Table of Contents
+​
+Operating Activities
+Net cash used in operating activities was approximately $3.8 million for the year ended December 31, 2021, primarily comprised of our $3.7 million net loss and decrease in operating assets and liabilities of $0.5 million, partially offset by $0.4 million in share based compensation.
+Net cash used in operating activities was approximately $4.6 million for the year ended December 31, 2020, primarily comprised of our $5.2 million net loss and decrease in operating assets and liabilities of $0.2 million, partially offset by $0.7 million in share based compensation.
+Investing Activities
+Net cash used in investing activities for the year ended December 31, 2020 was $1.0 million and consisted of the milestone payment paid to our licensor pursuant to our NDA submission.
+Financing Activities
+Net cash provided by financing activities for the year ended December 31, 2021 was $4.4 million which was from the proceeds of our issuance of shares pursuant to our two underwritten public offerings in November and December 2021.
+Recently Adopted Accounting Standards
+See Note 2 to the financial statements for a full description of recent accounting pronouncements including the respective expected dates of adoption and expected effects on results of operations and financial condition.
+​
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk.
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information otherwise required under this item.

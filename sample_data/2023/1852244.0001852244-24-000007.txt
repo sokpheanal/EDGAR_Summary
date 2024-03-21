@@ -1,0 +1,322 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and related notes included elsewhere in this Annual Report. This Form 10-K contains certain forward-looking statements that are intended to be covered by the safe harbors created by The Private Securities Litigation Reform Act of 1995. Please see “Cautionary Statement Regarding Forward-Looking Statements” and “Risk Factors” for a discussion of the uncertainties, risks and assumptions associated with these statements.
+Also, the following discussion and analysis of our financial condition and results of operations generally discusses 2023 and 2022 items and year-to-year comparisons between 2023 and 2022. Discussions of 2021 financial condition and year-to-year comparisons between 2022 and 2021 are not included in this Annual Report and can be found in Part II, Item 7, “
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+” in our Annual Report on Form 10-K for the year ended December 31, 2022.
+Business Overview
+GXO Logistics, Inc., together with its subsidiaries (“GXO,” the “Company,” “our” or “we”), is the largest pure-play contract logistics provider in the world and a foremost innovator in the industry. We provide our customers with high-value-added warehousing and distribution, order fulfillment, e-commerce, reverse logistics and other supply chain services differentiated by our ability to deliver technology-enabled, customized solutions at scale. Our customers rely on us to move their goods with high efficiency through their supply chains — from the moment goods arrive at our warehouses through fulfillment and distribution, and the management of returned products. Our customer base includes many blue-chip leaders in sectors that demonstrate high growth and/or durable demand, with significant growth potential through customer outsourcing of logistics services.
+We strive to provide all customers with consistent quality service and cutting-edge automation. We also collaborate with our largest customers on planning and forecasting and assist with network optimization, working with these customers to design or redesign their supply chains to meet specific goals, such as environmental, social and governance. Our multidisciplinary, consultative approach has led to many of our key customer relationships extending for years and expanding in scope.
+The most dramatic growth in demand in recent years has been in e-commerce and related sectors, including omnichannel retail and other direct-to-consumer channels. We expect to attract new customers and expand the services we provide to existing customers through new projects, thus earning more of their logistics spending. We use technology to manage advanced automation, labor productivity, sustainability, safety and the complex flow of goods within sophisticated warehouse environments.
+Our business model is asset-light and historically resilient in cycles, with high returns, strong free cash flow and visibility into revenue and earnings. The vast majority of our contracts with customers are long-term in nature, and our warehouse lease arrangements generally align with contract length. The Company has both fixed-price contracts (closed book or hybrid contracts) and cost-plus contracts (open book contracts)
+.
+ Most of our customer contracts contain both fixed and variable components. The fixed component is typically designed to cover warehouse, technology and equipment costs, while the variable component is determined based on expected volumes and associated labor costs. Under fixed-price contracts, the Company agrees to perform the specified work for a pre-determined price. To the extent the Company’s actual costs vary from the estimates upon which the price was negotiated, the Company will generate more or less profit. Cost-plus contracts provide for the payment of allowable costs incurred during the performance of the contract plus a specified margin.
+20
+Basis of Presentation
+On August 2, 2021, the Company became a standalone publicly traded company and its financial statements post the separation from XPO, Inc. (the “Separation”) are now prepared on a consolidated basis. Before the Separation, GXO’s historical financial statements were prepared on a standalone combined basis and were derived from the Consolidated Financial Statements and accounting records of XPO. The combined Consolidated Financial Statements for all periods presented before the Separation are now referred to as “Consolidated Financial Statements” and have been prepared under the U.S. generally accepted accounting principles (“GAAP”). GXO has one reportable segment.
+On October 23, 2023, the Company completed the acquisition of PFSweb, Inc. (“PFS”), an e-commerce order fulfillment company based in Irving, Texas (the “PFS Acquisition”). On May 24, 2022, the Company completed the acquisition of Clipper Logistics plc (“Clipper”), an omnichannel retail logistics specialist based in Leeds, England (the “Clipper Acquisition”). Due to the acquisitions of Clipper and PFS, comparisons in our results of operations between 2023 and 2022 are less meaningful.
+Results of Operations
+Year Ended December 31,
+(In millions)
+2023
+2022
+$ Change
+% Change
+Revenue
+$
+9,778 
+$
+8,993 
+$
+785 
+9 
+%
+Direct operating expense
+8,035 
+7,443 
+592 
+8 
+%
+Selling, general and administrative expense
+998 
+886 
+112 
+13 
+%
+Depreciation and amortization expense
+361 
+329 
+32 
+10 
+%
+Transaction and integration costs
+34 
+61 
+(27)
+(44)
+%
+Restructuring costs and other
+32 
+32 
+— 
+— 
+%
+Operating income
+318 
+242 
+76 
+31 
+%
+Other income, net
+1 
+51 
+(50)
+(98)
+%
+Interest expense, net
+(53)
+(29)
+(24)
+83 
+%
+Income before income taxes
+266 
+264 
+2 
+1 
+%
+Income tax expense
+(33)
+(64)
+31 
+48 
+%
+Net income
+$
+233 
+$
+200 
+$
+33 
+17 
+%
+Revenue for 2023 increased by 9%, or $785 million, to $9.8 billion compared with $9.0 billion for 2022. The increase primarily reflects $378 million from the Clipper Acquisition (for the periods that were not comparable), $82 million from the PFS Acquisition, and growth in Continental Europe. Foreign currency movements increased revenue by $140 million in 2023.
+Direct operating expenses comprise both fixed and variable expenses and consist of operating costs related to our warehouse operations, including personnel costs, rent expenses, utility costs, equipment maintenance and repair costs, transportation costs, costs of materials and supplies and information technology expenses. Direct operating expense for 2023 increased by 8%, or $592 million, to $8.0 billion compared with $7.4 billion for 2022. As a percentage of revenue, direct operating expense was 82.2% and 82.8% in 2023 and 2022, respectively. The increase primarily reflects $286 million from the Clipper Acquisition (for the periods that were not comparable), $67 million from the PFS Acquisition, and higher personnel and rent expenses.
+Selling, general and administrative expense (“SG&A”) primarily consists of salary and benefit costs for executive and certain administration functions, professional fees, bad debt expense and legal costs. SG&A for 2023 increased by 13%, or $112 million, to $998 million, compared with $886 million in 2022. SG&A primarily increased due to the Clipper Acquisition, higher personnel costs for certain administrative functions and bad debt expense.
+21
+Depreciation and amortization expense for 2023 increased by $32 million to $361 million compared with $329 million for 2022. Depreciation and amortization expense included amortization of intangible assets of $71 million and $68 million in 2023 and 2022, respectively. Depreciation and amortization expense increased primarily due to the Clipper Acquisition.
+Transaction and integration costs were $34 million in 2023, compared with $61 million for 2022. Transaction and integration costs in 2023 included $20 million related to the integration of Clipper and $12 million related to the PFS Acquisition, reflecting costs associated with advisory fees and severance costs. Transaction and integration costs in 2022 primarily related to $46 million related to the Clipper Acquisition, reflecting costs associated with financing arrangements, advisory fees and integration costs, and $15 million from the Separation, primarily reflecting rebranding costs.
+We engage in restructuring actions as part of our ongoing efforts to best use our resources and infrastructure. These costs are primarily related to severance, including projects to optimize human resources, finance and information technology activities, and are not associated with customer attrition. Restructuring costs and other were $32 million for 2023 and 2022. Restructuring costs and other for 2023 included $16 million related to a restructuring plan initiated in the fourth quarter of 2022 designed to centralize certain processes and standardize operating structures. Restructuring costs and other in 2023 also included impairment charges of $11 million, primarily related to closing certain corporate and administrative offices, and $5 million associated with the exit of a non-core businesses in Asia. Restructuring costs and other for 2022 included $24 million related to severance costs, primarily from the exit of non-core businesses and central efficiency projects, and $8 million related to the deconsolidation of a joint venture.
+Other income, net decreased due to lower pension income and foreign currency movements. Other income, net was as follows:
+Year Ended December 31,
+(In millions)
+2023
+2022
+$ Change
+% Change
+Net periodic pension income
+$
+8 
+$
+33 
+$
+(25)
+(76)
+%
+Foreign currency gain (loss):
+Realized foreign currency option and forward contracts gain (loss)
+(13)
+29 
+(42)
+n/m
+Unrealized foreign currency option and forward contracts gain (loss)
+4 
+(11)
+15 
+n/m
+Foreign currency transaction and remeasurement loss
+— 
+(3)
+3 
+(100)
+%
+Total foreign currency gain (loss)
+(9)
+15 
+(24)
+n/m
+Other
+2 
+3 
+(1)
+(33)
+%
+Other income, net
+$
+1 
+$
+51 
+$
+(50)
+(98)
+%
+n/m - not meaningful
+Interest expense, net increased due to the debt from the Clipper Acquisition being outstanding for the full year in 2023 compared with seven months of the prior year and higher variable interest rates on our debt, partially offset by the accretion on cross-currency swaps and interest income in the current period. Interest expense, net was as follows:
+Year Ended December 31,
+(In millions)
+2023
+2022
+$ Change
+% Change
+Debt and capital leases
+$
+96 
+$
+59 
+$
+37 
+63 
+%
+Cross-currency swaps
+(33)
+(25)
+(8)
+32 
+%
+Interest income
+(10)
+(5)
+(5)
+100 
+%
+Interest expense, net
+$
+53 
+$
+29 
+$
+24 
+83 
+%
+Income before income taxes for 2023 increased by $2 million, to $266 million, compared with $264 million for 2022. The increase was primarily due to growth in our business and lower transaction and integration costs, offset by 
+22
+higher interest expense and lower other income. Income from continuing operations before income taxes for our domestic operations was $97 million for 2023, compared with $105 million in 2022. The decrease was driven by a higher interest expense associated with our debt, partially offset by lower transaction and integration costs. Income from continuing operations before income taxes for our foreign operations was $169 million for 2023 compared with $159 million in 2022. The increase was primarily driven by growth in the business and lower transaction and integration costs, partially offset by lower pension income.
+Income tax expense was $33 million in 2023, compared with $64 million in 2022. Our effective tax rate was 12.4% in 2023 and 24.2% in 2022. The decrease in our effective income tax rate in 2023 was driven by tax benefits from intangible assets and the release of valuation allowances.
+Liquidity and Capital Resources
+Overview
+Our ability to fund our operations and anticipated capital needs is reliant upon the generation of cash from operations, supplemented as necessary by periodic utilization of our revolving credit facility and factoring programs. Our principal uses of cash in the future will be primarily to fund our operations, working capital needs, capital expenditures, repayment of borrowings and strategic business development transactions. The timing and magnitude of our new contract start-ups can vary and may positively or negatively impact our cash flows. We continually evaluate our liquidity requirements and capital structure in light of our operating needs, growth initiatives and capital resources.
+As of December 31, 2023, we held cash and cash equivalents of $468 million and we had $799 million of borrowing capacity available, net of letters of credit under our revolving credit facility. We believe that our cash and cash equivalents on hand, cash flows from operations, the revolving credit facility and the use of our factoring programs will provide sufficient liquidity to operate our business and fund our current and assumed obligations for at least the next 12 months.
+For additional information regarding our cash requirement from contractual obligations, indebtedness and lease obligations, see Note 17. “Commitments and Contingencies”, Note 9. “Debt and Financing Arrangements” and Note 8. “Leases” in Part II, Item 8 of this Annual Report on Form 10-K.
+Capital Expenditures
+Our future capital spending includes fulfillment costs and investments in technology and automation to improve the speed and accuracy of order fulfillment and the resiliency of our supply chains. The level and the timing of the Company’s capital expenditures within these categories can vary as a result of a variety of factors outside our control, such as the timing of new contracts, availability of labor and materials and foreign currency fluctuations. We believe that we have significant discretion over the amount and timing of our capital expenditures as we are not subject to any agreement that would require significant capital expenditures on a designated schedule or upon the occurrence of designated events.
+Financial Condition
+The following table summarizes our asset and liability balances as of December 31, 2023 and 2022:
+December 31,
+(In millions)
+2023
+2022
+$ Change
+% Change
+Total current assets
+$
+2,568 
+$
+2,428 
+$
+140 
+6 
+%
+Total long-term assets
+6,939 
+6,791 
+148 
+2 
+%
+Total current liabilities
+2,626 
+2,532 
+94 
+4 
+%
+Total long-term liabilities
+3,935 
+4,009 
+(74)
+(2)
+%
+23
+Total assets increased by $288 million from December 31, 2022 to December 31, 2023, primarily reflecting increases from the PFS Acquisition.
+Total liabilities increased by $20 million from December 31, 2022 to December 31, 2023, reflecting the early repayment of debt, partially offset by increases from the PFS Acquisition.
+Cash Flow Activity
+Our cash flows from operating, investing and financing activities, as reflected on our Consolidated Statements of Cash Flows, were summarized as follows:
+Year Ended December 31,
+(In millions)
+2023
+2022
+$ Change
+% Change
+Net cash provided by operating activities
+$
+558 
+$
+542 
+$
+16 
+3 
+%
+Net cash used in investing activities
+(410)
+(1,149)
+739 
+(64)
+%
+Net cash (used in) provided by financing activities
+(186)
+787 
+(973)
+n/m
+Effect of exchange rates
+13 
+(18)
+31 
+n/m
+Net (decrease) increase in cash, restricted cash and cash equivalents
+$
+(25)
+$
+162 
+$
+(187)
+n/m
+n/m - not meaningful
+Operating Activities
+Cash flows provided by operating activities for 2023 increased by $16 million compared with 2022. The increase was due to $33 million higher net income and $40 million non-cash adjustments, offset by $57 million of working capital used in 2023.
+Investing Activities
+Investing activities used $410 million of cash in 2023 compared with $1.1 billion in 2022. During 2023, we used $274 million of cash for capital expenditures, $149 million in connection with the PFS Acquisition and $3 million in settlement of cross-currency swap agreements, excluding accrued interest, partially offset by $18 million of proceeds from the sales of property and equipment. During 2022, we used $876 million of cash in connection with the Clipper Acquisition, $342 million for capital expenditures, partially offset by $40 million of proceeds from the sales of property and equipment and $21 million in settlement of cross-currency swap agreements, excluding accrued interest.
+Financing Activities
+Financing activities used $186 million of cash in 2023 and generated $787 million in 2022. The primary use of cash from financing activities in 2023 was $169 million in repayment of debt and finance leases and $12 million in payments for employee taxes on net settlement of equity awards. The primary source of cash from financing activities in 2022 was $917 million in proceeds from long-term debt, net, partially offset by $115 million in repayment of debt and finance leases and $16 million in payments for employee taxes on net settlement of equity awards.
+Off-Balance Sheet Arrangements
+We do not engage in any off-balance sheet financial arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+24
+Contractual Obligations
+We lease certain facilities and equipment under operating and finance lease arrangements. As of December 31, 2023, our outstanding obligations under operating and finance leases were $2.4 billion and $116 million, respectively. See Note 8. “Leases” to the Consolidated Financial Statements for additional information.
+As of December 31, 2023, we had $800 million of unsecured notes outstanding with interest payable in arrears on January 15 and July 15 of each year and $735 million of variable-rate term loans outstanding with interest payable in arrears at our option monthly, quarterly or semiannually. See Note 9. “Debt and Financing Arrangements” to the Consolidated Financial Statements for additional information.
+In addition, we have obligations for agreements to purchase goods or services entered into in the ordinary course of business that are enforceable and legally binding and gross unrecognized tax benefits.
+Critical Accounting Policies
+We prepare our Consolidated Financial Statements in accordance with GAAP. We make assumptions, estimates and judgments that affect our reported amounts of assets, liabilities, revenues, expenses, gains and losses. Material changes in these assumptions, estimates and/or judgments have the potential to materially alter our results of operations. We have identified the following accounting policies to be the most critical as they are important to our financial condition and results of operations and require significant judgment and estimates on the part of management in their application.
+Business Combinations
+We record tangible and intangible assets acquired and liabilities assumed in business combinations under the purchase method of accounting. We allocate the fair value of purchase consideration to tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is allocated to goodwill.
+Accounting for business combinations requires us to make significant estimates and assumptions, especially at the acquisition date with respect to tangible and intangible assets acquired and liabilities assumed. We use our best estimates and assumptions to accurately assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date as well as the useful lives of those acquired intangible assets. Significant assumptions utilized in the allocation of the purchase price related to intangible assets include future expected cash flows from acquired intangibles and discount rates.
+Our estimates of fair value are based upon reasonable assumptions but are inherently uncertain and unpredictable, and as a result, actual results may differ from these estimates. During the measurement period, which is up to one year from the acquisition date, we may record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings. See Note 4. “Acquisitions” to the Consolidated Financial Statements for additional information.
+Evaluation of Goodwill
+We allocate goodwill to reporting units based on the reporting unit expected to benefit from the business combination. Goodwill is tested at the reporting unit level, which is an operating segment or one level below, on an annual basis and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. We have three reporting units: i) Americas and Asia-Pacific, ii) United Kingdom and Ireland and iii) Continental Europe.
+For each reporting unit, we first assess qualitative factors that are specific to the reporting unit as well as industry and macroeconomic factors to determine whether it is necessary to perform a quantitative goodwill impairment test. 
+25
+The qualitative factors could include a significant change in the business climate, legal factors, operating performance indicators, competition or the sale or disposition of a significant portion of a reporting unit. If the qualitative assessment indicates that it is more likely than not that an impairment exists, then a quantitative assessment is performed.
+A quantitative goodwill impairment test, when performed, includes estimating the fair value of a reporting unit using the income and/or market approach. The income approach of determining fair value is based on the present value of estimated future cash flows, which requires us to make various assumptions, including assumptions about the timing and amount of future cash flows, growth rates and discount rates. The discount rates reflect management’s judgment and are based on a risk-adjusted weighted-average cost of capital utilizing industry market data of businesses similar to the reporting units. Inherent in our preparation of cash flow projections are assumptions and estimates derived from a review of our operating results, business plans, expected growth rates, cost of capital and tax rates. Our forecasts also reflect expectations concerning future economic conditions, interest rates and other market data. The market approach of determining fair value is based on comparable market multiples for companies engaged in similar businesses, as well as recent transactions within our industry. We believe using these valuation techniques yields the most appropriate evidence of the reporting unit’s fair value.
+Many of the factors used in assessing fair value are outside the control of management, and these assumptions and estimates may change in future periods. Changes in assumptions or estimates could materially affect the estimate of the fair value of a reporting unit and therefore could affect the likelihood and amount of any potential impairment.
+Employee Benefit Plans
+We sponsor various retirement plans, the most significant of which is in the U.K. (the “U.K. Retirement Plan”). Assumptions used in the accounting for these employee benefit plans include the discount rate and expected return on plan assets. Assumptions are determined based on company data and appropriate market indicators and are evaluated each year at December 31. A change in any of these assumptions would have an effect on the net periodic pension cost reported in the Consolidated Financial Statements.
+The discount rate is determined based on the yield on a portfolio of high-quality bonds, constructed to provide cash flows necessary to meet our pension plans’ expected future benefit payments, as determined for the accumulated benefit obligation. A 50-basis-point decrease in the discount rate of the U.K. Retirement Plan would result in an estimated increase in the accumulated benefit obligation of approximately $44 million. The expected return on plan assets assumption is derived using the current and expected asset allocation of the pension plan assets and considering historical as well as expected returns on various classes of plan assets. An increase or decrease of 50 basis points in the expected long-term rate of return of the U.K. Retirement Plan would have decreased or increased 2023 net periodic pension cost by approximately $4 million. See Note 14. “Employee Benefit Plans” to the Consolidated Financial Statements for additional information.
+New Accounting Standards
+Information related to new accounting standards is included in Note 2. “Basis of Presentation and Significant Accounting Policies” to the Consolidated Financial Statements.
+26

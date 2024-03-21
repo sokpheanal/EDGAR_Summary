@@ -1,0 +1,675 @@
+ITEM 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This discussion should be read in conjunction with the information contained in our consolidated financial statements and the accompanying notes which are an integral part of the statements.
+Overview
+.  We are a multinational manufacturer and worldwide distributor of our own life science research and clinical diagnostics products.  Our business is organized into two primary segments, Life Science and Clinical Diagnostics, with the mission to provide scientists with specialized products needed for biological research and clinical diagnostics.  
+We sell more than 8,000 products and services to a diverse client base comprised of scientific research, healthcare, education and government customers worldwide. We do not disclose quantitative information about our different products and services as it is impractical to do so based primarily on the numerous products and services that we sell and the global markets that we serve.
+We manufacture and supply our customers with a range of reagents, apparatus and equipment to separate complex chemical and biological materials and to identify, analyze and purify components.  Because our customers require standardization for their experiments and test results, much of our revenues are recurring.  
+We are impacted by the support of many governments for both research and healthcare.  The current global economic outlook is still uncertain as the need to control government social spending by many governments limits 
+23
+opportunities for growth.  Adding to this uncertainty was the recent referendum in the United Kingdom to withdraw from the European Union, and a change in the U.S. executive branch of government.  Approximately 
+37%
+ of our 
+2016
+ consolidated net sales are derived from the United States and approximately 
+63%
+ are derived from international locations, with Europe being our largest international region.  The international sales are largely denominated in local currencies such as the Euro, Swiss Franc, Japanese Yen, Chinese Yuan and British Sterling.  As a result, our consolidated net sales expressed in dollars benefit when the U.S. dollar weakens and suffer when the dollar strengthens.  When the U.S. dollar strengthens, we benefit from lower cost of sales from our own international manufacturing sites as well as non-U.S. suppliers, and from lower international operating expenses.  We regularly discuss our changes in revenue and expense categories in terms of both changing foreign exchange rates and in terms of a currency neutral basis, if notable, to explain the impact currency has on our results.
+On February 15, 2017, we acquired all the issued and outstanding stock of RainDance Technologies, Inc. (RainDance) for approximately $87 million including certain assumed net liabilities.  Cash payments at closing were $82.9 million.  The acquisition will be included in our Life Science segment’s results of operations from the acquisition date and will be accounted for as a business combination.  RainDance's foundational intellectual property portfolio and product lines encompass a wide range of biological reactions in droplets, with potential applications in life science research and clinical research.  These genomic tools provide ultra-sensitive detection of genetic variations in cancer as well as inherited and infectious diseases, enabling research in areas such as non-invasive liquid biopsy.  We believe that RainDance's droplet-based solutions will extend our reach into next-generation sequencing applications and strengthen our position in the area of Droplet Digital™ PCR, offering customers with solutions for a wide range of nucleic acid detection applications.  See Note 17 to the consolidated financial statements.
+During the fourth quarter of 2016, we fully impaired goodwill and in-process research and development in the amounts of $13.5 million and $46.4 million, respectively, associated with our 2014 acquisition of GnuBIO, Inc. 
+In May 2016, we announced the elimination or relocation of various positions as part of restructuring plans approved by management.  In connection with this announcement, for the year ended 
+December 31, 2016
+, we recorded 
+$12.5 million
+ in restructuring charges related to severance and other employee benefits, of which 
+$9.0 million
+ is anticipated to be paid through 2019.  These restructuring actions are primarily intended to reduce, eliminate or relocate our global workforce in order to better align expenses to our revenue and gross margin profile and position us for improved operating performance.  These actions are aligned with the creation and evolution of our organization structure and coordinated with the implementation of our single instance ERP platform.  In the future, we may take additional restructuring actions to gain operating efficiencies or reduce our operating expenses, while simultaneously implementing additional cost containment measures and expense control programs.  Such restructuring actions are subject to significant risks, including delays in implementing expense control programs or workforce reductions and the failure to meet operational targets due to the loss of employees or a decrease in employee morale, any of which would impair our ability to achieve anticipated cost reductions.  If we do not achieve the anticipated cost reductions, our business could be harmed.  See Note 15 to the consolidated financial statements.
+In January 2016, we acquired a high performance analytical flow cytometer platform from Propel Labs (Propel) that will enable advanced and novice users to perform basic and multi-parameter cytometry for a wide range of applications and chemistries.  This asset acquisition was accounted for as a business combination and is included in our Life Science segment's results of operations from the acquisition date.  The fair values of the net assets acquired from Propel as of the acquisition date were determined to be 
+$32.7 million
+ of definite-lived intangible assets and $0.1 million of goodwill, after the effects of a calculation revision that were reflected in the fourth quarter of 2016.  This revision reduced goodwill/intangibles and contingent consideration by the same amount and had no significant impact on our Consolidated Income Statement.
+The fair value of the consideration as of the acquisition date was 
+$32.8 million
+ as revised, which included 
+$9.5 million
+ paid in cash at the closing date and 
+$23.3 million
+ in contingent consideration potentially payable to Propel.  The contingent consideration was based on a probability-weighted income approach related to the achievement of 
+24
+sales milestones, ranging from 
+39%
+ to 
+20%
+ for the calendar years 
+2017
+ through 
+2020
+.  The sales milestones could potentially range from 
+$0
+ to an unlimited amount through 
+December 31, 2020
+.  The contingent consideration was recognized at its estimated fair value of 
+$25.4 million
+ as of 
+December 31, 2016
+.
+As previously disclosed, in May 2010 we voluntarily disclosed to the U.S. Department of Justice (DOJ) and the Securities and Exchange Commission (SEC) certain likely or potential violations of the U.S. Foreign Corrupt Practices Act (FCPA).  Effective November 3, 2014, we entered into a non-prosecution agreement (NPA) with the DOJ and consented to the entry of an Order by the SEC (SEC Order), which actions resolve both the DOJ and SEC investigations.  As a result of the settlements with the DOJ and the SEC, during the fourth quarter of 2014 we paid a total of $55.1 million that included a penalty of $14.4 million, $35.1 million in disgorgement, and $5.6 million in interest.  On October 28, 2016, the DOJ and SEC informed Bio-Rad that they did not intend to extend the NPA after it expired on November 2, 2016.
+Critical Accounting Policies and Estimates
+The accompanying discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (GAAP).  The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities and contingencies as of the date of the financial statements and reported amounts of revenues and expenses during the reporting periods.  We evaluate our estimates on an on-going basis.  We base our estimates on historical experience and on other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. However, future events may cause us to change our assumptions and estimates, which may require adjustment. Actual results could differ from these estimates. We have determined that for the periods reported in this Annual Report on Form 10-K the following accounting policies and estimates are critical in understanding our financial condition and results of operations.
+Accounting for Income Taxes.
+  Management is required to make estimates related to our income tax provision in each of the jurisdictions in which we operate.  This process involves estimating our current tax exposures, as well as making judgments regarding the recoverability of deferred tax assets in each jurisdiction.  Deferred tax assets and liabilities reflect the tax effects of losses, credits, and temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.  Management assesses the likelihood that the deferred tax assets will be recovered from future taxable income and to the extent management believes that recovery is not likely, a valuation allowance must be established.  To the extent management establishes a valuation allowance or increases this allowance in a period, an increase to expense within the Provision for income taxes in the Consolidated Statements of Income may result.
+We have recorded a valuation allowance of 
+$66.4 million
+ and 
+$58.3 million
+ as of 
+December 31, 2016
+ and 
+2015
+, respectively, due to uncertainties related to our ability to utilize some of the deferred tax assets, primarily consisting of certain foreign net operating losses carried forward.  The valuation allowance is based on management’s current estimates of taxable income for the jurisdictions in which we operate and the period over which the deferred tax assets will be recoverable.  In the event that actual results differ from these estimates, or these estimates are adjusted in future periods, an additional valuation allowance may need to be established, which would increase the tax provision, lowering income and impacting our financial position.  Should realization of these deferred tax assets for which a valuation allowance has been provided occur, the provision for income taxes may decrease, raising income and positively impacting Bio-Rad’s financial position.
+We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. The tax benefits recognized in the financial statements on a particular tax position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon settlement.  The amount of unrecognized tax benefits is adjusted as appropriate for changes in facts and circumstances, such as significant amendments to existing tax 
+25
+law, new regulations or interpretations by the taxing authorities, new information obtained during a tax examination, or resolution of an examination.  We recognize both accrued interest and penalties, where appropriate, related to unrecognized tax benefits in income tax expense.  Our overall effective tax rate is subject to fluctuations because of changes in the geographic mix of earnings, changes to statutory tax rates and tax laws, and because of the impact of various tax audits and assessments, as well as generation of tax credits. 
+Valuation of Goodwill and Long-lived Assets.
+  Goodwill represents the excess of the cost over the fair value of net tangible and identifiable intangible assets of acquired businesses.  Goodwill amounts are assigned to reporting units at the time of acquisition and are adjusted for any subsequent significant transfers of business between reporting units.  We assess the impairment of goodwill annually in the fourth quarter or whenever events or changes in circumstances indicate that the carrying value may not be recoverable.  We perform the impairment tests of goodwill at our reporting unit level, which is one level below our operating segments.  The goodwill impairment test consists of a two-step process.  The first step of the goodwill impairment test, used to identify potential impairment, compares the fair value of a reporting unit to its carrying value, including goodwill.  If the fair value of the reporting unit exceeds its carrying amount, goodwill of the reporting unit is considered not impaired, and the second step of the impairment test is not required.  The second step, if required, compares the implied fair value of the reporting unit goodwill with the carrying amount of that goodwill.  The fair value of a reporting unit is allocated to all of the assets and liabilities of that unit (including any unrecognized intangible assets) as if the reporting unit had been acquired in a business combination and the fair value of the reporting unit was the price paid to acquire the reporting unit.  If the carrying amount of the reporting unit's goodwill exceeds its implied fair value, an impairment charge is recognized in an amount equal to that excess.
+We use a projected discounted cash flow model to determine the fair value of a reporting unit.  This discounted cash flow method for determining goodwill may be different from the fair value that would result from an actual transaction between a willing buyer and a willing seller.  Projections such as discounted cash flow models are inherently uncertain and accordingly, actual future cash flows may differ materially from projected cash flows.  Management judgment is required in developing the assumptions for the discounted cash flow model.  These assumptions include revenue growth rates, profit margins, future capital expenditures, working capital needs, expected foreign currency rates, discount rates and terminal values.  We estimate future cash flows using current and longer-term financial forecasts.  These forecasts take into account the current economic environment.  The discount rates used are compiled using independent sources, current trends in similar businesses and other observable market data.  Changes to these rates might result in material changes in the valuation and determination of the recoverability of goodwill.  For example, an increase in the discount rate used to discount cash flows will decrease the computed fair value.
+Impairment tests are highly sensitive to changes in assumptions and minor changes to assumptions that could result in impairment losses.  Our forecasts utilized in our 
+2016
+ impairment test assumed, among other things, sales growth from executing our sales and marketing programs, new product introductions, successful product development and timely registration of our products when required, while controlling costs.  In addition, external factors, such as currency, inflation rates and cost of capital, could affect the determination of fair value of our reporting units.  Aside from our GnuBIO, Inc. reporting unit, which reflected a carrying value that exceeded its fair value, our impairment tests resulted in excessive fair value over book value ranging from 
+22%
+ to more than 
+400%
+ for our various reporting units.  If the initiatives mentioned above do not achieve the desired results, or external factors change detrimentally, future impairment losses may occur.
+To validate the reasonableness of the reporting unit fair values, we reconcile the aggregate fair values of the reporting units to the enterprise market capitalization.  In performing the reconciliation we may, depending on the volatility of the market value of our stock price, use either the stock price on the valuation date or the average stock price over a range of dates around the valuation date. 
+For purposes of recognition and measurement of an impairment loss, a long-lived asset or assets are grouped with other assets and liabilities at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities.  We assess the impairment of long-lived assets (including identifiable 
+26
+intangibles) whenever events or changes in circumstances indicate that the carrying value may not be recoverable.  Factors that we consider important that could trigger an impairment review include:
+•
+significant reporting unit under-performance relative to expected, historical or projected future operating results;
+•
+significant changes in the manner of use of the long-lived assets, intangible assets or the strategy for our overall business;
+•
+a current expectation that, more likely than not, a long-lived asset will be sold or otherwise disposed of before the end of its previously estimated useful life; and
+•
+significant negative industry, legal, regulatory or economic trends.
+When management determines that the carrying value of long-lived assets may not be recoverable based upon the existence of one or more of the above indicators of impairment, we test for any impairment based on a projected undiscounted cash flow method.  Projected future operating results and cash flows of the asset or asset group are used to establish the fair value used in evaluating the carrying value of long-lived and intangible assets.  We estimate the future cash flows of the long-lived assets using current and long-term financial forecasts.  The carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset.  If this is the case, an impairment loss would be recognized.  The impairment loss recognized is the amount by which the carrying amount exceeds the fair value.  In 2016, we fully impaired goodwill and in-process research and development in the amounts of $13.5 million and $46.4 million, respectively, associated with our 2014 acquisition of GnuBIO, Inc.  The impairments were based upon a revision of our Level 3 valuation inputs, i.e., expected future cash flows.  Also in 2016, we impaired intellectual property in the amount of $2.4 million associated with the termination of a research and development project.  There were no impairment losses recorded in 2015.  In 2014, we impaired licenses of a discontinued product line in the amount of 
+$6.4 million
+.  This impairment charge included 
+$5.8 million
+ in Cost of goods sold and 
+$0.6 million
+ in Research and development expense in the accompanying Consolidated Statements of Income.
+We early adopted ASU 2017-04, "Simplifying the Test for Goodwill Impairment," on January 1, 2017, which removes Step 2 of the goodwill impairment test for any impairments after January 1, 2017.  See Note 1 to the consolidated financial statements.
+Valuation of Inventories.
+   We value inventory at the lower of the actual cost to purchase and/or manufacture the inventory, or the current estimated net realizable value of the inventory.  We review inventory quantities on hand and reduce the cost basis of excess and obsolete inventory based primarily on an estimated forecast of product demand, production requirements and the quality, efficacy and potency of raw materials.  This review is done on a quarterly basis or, if warranted by the circumstances, more frequently.  In addition, our industry is characterized by technological change, frequent new product development and product obsolescence that could result in an increase in the amount of obsolete inventory quantities on hand.  Our estimates of future product demand may prove to be inaccurate, and if too high, we may have overstated the carrying value of our inventory. In the future, if inventory is determined to be overvalued, we would be required to write down the value of inventory to market and recognize such costs in our cost of goods sold at the time of such determination.  Therefore, although we make efforts to ensure the accuracy of our forecasts of future product demand and perform procedures to safeguard overall inventory quality, any significant unanticipated changes in demand, technological developments, regulations, storage conditions, or other economic or environmental factors affecting biological materials, could have a significant impact on the value of our inventory and reported results of operations.
+We adopted ASU 2015-11, "Simplifying the Measurement of Inventory," on January 1, 2017, which requires inventory measurement at the lower of cost and net realizable value.  See Note 1 to the consolidated financial statements.
+Valuation of Investments.
+   We regularly review our investments for factors that may indicate that a decline in the fair value of an investment below its carrying value is other-than-temporary.  Some factors considered in evaluating whether or not a decline in fair value is other-than-temporary include our ability and intent to retain the investment 
+27
+for a period of time sufficient to allow for a recovery in value, the duration and extent to which the fair value has been less than cost and the financial condition and prospects of the issuer.  Such reviews are inherently uncertain in that the value of the investment may not fully recover or may decline further in future periods resulting in realized losses.
+Warranty Reserves.
+ 
+  We warrant certain equipment against defects in design, materials and workmanship, generally for a period of one year.  Upon delivery and on acceptance of that equipment, we establish, as part of cost of goods sold, a provision for the expected costs of such warranty repairs based on historical experience, specific warranty terms and customer feedback.   A review is performed on a quarterly basis to assess the adequacy of our warranty reserve and it is adjusted if necessary.  The warranty reserve is based on actual experience and expected future costs to be incurred.  Should realized costs be higher than expected costs, cost of goods sold would be lower in the period of estimation and higher when realized.
+Allowance for Doubtful Accounts.
+   We maintain an allowance for doubtful accounts for estimated losses resulting from the collectability of our customer accounts.  The amount of the allowance is determined by analyzing known uncollectible accounts, the age of our receivables, economic conditions in the customers’ country or industry, historical losses and our customers’ general credit-worthiness.  Amounts later determined and specifically identified to be uncollectible are charged or written off against this allowance.  Uncertainty in the current economic environment, if prolonged, could result in greater amounts becoming uncollectible in the future.  Should the estimates of losses be higher than the actual uncollectible accounts, we would report lower profitability when the estimates are made and higher profitability when the receivable is collected.
+Litigation Accruals.
+   We record as liabilities in our Consolidated Balance Sheets estimated amounts for claims that are probable and can be reasonably estimated.  The likelihood of a material change in these estimated liabilities is dependent on the possible outcome of settlement negotiations, regulatory or judicial review and the development of facts and circumstances in extended litigation which could change claims or assessments when both the amount and range of loss on some outstanding litigation is uncertain.  We disclose in the footnotes of the financial statements when we are unable to make a reasonable estimate of a material liability that could result from unfavorable outcomes in litigation.  As events occur, we will assess the potential liability related to our pending litigation and revise our estimates.  Such revisions could materially impact our results of operations.
+Results of Operations - Sales, Gross Margins and Expenses
+The following shows cost of goods sold, gross profit, expense items and net income as a percentage of net sales:
+ 
+Year Ended December 31,
+ 
+ 
+2016
+ 
+2015
+ 
+2014
+ 
+Net sales
+100.0
+%
+ 
+100.0
+%
+ 
+100.0
+%
+ 
+Cost of goods sold
+45.0
+ 
+44.5
+ 
+45.8
+ 
+Gross profit
+55.0
+ 
+55.5
+ 
+54.2
+ 
+Selling, general and administrative expense
+39.5
+ 
+37.7
+ 
+37.2
+ 
+Research and development expense
+10.0
+ 
+9.6
+ 
+10.1
+ 
+Net income attributable to Bio-Rad
+1.4
+ 
+5.6
+ 
+4.1
+ 
+Net sales
+N
+et sales (sales) in 
+2016
+ were 
+$2.07 billion
+, an increase of 
+2.4%
+ compared to 
+$2.02 billion
+ in 
+2015
+.  Excluding the impact of foreign currency, 
+2016
+ sales increased by approximately 
+4.0%
+ compared to 
+2015
+.  Currency neutral sales growth was primarily reflected in all regions except Europe. 
+28
+The Life Science segment sales in 
+2016
+ were 
+$730.7 million
+, an increase of 
+5.1%
+ compared to 
+2015
+.  On a currency neutral basis, sales increased 
+6.5%
+ compared to 
+2015
+.  The currency neutral sales increase was primarily in our Droplet Digital™ PCR and process media products.  The currency neutral sales increase was in all regions.
+The Clinical Diagnostics segment sales in 
+2016
+ were 
+$1.32 billion
+, an increase of 
+1.0%
+ compared to 
+2015
+.  On a currency neutral basis, sales increased 
+2.6%
+ compared to 
+2015
+.  The currency neutral sales increase was primarily attributable to growth in quality control, immunology, blood typing and diabetes product lines.  On a geographic view, currency neutral sales in 2016 increased most notably in the Americas and Asia, while sales declined in Europe.
+Sales in 2015 were $2.02 billion, a decrease of 7.2% compared to $2.18 billion in 2014.  Excluding the impact of foreign currency, 2015 sales increased by approximately 1.6% compared to 2014.  Currency neutral sales growth was primarily reflected in the United States and China. 
+The Life Science segment sales in 2015 were $695.0 million, a decrease of 4.6% compared to 2014.  On a currency neutral basis, sales increased 2.5% compared to 2014.  The currency neutral sales increase was primarily in our Droplet Digital™ PCR, western blotting, process chromatography media and cell biology products.  The currency neutral sales increase was primarily in the United States and Europe, partially offset by lower sales in Asia, excluding China.
+The Clinical Diagnostics segment sales in 2015 were $1.31 billion, a decrease of 8.5% compared to 2014.  On a currency neutral basis, sales increased 1.1% compared to 2014.  The Clinical Diagnostics segment had currency neutral sales growth from quality controls and immunology products, partially offset by declines in blood typing and infectious disease products.  Currency neutral sales growth was primarily in North America, China and Latin America, while European markets were still experiencing consolidation and pricing pressures.
+Gross margin
+Consolidated gross margins were 
+55.0%
+ in 
+2016
+ compared to 
+55.5%
+ in 
+2015
+.  Life Science segment gross margins in 
+2016
+ decreased from 
+2015
+ by approximately 
+0.7 percentage points
+, primarily due to lower margins in protein quantification and cell biology, higher service costs, higher acquisition intangible amortization, and $0.7 million of restructuring costs, partially offset by higher margins in Droplet Digital™ PCR, process media products and antibody products.  Clinical Diagnostics segment gross margins in 
+2016
+ decreased from 
+2015
+ by approximately 
+0.5 percentage points
+.  The decrease compared to 2015 was primarily driven by sales mix and pricing pressures, along with higher period expenses, and $1.4 million of restructuring costs, partially offset by the suspension of the medical device tax.
+Beginning in 2013, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act (PPACA), among other initiatives, provided for a 2.3% annual excise tax on the sales of certain medical devices in the U.S.  Bio-Rad has been paying this excise tax on most of our U.S. Clinical Diagnostic sales, which we accounted for as a period cost in Cost of goods sold.  However, the Consolidated Appropriations Act, 2016 (Pub. L. 114-113), signed into law on December 18, 2015, includes a two year moratorium on the medical device excise tax during the period beginning on January 1, 2016, and ending on December 31, 2017. 
+Consolidated gross margins were 55.5% in 2015 compared to 54.2% in 2014.  Life Science segment gross margins in 2015 increased from 2014 by approximately 0.9 percentage points, primarily due to sales of higher gross margin products including Droplet Digital™ PCR, gene expression and cell biology products.  In addition, lower service costs in Europe and costs associated with the closing of a manufacturing plant in 2014 contributed to higher margins.  Clinical Diagnostics segment gross margins in 2015 increased from 2014 by approximately 
+1.8 percentage points.  The increase compared to 2014 was primarily due to the 2014 consolidation and closure of certain facilities and the discontinuation of an underperforming product line.  Sales mix also contributed to the higher gross margins in 2015.
+29
+Selling, general and administrative expense
+Consolidated selling, general and administrative expenses (SG&A) increased to 
+$816.7 million
+ or 
+39.5%
+ of sales in 
+2016
+ compared to 
+$762.0 million
+ or 
+37.7%
+ of sales in 
+2015
+.  Increases to SG&A primarily included employee-related expenses, our largest cost, which also included $10.4 million of restructuring costs, $21.0 million for various legal matters, including the Wadler judgment as discussed further in Note 13 to the consolidated financial statements, professional fees, software, the revaluation of contingent consideration primarily associated with the cell sorting system and to a lesser extent the analytical flow cytometer platform, travel, facilities and recruitment/relocation.  Decreases to SG&A primarily included bad debt expense and a one-time distributor cost in 2015.  
+Consolidated SG&A decreased to $762.0 million or 37.7% of sales in 2015 compared to $808.2 million or 37.2% of sales in 2014.  Underlying the overall decrease in SG&A was the impact of foreign currency, an accrual of $19.5 million in 2014 associated with the SEC and DOJ investigations relating to the FCPA investigation for which a final settlement was reached in the fourth quarter of 2014, and a reduction of $4.2 million from the revaluations of contingent consideration.  Currency neutral increases in SG&A were primarily employee-related expenses, our largest cost, facilities and professional fees, partially offset by travel.  Other increases in SG&A included $2.3 million of bad debt expense and a one-time distributor termination cost of $1.9 million.
+Research and development expense
+Research and development expense increased to 
+$205.9 million
+ or 
+10.0%
+ of sales in 
+2016
+ compared to 
+$193.0 million
+ or 
+9.6%
+ of sales in 
+2015
+.  Life Science segment research and development expense increased in 
+2016
+ from 
+2015
+ primarily due to increased project activities in Droplet Digital™ PCR, protein quantification and cell biology.  Clinical Diagnostics segment research and development expense increased in 
+2016
+ from 
+2015
+ primarily from increased spending associated with the GnuBIO business.  
+Research and development expense decreased to $193.0 million or 9.6% of sales in 2015 compared to $220.3 million or 10.1% of sales in 2014.  Life Science segment research and development expense decreased in 2015 from 2014 primarily due to headcount reductions, lower supplies and lower external product development spend.  Clinical Diagnostics segment research and development expense decreased in 2015 from 2014 primarily due to the wind down of spending on projects as they approach launch and the discontinuation of an underperforming product line in 2014.
+Results of Operations – Non-operating
+Interest expense
+Interest expense in 
+2016
+ increased 
+1.2%
+ to 
+$21.9 million
+, relatively flat compared to 
+$21.7 million
+ in 
+2015
+.
+Interest expense in 2015 decreased 2.0% to $21.7 million compared to 2014 primarily due to $0.6 million in 2014 associated with our offer to settle the SEC and DOJ investigations relating to the FCPA investigation for which a final settlement was reached in the fourth quarter of 2014.
+  
+Foreign currency exchange gains and losses
+Foreign currency exchange gains and losses consist of foreign currency transaction gains and losses on intercompany net receivables and payables and the change in fair value of our forward foreign exchange contracts used to manage our foreign currency exchange risk.  Net foreign currency exchange losses for 
+2016
+, 
+2015
+ and 
+2014
+ were 
+$4.5 million
+, 
+$10.2 million
+ and 
+$9.3 million
+, respectively.  The 
+2016
+, 
+2015
+ and 
+2014
+ net foreign currency exchange losses were attributable to market volatility, increasing costs to hedge and the result of the estimating process inherent in the timing of shipments and payments of intercompany debt, and our decision to reclassify a large percentage of our intercompany receivable from Brazil to long-term towards the end of 2015.  All years are affected by the economic hedging program we employ to hedge our intercompany receivables and payables.
+30
+Other income and expense, net
+Other income and expense, net includes investment and dividend income, generally interest income on our cash and cash equivalents, short-term investments and long term marketable securities.  Other (income) expense, net in 
+2016
+ increased to 
+$14.9 million
+ income compared to 
+$11.1 million
+ income in 
+2015
+.  The increase was primarily due to higher dividend income in 2016 on the ordinary and preferred shares of our investment in Sartorius AG, and higher investment income.
+Other (income) expense, net in 2015 decreased to $11.1 million income compared to $13.0 million income in 2014.  The decrease was primarily due to lower interest and investment income primarily related to a weaker 2015 foreign currency exchange rate for ordinary and preferred dividends from our investment in Sartorius AG, and realized losses in 2015 compared to no realized losses in 2014.
+Effective tax rate
+Our effective tax rate was 
+32%
+, 
+22%
+ and 
+32%
+ in 
+2016
+, 
+2015
+ and 
+2014
+, respectively.  The effective tax rates for 2016 and 2015 included tax benefits from the repatriation of foreign earnings.  The effective tax rate for 2016 included additional tax liabilities for unrecognized tax benefits related to the non-deductibility of interest expense in our foreign jurisdictions.  The effective tax rate for 2014 included nondeductible penalties and losses that were nonrecurring.  Our foreign taxes result primarily from income earned in France and Switzerland.  Many jurisdictions in which we operate, including Switzerland, Russia, the U.K. and Singapore, have statutory tax rates that are significantly lower than the U.S. statutory tax rate of 
+35%
+.  Our effective tax rate may be impacted in the future, either favorably or unfavorably, by many factors including, but not limited to, changes to statutory tax rates, changes in tax laws or regulations, tax audits and settlements, and generation of tax credits.
+Our income tax returns are audited by U.S. federal, state and foreign tax authorities.  We are currently under examination by many of these tax authorities.  The tax years open to examination include the years 2013 and forward for the U.S., and the years 2010 and forward for certain foreign jurisdictions, including France, Switzerland and Germany.  There are differing interpretations of tax laws and regulations, and as a result, significant disputes may arise with these tax authorities involving issues of the timing and amount of deductions and allocations of income among various tax jurisdictions.  We evaluate our exposures associated with our tax filing positions on a quarterly basis. 
+We record liabilities for unrecognized tax benefits related to uncertain tax positions. We do not believe any currently pending uncertain tax positions will have a material adverse effect on our consolidated financial statements, although an adverse resolution of one or more of these uncertain tax positions in any period may have a material impact on the results of operations for that period.
+As of 
+December 31, 2016
+, based on the expected outcome of certain examinations or as a result of the expiration of statutes of limitation for certain jurisdictions, we believe that within the next twelve months it is reasonably possible that our previously unrecognized tax benefits could decrease by approximately 
+$3.5 million
+.  Substantially all such amounts will impact our effective income tax rate.
+During 2017 we expect to proceed with the implementation of our European Headquarters and related restructuring plans that could have a significant effect on our effective tax rate.  Many of these plans are operational changes that may impact our jurisdictional mix of earnings in the future.
+31
+ 
+Liquidity and Capital Resources
+Bio-Rad operates and conducts business globally, primarily through subsidiary companies established in the markets in which we trade.  Goods are manufactured in a small number of locations, and are then shipped to local distribution facilities around the world.  Our product mix is diversified, and certain products compete largely on product efficacy, while others compete on price.  Gross margins are generally sufficient to exceed normal operating costs, and funding for research and development of new products, as well as routine outflows of capital expenditures, interest and taxes.  In addition to the annual positive cash flow from operating activities, additional liquidity is readily available via the sale of short-term investments and access to our $200.0 million unsecured Credit Agreement that we entered into in June 2014.  Borrowings under the Credit Agreement are on a revolving basis and can be used to make permitted acquisitions, for working capital and for other general corporate purposes. We had no outstanding borrowings under the Credit Agreement as of 
+December 31, 2016
+, however, 
+$0.8 million
+ was utilized for domestic standby letters of credit that reduced our borrowing availability.  The Credit Agreement matures in June 2019.  
+At 
+December 31, 2016
+, we had available 
+$839.4 million
+ in cash, cash equivalents and short-term investments, of which approximately 
+28%
+ was held in our foreign subsidiaries.  We believe that our holdings of cash, cash equivalents and short-term investments in the U.S. and in our foreign subsidiaries are sufficient to meet both the current and long-term needs of our global operations.  The amount of funds held in the United States can fluctuate due to the timing of receipts and payments in the ordinary course of business and due to other reasons, such as business-development activities.  As part of our ongoing liquidity assessments, we regularly monitor the mix of domestic and foreign cash flows (both inflows and outflows).  Repatriation of overseas funds will result in additional U.S. federal and state income tax payments.  In general, it is our practice and intention to indefinitely reinvest the cash generated by our foreign subsidiaries in our foreign subsidiaries' operations. 
+Under domestic and international lines of credit, standby letters of credit and guarantee arrangements, we had 
+$205.7 million
+ available for borrowing and usage as of 
+December 31, 2016
+, which was reduced by 
+$5.4 million
+ that was utilized for standby letters of credit and guarantee arrangements issued by our banks to support our obligations. Management believes that this availability, together with cash flow from operations, will be adequate to meet our current objectives for operations, research and development, capital additions for manufacturing and distribution, plant and equipment, information technology systems and an acquisition of reasonable proportion to our existing total available capital.
+While economic growth is somewhat improving, instability still exists in developed nations and in the U.S., such as the slowing rate of growth in the Chinese economy and in emerging markets, especially those oil-producing countries that have been affected by a decline in oil prices, which may adversely affect our future results of cash flows.  Demand for our products and services could change more dramatically than in previous years based on activity, funding, reimbursement constraints and support levels from government, universities, hospitals and private industry, including diagnostic laboratories.  The need for certain sovereign nations with large annual deficits to curtail spending could lead to slower growth of, or even a decline in, our business.  Sovereign nations either delaying payment for goods and services or renegotiating their debts could impact our liquidity.  The situation in these sovereign nations is continuously evolving and we have no greater knowledge of the situation other than what is publicly reported.  As of 
+December 31, 2016
+ and 
+December 31, 2015
+, we had accounts receivable, net of an allowance for doubtful accounts, in Spain, Italy, Greece and Portugal of 
+$32.7 million
+ and 
+$40.7 million
+, respectively. 
+32
+Cash Flows from Operations
+Net cash provided by operations was 
+$216.4 million
+, 
+$186.2 million
+ and 
+$273.3 million
+ in 
+2016
+, 
+2015
+, and 
+2014
+, respectively.  The net increase between 
+2016
+ and 
+2015
+ of 
+$30.2 million
+ primarily resulted from:
+•
+higher cash received from customers in 2016 primarily due to lower U.S. collections in the second half of 2015 from delays associated with the second phase of an ERP implementation, and 
+•
+higher investment income received, partially offset by
+•
+more cash paid to suppliers and employees primarily related to higher payments to inventory suppliers as payments were delayed in the latter part of 2015 mostly associated with the second deployment of the ERP system, higher annual performance-based compensation payments in 2016, and higher legal and other professional fees,
+•
+higher net income tax payments than in 2015, and
+•
+net payments in 2016 compared to net cash received in 2015 for forward foreign exchange contracts.
+The net decrease between 2015 and 2014 of $87.1 million primarily resulted from:
+•
+lower cash received from customers primarily due to the value of foreign currency denominated sales and subsequent collections that were affected by a strengthening in the U.S. dollar, disproportionately larger collections in 2014 from the Spanish government, lower U.S. collections in the second half of 2015 from delays associated with the second phase of an ERP implementation, and higher U.S. collections in 2014 resulting from delays caused by the first deployment of a new ERP system, partially offset by
+•
+less cash paid to suppliers and employees primarily related to a decrease in foreign exchange rates, and reductions in force, partially offset by higher performance-based compensation payments, and
+•
+a payment of $55.1 million for the settlement with the SEC and DOJ associated with the FCPA in the fourth quarter of 2014.
+We regularly review past due receivables to assess the allowance for doubtful accounts and believe net accounts receivable are fully realizable.  We also routinely review inventory for the impact of obsolescence and changes in market prices caused by the introduction of new products, technologies and in government reimbursement policies.  Cash flows from operations during the first quarter have historically had larger payments for royalties, fourth quarter sales commissions to third parties and annual employee bonuses, and we expect this pattern to recur in the first quarter of 
+2017
+.
+Cash Flows from Investing Activities
+Net cash used in investing activities was 
+$213.9 million
+, 
+$166.9 million
+ and 
+$190.5 million
+ for 
+2016
+, 
+2015
+ and 
+2014
+, respectively.  Purchases, net of sales and maturities of marketable securities and investments had an overall decrease of $13.2 million in 2016 compared to 2015 primarily due to a decrease in maturities and securities sales, partially offset by a decrease in purchases.  Purchases, net of sales and maturities of marketable securities and investments had an overall decrease of $35.4 million in 2015 compared to 2014 primarily due to an increase in purchases, partially offset by an increase in maturities and securities sales.
+Short-term restricted investments of 
+$4.56 million
+ and $4.21 million in 2016 and 2015, respectively, represent a money market fund for collateral that secures worker's compensation and general liability insurance.  Investment income accrues to us and is recorded in Investment proceeds and miscellaneous receipts, net in the Consolidated Statements of Cash Flows.
+Our investment objective is to maintain liquidity to meet anticipated operational and other corporate requirements in which capital is preserved and increased through investing in low risk, high quality securities with commensurate returns, consistent with our risk tolerance level.
+33
+Purchases of intangible assets were higher in 2014 than in 2016 and 2015 primarily due to higher purchases of licenses.  Payments for acquisitions, net of cash received, and long-term investments in 2016 and 2014 were primarily due to the following:
+•
+in January 2016, we acquired a high performance analytical flow cytometer platform from Propel for total consideration of 
+$32.8 million
+, which included 
+$9.5 million
+ paid in cash at the closing date and 
+$23.3 million
+ in contingent consideration potentially payable to Propel, after the effects of a calculation revision that were reflected in the fourth quarter of 2016 , and
+•
+in April 2014, we acquired 100% of the issued and outstanding stock of GnuBIO for a total consideration of 
+$50.4 million
+, which included 
+$39.7 million
+ paid in cash at the closing date and 
+$10.7 million
+ in contingent consideration potentially payable to GnuBIO's shareholders.  The Level 3 contingent consideration was revalued to a fair value of 
+$10.0 million
+ as of 
+December 31, 2016
+ and 
+2015
+.
+We continue to review possible acquisitions to expand both our Life Science and Clinical Diagnostics segments, such as our acquisition of RainDance in February 2017.  We routinely meet with the principals or brokers of the subject companies.  We are currently in discussion and assessing a few possible acquisitions in which we expect our current reported cash and cash equivalents to be sufficient for any cash consideration for these possible acquisitions.  However, it is not certain at this time that any of these discussions involving material or significant acquisitions will advance to completion.
+Capital expenditures in 
+2016
+ totaled 
+$141.4 million
+, compared to 
+$112.0 million
+ and 
+$121.0 million
+ in 
+2015
+ and 
+2014
+, respectively.  Capital expenditures represent the addition and replacement of production machinery and research equipment, ongoing manufacturing and facility additions for expansion, regulatory, environmental and compliance.  Also included in capital expenditures are investments in business systems and data communication upgrades and enhancements.  All periods include equipment placed with Clinical Diagnostics segment customers who then contract to purchase our reagents for use.  As we continue to implement the remaining phases of the ERP platform, we expect capital expenditures to moderate in 2017 and then decline over the next couple of years.  Capital expenditures were lower in 2015 compared to 2016 as the second phase was implemented in July 2015 and the third phase of the ERP system ramped up in 2016.  Capital expenditures were higher in 2014 than in 2015 as we were in the development stages (in which appropriate costs are capitalized) of implementing the second phase of a global single instance ERP platform.  The current estimated future project cost for global implementation for the single instance ERP platform is projected to be $90 million to $130 million, and is estimated to take approximately the next two to three years to fully implement.  
+Cash Flows from Financing Activities
+Net cash provided by financing activities was 
+$9.0 million
+, 
+$8.6 million
+ and 
+$11.7 million
+ in 
+2016
+, 
+2015
+ and 
+2014
+, respectively.  Net cash provided by financing activities in 2016, 2015 and 2014 was primarily from proceeds from issuance of our common stock.  Additionally in 2016, 2015 and 2014, there were payments of $3.5 million, 
+$3.0 million and $2.4 million, respectively, to Propel Labs' shareholders in contingent consideration for sales milestones that were associated with the valuation as of the 2012 acquisition date.  In 2014, there was also the payment of a short-term borrowing. 
+We have outstanding Senior Notes of $425.0 million, which are not due until 2020.  We believe the current cash is sufficient to meet normal operating costs, and funding for research and development of new products, as well as routine outflows of capital expenditures, interest and taxes. 
+The Board of Directors has authorized the repurchase of up to 
+$18.0 million
+ of Bio-Rad's common stock, of which 
+$3.3 million
+ has yet to be repurchased as of 
+December 31, 2016
+.  The Credit Agreement may limit our ability to repurchase our stock.  In accordance with the terms of awards under the 2007 Incentive Award Plan, in June 2012, we withheld 
+122 shares
+ of our Class A common stock and 
+917 shares
+ of our Class B common stock to satisfy tax obligations due upon the vesting of restricted stock of certain of our employees, which is considered a repurchase of 
+34
+our stock.  All of the restricted stock vested as of December 31, 2013 and therefore we do not anticipate any repurchasing of shares for this purpose.  We had no other repurchases of our stock during 
+2016
+, 
+2015
+ or 
+2014
+. 
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements that have had or are reasonably likely to have a current or future material effect on our financial condition, results of operations or liquidity.
+Contractual Obligations
+The following summarizes certain of our contractual obligations as of 
+December 31, 2016
+ and the effect such obligations are expected to have on our cash flows in future periods (in millions):
+ 
+ 
+Payments Due by Period
+ 
+ 
+ 
+ 
+Less
+Than
+ 
+1-3
+ 
+3-5
+ 
+More
+than
+Contractual Obligations
+ 
+Total
+ 
+One Year
+ 
+Years
+ 
+Years
+ 
+5 Years
+Long-term debt, including current portion 
+(1)
+ 
+$
+437.0
+ 
+$
+0.3
+ 
+$
+0.5
+ 
+$
+425.6
+ 
+$
+10.6
+Interest payments 
+(1)
+ 
+81.6
+ 
+20.7
+ 
+41.4
+ 
+19.5
+ 
+—
+Operating lease obligations 
+(2)
+ 
+158.0
+ 
+42.1
+ 
+56.7
+ 
+33.5
+ 
+25.7
+Purchase obligations 
+(3)
+ 
+35.0
+ 
+17.5
+ 
+8.5
+ 
+9.0
+ 
+—
+Long-term liabilities 
+(4)
+ 
+142.9
+ 
+34.3
+ 
+10.5
+ 
+4.0
+ 
+94.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1)   These amounts represent expected cash payments, including capital lease obligations, which are included in our December 31, 2016 Consolidated Balance Sheet. Our debt is fixed and primarily consists of the 4.875% Notes. See Note 5 of the Consolidated Financial Statements for additional information about our debt.
+ 
+ 
+ 
+(2)   Operating lease obligations are described in Note 12 of the Consolidated Financial Statements.
+ 
+ 
+ 
+(3)   Purchase obligations include agreements to purchase goods or services that are enforceable and legally binding to Bio-Rad and that specify all significant terms.  Purchase obligations exclude agreements that are cancelable without penalty.
+ 
+ 
+ 
+(4)   Excluded from this table are tax liabilities for uncertain tax positions and contingencies in the amount of $16.4 million.  We are not able to reasonably estimate the timing of future cash flows of these tax liabilities, therefore, our income tax obligations are excluded from the table above.  See Note 6 of the Consolidated Financial Statements for additional information about our income taxes.
+ 
+ 
+ 
+Recent Accounting Standards Updates
+In January 2017, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update No. (“ASU”) 2017-04, "Simplifying the Test for Goodwill Impairment."  ASU 2017-04 removes Step 2 of the goodwill impairment test, which requires a hypothetical purchase price allocation.  A goodwill impairment will be the amount by which a reporting unit’s carrying value exceeds its fair value, not to exceed the carrying amount of goodwill.  ASU 2017-04 is effective prospectively for annual and interim periods beginning after December 15, 2019.  Early adoption is permitted for any impairment tests performed after January 1, 2017.  ASU 2017-04 will provide a more stream-lined approach to evaluating future goodwill impairment and we early adopted on January 1, 2017.  We have not assessed the impact that ASU 2017-04 will have on our consolidated financial statements because a goodwill impairment has not occurred after January 1, 2017. 
+ 
+In January 2017, the FASB issued ASU 2017-01, "Clarifying the Definition of a Business."  ASU 2017-01 changes the definition of a business to assist entities with evaluating when a set of transferred assets and activities is a business.  If substantially all of the fair value is concentrated in a single asset or a group of similar assets, the acquired 
+  
+Determining whether a set constitutes a business is critical because the accounting for a business combination differs significantly from that of an asset acquisition.  ASU 2017-01 is effective for fiscal years beginning after December 15, 2017, and interim periods within those years.  ASU 2017-01 will be applied prospectively to any transactions occur
+35
+set is not a business.  If this is not met, the entity then evaluates whether the set meets the requirement that a business include, at a minimum, an input and a substantive process that together significantly contribute to the ability to create outputs.
+ring within the period of adoption.  Early adoption is permitted, including for interim or annual periods in which the financial statements have not been issued or made available for issuance.  We early adopted ASU 2017-01 on January 1, 2017.  For our acquisition of RainDance Technologies, Inc., ASU 2017-01 did not affect the conclusion of it being a business combination (see Note 17 to the consolidated financial statements). 
+In November 2016, the FASB issued ASU 2016-18, "Restricted Cash."  ASU 2016-18 requires entities to show the changes in the total of cash, cash equivalents, restricted cash and restricted cash equivalents in the statement of cash flows.  As a result, entities will no longer present transfers between cash and cash equivalents and restricted cash and restricted cash equivalents in the statement of cash flows.  ASU 2016-18 will be applied retrospectively and is effective for fiscal years beginning after December 15, 2017, and interim periods within those years.  Early adoption is permitted.  We have had a limited amount of restricted cash of $2.0 million and $1.4 million as of December 31, 2016 and 2015, respectively, which was reclassified from cash to either Prepaid expenses, Other current assets or Other assets in the Consolidated Balance Sheets.  At the time of adoption, we cannot assure whether these same restricted cash amounts will be held or what other restricted cash we may have, or that historically reported amounts will be similar. 
+In October 2016, the FASB issued ASU 2016-16, "Intra-Entity Transfers of Assets Other Than Inventory."  ASU 2016-16 requires immediate recognition of income tax consequences of intercompany asset transfers, other than inventory transfers.  Existing GAAP prohibits recognition of income tax consequences of intercompany asset transfers whereby the seller defers any net tax effect and the buyer is prohibited from recognizing a deferred tax asset on the difference between the newly created tax basis of the asset in its tax jurisdiction and its financial statement carrying amount as reported in the consolidated financial statements.  ASU 2016-16 specifically excludes from its scope intercompany inventory transfers whereby the recognition of tax consequences will take place when the inventory is sold to third parties. 
+ 
+ASU 2016-16 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years.  Early adoption is permitted as of the beginning of an annual reporting period for which financial statements have not been issued or made available for issuance.  We do not plan to early adopt ASU 2016-16.  We are currently evaluating the effect ASU 2016-16 will have on our consolidated financial statements.
+ 
+In August 2016, the FASB issued ASU 2016-15, "Classification of Certain Cash Receipts and Cash Payments."  ASU 2016-15 is intended to reduce diversity in practice in how certain transactions are classified in the statement of cash flows.  ASU 2016-15 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years, with early adoption permitted.  We are currently evaluating the effect ASU 2016-15 will have on our consolidated statements of cash flows, if any.
+In June 2016, the FASB issued ASU 2016-13, "Measurement of Credit Losses on Financial Instruments."  ASU 2016-13 will replace the current incurred loss approach with an expected loss model for trade and other receivables, and instruments measured at amortized cost and require entities to record allowances for available-for-sale debt securities rather than reduce the carrying amount under the current other-than-temporary impairment model.  ASU 2016-13 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years.  Early adoption is permitted for all entities for annual periods beginning after December 15, 2018, and interim periods therein.  We are currently evaluating the effect ASU 2016-13 will have on our consolidated financial statements.
+In March 2016, the FASB issued ASU 2016-09, "Improvements to Employee Share-Based Payment Accounting."  ASU 2016-09 will require all income tax effects of awards to be recognized in the income statement when the awards vest or are settled.  It also will allow an employer to repurchase more of an employee’s shares than it can today for tax withholding purposes without triggering liability accounting and to make a policy election to account for forfeitures as they occur.  ASU 2016-09 is effective for fiscal years beginning after December 15, 2016, and interim periods 
+36
+within those fiscal years.  We adopted ASU 2016-09 on January 1, 2017 and made a policy election to account for forfeitures as they occur.  We do not expect ASU 2016-09 to have a material impact on our consolidated financial statements.
+In March 2016, the FASB issued ASU 2016-07, "Simplifying the Transition to the Equity Method of Accounting," which eliminates the requirement to retrospectively apply the equity method in previous periods when an investor initially obtains significant influence over an investee.  Under current guidance, an investor that does not consolidate an investment and initially accounts for it under a method other than the equity method is required to retrospectively apply the equity method in prior periods in which it held the investment when it subsequently obtained significant influence.  ASU 2016-07 will be applied on a prospective basis and is effective for all entities for fiscal years beginning after December 15, 2016, and interim periods within those years.  We adopted ASU 2016-07 on January 1, 2017 and do not expect it to materially affect our consolidated financial statements, unless our situation changes regarding our ability to influence the investee in the future as a result of our cost method investment in Sartorius AG (see Note 3 to the consolidated financial statements). 
+In February 2016, the FASB issued ASU 2016-02, "Leases," which will require, among other items, lease accounting to recognize most leases as assets and liabilities on the balance sheet.  Qualitative and quantitative disclosures will be enhanced to better understand the amount, timing and uncertainty of cash flows arising from leases.  ASU 2016-02 is effective for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years, with early adoption permitted.  We do not plan to early adopt.  ASU 2016-02 will be adopted on a modified retrospective basis, with elective reliefs, which requires application of ASU 2016-02 for all periods presented.  We are currently gathering, documenting and analyzing lease agreements related to this ASU and anticipate material additions to the balance sheet for right-of-use assets, offset by the associated liabilities. 
+In January 2016, the FASB issued ASU 2016-01, "Recognition and Measurement of Financial Assets and Financial Liabilities."  Amendments under ASU 2016-01, among other items, require that all equity investments in unconsolidated entities (other than those accounted for using the equity method of accounting) will generally be measured at fair value through earnings.  There will no longer be an available-for-sale classification, for which changes in fair value are reported in other comprehensive income, for equity securities with readily determinable fair values. 
+ 
+For equity investments without readily determinable fair values, the cost method is also eliminated.  However, entities will be able to elect to record equity investments without readily determinable fair values at cost, less impairment, and plus or minus subsequent adjustments for observable price changes.  Changes in the basis of these equity investments will be reported in current earnings.  ASU 2016-01 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years.  For equity securities that would be affected by ASU 2016-01, see the available-for-sale investments table in Note 3 to the consolidated financial statements.  At the time of adoption, we cannot assure whether these same equity securities will be held or what other equity securities we may have, or that historically reported changes will be similar.
+In September 2015, the FASB issued ASU 2015-16, "Simplifying the Accounting for Measurement-Period Adjustments," which eliminates the requirement for an acquirer in a business combination to account for measurement-period adjustments retrospectively.  Under ASU 2015-16, acquirers must recognize measurement-period adjustments during the period in which they determine the amounts, including the effect on earnings of any amounts they would have recorded in previous periods if the accounting had been completed at the acquisition date.  The measurement period cannot exceed one year from the date of the acquisition.  ASU 2015-16 was effective on January 1, 2016, and we adopted it at the same time as a change in accounting policy, which had no impact on our consolidated financial statements. 
+In July 2015, the FASB issued ASU 2015-11, “Simplifying the Measurement of Inventory.”  Under current guidance, an entity subsequently measures inventory at the lower of cost or market, with market defined as replacement cost, net realizable value (NRV), or NRV less a normal profit margin.  An entity uses current replacement cost provided that it is not above NRV (i.e., the ceiling) or below NRV less an “approximately normal profit margin” (i.e., the floor).  ASU 2015-11 eliminates this analysis and requires entities to measure most inventory “at the lower of cost and NRV.”   ASU 2015-11 is effective prospectively for annual periods beginning after December 15, 2016, and interim periods 
+37
+therein.  We adopted ASU 2015-11 on January 1, 2017 and do not expect it to have a material impact to our consolidated financial statements. 
+In April 2015, the FASB issued ASU 2015-03, "Simplifying the Presentation of Debt Issuance Costs."  ASU 2015-03 was issued to simplify the presentation of debt issuance costs by requiring debt issuance costs to be presented as a deduction from the corresponding debt liability.  This makes the presentation of debt issuance costs consistent with the presentation of debt discounts or premiums.  Under prior U.S. GAAP, debt issuance costs were reported on the balance sheet as assets and amortized as interest expense.  Under ASU 2015-03, debt issuance costs will continue to be amortized to interest expense using the effective interest method.  In August 2015, the FASB issued ASU 2015-15, "Presentation and Subsequent Measurement of Debt Issuance Costs Associated with Line-of-Credit Arrangements" to clarify the SEC staff’s position that it would not object to an entity deferring and presenting debt issuance costs as an asset and subsequently amortizing the deferred debt issuance costs ratably over the term of the line-of-credit arrangement, which is our current practice.  We adopted ASU 2015-03 on January 1, 2016 on a retrospective basis as a change in accounting policy.  The Condensed Consolidated Balance Sheet as of December 31, 2015 was retrospectively adjusted by decreasing Other assets and Long-term debt, net of current maturities, by $1.8 million, respectively.
+    
+In May 2014, the FASB issued ASU 2014-09, “Revenue from Contracts with Customers,” which requires an entity to recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. ASU 2014-09 will replace most existing revenue recognition guidance in GAAP when it becomes effective. In August 2015, the FASB issued ASU 2015-14 to defer the effective date for annual reporting periods beginning after December 15, 2017, including interim periods within that reporting period. Early adoption is permitted as of the original effective date in ASU 2014-09, which is annual reporting periods beginning after December 15, 2016, however, we will not early adopt. In December 2016, the FASB issued ASU 2016-20, "Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers" which affect narrow aspects of the guidance issued in ASU 2014-09. In May 2016, the FASB issued ASU 2016-12, "Narrow-Scope Improvements and Practical Expedients," which amends and clarifies certain aspects in ASU 2014-09 that include collectiblity, presentation of sales and other taxes collected from customers, noncash consideration, contract modifications and completed contracts at transition. In April 2016, the FASB issued ASU 2016-10, "Identifying Performance Obligations and Licensing," which amends the guidance in ASU 2014-09 on accounting for licenses of intellectual property and identifying performance obligations. In March 2016, the FASB issued ASU 2016-08, "Principal versus Agent Considerations (Reporting Revenue Gross versus Net)," which amends the principal versus agent guidance in ASU 2014-09. The standards are to be applied retrospectively and permit the use of either the retrospective or cumulative effect transition method. We will use the cumulative effect transition method once we adopt ASUs 2014-09, 2016-20, 2016-12, 2016-10 and 2016-08 on January 1, 2018. We have completed revenue recognition diagnostic surveys across all regions in our decentralized sales contracting process, which is based on local country commercial regulations and practices. We have begun assessing individual contracts to identify performance obligations under these ASU’s, as compared with the deliverables and separate units of accounting previously identified under current U.S. GAAP, to determine the effect that these ASU’s will have on our consolidated financial statements and related disclosures.
+ 
+38

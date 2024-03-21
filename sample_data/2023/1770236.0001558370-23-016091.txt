@@ -1,0 +1,274 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis should be read in conjunction with the accompanying consolidated financial statements and related notes included elsewhere in this Report. This discussion contains forward-looking statements reflecting our current expectations, whose actual outcomes involve risks and uncertainties. Actual results and the timing of events may differ materially from those stated in or implied by these forward-looking statements due to a number of factors, including those discussed in the sections entitled “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements”, and elsewhere in this Report.
+23
+Table of Contents
+Overview
+We are a key provider of technology, products, and services to movie theater operators and sports and entertainment venues. 
+1)
+We provide a set of valuable services to movie theater operators and other critical screening and viewing rooms. These services include overall project management, which can encompass a wide range of design, integration, installation, and procurement services for new auditorium builds, refurbishments, or upgrades to existing facilities. 
+2)
+We design and manufacture a set of proprietary products that are sold either as part of our project management services or a la carte. Examples of these products include our ADA-compliant accessibility products and our Caddy brand, a leading provider of proprietary cup holders, trays, and other products sold into our strategic markets of motion picture exhibition, entertainment, and sports venues as well as other non-strategic markets. We also resell third-party technologies, including but not limited to items such as screens, projectors, and servers. 
+3)
+We resell third-party products as part of our project management services or a la carte. These include technology products such as screens, projectors, servers, and FF&E (furniture, fixtures, and equipment).
+4)
+Finally, we have a set of recently introduced products that we believe have the potential to be disruptive to the movie theater, entertainment and sports venue industries. For example, our operations enhancement and theater management solution include a software-as-a-service (SaaS) platform combined with other technologies that allow theater operators to improve their quality control. We have also developed a translator product and service that will enable moviegoers to watch a movie in any language that the film is available in, all in the same auditorium through a set of augmented reality glasses. Another example is a proprietary mobile cart we’ve developed to enable eSports and gaming in movie-theater auditoriums.
+In June 2020, MiT LLC members created Moving iMage Technologies, Inc. (“MiT Inc.”) to facilitate the Company’s initial public offering (“IPO”). Upon formation of MiT Inc., 2,000,000 shares of MiT Inc. Common Stock were issued to members of MiT LLC. On July 7, 2021, MiT LLC and MiT Inc. entered into an exchange agreement (“Exchange Agreement”) whereby the members of MiT LLC exchanged their membership interest for 2,350,000 shares of Common Stock in MiT Inc. As a result of the Exchange Agreement, the members of MiT LLC owned approximately 79% or 4,452,334 of the outstanding Common Stock of MiT Inc. As a result, MiT LLC (the entity where the Company conducts its business) became a wholly-owned subsidiary of MiT Inc. (the SEC registrant). 
+The transaction was accounted for as a merger of entities under common ownership in accordance with generally accepted accounting principles in the United States of America (“GAAP”). This determination was primarily based on the facts that, immediately before and after the transaction: (i) MiT LLC owners owned a substantial majority of the voting rights in the combined company, (ii) MiT LLC designated a majority of the members of the initial board of directors of the combined company, and (iii) MiT LLC’s senior management holds all key positions in the senior management of the combined company. As a result, the historical financial statements of MiT LLC and MiT Inc. for the year ended June 30, 2022 have been retroactively revised to reflect the consolidation of MiT, Inc. and MiT LLC. All inter-company transactions and balances between MiT Inc. and MiT, LLC have been eliminated. 
+Factors affecting our performance
+Effect of COVID-19 global pandemic
+24
+Table of Contents
+Throughout 2020 and 2021 the theatres reopened as soon as local restrictions and the status of the COVID-19 pandemic would allow. As of June 30, 2023, a large majority of domestic and international theatres were open. The industry’s recovery to historical levels of new film content, both in terms of the number of new films and box office performance, is still underway, as the industry also continues to adjust to evolving theatrical release windows, competition from streaming and other delivery platforms, supply chain delays, inflationary pressures, labor shortages, wage rate pressures and other economic factors.
+Based on our current estimates of recovery, we believe we have, and will generate, sufficient cash to sustain operations. Nonetheless, the COVID-19 pandemic has had, and continues to have, adverse effects on the Company’s business, results of operations, cash flows and financial condition.
+Investment in growth
+Adding New Customers and Expanding Sales to Our Existing Customer Base
+Promoting our Brand and Offering Additional Products
+Ability to Maintain Gross Margins
+Fluctuations in Revenues and Earnings
+25
+Table of Contents
+Net sales
+The principal factors that have affected or could affect our net sales from period to period are:
+●
+The condition of the economy in general and of the cinema and/or cinema equipment industry in particular,
+●
+Our customers’ adjustments in their order levels,
+●
+Seasonality in our business, specifically our second fiscal quarter which is traditionally weaker,
+●
+Changes in our pricing policies or the pricing policies of our competitors or suppliers,
+●
+The addition or termination of key supplier relationships,
+●
+The rate of introduction and acceptance by our customers of new products and services,
+●
+Our ability to compete effectively with our current and future competitors,
+●
+Our ability to enter into and renew key relationships with our customers and vendors,
+●
+Changes in foreign currency exchange rates,
+●
+A major disruption of our information technology infrastructure,
+●
+Unforeseen catastrophic events such as the COVID-19 pandemic, armed conflict, terrorism, fires, typhoons and earthquakes, and
+●
+Any other disruptions, such as labor shortages, unplanned maintenance or other manufacturing problems.
+Cost of goods sold
+Cost of goods sold includes the cost of products or components that we purchase from third party manufacturers plus assembly and packaging labor costs for these third parties or in-house designed products. Cost of goods sold is also affected by inventory obsolescence if our inventory management is not effective or efficient. We mitigate the risk of inventory obsolescence by stocking relatively small amounts of inventory at any given time, and relying instead on a strategy of manufacturing or acquiring products based on orders placed by our customers.
+In April 2022, the Company entered into an Asset Purchase Agreement with QSC, LLC to purchase an aggregate of $1.5 million of inventory from QSC, LLC. This asset purchase agreement was not within the Company's normal policy of acquiring small amounts of inventory, however management viewed this purchase as a strategic opportunity to improve its gross margins and expand its strategy of enabling under-served communities to enjoy the movie going experience and as such entered into this transaction.
+General and administrative expenses
+General and administrative expenses relate primarily to compensation and associated expenses for personnel in general management, information technology, human resources, procurement, planning and finance, as well as outside legal, investor relations, accounting, consulting and other operating expenses.
+Selling and marketing expenses
+Selling and marketing expenses relate primarily to salary and other compensation and associated expenses for internal sales and customer relations personnel, advertising, outbound shipping and freight costs, tradeshows, royalties under a brand license, and selling commissions.
+26
+Table of Contents
+Research and development expenses
+Research and development expenses consist of compensation and associated costs of employees engaged in research and development projects, as well as materials and equipment used for these projects, and third-party compensation for research and development services. We do not engage in any long-term research and development contracts, and all research and development costs are expensed as incurred.
+Results of Operations
+Year ended June 30, 2023 compared to year ended June 30, 2022
+Net sales
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+   
+2022
+$
+ 20,207
+​
+$
+18,351
+​
+Net revenues increased 10.1% to $20.21 million for the year ended June 30, 2023 from $18.35 million for the prior fiscal year primarily due to the recovery from the impact of COVID-19 on the exhibition industry. Backlog at June 30, 2023 was approximately $12.02 million, which represented orders currently planned to be shipped substantially by January 31, 2024. Backlog at June 30, 2022 was $10.03 million. All open orders at June 30, 2022, except one for approximately $0.2 million due to customer deferral, were fulfilled in the fiscal year 2023.
+Gross Profit
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s),
+2023
+    
+2022
+$
+ 5,310
+​
+$
+4,461
+​
+Gross profit increased 19.0% to $5.31 million or by $0.85 million for the year ended June 30, 2023 from $4.46 million for the prior fiscal year. As a percentage of total revenues, gross margin increased to 26.3% for the year ended June 30, 2023 from 24.3% for the prior year. The increase in gross margin as a percentage of revenues was driven primarily by product mix, as higher margin parts and services revenues such as the QSC LLC purchases made up a larger percentage of total revenues. 
+Research and Development
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+    
+2022
+$
+ 261
+​
+$
+238
+​
+The increase in research and development expense was primarily associated with the impact of COVID-19 I in 2022. We expect research and development expense and headcount to increase as a percentage of sales in the future as we continue to increase product development on our green product line, SaaS (software as a service) products, LED screen support systems, Caddy products, and others as our business expands into new areas.
+Selling, General and Administrative Expense
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+    
+2022
+$
+ 6,070
+​
+$
+5,985
+​
+27
+Table of Contents
+2023 Selling, General and Administrative expense increased by a negligible $85,000 or 1% compared to 2022 as the Company controlled its spending in 2023.
+​
+Impairment of Long Term Assets
+​
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+    
+2022
+$
+ 954
+​
+$
+—
+​
+During the year ended June 30, 2023 the Company impaired Goodwill, Intangible and Note Receivable assets totaling $0.954 million.  Due to a decline in Caddy revenues in the year ended 2023, the customer relations Intangible and Goodwill assets incurred an impairment charge. The Company incurred no impairment costs during the year ended June 30, 2022.
+​
+Interest and Other Expense/(Income)
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+    
+2022
+$
+ (177)
+​
+$
+ (417)
+ 
+​
+The Company realized investment income including dividends and interest earned in 2023 compared to investment losses in 2022. To reduce volatility in investments and assure stable returns, the Company liquidated its marketable securities portfolio in March 2023 and placed the proceeds into a savings account.  In 2022, the $(0.24) million unrealized loss was offset by $(0.71) million in PPP loan forgiveness for a net $(0.42) million.
+​
+Net Loss
+​
+​
+​
+​
+​
+Year Ended June 30, 
+(in 000’s)
+2023
+    
+2022
+$
+ (1,798)
+​
+$
+(1,345)
+​
+Net loss of $(1.80) million for the year ended June 30, 2023 compared to a net loss of $(1.35) million for the prior year increased by $(0.45) million. This net loss increase was largely due to the 2023 $(0.95) million Impairment of Long Term Assets, stock option expense of $(0.27) million in 2023 offset by higher gross margin of $0.85 million.
+Liquidity and Capital Resources
+During the past several years, we have primarily met our working capital and capital resource needs from our operating cash flows and financing activities. We believe that our existing sources of liquidity, including cash and operating cash flow, will be sufficient to meet our projected capital needs for the foreseeable future. On July 7, 2021, the Company completed an initial public offering resulting in net proceeds of approximately $11.24 million. Our cash balance at June 30, 2023 was approximately $6.62 million, as compared to $2.34 million at June 30, 2022. Our short-term investments balance at June 30, 2023 was $0.00 million compared to the $4.36 million short-term investment balance at June 30, 2022 as the Company sold its investments in March 2023.
+28
+Table of Contents
+In response to uncertainties associated with the COVID-19 pandemic, we took significant steps to preserve cash and remain in a strong competitive position for when the crisis subsided. Throughout 2020 to 2022 the theatres reopened as soon as local restrictions and the status of the COVID-19 pandemic would allow. As of June 30, 2023, a large majority of domestic and international theatres were open. The industry’s recovery to historical levels of new film content, both in terms of the number of new films and box office performance, is still underway, as the industry also continues to adjust to evolving theatrical release windows, competition from streaming and other delivery platforms, supply chain delays, inflationary pressures, labor shortages, wage rate pressures and other economic factors.
+Based on the Company’s current estimates of recovery, it believes it has, and will generate, sufficient cash to sustain operations. Nonetheless, the COVID-19 pandemic has had, and continues to have, adverse effects on the Company’s business, results of operations, cash flows and financial condition.
+Cash Flows from Operating Activities
+Net cash provided by operating activities was $0.27 million for year ended June 30, 2023 including the operating loss of $(1.80) million. Other sources of cash provided included accounts receivable, recovery of bad debts, non-cash impairment and amortization expense, non-cash option expense, and a decline in prepaid expense totaling $2.82 million. Other uses of cash included a realized loss on investments, inventory increases to support the increased sales and related increases in accounts payable and lease liability totaling $(0.75) million.  Net cash used in operating activities was $3.39 million for the year ended June 30, 2022, due to the operating loss combined with, the non-cash gain on forgiveness of debt and net changes in working capital items of approximately $0.20 million. The net change in working capital was primarily due to a decrease in accounts payable and prepaid and other, offset by a decrease in accounts receivable and an increase in customer deposits.
+Cash Flows from Investing Activities
+Net cash provided by investing activities was $(4.31) million for the year ended June 30, 2023. This was comprised primarily of marketable securities investment sales. Net cash used by investing activities was $(4.96) million for the year ended June 30, 2022 was comprised predominately of sales of marketable securities.
+Cash Flows from Financing Activities
+Net cash provided by financing activities was ($0.30) million for the year ended June 30, 2023 due the stock buyback program. Net cash provided by financing activities of $9.41 million for the year ended June 30, 2022 was due to proceeds received from the IPO, less payments on notes payable and our line of credit.
+Financial Instruments and Credit Risk Concentrations
+Our top ten customers accounted for approximately 37% and 48% of net revenues for the years ended June 30, 2023 and 2022, respectively. Trade accounts receivable from these customers represented approximately 19% and 48% of net receivables at June 30, 2023 and 2022, respectively. While we believe our relationships with such customers are stable, most arrangements are made by purchase order and are terminable at will by either party. We could also be adversely affected by such factors as changes in foreign currency rates and weak economic and political conditions in each of the countries in which we sell our products.
+Financial instruments that potentially expose us to a concentration of credit risk principally consist of accounts receivable and notes receivable. We sell products to a large number of customers in many different geographic regions. To minimize credit concentration risk, we perform ongoing credit evaluations of our customers’ financial condition or use letters of credit.
+29
+Table of Contents
+Off-Balance Sheet Arrangements and Contractual Obligations
+Our contractual obligations consist principally of leasing equipment and facilities under operating leases. The future estimated payments under these arrangements are summarized below:
+​
+​
+​
+​
+​
+    
+(in 000’s)
+​
+​
+Total
+Operating leases
+​
+Payments
+2024
+​
+ 
+ 302
+2025
+​
+ 
+ 154
+Total future lease payments
+​
+$
+ 456
+​
+There were no other material contractual obligations other than inventory, property and production and computer equipment purchases in the ordinary course of business.
+Seasonality
+Our operating results can vary from quarter to quarter as a result of seasonality in consumer spending and payment patterns. A large part of our business is concerned with new theater builds, which often see substantial delays due to weather, but also financing timing, permits and governmental delays, and other unpredictable problems often associated with large real estate projects. Specifically, our revenue growth generally is higher during the first and fourth quarters of the fiscal year as the weather improves, the digital cinema market becomes more active and customers begin new theater builds or remodel projects. During these periods, we tend to experience increased transaction volume. Conversely, our revenue growth generally slows during the second quarter of the fiscal year, as spending on new theater construction and theater improvement projects tends to slow leading up to the holiday season and through the winter months. As a result, growth in transaction volume also tends to slow during these periods. We expect this seasonality to continue for the foreseeable future, which may cause fluctuations in our operating results and financial metrics. However, our seasonality trends may vary in the future as we introduce new products to new industry verticals and we become less concentrated in the new theater construction and improvement sector.
+Inflation
+We believe that the relatively moderate rates of inflation in recent years have not had a significant impact on our net revenues or profitability. During the fiscal year ended June 30, 2023, inflation increased to levels not seen since the 1980’s. Historically, the Company has been able to offset any inflationary effects by either increasing prices or improving cost efficiencies and expects to do so in the future.
+Recently Issued Accounting Pronouncements
+See Note 1, Business Activity and Summary of Significant Accounting Policies, to the consolidated financial statements for a description of recently issued accounting pronouncements.
+Critical Accounting Policies and Estimates
+The following accounting policies involve judgments and estimates used in preparation of the financial statements. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact the financial statements.
+Our accounting policies are discussed in Note 1 to the financial statements in this Report. Management believes the following critical accounting policies reflect its more significant estimates and assumptions used in the preparation of the financial statements.
+30
+Table of Contents
+Revenue Recognition
+The Company follows Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 606, 
+Revenue from Contracts with Customers (“ASC 606”).
+Revenue is recognized when control of the promised goods is transferred to a customer and when performance conditions are satisfied as per the agreement, in an amount that reflects the consideration that we expect to receive in exchange for those goods as per the agreement with the customer. We generate all our revenue from agreements with customers. In case there are agreements with multiple performance obligations, we identify each performance obligation and evaluate whether the performance obligations are distinct within the context of the agreement at the agreement’s inception. Performance obligations that are not distinct at agreement inception are combined. We allocate the transaction price to each distinct performance obligation proportionately based on the estimated standalone selling price for each performance obligation and then evaluate how the services are transferred to the customer to determine the timing of revenue recognition.
+The Company considers the U.S. GAAP criteria for determining whether to report revenue gross as a principal versus net as an agent. Factors considered include whether the Company is the primary obligor, has risks and rewards of ownership, and bears the risk that a customer may not pay for the products provided or services performed. If there are circumstances where the above criteria are not met, revenues recognized are presented net of cost of goods sold.
+Contract assets consist of conditional or unconditional rights to consideration. Accounts receivable represent amounts billed to customers where the Company has an enforceable right to payment for performance completed to date (i.e., unconditional rights to consideration). 
+Contract liabilities consist of refund and warranty liabilities, as well as deposits received in advance on sales to certain customers. Such deposits are reflected as customer deposits and recognized in revenue when control of the products is transferred or when performance conditions are satisfied per the agreement.
+Cost of goods sold includes cost of inventory sold during the period, net of vendor discounts and allowances, and shipping and handling costs, and sales taxes. Taxes collected from customers are included in Accounts Payable on a net basis (excluded from revenues) until remitted to the government.
+Deferred contract acquisition costs consist of sales commissions paid to the sales force and the related employer payroll taxes, collectively “deferred contract acquisition costs”, are considered incremental and recoverable costs of obtaining a contract with a customer. The Company has determined that sales commissions paid are an immaterial component of obtaining a customer’s contract and has elected to expense sales commissions when earned.
+Inventory Valuation
+Inventories are stated at the lower of cost (first-in, first-out) or net realizable value. Our policy is to evaluate all inventory quantities for amounts on-hand that are potentially in excess of estimated usage requirements, and to write down any excess quantities to estimated net realizable value. Inherent in the estimates of net realizable values are management’s estimates related to customer demand and the development of new technology, which could make our theater and digital media products obsolete, among other items.
+Income Taxes
+The Company utilizes an asset and liability approach for financial accounting and reporting for income taxes.  The provisions for income taxes is based upon income or loss after adjustment for those permanent items that are not considered in the determination of taxable income.  Deferred income taxes represent the tax effects of difference between the financial reporting and tax basis of the Company’s assets and liabilities at the enacted tax rates in effect for the years in which the difference are expected to reverse. The effects on deferred tax assets and liabilities of a change in tax rates is recognized in the period that includes the enactment date.  Deferred tax assets are reduced by valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+31
+Table of Contents

@@ -1,0 +1,289 @@
+Table of Contents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of the financial condition and results of operations should be read together with the consolidated financial statements included elsewhere in this Annual Report. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth in “Part I, Item 1A. Risk Factors” and under the heading “Cautionary Note Regarding Forward-Looking Statements” included elsewhere in this Annual Report.
+Unless otherwise indicated or the context otherwise requires, references to “Aurora,” “we,” “us,” “our” and other similar terms in this section refer to Aurora Innovation, Inc. and its consolidated subsidiaries. Percentage amounts have not in all cases been calculated on the basis of such rounded figures, but on the basis of such amounts prior to rounding. For this reason, percentage amounts may vary from those obtained by performing the same calculations using the figures in our consolidated financial statements included elsewhere in this Annual Report. Certain other amounts that appear in this Annual Report may not sum due to rounding.
+Corporate History and Background
+On November 3, 2021 (the “Closing Date”), Aurora Innovation, Inc. (f/k/a Reinvent Technology Partners Y and referred to herein as the “Company”), consummated a business combination with Aurora Innovation Holdings, Inc., a Delaware corporation (f/k/a Aurora Innovation, Inc. and referred to herein as “Legacy Aurora”), and RTPY Merger Sub Inc., a Delaware corporation and a direct wholly owned subsidiary of the Company (“Merger Sub”), pursuant to an Agreement and Plan of Merger dated July 14, 2021 (the “Merger Agreement” and the transactions contemplated thereby, the “Merger”), by and among the Company, Legacy Aurora and Merger Sub. Pursuant to the terms of the Merger Agreement, a business combination between the Company and Legacy Aurora was effected through the merger of Merger Sub with and into Legacy Aurora, with Legacy Aurora continuing as the surviving company and as a wholly-owned subsidiary of the Company. On the Closing Date, the Company changed its name from Reinvent Technology Partners Y to Aurora Innovation, Inc.
+Aurora’s Business
+Aurora is developing the Aurora Driver based on what we believe to be the most advanced and scalable suite of self-driving hardware, software, and data services in the world to fundamentally transform the global transportation market. The Aurora Driver is designed as a platform to adapt and interoperate amongst vehicle types and applications. To date, it has been successfully integrated into numerous different vehicle platforms: from passenger vehicles to light commercial vehicles to Class 8 trucks. By creating one driver system for multiple vehicle types and use cases, Aurora’s capabilities in one market reinforce and strengthen its competitive advantages in others. For example, highway driving capabilities developed for trucking will carry over to highway segments driven by passenger vehicles in ride-hailing applications. We believe this approach will enable us to target and transform the transportation landscape, including trucking, passenger mobility, and local goods delivery market.
+We expect that the Aurora Driver will ultimately be commercialized in a Driver as a Service (“DaaS”) business model, in which customers or third parties will purchase, manage, and maintain fleets directly, while subscribing to the Aurora Driver and a suite of related services. We do not intend to own nor operate a large number of vehicles ourselves. Throughout commercialization, we expect to earn revenue on a fee per mile basis. We intend to partner with OEMs, Tier 1 automotive supplier, fleet operators, and other third parties to commercialize and support Aurora Driver-powered vehicles. We expect that these strategic partners will support activities such as vehicle and hardware manufacturing, financing and leasing, service and maintenance, parts replacement, facility ownership and operation, and other commercial and operational services as needed. We expect this DaaS model to enable an asset-light and high margin revenue stream for Aurora, while allowing us to scale more rapidly through partnerships. During the start of commercialization, though, we expect to briefly operate our own logistics and mobility services, where we own or lease and operate a small fleet of vehicles equipped with our Aurora Driver. This level of control is useful during early commercialization as we define operational processes and playbooks for our partners.
+We plan to first launch Aurora Horizon, our driverless trucking subscription service, as we believe that is where we can make the largest impact the fastest, given the massive industry demand, attractive unit economics, and the ability to deploy on high volume highway-focused routes. Future success will be dependent on our ability to execute against our product roadmap to launch Aurora Horizon. From there, we plan to leverage the extensibility of the Aurora Driver to deploy and scale into the passenger mobility market with Aurora Connect, our driverless ride hailing subscription service, and in the longer-term the local goods delivery market.
+51
+Table of Contents
+Significant Events and Transactions
+Private Placement
+On July 21, 2023, we completed a private placement (the “Private Placement”), in which we sold approximately 222 million shares of Class A common stock at a price of $2.70 per share, for proceeds of $584 million, net of transaction costs.
+In connection with the Private Placement, we entered into a registration rights agreement, dated July 18, 2023 (“Private Placement Registration Rights Agreement”), with certain existing institutional and strategic investors, entities affiliated with two of our directors, and new institutional investors. Pursuant to the Private Placement Registration Rights Agreement, on July 21, 2023, we filed a registration statement with the Securities and Exchange Commission (the “SEC”) for the registration for resale of the securities sold in the Private Placement.
+Public Offering
+On July 21, 2023, we completed a public offering (the “Public Offering”) of approximately 73 million shares of Class A common stock at a price of $3.00 per share, for proceeds of $212 million, net of transaction costs. Following the Public Offering, we issued an additional 11 million shares of our Class A common stock in connection with the exercise of the underwriters’ over-allotment option, for proceeds of $32 million, net of transaction costs.
+Continental Strategic Partnership Agreement
+On April 26, 2023, we entered into a Strategic Partnership Agreement with Continental Automotive Technologies GmbH and its wholly owned subsidiary, Continental Autonomous Mobility Germany GmbH (collectively, “Continental”), which was amended on August 30, 2023 to memorialize a short term extension of the finalization period. On September 27, 2023, the parties further amended and restated the Strategic Partnership Agreement in its entirety, which among other things, marked the completion of such finalization period, memorialized the achievement of a milestone contemplated therein, aligned on additional parameters, including certain additional details related to development costs and costs of Aurora’s future generation of its Aurora Driver hardware system, finalized certain appendices in accordance therewith, and extended the term of the agreement for an additional three months. Pursuant to the Strategic Partnership Agreement, Continental will, among other things, act as our “Hardware-as-a-Service” partner for the production, provision, and full lifecycle support of the future generation of the Aurora Driver system. The Strategic Partnership Agreement provides that we will pay Continental on a per-mile basis for vehicles operated by the Aurora Driver using the future generation of our Aurora Driver hardware system. The term of the Strategic Partnership Agreement continues until March 31, 2031. Pursuant to the Strategic Partnership Agreement, Aurora and Continental are each subject to defined and limited exclusivity periods, subject to various exclusions and early termination triggers.
+Global Economic Conditions
+Unfavorable conditions in the economy in the United States and abroad may negatively affect the growth of our business and our results of operations. For example, macroeconomic events, including rising inflation, tensions in U.S.-China relations, the COVID-19 pandemic, the U.S. Federal Reserve raising interest rates, recent and potential future disruptions in access to bank deposits and lending commitments due to bank failures, the Russia-Ukraine war, and the Israel-Hamas war have led to economic uncertainty and volatility globally. The effect of macroeconomic conditions may not be fully reflected in our results of operations until future periods. Moreover, negative macroeconomic conditions could adversely impact our ability to obtain financing in the future on terms acceptable to us, or at all. In addition, the geopolitical instability and related sanctions could continue to have significant ramifications on global financial markets, including volatility in the United States. Our operating results could be materially impacted by these changes and other changes in the overall macroeconomic environment and other economic factors.
+52
+Table of Contents
+Comparison of the Twelve Months Ended December 31, 2023 to the Twelve Months Ended December 31, 2022
+Twelve Months Ended
+$ Change
+% Change
+(in millions, except for percentages)
+2023
+2022
+Collaboration revenue
+$
+— 
+$
+68 
+$
+(68)
+n/m
+(1)
+Operating expenses:
+Research and development
+716 
+677 
+39 
+6 
+%
+Selling, general and administrative
+119 
+129 
+(10)
+(8)
+%
+Goodwill impairment
+— 
+1,114 
+(1,114)
+n/m
+(1)
+Total operating expenses
+835 
+1,920 
+(1,085)
+(57)
+%
+Loss from operations
+(835)
+(1,852)
+1,017 
+(55)
+%
+Other income (expense):
+Change in fair value of derivative liabilities
+(20)
+114 
+(134)
+(118)
+%
+Other income, net
+59 
+15 
+44 
+293%
+Loss before income taxes
+(796)
+(1,723)
+927 
+(54)
+%
+Income tax expense
+— 
+— 
+— 
+n/m
+(1)
+Net loss
+$
+(796)
+$
+(1,723)
+$
+927 
+(54)
+%
+(1) 
+Not meaningful.
+Collaboration revenue
+Collaboration revenue was $68 million in the twelve months ended December 31, 2022 under the collaboration project plan with Toyota Motor Corporation. 
+As of December 31, 2022, the Company had recognized all revenue associated with cash payments received under the collaboration project plan and. As a result, no revenue was recognized during the twelve months ended December 31, 2023.
+Operating expenses
+Research and development expenses increased by $39 million, or 6%, to $716 million in the twelve months ended December 31, 2023 from $677 million in the twelve months ended December 31, 2022, primarily driven by an increase in personnel and software development costs, partially offset by a decrease in hardware development costs. Research and development expenses
+ included non-cash stock-based compensation
+ of $139 million
+ and $137 million in the 
+twelve months ended December 31, 2023 and 2022, respectively.
+Selling, general and administrative expenses decreased by $10 million, or 8%, to $119 million in the twelve months ended December 31, 2023 from $129 million in the twelve months ended December 31, 2022 primarily driven by a decrease in insurance costs. Selling, general and administrative expenses 
+included non-cash stock-based compensation 
+of $21 million
+ and $19 million in the 
+twelve months ended December 31, 2023 and 2022, respectively.
+The Company recognized goodwill impairment of $1,114 million during the twelve months ended December 31, 2022 as a result of goodwill impairment assessments performed due to significant declines in the market price of the Company’s Class A common stock and its market capitalization. No goodwill impairment was recorded during the twelve months ended December 31, 2023.
+Other income (expense)
+The change in fair value of derivative liabilities resulted in an expense of $20 million and income of $114 million in the twelve months ended December 31, 2023 and 2022, respectively, primarily due to the change in the market price for the underlying instrument. 
+Other income, net was $59 million in the twelve months ended December 31, 2023, compared to $15 million in the twelve months ended December 31, 2022, primarily due to an increase in interest income earned on cash equivalents and investments.
+53
+Table of Contents
+Comparison of the Twelve Months Ended December 31, 2022 to the Twelve Months Ended December 31, 2021
+Twelve Months Ended
+$ Change
+% Change
+(in millions, except for percentages)
+2022
+2021
+Collaboration revenue
+$
+68 
+$
+82 
+$
+(14)
+(17)
+%
+Operating expenses:
+Research and development
+677 
+697 
+(20)
+(3)
+%
+Selling, general and administrative
+129 
+116 
+13 
+11 
+%
+Goodwill impairment
+1,114 
+— 
+1,114 
+n/m
+(1)
+Total operating expenses
+1,920 
+813 
+1,107 
+136 
+%
+Loss from operations
+(1,852)
+(731)
+(1,121)
+153 
+%
+Other income (expense):
+Change in fair value of derivative liabilities
+114 
+(20)
+134 
+(670)
+%
+Other income (expense), net
+15 
+(9)
+24 
+-267%
+Loss before income taxes
+(1,723)
+(760)
+(963)
+127 
+%
+Income tax benefit
+— 
+(5)
+5 
+n/m
+(1)
+Net loss
+$
+(1,723)
+$
+(755)
+$
+(968)
+128 
+%
+(1) 
+Not meaningful.
+Collaboration revenue
+Collaboration revenue decreased by $14 million, or 17%, to $68 million in the twelve months ended December 31, 2022 from $82 million in the twelve months ended December 31, 2021 due to lower hours incurred under the collaboration project plan with Toyota Motor Corporation.
+Operating expenses
+Research and development decreased by $20 million, or 3%, to $677 million in the twelve months ended December 31, 2022 from $697 million in the twelve months ended December 31, 2021, primarily driven by a decrease in stock-based compensation and severance expense, partially offset by an increase in payroll costs, stock-based compensation and other software and hardware developments costs.
+Selling, general and administrative increased by $13 million, or 11%, to $129 million in the twelve months ended December 31, 2022 from $116 million in the twelve months ended December 31, 2021, primarily driven by an increase in payroll, stock-based compensation and insurance costs, partially offset by a decrease in and professional services costs. 
+Other income (expense), net
+The change in fair value of derivative liabilities resulted in income of $114 million in the twelve months ended December 31, 2022 from a loss of $20 million in the twelve months ended December 31, 2021 primarily due to the change in the market price for the underlying instrument. 
+Other income, net was $15 million in the twelve months ended December 31, 2022, primarily due to transaction costs and losses on the disposal of IT equipment. Other expense, net was $9 million in the twelve months ended December 31, 2021, primarily related to interest income earned on short-term investments.
+Income tax benefit
+An income tax benefit was recognized in the twelve months ended December 31, 2022 due to the release of a deferred tax asset valuation allowance as a result of deferred tax liabilities incurred from the acquisition of OURS Technology, Inc.
+54
+Table of Contents
+Liquidity and Capital Resources
+As of December 31, 2023, our principal sources of liquidity were $501 million of cash and cash equivalents, $699 million of short-term investments, and $148 million of long-term investments with maturities within 2 years, exclusive of restricted cash of $17 million. Cash and cash equivalents primarily consist of money market funds and U.S. Treasury securities as well as commercial paper. Short-term and long-term investments consist of primarily U.S. Treasury securities as well as corporate bonds.
+We have incurred negative cash flows from operating activities and significant losses from operations in the past. We expect to continue to incur operating losses and that we will need to opportunistically raise additional capital to support the continued development and commercialization of the Aurora Driver. We believe our cash on hand and short-term investments will be sufficient to meet our working capital and capital expenditure requirements for a period of at least twelve months from the date of this Annual Report.
+Cash Flows
+Cash flows for the periods were as follows (in millions):
+Twelve Months Ended
+2023
+2022
+2021
+Net cash used in operating activities
+$
+(598)
+$
+(508)
+$
+(564)
+Net cash provided by (used in) investing activities
+8 
+(852)
+250 
+Net cash provided by financing activities
+831 
+11 
+1,540 
+Net increase (decrease) 
+241 
+(1,349)
+1,226 
+Cash, cash equivalents, and restricted cash at beginning of the period
+277 
+1,626 
+400 
+Cash, cash equivalents, and restricted cash at end of the period
+$
+518 
+$
+277 
+$
+1,626 
+Cash Flows Used in Operating Activities
+Net cash used in operating activities increased by $90 million in the twelve months ended December 31, 2023 from $508 million for the twelve months ended December 31, 2022 primarily due to receipts in the comparative period of the final payments under the collaboration project plan with Toyota.
+Net cash used in operating activities decreased by $56 million in the twelve months ended December 31, 2022 from $564 million for the twelve months ended December 31, 2021 primarily due to an increase of cash received under the collaboration project plan with Toyota and a decrease of professional expenses and other non-recurring expenses paid in connection with the acquisition of ATG partially offset by increased incentive compensation payments.
+Cash Flows Provided by (Used in) Investing Activities
+Net cash provided by investing activities increased by $860 million in the twelve months ended December 31, 2023 from $852 million of net cash used in the twelve months ended December 31, 2022, primarily due to the net purchases of short-term investments in the comparative period.
+Net cash used in investing activities decreased by $1,102 million in the twelve months ended December 31, 2022 from $250 million of net cash provided in the twelve months ended December 31, 2021 primarily due to net purchases of short-term investments, partially offset by net cash acquired through the acquisitions of businesses in the comparative period.
+Cash used for purchases of property and equipment were $15 million, $15 million and $48 million in the twelve months ended December 31, 2023,2022 and 2021, respectively.
+Cash Flows Provided by Financing Activities
+Net cash provided by financing activities increased by $820 million in the twelve months ended December 31, 2023 from $11 million for the twelve months ended December 31, 2022 due to net proceeds received from the Private Placement and Public Offering, 
+Net cash provided by financing activities decreased by $1,529 million in the twelve months ended December 31, 2022 from $1,540 million for the twelve months ended December 31, 2022 due to the comparative period including net proceeds from the Merger and net proceeds from the issuance of Series U-2 preferred stock.
+55
+Table of Contents
+Contractual Obligations, Commitments and Contingencies
+Aurora may be party to various claims within the normal course of business. Legal fees and other costs associated with such actions are expensed as incurred. We assess the need to record a liability for litigation and other loss contingencies, with reserve estimates recorded if we determine that a loss related to the matter is both probable and reasonably estimable. No material losses were recorded in the twelve months ended December 31, 2023, 2022 and 2021.
+The Company has entered into a contract for cloud hosting services under which non-cancelable future minimum payments as of December 31, 2023 are: $61 million for 2024, $64 million for 2025, $38 million for 2026, and $0 million for 2027. Commitments under operating lease contracts are detailed within Note 10 – Leases to our consolidated financial statements included elsewhere in this Annual Report.
+Critical Accounting Estimates
+Our consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP. Preparation of the financial statements requires our management to make judgments, estimates and assumptions that impact the reported amount of revenue and operating and other expenses, assets and liabilities and the disclosure of contingent assets and liabilities. We consider an accounting judgment, estimate or assumption to be critical when (1) the estimate or assumption is complex in nature or requires a high degree of judgment and (2) the use of different judgments, estimates and assumptions could have a material impact on our consolidated financial statements. Our significant accounting policies are described in Note 2 – Summary of Significant Accounting Policies to our consolidated financial statements included elsewhere in this Annual Report.
+Acquisition Related Intangible Assets
+Acquired intangible assets primarily consist of in-process research and development (“IPR&D”) from the Company’s historical acquisitions. IPR&D assets are reviewed for impairment considerations annually on December 31, or whenever events or circumstances indicate that the carrying amounts may not be recoverable. If indicators of impairment exist, the Company calculates the value of the assets with significant estimates and assumptions utilized in the valuation of certain intangible assets include, but are not limited to, estimated replacement cost, profit margin, opportunity cost, useful lives, and discount rates. Estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.
+Valuation of Goodwill
+Goodwill represents the excess purchase consideration of acquired businesses over the estimated fair value of the net assets acquired. Goodwill is not amortized but is evaluated for impairment annually on December 31, or whenever events or circumstances indicate that the carrying amount may not be recoverable. If the carrying amount of goodwill exceeds its fair value, an impairment loss is recognized for any excess of the carrying amount of goodwill over its implied fair value.
+During the second and fourth quarters of 2022, the market price of the Company’s Class A common stock and its market capitalization declined significantly. As a result, the Company determined that triggering events had occurred and goodwill impairment assessments were performed.
+The Company utilized a market approach valuation method utilizing the observable market price of the Company’s Class A common stock as it represented the best evidence of the fair value of its reporting unit. Based on the results of the goodwill impairment assessment, the Company recognized a $1,114 million goodwill impairment during the twelve months ended December 31, 2022. The carrying value of goodwill was $- as of December 31, 2023 and December 31, 2022.
+Valuation of Derivative Liabilities
+The Company accounts for shares held by Reinvent Sponsor Y LLC (the “Sponsor”) not forfeited under the terms of the Merger Agreement and subject to price based vesting terms (the “Earnout Shares”) as a derivative liabilities. The liability is measured at fair value on a recurring basis utilizing a Monte Carlo simulation analysis with any changes in fair value reflected in the statement of operations until the vesting conditions are met or the shares expire.
+The Monte Carlo simulation analysis is dependent upon management estimates and assumptions, primarily related to expected volatility and risk-free interest rates. The expected volatility is determined based on the historical equity volatility of comparable companies over a period that matches the expected term of the instrument. The risk-free interest rate is based on relevant U.S. treasury rates for a period that matches the expected term of the instrument.
+56
+Table of Contents
+Recently Adopted and Issued Accounting Pronouncements
+See Note 2 – Summary of Significant Accounting Policies to the consolidated financial statements included elsewhere in this Annual Report for recently adopted accounting pronouncements.

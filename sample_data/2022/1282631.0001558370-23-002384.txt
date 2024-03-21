@@ -1,0 +1,403 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operation
+s
+​
+The following discussion should be read in conjunction with our consolidated financial statements and accompanying notes included in Item 
+8 of this Form 10-K. This section of this Form 10-K generally discusses 2022 and 2021 items and year-to-year comparisons between 2022 and 2021. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 are not included in this Form 10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended January 1, 2022.  
+​
+Our fiscal year is the 52- or 53-week period that ends on the Saturday nearest to December 31. Our fiscal year 2022 ended on December 31, 2022, fiscal year 2021 ended on January 1, 2022, and fiscal year 2020 ended on January 2, 2021. All fiscal years presented in this Form 10-K, except fiscal year 2020, included 52 weeks. Additionally, all quarters, except the fourth quarter of 2020, included 13 weeks. Fiscal year 2020 included 53 weeks, with a 14-week fourth quarter. Unless otherwise stated, all information presented herein is based on our fiscal calendar, and references to particular years, quarters, months or periods refer to our fiscal years ended in January or December and the associated quarters, months and periods of those fiscal years.
+​
+Overview
+​
+Netlist provides high-performance memory solutions to enterprise customers in diverse industries. Our products in various capacities and form factors and our line of custom and specialty memory products bring leading performance to customers in a variety of industries globally and cloud service providers. Netlist licenses its portfolio of intellectual property, including solutions relating to volatile memory, storage memory, and hybrid memory. 
+​
+Economic Conditions, Challenges and Risks
+​
+Our performance, financial condition and prospects are affected by a number of factors and are exposed to a number of risks and uncertainties. We operate in a competitive and rapidly evolving industry in which new risks emerge from time to time, and it is not possible for us to predict all of the risks we may face, nor can we assess the impact of all factors on our business or the extent to which any factor or combination of factors could cause actual results to differ from our expectations. See the discussion of certain risks that we face under “Risk Factors” in Item 1A of this report.
+​
+Impact of COVID-19 on our Business
+​
+​
+Fiscal Year Highlights
+​
+Amendment to SVB Credit Agreement
+ 
+On April 29, 2022, we entered into an amendment to a credit agreement dated October 31, 2009, which may from time to time be amended, modified, supplemented or restated, (the “SVB Credit Agreement”), with SVB, which provides for a revolving line of credit of up to $10.0 million. The borrowing base is limited to 85% of eligible accounts receivable, subject to certain adjustments, and 50% of eligible inventory. Borrowings accrue interest on advance at a per annum rate equal to the greater of 0.75% above the Wall Street Journal prime rate (“Prime Rate”) or 4.25%. The maturity date is April 28, 2023, as amended.
+​
+38
+Table of Contents
+Second 2021 Lincoln Park Purchase Agreement 
+​
+On September 28, 2021, we entered into a purchase agreement (the “Second 2021 Purchase Agreement”) with Lincoln Park, pursuant to which we have the right to sell to Lincoln Park up to an aggregate of $75 million in shares of our common stock over the 36-month term of the Second 2021 Purchase Agreement subject to the conditions and limitations set forth in the Second 2021 Purchase Agreement. During 2021, Lincoln Park purchased an aggregate of 1,550,000 shares of our common stock for a net purchase price of $10.9 million under the Second 2021 Purchase Agreement. In connection with the purchases, we issued to Lincoln Park an aggregate of 20,809 shares of our common stock as additional commitment shares in noncash transactions.
+​
+During 2022, Lincoln Park purchased an aggregate of 1,050,000 shares of our common stock for a net purchase price of $4.4 million under the Second 2021 Purchase Agreement. In connection with the purchases, we issued to Lincoln Park an aggregate of 8,502 shares of our common stock as additional commitment shares in noncash transactions.
+​
+Subsequent to December 31, 2022, Lincoln Park purchased an aggregate of 2,650,000 shares of our common stock for a net purchase price of $4.3 million under the Second 2021 Purchase Agreement. In connection with the purchases, we issued to Lincoln Park an aggregate of 8,284 shares of our common stock as additional commitment shares in noncash transactions.
+​
+Ineffective Internal Control over Financial Reporting
+​
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis. In performing their audit of our internal control over financial reporting as required by Section 404 of SOX, our independent registered public accounting firm concluded that our internal control over financial reporting was ineffective as of December 31, 2022 due to one material weakness. The identified material weakness, at December 31, 2022, relates to the lack of an independent board and audit committee.  
+​
+While the control weaknesses identified did not result in any identified misstatements, a reasonable possibility exists that a material misstatement to the annual or interim consolidated financial statements and disclosures will not be prevented or detected on a timely basis.
+​
+In an effort to address the identified material weakness related to the lack of an independent board and audit committee and to enhance our internal controls, our finance and accounting personnel are continuing to follow all of the same procedures that they undertook in preparation for independent audit committee meetings on a quarterly and annual basis. Our CEO and sole director will oversee these processes and review materials prepared by the finance and accounting staff as well as our independent registered public accounting firm on a quarterly and annual basis. If our measures are insufficient to address the material weakness, or if additional material weaknesses or significant deficiencies in our internal control over financial reporting occur in the future, we may not be able to timely or accurately report our results of operations or maintain effective disclosure controls and procedures. If we are unable to report financial information timely or accurately, or to maintain effective disclosure controls and procedures, we could be required to restate our financial statements and be subject to, among other things, regulatory or enforcement actions, securities litigation, limitations on our ability to access capital markets, debt rating agency downgrades or rating withdrawals, or loss in confidence of our investors, any one of which could adversely affect the valuation of our common stock and our business prospects. We can give no assurance that the measures we have taken and plan to take in the future will remediate the material weakness identified or that any additional material weaknesses will not arise in the future due to a failure to implement and maintain adequate internal control over financial reporting.
+​
+39
+Table of Contents
+Results of Operations
+​
+Net Sales and Gross Margin
+​
+Net sales and gross margin for 2022 and 2021 were as follows (dollars in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+    
+2022
+    
+2021
+    
+Change
+Net product sales
+​
+$
+ 161,637
+​
+$
+ 102,355
+​
+58%
+License fee
+​
+​
+ —
+​
+​
+ 40,000
+​
+(100%)
+Net sales
+​
+$
+ 161,637
+​
+$
+ 142,355
+​
+14%
+Gross profit - product sales
+​
+$
+ 11,892
+​
+$
+ 8,897
+​
+34%
+Gross margin percentage - product sales
+​
+​
+7%
+​
+​
+9%
+​
+​
+Gross profit
+​
+$
+ 11,892
+​
+$
+ 48,897
+​
+(76%)
+Gross margin percentage
+​
+​
+7%
+​
+​
+34%
+​
+​
+​
+Net Sales
+​
+Net sales include (i) resales of certain component products, including DIMMs, SSDs and DRAM products, and sales of our high-performance memory subsystems and (ii) an upfront non-refundable fee pursuant to the Strategic Agreement. 
+​
+Net product sales increased by approximately $59.3 million during 2022 compared to 2021 primarily as a result of a $81.4 million increase in the sale of RDIMM and discrete component products and a $9.5 million increase in the sale of Netlist’s flash and SSD products, offset by a $31.6 million decrease in sales of low-profile memory subsystem products.
+​
+Gross Profit and Gross Margin
+​
+Product gross profit increased in 2022 compared to 2021 due primarily to higher sales across all product groups. Product gross margin percentage decreased between the periods as a result of the change in our product mix and increased component product resales as a percentage of revenue.
+​
+Operating Expenses
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2022
+    
+2021
+​
+Change
+Research and development
+​
+$
+ 10,624
+​
+$
+ 7,241
+    
+47%
+Percentage of net product sales
+​
+​
+7%
+​
+​
+7%
+​
+​
+Intellectual property legal fees 
+​
+$
+ 20,421
+​
+$
+ 19,494
+​
+5%
+Percentage of net product sales
+​
+​
+13%
+​
+​
+19%
+​
+​
+Selling, general and administrative
+​
+$
+ 14,347
+​
+$
+ 10,779
+​
+33%
+Percentage of net product sales
+​
+​
+9%
+​
+​
+11%
+​
+​
+​
+Research and Development
+​
+Research and development expenses increased in 2022 compared to 2021 due primarily to an increase in employee headcount, related overhead and new product research.
+​
+Intellectual Property Legal Fees
+​
+Intellectual property legal fees consist of legal fees incurred for enforcement, protection and patent filings and prosecution. Although we expect intellectual property legal fees to generally increase over time as we continue to 
+40
+Table of Contents
+protect, defend and enforce and seek to expand our patent portfolio, these increases may not be linear but may occur in lump sums depending on the due dates of patent filings and their associated fees and the arrangements we may make with our legal advisors in connection with enforcement proceedings, which may include fee arrangements or contingent fee arrangements in which we would pay these legal advisors on a scaled percentage of any negotiated fees, settlements or judgments awarded to us based on if, how and when the fees, settlements or judgments are obtained. See Note 7 “Commitments and Contingencies” of the Notes to Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion.
+​
+Intellectual property legal fees increased during 2022 compared to 2021 due primarily to higher legal expenses incurred to defend and enforce our patent portfolio internationally.
+​
+Selling, General and Administrative
+​
+Selling, general and administrative expenses increased in 2022 compared to 2021 due primarily to an increase in employee headcount and overhead and outside services.
+​
+Other Income, Net
+​
+Other income, net for 2022 and 2021 was as follows (dollars in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+    
+2022
+    
+2021
+    
+Change
+Interest income (expense), net
+​
+$
+ 57
+​
+$
+ (568)
+​
+​
+Other income, net
+​
+​
+ 74
+​
+​
+ 643
+​
+​
+Total other income, net
+​
+$
+ 131
+​
+$
+ 75
+​
+(75%)
+​
+Interest expense, net, in 2021 consisted primarily of interest expense on the Senior Secured Convertible Promissory Note issued on November 18, 2015 (the “SVIC Note”) to SVIC No. 28 Technology Business Investment L.L.P., a Korean limited liability partnership (“SVIC”), an affiliate of Samsung Venture Investment Co., and a revolving line of credit under the SVB Credit Agreement, along with the accretion of debt discounts and amortization of debt issuance costs on the SVIC Note. The SVIC Note was paid off in December 2021 resulting in a decrease in interest expense for 2022 compared to 2021.
+​
+Other income, net in 2021 included the gain on forgiveness of the PPP Loan of $0.6 million unsecured promissory note entered into on April 23, 2020, by and between the Company and Hanmi Bank under the Paycheck Protection Program (“PPP”) (the “PPP Loan”) administered by the Small Business Administration (“SBA”). This gain was recognized during the second quarter of 2021 resulting in a decrease in other income for 2022 compared to 2021.
+​
+Provision for Income Taxes
+​
+For 2022, our effective tax rate was 0% due primarily to our net loss and valuation allowances. During 2021, we recorded a provision for income taxes of $6.6 million related to the Korean withholding tax incurred in connection with the upfront non-refundable fee pursuant to the Strategic Agreement of $40 million from SK hynix recognized during the second quarter of 2021. Due primarily to this withholding tax, our effective tax rate for 2021 was higher at 58% than the statutory federal income tax rate of 21%.
+​
+Liquidity and Capital Resources
+​
+We believe our existing balance of cash and cash equivalents, which totaled $43.6 million as of December 31, 2022, along with cash receipts from revenues, borrowing availability under the SVB Credit Agreement, the equity financing available under the Second 2021 Lincoln Park Purchase Agreement, funds raised through other future debt and equity offerings and taking into account cash expected to be used in our operations, will be sufficient to meet our anticipated cash needs for at least the next 12 months.
+​
+41
+Table of Contents
+In addition, on April 5, 2021, we entered into a Product Purchase and Supply Agreement (the “Supply Agreement”) with SK hynix and the Strategic Agreement. Both agreements have a term of 5 years. Under the Strategic Agreement, (a) we have granted to SK hynix worldwide, non-exclusive, non-assignable licenses to certain of our patents covering memory technologies and (b) SK hynix has granted to us worldwide, non-exclusive, non-assignable licenses to its patent portfolio. In addition, the Strategic Agreement provided for the settlement of all intellectual property proceedings between us and SK hynix and a settlement fee of $40 million paid to us by SK hynix. In addition, the parties have agreed to collaborate on certain technology development activities.
+​
+For a description of contractual obligations, see Note 4, “Debt” and Note 5, “Leases” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K.
+​
+Cash Flow Summary
+​
+Our cash flows from operating, investing and financing activities, as reflected in the consolidated statements of cash flows, are summarized as follows (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2022
+    
+2021
+Net cash provided by (used in):
+​
+​
+​
+​
+​
+​
+Operating activities
+​
+$
+ (14,995)
+​
+$
+ 6,007
+Investing activities
+​
+​
+ (467)
+​
+​
+ (520)
+Financing activities
+​
+​
+ 594
+​
+​
+ 36,466
+Net change in cash, cash equivalents and restricted cash
+​
+$
+ (14,868)
+​
+$
+ 41,953
+​
+Net cash used in operating activities for 2022 was primarily a result of net loss of $33.4 million, non-cash adjustments to net loss of $4.2 million, partially offset by net cash inflows from changes in operating assets and liabilities of $14.2 million driven predominantly by an increase in accounts payable and accrued expenses and other liabilities and a decrease in accounts receivable and inventories. Net cash provided by financing activities for 2022 primarily consisted of $4.4 million in net proceeds from issuance of common stock under the Second 2021 Lincoln Park Purchase Agreement and $0.3 million in proceeds from exercise of stock options, partially offset by $2.1 million in net payments under the SVB Credit Agreement, $0.6 million in payments of note payable to finance insurance policies and $1.4 million in payments for taxes related to net share settlement of equity awards.
+​
+Net cash provided by operating activities for 2021 was primarily a result of net income of $4.8 million, non-cash adjustments to net income of $2.0 million, offset by net cash outflows from changes in operating assets and liabilities of $1.0 million driven predominantly by an increase in accounts payable, partially offset by an increase in accounts receivable and inventories. Net cash provided by financing activities for 2021 primarily consisted of $39.6 million in net proceeds from issuance of common stock under the Purchase Agreement, dated as of June 24, 2019, by and between the Company and Lincoln Park (the “2019 Purchase Agreement”), the Purchase Agreement, dated as of March 5, 2020, by and between the Company and Lincoln Park (the “2020 Purchase Agreement”), the Purchase Agreement, dated as of July 12, 2021, by and between the Company and Lincoln Park (the “First 2021 Purchase Agreement”), and the Second 2021 Purchase Agreement, $11.8 million in proceeds from exercise of stock options and warrants and $3.3 million in net borrowings under the SVB Credit Agreement, partially offset by $17.1 million in repayment of SVIC Note and other debt and $1.1 million in payments for taxes related to net share settlement of equity awards.
+​
+Capital Resources
+​
+Second 2021 Lincoln Park Purchase Agreement
+​
+42
+Table of Contents
+2021 Purchase Agreement. As of December 31, 2022, $59.7 million remains available under the Second 2021 Purchase Agreement with Lincoln Park.
+​
+SVB Credit Agreement
+​
+On October 31, 2009, we entered into the SVB Credit Agreement, which provides for a revolving line of credit of up to $10.0 million, as amended. The SVB Credit Agreement was most recently amended on April 29, 2022, and the borrowing base is limited to 85% of eligible accounts receivable, subject to certain adjustments, and 50% of eligible inventory. Borrowings accrue interest on advance at a per annum rate equal to the greater of 0.75% above the Prime Rate or 4.25%. The maturity date is April 28, 2023, as amended.
+​
+As of December 31, 2022, the outstanding borrowings under the SVB Credit Agreement were $4.9 million with no availability under the revolving line of credit. During the year ended December 31, 2022, we made net repayments of $2.1 million under the SVB Credit Agreement.
+​
+Critical Accounting Estimates
+​
+The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States and our discussion and analysis of our financial condition and operating results require our management to make judgments, assumptions and estimates that affect the amounts reported. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. While our significant accounting policies are described in more detail in Note 1 “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K, we believe the accounting policies discussed below used in the preparation of our consolidated financial statements require the most significant estimates, judgments, assumptions and decisions.
+​
+Sales Return Reserves 
+​
+Our revenue generating activities include variable consideration which is recorded as a reduction of the transaction price based upon expected amounts at the time revenue for the corresponding product sale is recognized. Common forms of variable consideration include limited rights of return for up to 30 days, except for sales of excess component inventories, which contain no right-of-return privileges and volume rebates for meeting established sales targets. Estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of the anticipated performance and all information (historical, current and forecasted) that is reasonably available. 
+​
+Returns for products sold are estimated using the expected value method and are recorded as a reduction in reported revenues at the time of sale based upon historical product return experience and is adjusted for known trends to arrive at the amount of consideration to which we expect to receive. Estimated amounts are included in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
+​
+Inventories
+​
+Inventories are valued at the lower of cost or the net realizable value. Cost is determined on an average cost basis which approximates actual cost on a first-in, first-out basis and includes raw materials, labor and manufacturing overhead. Net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. We evaluate inventory balances for excess quantities and obsolescence on a regular basis by analyzing estimated demand, inventory on hand, sales levels and other information and reduce inventory balances to net realizable value for excess and obsolete inventory based on this analysis. At the 
+43
+Table of Contents
+point of the write-down recognition, a new, lower cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis.
+​
+Warranties
+​
+We offer standard product warranties generally ranging from one to three years to our memory subsystem products customers, depending on the negotiated terms of any purchase agreements, and has no other post-shipment obligations or separately priced extended warranty or product maintenance contracts. These warranties require us to repair or replace defective product returned to us during the warranty period at no cost to the customer. Warranties are not offered on sales of component products. We record an estimate for warranty related costs at the time of sale based on our historical and estimated future product return rates and expected repair or replacement costs. Estimated future warranty costs are recorded in the period in which the sale is recorded and are included in cost of sales in the consolidated statements of operations.
+​
+Stock-Based Compensation
+​
+​
+Uncertain Tax Positions
+​
+We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained upon examination by the taxing authorities based on the technical merits of our position. The tax benefit recognized in the financial statements for a particular tax position is based on the largest benefit that is more likely than not to be realized. The amount of unrecognized tax benefits is adjusted as appropriate for changes in facts and circumstances, such as significant amendments to existing tax laws, new regulations or interpretations by the taxing authorities, new information obtained during a tax examination, or resolution of an examination. 
+​
+The application of tax laws and regulations is subject to legal and factual interpretation, judgment and uncertainty. Tax laws and regulations may change as a result of changes in fiscal policy, changes in legislation, the evolution of regulations and court rulings. Therefore, the actual liability for U.S. or foreign taxes may be materially different from our estimates, which could require us to record additional tax liabilities or to reduce previously recorded tax liabilities, as applicable.
+​
+Recent Accounting Standards
+​
+See Note 1 “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion.
+​

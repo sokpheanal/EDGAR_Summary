@@ -1,0 +1,591 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the Consolidated Financial Statements and related Notes thereto set forth in Item 8 of this report.
+Overview
+We design, develop, manufacture and market medical products for interventional and diagnostic procedures. For financial reporting purposes, we report our operations in two operating segments: cardiovascular and endoscopy. Our cardiovascular segment consists of cardiology and radiology devices, which assist in diagnosing and treating coronary arterial disease, peripheral vascular disease and other non-vascular diseases and includes embolotherapeutic, cardiac rhythm management, electrophysiology, critical care, breast cancer localization and guidance, biopsy, interventional oncology and spine devices. Our endoscopy segment consists of gastroenterology and pulmonology devices which assist in the palliative treatment of expanding esophageal, tracheobronchial and biliary strictures caused by malignant tumors. Within those two operating segments, we offer products focused in six core product groups: 
+peripheral intervention, cardiac intervention, interventional oncology and spine, cardiovascular and critical care, breast cancer localization and guidance and endoscopy.
+For the year ended December 31, 2019, we reported sales of approximately $994.9 million, up approximately $112.1 million or 12.7%, over 2018 sales of approximately $882.8 million.
+Gross profit as a percentage of sales decreased to 43.5% for the year ended December 31, 2019 as compared to 44.7% for the year ended December 31, 2018.
+Net income for the year ended December 31, 2019 was approximately $5.5 million, or $0.10 per share, as compared to $42.0 million, or $0.78 per share, for the year ended December 31, 2018.
+We continue to focus our efforts on expanding our presence in foreign markets, particularly Europe, Middle East and Africa (“EMEA”), China, Southeast Asia, Japan, Australia and Brazil, in an effort to expand our market opportunities. These efforts have increased our selling, general and administrative expenses and lengthened our average collection period as certain geographic markets have customary payment terms which are, on average, longer than payment terms in the United States; however, we believe over time this expansion will help improve our profitability. Our international sales growth was strong for the year ended December 31, 2019. In 2019, international sales were approximately $419.1 million, or 42.1% of our net sales, up 8.5% from international sales of $386.3 million in 2018.
+We believe our forecasted growth will be facilitated by recently obtained regulatory approvals, such as:
+●
+Clearance from the China National Medical Products Association (NMPA) to market the SwiftNinja® Steerable Microcatheter and the InQwire® Amplatz Guide Wire in China.
+●
+Authorization of the CE mark for the Cianna Scout® Surgical Guidance System.
+●
+Notice from BlueGrass Vascular Technologies that the FDA has granted De Novo classification for its Surfacer® Inside-Out® Access Catheter System. Merit owns approximately 19.5% of the common equity of BlueGrass Vascular and has been the worldwide exclusive distributor of the system for the last three years. Merit has the option to acquire the remaining equity of Bluegrass Vascular during the first part of 2020.
+We continue to consolidate facilities, strategically reduce operating expenses and incentivize our sales force to focus on products that will improve our financial performance. We currently plan to move production of 14 products to our facilities in Mexico or Texas, and anticipate consolidating four facilities from 2020-2021. We presently estimate these consolidations to result in cost savings of approximately $6 million to $10 million annually.
+41
+Table of Contents
+As we have significant sales and distribution in China and Southeast Asia, we recognize the potential impact the coronavirus epidemic may have on our business. We currently expect the adverse impact on our net sales during the first quarter of 2020 to be in the range of $14 million to $19 million. 
+Results of Operations
+The following table sets forth certain operational data as a percentage of sales for the years indicated:
+​
+​
+​
+​
+​
+​
+​
+​
+2019
+    
+2018
+    
+2017
+ 
+Net sales
+ 100
+%  
+ 100
+%  
+ 100
+%
+Gross profit
+ 43.5
+ 
+ 44.7
+ 
+ 44.8
+​
+Selling, general and administrative expenses
+ 32.9
+ 
+ 31.3
+ 
+ 31.5
+​
+Research and development expenses
+ 6.6
+ 
+ 6.7
+ 
+ 7.1
+​
+Impairment and other charges
+ 2.4
+ 
+ 0.1
+ 
+ 0.1
+​
+Contingent consideration expense (benefit)
+ (0.0)
+ 
+ (0.1)
+ 
+ —
+​
+Acquired in-process research and development expenses
+ 0.1
+ 
+ 0.1
+ 
+ 1.7
+​
+Income from operations
+ 1.6
+ 
+ 6.6
+ 
+ 4.5
+​
+Income before income taxes
+ 0.2
+ 
+ 5.6
+ 
+ 4.9
+​
+Net income
+ 0.5
+ 
+ 4.8
+ 
+ 3.8
+​
+​
+Listed below are the sales by product category within each operating segment for the years ended December 31, 2019, 2018 and 2017 (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+% Change
+    
+2019
+    
+% Change
+    
+2018
+    
+% Change
+    
+2017
+Cardiovascular
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Stand-alone devices
+ 11.0
+%  
+$
+ 401,466
+ 
+ 31.3
+%  
+$
+ 361,613
+ 
+ 44.1
+%  
+$
+ 275,456
+Cianna Medical
+n/a
+​
+ 
+ 49,536
+ 
+n/a
+​
+ 
+ 6,292
+ 
+ —
+%  
+ 
+ —
+Custom kits and procedure trays
+ 0.8
+%  
+ 
+ 135,856
+ 
+ 6.9
+%  
+ 
+ 134,756
+ 
+ 5.7
+%  
+ 
+ 126,089
+Inflation devices
+ (1.9)
+%  
+ 
+ 90,681
+ 
+ 15.7
+%  
+ 
+ 92,419
+ 
+ 8.1
+%  
+ 
+ 79,875
+Catheters
+ 14.4
+%  
+ 
+ 177,876
+ 
+ 21.7
+%  
+ 
+ 155,525
+ 
+ 12.7
+%  
+ 
+ 127,747
+Embolization devices
+ 4.1
+%  
+ 
+ 52,072
+ 
+ 1.0
+%  
+ 
+ 50,038
+ 
+ 7.6
+%  
+ 
+ 49,532
+CRM/EP
+ 9.5
+%  
+ 
+ 53,494
+ 
+ 16.5
+%  
+ 
+ 48,834
+ 
+ 15.0
+%  
+ 
+ 41,914
+Total
+ 13.1
+%  
+ 
+ 960,981
+ 
+ 21.2
+%  
+ 
+ 849,477
+ 
+ 20.8
+%  
+ 
+ 700,613
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Endoscopy
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Endoscopy devices
+ 1.8
+%  
+ 
+ 33,871
+ 
+ 22.2
+%  
+ 
+ 33,276
+ 
+ 15.0
+%  
+ 
+ 27,239
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Total
+ 12.7
+%  
+$
+ 994,852
+ 
+ 21.3
+%  
+$
+ 882,753
+ 
+ 20.5
+%  
+$
+ 727,852
+​
+Cardiovascular Sales.
+Our cardiovascular sales for the year ended December 31, 2018 were approximately $849.5 million, up 21.2%, when compared to the corresponding period for 2017 of approximately $700.6 million. Sales for the year ended December 31, 2018 were favorably affected by increased sales of (a) our stand-alone devices (particularly our Map™ Merit Angioplasty Packs, PreludeSYNC™, guide wires, and Merit Laureate® Hydrophilic Guide Wire products, as well as sales from our acquisitions of BD and the Argon critical care division product lines, among others) of approximately $86.2 million, up 31.3%; (b) catheters (particularly our Prelude® Radial Introducer Sheath product line, our Merit 
+42
+Table of Contents
+Maestro® Microcatheters and our new Prelude IDeal™) of approximately $27.8 million, up 21.7%; and (c) our inflation devices (particularly our basixTOUCH™ and BasixCompak™ product lines and inflation kits sold through our OEM relationships) of approximately $12.5 million, up 15.7%.
+Sales by our international direct sales forces are subject to foreign currency exchange rate fluctuations between the natural currency of a foreign country and the U.S. Dollar. Foreign currency exchange rate fluctuations decreased sales 1.3% for the year ended December 31, 2019 compared to sales calculated using the applicable average foreign exchange rates for 2018 and increased sales 0.6% for the year ended December 31, 2018 compared to sales calculated using the applicable foreign exchange rates for 2017. 
+Endoscopy Sales.
+International Sales
+Gross Profit
+Selling, General and Administrative Expenses
+The increase in selling, general, and administrative expenses for the year ended December 31, 2019 compared to the year ended December 31, 2018 was
+ primarily related to higher compensation expenses associated with an increase in headcount to support recent acquisitions and the growth in operations, higher commission expense associated with increased sales, higher severance costs ($5.0 million compared to $0.9 million in 2018) related to restructuring, and legal costs associated with the investigation by the U.S. Department of Justice ($6.5 million in 2019 compared to $5.6 million in 2018), partially offset 
+The increase in selling, general, and administrative expenses for the year ended December 31, 2018 compared to the year ended December 31, 2017 was primarily related to $7.6 million of acquisition and integration-related costs (compared to $6.6 million in 2017), increased headcount, increased amortization of intangible assets and foreign market 
+43
+Table of Contents
+expansion, partially offset by decreased legal costs associated with responding to the pending subpoena from the U.S. Department of Justice ($5.6 million in 2018 compared to $12.6 million in 2017).
+Research and Development Expenses
+Impairment and Other Charges
+Contingent Consideration (Benefit)
+Acquired In-process Research and Development
+Our operating profits by business segment for the years ended December 31, 2019, 2018 and 2017 were as follows (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2019
+    
+2018
+    
+2017
+Operating Income (Loss)
+​
+​
+​
+​
+​
+​
+​
+​
+Cardiovascular
+$
+ 25,780
+​
+$
+ 49,289
+​
+$
+ 24,819
+Endoscopy
+ 
+ (10,346)
+​
+ 
+ 9,328
+​
+ 
+ 8,250
+Total operating income
+$
+ 15,434
+​
+$
+ 58,617
+​
+$
+ 33,069
+​
+Cardiovascular Operating Income.
+44
+Table of Contents
+Department of Justice ($5.6 million in 2018 compared to $12.6 million in 2017), partially offset by costs related to increased headcount, increased amortization of intangible assets, and costs associated with foreign market expansion.
+Endoscopy Operating Income (Loss).
+This increase was primarily the result of higher sales (due to the distribution agreement with NinePoint and the acquisition of BD).
+Effective Tax Rate.
+Other Income (Expense).
+Net Income.
+The increase in net income for the year ended December 31, 2018, when compared to 2017, was primarily due to increased sales (both from acquisitions and organic growth), decreased R&D expenses as a percentage of sales, lower legal expenses incurred in responding to the pending subpoena from the U.S. Department of Justice ($5.6 million in 2018 compared to $12.6 million in 2017) and a lower effective tax rate in 2018 (in large part due to tax reform), partially offset by slightly lower gross margins and increased interest expense due to higher average debt balances in 2018.
+Total Assets.
+Off-Balance Sheet Arrangements.
+45
+Table of Contents
+Liquidity and Capital Resources
+Capital Commitments and Contractual Obligations
+The following table summarizes our capital commitments and contractual obligations as of December 31, 2019, as well as the future periods in which such payments are currently anticipated to become due:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Payment due by period (in thousands)
+Contractual Obligations
+    
+Total
+    
+Less than 1 Year
+    
+1-3 Years
+    
+4-5 Years
+    
+After 5 Years
+Long-term debt
+​
+$
+ 440,000
+​
+$
+ 7,500
+​
+$
+ 15,938
+​
+$
+ 416,562
+​
+$
+ —
+Interest on long-term debt 
+(1)
+​
+ 
+ 58,769
+​
+ 
+ 12,910
+​
+ 
+ 25,464
+​
+ 
+ 20,395
+​
+ 
+ —
+Operating leases
+​
+ 
+ 106,359
+​
+ 
+ 13,949
+​
+ 
+ 23,306
+​
+ 
+ 15,603
+​
+ 
+ 53,501
+Royalty obligations
+​
+ 
+ 4,194
+​
+ 
+ 738
+​
+ 
+ 1,438
+​
+ 
+ 1,435
+​
+ 
+ 583
+Total contractual cash
+​
+$
+ 609,322
+​
+$
+ 35,097
+​
+$
+ 66,146
+​
+$
+ 453,995
+​
+$
+ 54,084
+(1)
+Interest payments on our variable long-term debt were forecasted using the LIBOR forward curves plus a base of 1.50% based on the terms of our Third Amended Credit Agreement. Interest payments on a portion of our long-term debt were forecasted using a fixed rate of 2.62% through July 2021, and a fixed rate of 3.21% from July 2021 through July 2024, as a result of our interest rate swaps (see Note 9 to our consolidated financial statements set forth in Item 8 of this report).
+As of December 31, 2019, we had approximately $76.7 million of contingent consideration liabilities, $2.2 million of unrecognized tax positions, and $14.9 million of deferred compensation payable that have been recognized as liabilities that have not been included in the contractual obligations table due to uncertainty as to when such amounts may be settled.
+Additional information regarding our capital commitments and contractual obligations, including royalty payments and operating leases, is contained in Notes 8, 10, and 18 to our consolidated financial statements set forth in Item 8 of this report.
+Cash Flows
+At December 31, 2019 and 2018, we had cash and cash equivalents of approximately $44.3 million and $67.4 million respectively, of which approximately $31.7 million and $57.3 million, respectively, were held by foreign subsidiaries. Future repatriation of cash and other property held by our foreign subsidiaries will generally not be subject to U.S. federal income tax. As a result, after evaluation of the permanent reinvestment assertion, we are no longer permanently reinvested with respect to our historic unremitted foreign earnings as of December 31, 2018. Cash held by our subsidiary in China is subject to local laws and regulations that require government approval for the transfer of such funds to entities located outside of China. As of December 31, 2019 and 2018, we had cash and cash equivalents of approximately $11.3 million and $18.6 million, respectively, held by our subsidiary in China.
+Cash flows provided by operating activities.
+●
+Cash (used for) accounts receivable was approximately $(17.9) million and $(27.5) million for the years ended December 31, 2019 and 2018, respectively, due primarily to increases in sales volume, and
+●
+Cash (used for) provided by accounts payable was ($2.3) million and $15.7 million for the years ended December 31, 2019 and 2018, respectively, due primarily to growth in operations and timing of payments.
+46
+Table of Contents
+The $23.8 million increase in net cash provided by operating activities for the year ended December 31, 2018 compared to the year ended December 31, 2017 was driven by an increase in net income of approximately $14.5 million and an increase of approximately $21.1 million in non-cash items, partially offset by a decrease in the net change from operating assets and liabilities of approximately $11.7 million. Significant changes in operating assets and liabilities affecting cash flows during these years included:
+●
+Cash (used for) accounts receivable was approximately $(27.5) million and $(12.8) million for the years ended December 31, 2018 and 2017, respectively, due primarily to increases in product sales volume;
+●
+Cash (used for) inventory was approximately ($28.2) million and ($17.8) million for the years ended December 31, 2018 and 2017, respectively. The increase in the inventory balance was due to several factors, including acquisitions, increased sales, and the opening of new modified direct sales markets in South Korea, India, and Japan; and
+●
+Cash provided by accounts payable was approximately $15.7 million and $0.4 million for the years ended December 31, 2018 and 2017, respectively, due primarily to growth in operations and timing of payments.
+Cash flows used in investing activities.
+Cash outflows invested in acquisitions for the year ended December 31, 2019 were approximately $53.9 million and were primarily related to our acquisition of Brightwater and STD Pharmaceutical. Cash outflows for acquisitions in 2018 were approximately $301.8 million and primarily related to our acquisition of BD product lines and Cianna Medical. Cash outflows for acquisitions in 2017 were $105.6 million and primarily related to our acquisition of the assets of Laurane Medical, the assets of Osseon LLC, Vascular Access Technologies, the critical care division of Argon and a custom procedure pack business from ITL Healthcare Pty Ltd. (“ITL”). Each year also included additional less significant acquisitions; for further discussion, refer to Note 3 to our consolidated financial statements set forth in Item 8 of this report.
+Cash flows provided by financing activities.
+As of December 31, 2019, we had outstanding borrowings of $440 million under the Third Amended Credit Agreement, with available borrowings of approximately $133.8 million, based on the leverage ratio required pursuant to 
+47
+Table of Contents
+the Third Amended Credit Agreement. Our interest rate as of December 31, 2019 was a fixed rate of 2.62% on $175 million as a result of an interest rate swap (see Note 9 to our consolidated financial statements set forth in Item 8 of this report) and a variable floating rate of 3.30% on $265 million. Our interest rate as of December 31, 2018 was a fixed rate of 2.12% on $175 million as a result of an interest rate swap and a variable floating rate of 3.52% on $213.5 million. As of December 31, 2018 we also had a variable rate of 3.39% on $7 million related to our collateralized debt facility with HSBC in China.
+ See Note 8 to our consolidated financial statements 
+ for additional details regarding the Third Amended Credit Agreement and our long-term debt.
+We currently believe that our existing cash balances, anticipated future cash flows from operations and borrowings under the Third Amended Credit Agreement will be adequate to fund our current and currently planned future operations for the next twelve months and the foreseeable future. In the event we pursue and complete significant transactions or acquisitions in the future, additional funds will likely be required to meet our strategic needs, which may require us to raise additional funds in the debt or equity markets.
+Critical Accounting Policies and Estimates
+The SEC has requested that all registrants address their most critical accounting policies. The SEC has indicated that a “critical accounting policy” is one which is both important to the representation of the registrant’s financial condition and results and requires management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. We base our estimates on past experience and on various other assumptions our management believes to be reasonable under the circumstances, the results of which form the basis for making judgments about carrying values of assets and liabilities that are not readily apparent from other sources. Actual results will differ and may differ materially from these estimates under different assumptions or conditions. Additionally, changes in accounting estimates could occur in the future from period to period. The following paragraphs identify our most critical accounting policies:
+Valuation of Goodwill and Intangible Assets. 
+We test our goodwill balances for impairment as of July 1 of each year, or whenever impairment indicators arise. We utilize several reporting units in evaluating goodwill for impairment using a quantitative assessment, which uses a combination of a guideline public company market-based approach and a discounted cash flow income-based approach. The quantitative assessment considers whether the carrying amount of a reporting unit exceeds its fair value, in which case an impairment charge is recorded to the extent the reporting unit’s carrying value exceeds its fair value. This analysis requires significant judgment, including estimation of future cash flows and the length of time they will occur, which is based on internal forecasts, and a determination of a discount rate based on our weighted average cost of capital. During our annual test of goodwill balances in 2019, which was completed during the third quarter of 2019, we determined that the fair value of each reporting unit with goodwill exceeded the carrying amount by a significant amount.
+We evaluate the recoverability of intangible assets subject to amortization whenever events or changes in circumstances indicate that an asset’s carrying amount may not be recoverable. This analysis requires similar significant judgments as those discussed above regarding goodwill, except that undiscounted cash flows are compared to the carrying amount of intangible assets to determine if impairment exists. In-process technology intangible assets, which are not subject to amortization until projects reach commercialization, are assessed for impairment at least annually and more frequently if events occur that would indicate a potential reduction in the fair value of the assets below their carrying value.
+During the year ended December 31, 2019, we compared the carrying value of the amortizing intangible assets acquired in our July 2015 acquisition of certain assets from Distal Access, LLC (“Distal Access”), our June 2017 acquisition of certain assets from Lazarus Medical Technologies, LLC (“Lazarus”), and our July 2017 acquisition of certain assets from Pleuratech APS (“Pleuratech”), all of which pertained to our cardiovascular segment, to the undiscounted cash flows expected to result from the asset groups and determined that the carrying amounts were not 
+48
+Table of Contents
+recoverable. We then determined the fair value of the amortizing assets related to the Distal Access, Lazarus, and Pleuratech acquisitions based on estimated future cash flows discounted back to their present value using discount rates that reflect the risk profiles of the underlying activities. Some of the factors that influenced our estimated cash flows were 
+slower than anticipated sales growth in the acquired products and uncertainty about future product development and commercialization associated with the acquired technologies.
+During the year ended December 31, 2018, we compared the carrying value of the amortizing intangible assets acquired in our July 2015 acquisition of certain assets from Quellent, LLC, all of which pertained to our cardiovascular segment, to the undiscounted cash flows expected to result from the asset group and determined that the carrying amount was not recoverable. We then determined the fair value of the amortizing assets related to the Quellent acquisition based on estimated future cash flows discounted back to their present value using a discount rate that reflects the risk profiles of the underlying activities. Some of the factors that influenced our estimated cash flows were slower than anticipated sales growth in the products acquired from our Quellent acquisition and uncertainty about future sales growth. The excess of the carrying value compared to the fair value was recognized as an intangible asset impairment charge. We recorded an impairment charge for Quellent of approximately $657,000.
+Contingent Consideration. 
+We re-measure the estimated liability each quarter and record changes in the estimated fair value through operating expense in our consolidated statements of income. Significant increases or decreases in our estimates could result in changes to the estimated fair value of our contingent consideration liability, as the result of changes in the timing and amount of revenue estimates, as well as changes in the discount rate or periods.

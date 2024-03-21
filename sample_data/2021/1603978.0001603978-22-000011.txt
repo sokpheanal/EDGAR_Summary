@@ -1,0 +1,351 @@
+ 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes that appear elsewhere in this Annual Report on Form 10‑K. In addition to historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10‑K, particularly in “Risk Factors.”
+Overview
+We believe that we are a leader in the field of land-based aquaculture and the use of technology for improving its productivity and sustainability. Our lead product is our GE Atlantic salmon, which received FDA approval in 2015 as the first genetically engineered animal available for sale for human consumption. We have commenced commercial activities with operations in the United States and Canada where we have received regulatory approval. We are actively engaged in genetic, genomic, fish health and fish nutrition research, which drive continuous improvement in our operations and may lead to new, disruptive technologies and products that could further expand our competitive offerings.
+COVID-19
+Although COVID-19 vaccines have become more readily available in the United States and other parts of the world, several variants of the virus continue to spread.  Local governmental authorities in the United States and Canada have issued, and continue to update, directives aimed at minimizing the spread of the virus and we continue to monitor their status.
+The ultimate impact of the evolving COVID-19 pandemic on our operations will depend on future developments, which cannot be predicted with confidence, and we cannot predict the extent or impact of the extended period of continued business interruption and reduced operations caused by the COVID-19 pandemic or any additional preventative or protective measures taken in response.  In connection with the COVID-19 pandemic, we made modifications to our biosecurity procedures at our farm sites in early 2020 to adapt to local requirements and to provide a safe work environment. Our current preventative and protective measures include, but are not limited to, segregating farm workers to specific locations, rotating shifts, and monitoring worker temperatures upon arrival at our facilities. In certain circumstances, we utilized, and continue to utilize, work-from-home arrangements for employees that do not have fish care responsibilities. 
+Due to the pandemic, we have experienced delays and cost increases in capital projects, additional challenges in our efforts to meet the capacity expectations at our existing facilities and continue to experience extended lead times on equipment purchases.  We may continue to experience delays and cost increases on farm construction, purchases of capital equipment and supplies and other materials required in our operations due to vendor shortages and other labor shortages. We also expect to continue to be impacted by transportation or supply chain disruptions to our partners or customers. In addition, we are carefully managing and monitoring the impact of labor shortages on our ability to meet the annual capacity expectations at our existing facilities.
+Our operations were initially impacted by a reduction in the market price and demand for Atlantic salmon due to the pandemic’s impact on the food service sector. This had a negative impact on revenue and inventory value, as we were not yet an established vendor and customers appeared reluctant to add a new supplier during a period of depressed demand.  
+During the second half of 2021, we were impacted by a shortage of labor at our Indiana farm and increased costs for third-party processing and transportation. This had a negative effect on revenue and inventory values and resulted in higher than expected sales costs for the period.  We expect this to continue for the foreseeable future.
+We remain focused on maintaining a strong balance sheet, liquidity, and financial flexibility and continue to monitor developments as we deal with the disruptions and uncertainties from a business and financial perspective relating to the evolving COVID-19 pandemic. 
+Financial Overview
+We have incurred significant losses since our inception, which we expect to continue for the foreseeable future, and we may never achieve or maintain profitability. We expect to generate product revenue primarily through the sales of our GE Atlantic salmon. We also sell conventional Atlantic salmon, salmon eggs, fry, and byproducts. We expect revenues to grow modestly in 2022, as we increase our weekly harvesting capability at our Indiana farm and as the U.S. economy continues to recover from the COVID-19 pandemic.
+We expect our future capital requirements will be substantial, particularly as we continue to develop our business and expand our commercial activities, as discussed in “Liquidity and Capital Resources”.  During the next several years, we expect that our working capital requirements and our capital expenditures will increase substantially due to our plans to construct four to five new land-based production farms.
+28
+ 
+Table of Contents
+ 
+ 
+Product Revenue
+We currently generate product revenue through the sales of our GE Atlantic salmon, conventional Atlantic salmon eggs and fry, and salmon byproducts. We expect revenues to grow modestly in 2022, as we increase our weekly harvesting capability at our Indiana farm.  In the future, we believe that our revenue will depend upon the number and capacity of grow-out farms we have in operation and the market acceptance we achieve.
+Production Costs
+Production costs include the labor and related costs to grow out our fish, including feed, oxygen, and other direct costs; overhead; and the cost to process and ship our products to customers. A portion of production costs is absorbed into inventory as fish in process to the extent that these costs do not exceed the net realizable value of the fish biomass. The costs that are not absorbed into inventory, as well as any net realizable inventory value adjustments, are classified as production costs
+. As of December 31, 2021 and 2020, we had sixty-one and forty-three employees, respectively engaged in production activities.
+Sales and Marketing Expenses
+Our sales and marketing expenses currently include salaries and related costs for our sales personnel and consulting fees for market-related activities.  During 2021, we also included the cost of our conventional salmon donation program. As of December 31, 2021 and 2020, we had one and zero employees, respectively dedicated to sales and marketing.  We expect our sales and marketing expenses to increase as our production output and revenues grow.
+Research and Development Expenses
+As of December 31, 2021 and 2020, we employed nineteen and fifteen scientists and technicians, respectively at our facilities on Prince Edward Island to oversee our broodstock of GE Atlantic salmon, as well as the lines of fish we maintain for research and development purposes. We recognize research and development expenses as they are incurred. Our research and development expenses consist primarily of:
+
+salaries and related overhead expenses for personnel in research, development functions, and brood-stock husbandry;
+
+fees paid to contract research organizations and consultants who perform research for us;
+
+costs related to laboratory supplies used in our research and development efforts; and
+
+costs related to the operation of our field trials.
+General and Administrative Expenses
+General and administrative expenses consist primarily of salaries and related costs for employees in executive, corporate, and finance functions. Other significant general and administrative expenses include corporate governance and public company costs, regulatory affairs, rent and utilities, insurance, and legal services. We had fourteen employees in our general and administrative group at December 31, 2021 and 2020.
+Other Income (Expense), Net
+Interest expense includes the interest on our outstanding loans and the amortization of debt issuance costs. Other income (expense) includes bank charges, fees, interest income, miscellaneous gains or losses on asset disposals and realized gains or losses on investments.
+Critical Accounting Policies and Estimates
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations is based on our consolidated financial statements, which we have prepared in accordance with GAAP. The preparation of our consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported revenues and expenses during the reporting periods. We evaluate these estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Our actual results may differ from these estimates under different assumptions or conditions. While our significant accounting policies are more fully described in Note 2 to our audited consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K, we believe that the following accounting policies and estimates are the most critical for fully understanding and evaluating our financial condition and results of operations. 
+29
+ 
+Table of Contents
+ 
+ 
+Inventories
+Inventories are mainly comprised of feed, eggs and fish in process. Fish in process inventory is measured based on the estimated biomass of fish on hand. We have established a standard procedure to estimate the biomass of fish on hand using counting and sampling techniques.  We measure inventory at the lower of cost or net realizable value (“NRV”). The NRV calculation contains various estimates and assumptions in regard to the calculation of the biomass, including expected yield, the market value of the biomass and estimated costs of processing and transportation.  
+The estimates and assumptions used in calculating the NRV can introduce variability in the inventory value from period to period.  This is primarily due to the variability in the market price for salmon; the yield we can achieve in processing and the mix of products sold; and the number and frequency of shipments from our farm to our customers. Each of these factors in the calculation of NRV can change from week to week based on market conditions.  In our estimates, we rely on a combination of our actual experience, along with an estimation of foreseeable trends in the market.
+Revenue Recognition
+We generate revenue from the sale of our products.  Revenue is recognized when the customer takes physical control of the goods, in an amount that reflects the transaction price consideration that we expect to receive in exchange for the goods. Revenue excludes any sales tax collected and includes any estimate of future credits.
+Our revenue can vary from period to period based on the available biomass of fish that are ready to be harvested; our resource capability to harvest, process and ship salmon from our farms; the percentage of fish that meet our quality requirements; and the market price for salmon. Additionally, once our product is received by a customer, it is subject to a quality review before acceptance.  To date, credits issued to customers for quality issues have been negligible, but we will continue to monitor and evaluate our customer quality experience as our shipments increase.  We started harvesting our GE Atlantic salmon in June of 2021 and we are still ramping up our internal harvesting resources and our customer base.
+Recent Accounting Pronouncements
+We do not expect any recently issued, but not yet effective, accounting standards to have a material effect on our results of operations or financial condition.
+Results of Operations
+Comparison of the year ended December 31, 2021 to the year ended December 31, 2020.
+The following table summarizes our results of operations for the years ended December 31, 2021 and 2020, together with the changes in those items in dollars (in thousands) and as a percentage:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year Ended
+December,
+ 
+Dollar
+ 
+%
+ 
+2021
+ 
+2020
+ 
+Change
+ 
+Change
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product revenue
+$
+ 1,175
+ 
+$
+ 128
+ 
+ 1,047
+ 
+ 818%
+Operating expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product costs
+ 
+ 10,786
+ 
+ 
+ 6,680
+ 
+ 4,106
+ 
+ 61%
+Sales and marketing
+ 
+ 1,262
+ 
+ 
+ 533
+ 
+ 729
+ 
+ 137%
+Research and development
+ 
+ 2,146
+ 
+ 
+ 2,365
+ 
+ (219)
+ 
+ (9)%
+General and administrative
+ 
+ 9,103
+ 
+ 
+ 6,798
+ 
+ 2,305
+ 
+ 34%
+Operating loss
+ 
+ (22,122)
+ 
+ 
+ (16,248)
+ 
+ (5,874)
+ 
+ 36%
+Total other expense
+ 
+ (201)
+ 
+ 
+ (152)
+ 
+ (49)
+ 
+ 32%
+Net loss
+$
+ (22,323)
+ 
+$
+ (16,400)
+ 
+ (5,923)
+ 
+ 36%
+ 
+Product Revenue
+Product revenue for the year ended December 31, 2021 consisted of 
+sales of our GE Atlantic salmon and conventional Atlantic salmon fry and eggs.
+ For the comparative period in 2020, revenue included the sale of conventional Atlantic salmon, fry and eggs. 
+During the current year, we began harvesting and selling our GE Atlantic salmon from both our Indiana and Rollo Bay farms.
+30
+ 
+Table of Contents
+ 
+ 
+Production Costs
+Production costs for the year ended December 31, 2021, were up from the corresponding period in 2020, 
+due to production cost increases related to the commencement of harvesting at the Indiana and Rollo Bay farms.  Increases included headcount additions, feed costs and other direct supplies, as well as the costs for processing and transportation to bring our product to market.
+The current year includes net realizable inventory value adjustments of $8.0 million based on the market price for salmon, our production yields and external processing and transportation costs.  
+Costs for 2020 include net realizable inventory value adjustments of $4.2 million and a $1.5 million write-off against the carrying value of the conventional salmon biomass due to management’s decision to donate substantially all of the conventional salmon to local food charities during Q1 2021.
+Sales and Marketing Expenses
+Sales and marketing expenses for the year ended December 31, 2021, were up from the corresponding period in 2020 due to an increase in headcount and promotional expenses related to marketing activities for our salmon. Costs for the period also include a $514 thousand charge related to the donation program of conventional Atlantic salmon to local food charities.
+Research and Development Expenses
+Research and development expenses for the 
+year ended December 31, 2021
+, were down from the corresponding period in 2020 due to an increase in broodstock cost transferred to production costs for related product revenue during the period and a decrease in field trials, offset by increased outside contract service fees and
+ 
+personnel costs.  During the current period, research activities included feed nutrition trials, discovery research in salmon immunology and work on a genome study to identify genes associated with economically important traits in salmon.
+General and Administrative Expenses
+General and administrative expenses for the year ended December 31, 2021, were up from the corresponding period in 2020 due to increases in personnel, outside consulting and advisory fees, auditing fees, insurance costs, and travel, partly offset by decreases in legal fees and stock compensation charges.
+Total Other (Income) Expense
+Total other (income) expense for 2021 is comprised of interest on debt, bank charges, and interest income. Total other (income) expense for 2020 is comprised of interest on debt, bank charges, interest income, and a net gain on the disposal of assets.
+Liquidity and Capital Resources
+Sources of Liquidity
+We have incurred losses from operations since our inception in 1991, and, as of December 31, 2021, we had an accumulated deficit of $171 million.  We expect to continue to experience losses from operations for the foreseeable future and we will require substantial additional cash to fund our business plans.  Liquidity has primarily come from equity financings, supplemented by debt transactions.
+During 2020, we completed three public equity offerings totaling 33,028,000 shares of common stock for net proceeds of approximately $104.6 million and we issued 713,449 shares of common stock through the conversion of outstanding warrants for total proceeds of $2.3 million.  During 2021, we completed a public equity offering of 14,950,000 shares of common stock for net proceeds of approximately $119.1 million. 
+In the future, we expect to use bond issuances to fund the construction of our farms and we may use additional equity issuances to supplement these costs or to fund other growth opportunities.
+As of December 31, 2021, we had $191.2 million in cash and cash equivalents, marketable securities and restricted cash.  
+Our principal contractual commitments include capital expenditure obligations, repayments of debt and related interest, and payments under operating leases. Refer to the notes in our consolidated financial statements for further information about our share capital expenditure commitments (Note 6), debt (Note 7), and lease payment obligations (Note 10).
+31
+ 
+Table of Contents
+ 
+ 
+Cash Flows
+The following table sets forth the significant sources and uses of cash for the periods set forth below (in thousands):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year Ended
+December 31,
+ 
+Dollar
+ 
+%
+ 
+2021
+ 
+2020
+ 
+Change
+ 
+Change
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net cash provided by (used in):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating activities
+$
+ (20,472)
+ 
+$
+ (14,289)
+ 
+ (6,183)
+ 
+ 43%
+Investing activities
+ 
+ (107,539)
+ 
+ 
+ (3,239)
+ 
+ (104,300)
+ 
+ 3,220%
+Financing activities
+ 
+ 121,179
+ 
+ 
+ 111,003
+ 
+ 10,176
+ 
+ 9%
+Effect of exchange rate changes on cash
+ 
+ 36
+ 
+ 
+ (23)
+ 
+ 59
+ 
+ (257)%
+Net increase in cash
+$
+ (6,796)
+ 
+$
+ 93,452
+ 
+ (100,248)
+ 
+ (107)%
+ 
+Cash Flows from Operating Activities
+Net cash used in operating activities during the year ended December 31, 2021, was primarily comprised of our $22.3 million net loss, offset by non-cash depreciation and stock compensation charges of $2.2 million and increased by working capital uses of $349 thousand. Spending on operations increased in 2021 due to increases in production activities at our Rollo Bay and Indiana farm sites and outside consulting and advisory fees. Cash used for working capital was due primarily to increases in receivables and prepaid expenses, partially offset by increases in accounts payable and accrued expenses and a decrease in inventory.
+Net cash used in operating activities during the year ended December 31, 2020, was primarily comprised of our $16.4 million net loss, offset by non-cash depreciation and stock compensation charges of $1.9 million and by working capital sources of $136 thousand. Spending on operations increased in 2020 due to increases in production activities at our Rollo Bay and Indiana farm sites, offset by lower field trial costs related to our demonstration farm in Panama and travel expenses. Cash provided by working capital was due primarily to an increase in accounts payable and accrued liabilities, partially offset by increases in inventory and prepaid expenses.
+Cash Flows from Investing Activities
+During 2021, we used $5.7 million for renovations to our Indiana farm site, construction charges at our Rollo Bay farm site and renovations at our Fortune Bay hatchery, $45 thousand for deposits on equipment purchases and $101.8  million on the purchase of marketable securities. 
+During 2020, we used $4.0 million for renovations to our Indiana farm site and for construction charges at our Rollo Bay site, offset by $100 thousand in proceeds from the sale of equipment and $1 million in net proceeds from a settlement agreement. 
+We expect expenditures on capital projects to increase in future periods as we commence construction of our Ohio farm.  We currently estimate the construction costs to be in the range of $290 million to $320 million, including a reserve for potential contingencies of $30 million.  We expect to finance this project cost through a combination of cash on hand and debt.  Estimating the cost and timing for the completion of this new and complex capital project is inherently difficult and subject to change based on a number of factors, including design changes, fluctuating costs of materials, labor shortages, the impact of the COVID-19 pandemic, construction delays, dependence on contractors, financing costs, customer requirements and unexpected complications.  For more information, see “
+Our business plans include the need for substantial additional capital and without it we may not be able to implement our strategy as planned or at all
+.”
+Cash Flows from Financing Activities
+During 2021, 
+we received approximately $119.1 million in net proceeds from the issuance of shares of common stock in a public equity offering, $1.7 million from the exercise of warrants, and $606 thousand from new debt. This was offset by $272 thousand in debt repayment.
+During 2020, we received approximately $104.6 million in net proceeds from the issuance of shares of common stock in three public equity offerings, $2.3 million from the exercise of warrants, and $4.1 million from the issuance of debt, net of repayments and debt issuance costs.
+Future Capital Requirements
+In February 2021, we completed an equity raise with net proceeds of $119.1 million and we had $191.2 million of cash, cash equivalents, marketable securities and restricted cash as of December 31, 2021.  While we have experienced net losses and negative cash flows from operations since inception, we believe that we have sufficient cash to meet our requirements for at least the next twelve months from the filing date.
+During 2022, we expect to use approximately $130 million of cash to fund our operations and the first year of construction costs for our Ohio farm.
+32
+ 
+Table of Contents
+ 
+ 
+In 2020, we entered into a term loan agreement with First Farmers Bank and Trust in the amount of $4 million, which is secured by the assets of our Indiana subsidiary and a corporate guarantee.  The agreement contains certain financial and non-financial covenants, which if not met, could result in an event of default pursuant to the terms of the loan.  The ability of the Indiana subsidiary to meet its debt covenants over the next twelve months is dependent upon its operating performance.   
+Until such time, if ever, as we can generate positive operating cash flows, we may finance our cash needs through a combination of equity offerings, debt financings, government or other third-party funding, strategic alliances, and licensing arrangements. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interests of holders of our common stock will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of holders of our common stock. Debt financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures, or declaring dividends. If we raise additional funds through government or other third-party funding; marketing and distribution arrangements; or other collaborations, strategic alliances, or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs, or product candidates or to grant licenses on terms that may not be favorable to us.
+If we are unable to generate additional funds in the future through financings, sales of our products, government grants, loans, or from other sources or transactions, we will exhaust our resources and will be unable to maintain our currently planned operations. If we cannot continue as a going concern, our stockholders would likely lose most or all of their investment in us.
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk

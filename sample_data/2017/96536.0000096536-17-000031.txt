@@ -1,0 +1,1599 @@
+ 
+Cautionary Statement
+ 
+The Private Securities Litigation Reform Act
+of 1995 provides a "safe harbor" for forward-looking statements. Information in this Item 7, "Management's Discussion
+and Analysis of Financial Condition and Results of Operations" and elsewhere in this 10-K that does not consist of historical
+facts are "forward-looking statements." Statements accompanied or qualified by, or containing, words such as "may,"
+ "will," "should," "believes," "expects," "intends," "plans," "projects,"
+ "estimates," "predicts," "potential," "outlook," "forecast," "anticipates,"
+ "presume," "assume" and "optimistic" constitute forward-looking statements and, as such, are not
+a guarantee of future performance. The statements involve factors, risks and uncertainties, the impact or occurrence of which can
+cause actual results to differ materially from the expected results described in such statements. Risks and uncertainties can include,
+among others, fluctuations in general business cycles and changing economic conditions; variations in timing and amount of customer
+orders; changing product demand and industry capacity; increased competition and pricing pressures; advances in technology that
+can reduce the demand for the Company's products, as well as other factors, many or all of which may be beyond the Company's control.
+Consequently, investors should not place undue reliance on forward-looking statements as predictive of future results. The Company
+disclaims any obligation to release publicly any updates or revisions to the forward-looking statements herein to reflect any change
+in the Company's expectations with regard thereto, or any changes in events, conditions or circumstances on which any such statement
+is based.
+ 
+ 
+Table of Contents
+ 
+Application of Critical Accounting Policies
+and Estimates
+ 
+The Company's consolidated financial statements
+and accompanying notes are prepared in accordance with U.S. generally accepted accounting principles. The preparation of the Company's
+financial statements requires management to make estimates, assumptions and judgments that affect the amounts reported. These estimates,
+assumptions and judgments are affected by management's application of accounting policies, which are discussed in Note 1, "Summary
+of Significant Accounting Policies", and elsewhere in the accompanying consolidated financial statements. As discussed below,
+our financial position or results of operations may be materially affected when reported under different conditions or when using
+different assumptions in the application of such policies. In the event estimates or assumptions prove to be different from actual
+amounts, adjustments are made in subsequent periods to reflect more current information. Management believes the following critical
+accounting policies affect the more significant judgments and estimates used in the preparation of the Company's financial statements.
+ 
+Accounts Receivable
+ 
+Our ability to collect outstanding receivables
+from our customers is critical to our operating performance and cash flows. Accounts receivable are stated at an amount management
+expects to collect from outstanding balances. Management provides for probable uncollectible accounts through a charge to earnings
+and a credit to a valuation allowance based on its assessment of the current status of individual accounts after considering the
+age of each receivable and communications with the customers involved. Balances that are collected, for which a credit to a valuation
+allowance had previously been recorded, result in a current-period reversal of the earlier transaction charging earnings and crediting
+a valuation allowance. Balances that are still outstanding after management has used reasonable collection efforts are written
+off through a charge to the valuation allowance and a credit to accounts receivable in the current period. The actual amount of
+accounts written off over the five year period ended May 31, 2017 equaled less than 0.1% of sales for that period. The balance
+of the valuation allowance has increased since May 31, 2016 to the current level of slightly less than $110,000. Management does
+not expect the valuation allowance to materially change in the next twelve months for the current accounts receivable balance.
+ 
+Inventory
+ 
+Inventory is stated at the lower of average
+cost or net realizable value. Average cost approximates first-in, first-out cost.
+ 
+Maintenance and other inventory represent stock
+that is estimated to have a product life-cycle in excess of twelve-months. This stock represents certain items the Company is required
+to maintain for service of products sold, and items that are generally subject to spontaneous ordering.
+ 
+This inventory is particularly sensitive to
+technical obsolescence in the near term due to its use in industries characterized by the continuous introduction of new product
+lines, rapid technological advances and product obsolescence. Therefore, management of the Company has recorded an allowance for
+potential inventory obsolescence. Based on certain assumptions and judgments made from the information available at that time,
+we determine the amount in the inventory allowance. If these estimates and related assumptions or the market changes, we may be
+required to record additional reserves. Historically, actual results have not varied materially from the Company's estimates.
+ 
+The provision for potential inventory obsolescence
+was $180,000 for each of the years ended May 31, 2017 and 2016.
+ 
+Revenue Recognition
+ 
+Sales are recognized when units are delivered
+or services are performed. Sales under fixed-price contracts are recorded as deliveries are made at the contract sales price of
+the units delivered. Sales under certain fixed-price contracts requiring substantial performance over several periods prior to
+commencement of deliveries, are accounted for under the percentage-of-completion method of accounting whereby revenues are recognized
+based on estimates of completion prepared on a ratio of cost to total estimated cost basis. Costs include all material and direct
+and indirect charges related to specific contracts. Other expenses are charged to operations as incurred. Total estimated costs
+for each of the contracts are estimated based on a combination of historical costs of manufacturing similar products and estimates
+or quotes from vendors for supplying parts or services towards the completion of the manufacturing process. Adjustments to cost
+and profit estimates are made periodically due to changes in job performance, job conditions and estimated profitability, including
+those arising from final contract settlements. These changes may result in revisions to costs and income and are recognized in
+the period in which the revisions are determined. Any losses expected to be incurred on contracts in progress are charged to operations
+in the period such losses are determined.
+ 
+ 
+Table of Contents
+ 
+ 
+If total costs calculated upon completion of
+the manufacturing process in the current period for a contract are more than the estimated total costs at completion used to calculate
+revenue in a prior period, then the revenue and profits in the current period will be lower than if the estimated costs used in
+the prior period calculation were equal to the actual total costs upon completion. Historically, actual results have not varied
+materially from the Company's estimates. In the fiscal year ended May 31, 2017, 66% of total revenue recognized was accounted for
+using the percentage-of-completion method of accounting while the remaining 34% of revenue was recorded as deliveries were made
+to our customers. In the fiscal year ended May 31, 2016, 66% of total revenue recognized was accounted for using the percentage-of-completion
+method of accounting while the remaining 34% of revenue was recorded as deliveries were made to our customers.
+ 
+For financial statement presentation purposes,
+the Company nets progress billings against the total costs incurred on uncompleted contracts. The asset, "costs and estimated
+earnings in excess of billings," represents revenues recognized in excess of amounts billed. The liability, "billings
+in excess of costs and estimated earnings," represents billings in excess of revenues recognized.
+ 
+Income Taxes
+ 
+The provision for income taxes provides for
+the tax effects of transactions reported in the financial statements regardless of when such taxes are payable. Deferred tax assets
+and liabilities are recognized for the expected future tax consequences of temporary differences between the tax and financial
+statement basis of assets and liabilities. The deferred tax assets relate principally to asset valuation allowances such as inventory
+obsolescence reserves and bad debt reserves and also to liabilities including warranty reserves, accrued vacation, accrued commissions
+and others. The deferred tax liabilities relate primarily to differences between financial statement and tax depreciation. Deferred
+taxes are based on tax laws currently enacted with tax rates expected to be in effect when the taxes are actually paid or recovered.
+ 
+Realization of the deferred tax assets is dependent
+on generating sufficient taxable income at the time temporary differences become deductible. The Company provides a valuation allowance
+to the extent that deferred tax assets may not be realized. A valuation allowance has not been recorded against the deferred tax
+assets since management believes it is more likely than not that the deferred tax assets are recoverable. The Company considers
+future taxable income and potential tax planning strategies in assessing the need for a potential valuation allowance. In future
+years the Company will need to generate approximately $3.6 million of taxable income in order to realize our deferred tax assets
+recorded as of May 31, 2017 of $1,227,000. This deferred tax asset balance is 27% ($262,000) more than at the end of the prior
+year. The amount of the deferred tax assets considered realizable however, could be reduced in the near term if estimates of future
+taxable income are reduced. If actual results differ from estimated results or if the Company adjusts these assumptions, the Company
+may need to adjust its deferred tax assets or liabilities, which could impact its effective tax rate.
+ 
+The Company's practice is to recognize interest
+related to income tax matters in interest income / expense and to recognize penalties in selling, general and administrative expenses.
+ 
+The Company and its subsidiary file consolidated
+Federal and State income tax returns. As of May 31, 2017, the Company had State investment tax credit carryforwards of approximately
+$275,000 expiring through May 2023.
+ 
+Results of Operations
+ 
+A summary of the period to period changes in
+the principal items included in the consolidated statements of income is shown below:
+ 
+
+
+
+    
+Summary comparison of the years ended May 31, 2017 and 2016
+
+    
+ 
+ 
+Increase /
+
+    
+ 
+ 
+(Decrease)
+
+    
+Sales, net
+ 
+$
+(10,143,000
+)
+
+    
+Cost of goods sold
+ 
+$
+(5,692,000
+)
+
+    
+Selling, general and administrative expenses
+ 
+$
+(1,623,000
+)
+
+    
+Income before provision for income taxes
+ 
+$
+(2,779,000
+)
+
+    
+Provision for income taxes
+ 
+$
+(901,000
+)
+
+    
+Net income
+ 
+$
+(1,878,000
+)
+ 
+ 
+Table of Contents
+ 
+For the year ended May 31, 2017
+
+
+
+    
+ 
+ 
+Year ended May 31
+ 
+Change
+
+    
+ 
+ 
+2017
+ 
+2016
+ 
+Amount
+ 
+Percent
+
+    
+Net Revenue
+ 
+$
+25,537,000
+ 
+ 
+$
+35,680,000
+ 
+ 
+$
+(10,143,000
+)
+ 
+ 
+-28
+%
+
+    
+Cost of sales
+ 
+ 
+17,551,000
+ 
+ 
+ 
+23,243,000
+ 
+ 
+ 
+(5,692,000
+)
+ 
+ 
+-24
+%
+
+    
+Gross profit
+ 
+$
+7,986,000
+ 
+ 
+$
+12,437,000
+ 
+ 
+$
+(4,451,000
+)
+ 
+ 
+-36
+%
+
+    
+… as a percentage of net revenues
+ 
+ 
+31
+%
+ 
+ 
+35
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Company's consolidated results of operations
+showed a 28% decrease in net revenues and a decrease in net income of 45%. Revenues recorded in the current period for long-term
+construction projects (“Project(s)”) were 28% less than the level recorded in the prior year. We had 55 Projects in
+process during the current period compared with 61 during the same period last year. Revenues recorded in the current period for
+other-than long-term construction projects (non-projects) were 29% less than the level recorded in the prior year. The number of
+projects in-process fluctuates from period to period. The changes from the prior period to the current period are not necessarily
+representative of future results.
+ 
+The mix of customers buying our products changed
+slightly from last year. Sales of the Company's products are made to three general groups of customers: industrial, construction
+and aerospace / defense. The Company saw a 34% decrease from last year’s level in sales to construction customers who were
+seeking seismic / wind protection for either construction of new buildings and bridges or retrofitting existing buildings and bridges
+as well as an 18% decrease in sales to customers in aerospace / defense and a 34% decrease in sales to customers using our products
+in industrial applications. A breakdown of sales to these three general groups of customers, as a percentage of total net revenue
+for fiscal years ended May 31, 2017 and 2016 is as follows:
+ 
+
+
+
+    
+ 
+ 
+Year ended May 31
+
+    
+ 
+ 
+2017
+ 
+2016
+
+    
+Industrial
+ 
+ 
+7
+%
+ 
+ 
+6
+%
+
+    
+Construction
+ 
+ 
+54
+%
+ 
+ 
+59
+%
+
+    
+Aerospace / Defense
+ 
+ 
+39
+%
+ 
+ 
+35
+%
+ 
+Total sales within North America decreased
+20% from last year. Total sales to Asia decreased 59% from the prior year. Net revenue by geographic region, as a percentage of
+total net revenue for fiscal years ended May 31, 2017 and 2016 is as follows:
+ 
+
+
+
+    
+ 
+ 
+Year ended May 31
+
+    
+ 
+ 
+2017
+ 
+2016
+
+    
+North America
+ 
+ 
+81
+%
+ 
+ 
+73
+%
+
+    
+Asia
+ 
+ 
+13
+%
+ 
+ 
+22
+%
+
+    
+Other
+ 
+ 
+6
+%
+ 
+ 
+5
+%
+ 
+The gross profit as a percentage of net revenue
+of 31% in the current period is four percentage points less than the prior year. This difference is primarily due to a combination
+of a.) certain larger construction Projects in the prior year for which the Company was able to negotiate higher than typical selling
+prices; b.) several smaller, aerospace / defense Projects in the prior year that have margins higher than the Company’s average;
+c.) several export projects in the current period that were very competitively bid due to the unfavorable foreign exchange rates;
+and d.) lower total volume of product sales in the current period to cover non-variable manufacturing costs.
+ 
+At May 31, 2016, we had 115 open sales orders
+in our backlog with a total sales value of $21.5 million. At May 31, 2017, we had 116 open sales orders in our backlog and the
+total sales value is $21.6 million. $10.7 million of the current backlog is on projects already in progress. $11.7 million of the
+$21.5 million sales order backlog at May 31, 2016 was in progress at that date. 56% of the sales value in the backlog is for aerospace
+/ defense customers compared to 38% at the end of fiscal 2016. As a percentage of the total sales order backlog, orders from customers
+in construction accounted for 42% at May 31, 2017 and 61% at May 31, 2016.
+ 
+The Company's 
+backlog,
+,
+commission expense, gross margins, gross profits,
+ 
+Selling, General and Administrative Expenses
+ 
+
+
+
+    
+ 
+ 
+Year ended May 31
+ 
+Change
+
+    
+ 
+ 
+2017
+ 
+2016
+ 
+Amount
+ 
+Percent
+
+    
+Outside Commissions
+ 
+$
+1,336,000
+ 
+ 
+$
+2,068,000
+ 
+ 
+$
+(732,000
+)
+ 
+ 
+-35
+%
+
+    
+Other SG&A
+ 
+ 
+3,729,000
+ 
+ 
+ 
+4,620,000
+ 
+ 
+ 
+(891,000
+)
+ 
+ 
+-19
+%
+
+    
+Total SG&A
+ 
+$
+5,065,000
+ 
+ 
+$
+6,688,000
+ 
+ 
+$
+(1,623,000
+)
+ 
+ 
+-24
+%
+
+    
+… as a percentage of net revenues
+ 
+ 
+20
+%
+ 
+ 
+19
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Selling, general and administrative expenses
+decreased by 24% from the prior year. Outside commission expense decreased 35% from last year's level. This fluctuation was primarily
+due to the decrease in the level of sales from last year to this. Other selling, general and administrative expenses decreased
+by 19% from last year. This decrease is primarily due to a decrease in incentive compensation expense from the prior period related
+to the lower level of sales and operating results.
+ 
+The above factors resulted in operating income
+of $2,921,000 for the year ended May 31, 2017, down 49% from the $5,748,000 in the prior year.
+ 
+The Company's effective tax rate (ETR) is calculated
+based upon current assumptions relating to the year's operating results and various tax related items. The ETR for the fiscal year
+ended May 31, 2017 is 22%, five percentage points less than the ETR for the prior year of 27%. A reconciliation of provision for
+income taxes at the statutory rate to income tax provision at the Company's effective rate is as follows:
+ 
+
+
+
+    
+ 
+ 
+2017
+ 
+2016
+
+    
+Computed tax provision at the expected statutory rate
+ 
+$
+1,016,000
+ 
+ 
+$
+1,961,000
+ 
+
+    
+Tax effect of permanent differences:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+Research tax credits
+ 
+ 
+(273,000
+)
+ 
+ 
+(266,000
+)
+
+    
+Other permanent differences
+ 
+ 
+(94,000
+)
+ 
+ 
+(166,000
+)
+
+    
+Other
+ 
+ 
+8,000
+ 
+ 
+ 
+29,000
+ 
+
+    
+ 
+ 
+$
+657,000
+ 
+ 
+$
+1,558,000
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stock Options
+ 
+The Company has stock option plans which provide
+for the granting of nonqualified or incentive stock options to officers, key employees and non-employee directors. Options granted
+under the plans are exercisable over a ten year term. Options not exercised by the end of the term expire.
+ 
+The Company measures compensation cost arising
+from the grant of share-based payments to employees at fair value and recognizes such cost in income over the period during which
+the employee is required to provide service in exchange for the award. The Company recognized $178,000 and $151,000 of compensation
+cost for the years ended May 31, 2017 and 2016.
+ 
+The fair value of each stock option grant has
+been determined using the Black-Scholes model. The model considers assumptions related to exercise price, expected volatility,
+risk-free interest rate, and the weighted average expected term of the stock option grants. The Company used a weighted average
+expected term. Expected volatility assumptions used in the model were based on volatility of the Company's stock price for the
+thirty month period immediately preceding the granting of the options. The Company issued stock options in August 2016 and April
+2017. The risk-free interest rate is derived from the U.S. treasury yield.
+The following assumptions were used in the
+Black-Scholes model in estimating the fair market value of the Company's stock option grants:
+
+
+
+    
+ 
+ 
+August 2016
+ 
+April 2017
+
+    
+Risk-free interest rate:
+ 
+ 
+1.625
+%
+ 
+ 
+2.00
+%
+
+    
+Expected life of the options:
+ 
+ 
+3.4 years
+ 
+ 
+ 
+3.5 years
+ 
+
+    
+Expected share price volatility:
+ 
+ 
+26
+%
+ 
+ 
+29
+%
+
+    
+Expected dividends:
+ 
+ 
+zero
+ 
+ 
+ 
+zero
+ 
+
+    
+These assumptions resulted in estimated fair-market value per stock option:
+ 
+$
+4.04
+ 
+ 
+$
+3.30
+ 
+ 
+ 
+Table of Contents
+ 
+The ultimate value of the options will depend
+on the future price of the Company's common stock, which cannot be forecast with reasonable accuracy. A summary of changes in the
+stock options outstanding during the year ended May 31, 2017 is presented below.
+
+
+
+    
+ 
+ 
+ 
+ 
+Weighted-
+
+    
+ 
+ 
+Number of
+ 
+Average
+
+    
+ 
+ 
+Options
+ 
+Exercise Price
+
+    
+Options outstanding and exercisable at May 31, 2016:
+ 
+ 
+243,500
+ 
+ 
+$
+9.53
+ 
+
+    
+Options granted:
+ 
+ 
+49,500
+ 
+ 
+$
+15.95
+ 
+
+    
+Less: Options exercised:
+ 
+ 
+39,500
+ 
+ 
+$
+8.60
+ 
+
+    
+Options outstanding and exercisable at May 31, 2017:
+ 
+ 
+253,500
+ 
+ 
+$
+10.93
+ 
+
+    
+Closing value per share on NASDAQ at May 31, 2017:
+ 
+ 
+ 
+ 
+ 
+$
+13.26
+ 
+ 
+ 
+Capital Resources, Line of Credit and Long-Term
+Debt
+ 
+The Company's primary liquidity is dependent
+upon its working capital needs. These are primarily inventory, accounts receivable, costs and estimated earnings in excess of billings,
+accounts payable, accrued commissions, billings in excess of costs and estimated earnings, and debt service. The Company's primary
+sources of liquidity have been operations and bank financing.
+ 
+Capital expenditures for the year ended May
+31, 2017 were $1,869,000 compared to $1,939,000 in the prior year. The Company has commitments to make capital expenditures of
+approximately $650,000 as of May 31, 2017.
+ 
+The Company has a $10,000,000 demand line of
+credit from a bank, with interest payable at the Company's option of 30, 60, 90 or 180 day LIBOR rate plus 2.5% or the bank's prime
+rate less .25%. There is no outstanding balance at May 31, 2017. There was no outstanding balance as of May 31, 2016. The outstanding
+balance on the line of credit fluctuates as the Company's various long-term projects progress. The line is secured by accounts
+receivable, equipment, inventory, and general intangibles, and a negative pledge of the Company's real property. This line of credit
+is subject to the usual terms and conditions applied by the bank and is subject to renewal annually. In conjunction with this line
+of credit, the Company agreed to the following covenants:
+ 
+
+
+
+    
+Covenant
+ 
+Minimum per Covenant
+ 
+Current Actual
+ 
+When Measured
+
+    
+Minimum level of working capital
+ 
+$
+3,000,000
+ 
+ 
+$
+21,373,000
+ 
+ 
+Quarterly
+
+    
+Minimum debt service coverage ratio
+ 
+ 
+1.5:1
+ 
+ 
+ 
+n/a
+ 
+ 
+Fiscal Year-end
+ 
+The bank is not committed to make loans under
+this line of credit and no commitment fee is charged.
+ 
+Inventory and Maintenance Inventory
+
+
+
+    
+ 
+ 
+May 31, 2017
+ 
+May 31, 2016
+ 
+Increase /(Decrease)
+
+    
+Raw materials
+ 
+$
+710,000
+ 
+ 
+ 
+ 
+ 
+ 
+$
+512,000
+ 
+ 
+ 
+ 
+ 
+ 
+$
+198,000
+ 
+ 
+ 
+39
+%
+
+    
+Work in process
+ 
+ 
+10,071,000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8,639,000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,432,000
+ 
+ 
+ 
+17
+%
+
+    
+Finished goods
+ 
+ 
+708,000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+454,000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+254,000
+ 
+ 
+ 
+56
+%
+
+    
+Inventory
+ 
+ 
+11,489,000
+ 
+ 
+ 
+93
+%
+ 
+ 
+9,605,000
+ 
+ 
+ 
+93
+%
+ 
+ 
+1,884,000
+ 
+ 
+ 
+20
+%
+
+    
+Maintenance and other inventory
+ 
+ 
+879,000
+ 
+ 
+ 
+7
+%
+ 
+ 
+697,000
+ 
+ 
+ 
+7
+%
+ 
+ 
+182,000
+ 
+ 
+ 
+26
+%
+
+    
+Total
+ 
+$
+12,368,000
+ 
+ 
+ 
+100
+%
+ 
+$
+10,302,000
+ 
+ 
+ 
+100
+%
+ 
+$
+2,066,000
+ 
+ 
+ 
+20
+%
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+Inventory turnover
+ 
+ 
+1.5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inventory, at $11,489,000 as of May 31, 2017,
+is 20% more than the prior year-end. Of this, approximately 88% is work in process, 6% is finished goods, and 6% is raw materials.
+All of the current inventory is expected to be consumed or sold within twelve months. The level of inventory will fluctuate from
+time to time due to the stage of completion of the non-project sales orders in progress at the time.
+ 
+ 
+ 
+ 
+Table of Contents
+ 
+The Company continues to rework slow-moving
+inventory, where applicable, to convert it to product to be used on customer orders. There was approximately $126,000 of slow-moving
+inventory used during the year ended May 31, 2017. The Company disposed of approximately $56,000 and $133,000 of obsolete inventory
+during the years ended May 31, 2017 and 2016, respectively.
+ 
+Accounts Receivable, Costs and Estimated Earnings in Excess
+of Billings (“CIEB”) and Billings in Excess of Costs and Estimated Earnings (“BIEC”)
+ 
+
+
+
+    
+ 
+ 
+May 31, 2017
+ 
+May 31, 2016
+ 
+Increase /(Decrease)
+
+    
+Accounts receivable
+ 
+$
+2,546,000
+ 
+ 
+$
+3,992,000
+ 
+ 
+$
+(1,446,000
+)
+ 
+ 
+-36
+%
+
+    
+CIEB
+ 
+ 
+6,868,000
+ 
+ 
+ 
+5,501,000
+ 
+ 
+ 
+1,367,000
+ 
+ 
+ 
+25
+%
+
+    
+Less: BIEC
+ 
+ 
+1,296,000
+ 
+ 
+ 
+1,464,000
+ 
+ 
+ 
+(168,000
+)
+ 
+ 
+-11
+%
+
+    
+Net
+ 
+$
+8,118,000
+ 
+ 
+$
+8,029,000
+ 
+ 
+$
+89,000
+ 
+ 
+ 
+1
+%
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+Number of an average day’s sales outstanding in accounts receivable (DSO)
+ 
+ 
+36
+ 
+ 
+ 
+40
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Company combines the totals of accounts
+receivable, the asset CIEB, and the liability BIEC, to determine how much cash the Company will eventually realize from revenue
+recorded to date. As the accounts receivable figure rises in relation to the other two figures, the Company can anticipate increased
+cash receipts within the ensuing 30-60 days.
+ 
+Accounts receivable of $2,546,000 as of May
+31, 2017 includes approximately $677,000 of amounts retained by customers on long-term construction projects. The Company expects
+to collect all of these amounts, including the retained amounts, during the next twelve months. The number of an average day's
+sales outstanding in accounts receivable (DSO) decreased slightly to 36 days at May 31, 2017 from 40 days as of May 31, 2016. The
+level of accounts receivable at the end of the current year is 36% less than at the end of the prior year. The decrease in the
+level of accounts receivable was primarily due to a significant decrease in the level of sales from 2016 to 2017.
+ 
+The status of the projects in-progress at the
+end of the current and prior fiscal years have changed in the factors affecting the year-end balances in the asset CIEB, and the
+liability BIEC:
+ 
+
+
+
+    
+ 
+ 
+2017
+ 
+2016
+
+    
+Number of projects in progress at year-end
+ 
+ 
+24
+ 
+ 
+ 
+25
+ 
+
+    
+Aggregate percent complete at year-end
+ 
+ 
+66
+%
+ 
+ 
+59
+%
+
+    
+Average total value of projects in progress at year-end
+ 
+$
+1,289,000
+ 
+ 
+$
+1,062,000
+ 
+
+    
+Percentage of total value invoiced to customer
+ 
+ 
+47
+%
+ 
+ 
+43
+%
+ 
+There is 1 fewer project in-process at the
+end of the current fiscal year as compared with the prior year end and the average value of those projects has increased by 21%
+between those two dates.
+ 
+As noted above, CIEB represents revenues recognized
+in excess of amounts billed. Whenever possible, the Company negotiates a provision in sales contracts to allow the Company to bill,
+and collect from the customer, payments in advance of shipments. Unfortunately, provisions such as this are often not possible.
+The $6,868,000 balance in this account at May 31, 2017 is a 25% increase from the prior year-end. Generally, if progress billings
+are permitted under the terms of a project sales agreement, then the more complete the project is, the more progress billings will
+be permitted. The Company expects to bill the entire amount during the next twelve months. 33% of the CIEB balance as of the end
+of the last fiscal quarter, February 28, 2017, was billed to those customers in the current fiscal quarter ended May 31, 2017.
+The remainder will be billed as the projects progress, in accordance with the terms specified in the various contracts.
+ 
+As of May 31, 2017, there are sales orders
+for four projects that are not yet in progress. These projects average $259,000 each in value upon completion. This compares to
+five such projects as of the prior year end with an average value of $431,000.
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+ 
+The year-end balances in the CIEB account are
+comprised of the following components:
+ 
+
+
+
+    
+ 
+ 
+May 31, 2017
+ 
+May 31, 2016
+
+    
+Costs
+ 
+$
+9,675,000
+ 
+ 
+$
+8,080,000
+ 
+
+    
+Estimated earnings
+ 
+ 
+3,757,000
+ 
+ 
+ 
+3,191,000
+ 
+
+    
+Less: Billings to customers
+ 
+ 
+6,564,000
+ 
+ 
+ 
+5,770,000
+ 
+
+    
+CIEB
+ 
+$
+6,868,000
+ 
+ 
+$
+5,501,000
+ 
+
+    
+Number of projects in progress
+ 
+ 
+21
+ 
+ 
+ 
+19
+ 
+ 
+As noted above, BIEC represents billings to
+customers in excess of revenues recognized. The $1,296,000 balance in this account at May 31, 2017 is in comparison to a $1,464,000
+balance at the end of the prior year. The balance in this account fluctuates in the same manner and for the same reasons as the
+account "costs and estimated earnings in excess of billings", discussed above. Final delivery of product under these
+contracts is expected to occur during the next twelve months.
+ 
+The year-end balances in this account are comprised
+of the following components:
+ 
+
+
+
+    
+ 
+ 
+May 31, 2017
+ 
+May 31, 2016
+
+    
+Billings to customers
+ 
+$
+8,133,000
+ 
+ 
+$
+5,886,000
+ 
+
+    
+Less:  Costs
+ 
+ 
+4,522,000
+ 
+ 
+ 
+3,362,000
+ 
+
+    
+Less: Estimated earnings
+ 
+ 
+2,315,000
+ 
+ 
+ 
+1,060,000
+ 
+
+    
+BIEC
+ 
+$
+1,296,000
+ 
+ 
+$
+1,464,000
+ 
+
+    
+Number of projects in progress
+ 
+ 
+3
+ 
+ 
+ 
+6
+ 
+ 
+Accounts payable, at $1,329,000 as of May 31,
+2017, is significantly (25%) less than the prior year-end. This decrease is due to a lower level of purchased materials required
+to fill existing customer sales orders at the end of the current year that are not already in inventory, compared to the end of
+last year. The Company expects the current accounts payable amount to be paid during the next twelve months.
+ 
+Commission expense on applicable sales orders
+is recognized at the time revenue is recognized. The commission is paid following receipt of payment from the customers. Accrued
+commissions as of May 31, 2017 are $847,000. This is 24% more than the $684,000 accrued at the prior year-end. This increase is
+primarily due to a few larger projects which, by the terms of the respective contracts, do not permit significant payments through
+the current levels of completion. The Company expects the current accrued amount to be paid during the next twelve months.
+ 
+Other accrued expenses of $832,000 decreased
+by 70% from the prior year level of $2,734,000. This decrease is primarily due to decreases in a.) accrued tax obligations, b.)
+accrued incentive compensation, and c.) customer prepayments. The decreases in accrued taxes and compensation are both related
+to a decrease in revenue and earnings of the Company.
+ 
+Management believes that the Company's cash
+on hand, cash flows from operations and borrowing capacity under the bank line of credit will be sufficient to fund ongoing operations,
+capital improvements and share repurchases (if any) for the next twelve months.
+ 
+ 
+ 
+Table of Contents
+ 
+ 
+Smaller reporting companies are not required to provide the information
+required by this item.
+ 
+Item 8. Financial Statements and Supplementary
+Data.
+ 
+The financial
+statements and supplementary data required pursuant to this Item 8 are included in this Form 10-K as a separate section commencing
+on page 23 and are incorporated herein by reference.
+ 
+Item 9. Changes in and Disagreements With Accountants on Accounting
+and Financial Disclosure.
+ 
+There have been no disagreements
+between the Company and its accountants as to matters which require disclosure.
+ 
+ 
+(a)        
+Evaluation of disclosure
+controls and procedures
+ 
+The Company's principal
+executive officer and principal financial officer have evaluated the Company's disclosure controls and procedures as of May 31,
+2017 and have concluded that, as of the evaluation date, the disclosure controls and procedures were effective to ensure that information
+required to be disclosed in the reports that the Company files or submits under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the Commission's rules and forms and that information required to be disclosed
+in the reports the Company files or submits under the Exchange Act is accumulated and communicated to our management, including
+our chief executive officer and chief financial officer, to allow timely decisions regarding required disclosure.
+ 
+(b)       
+Management's
+report on internal control over financial reporting.
+ 
+The Company's management,
+with the participation of the Company's principal executive officer and principal financial officer, is responsible for establishing
+and maintaining adequate internal control over financial reporting. The Company's management has assessed the effectiveness of
+the Company's internal control over financial reporting as of May 31, 2017. In making this assessment, management used the criteria
+set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control -- Integrated Framework,
+updated in 2013. Based on this assessment management has concluded that, as of May 31, 2017, the Company's internal control over
+financial reporting is effective based on those criteria.
+ 
+(c)	
+Changes in internal control over
+financial reporting.
+ 
+There
+have been no changes in the Company's internal controls over financial reporting that occurred during the fiscal year ended May
+31, 2017 that have materially affected, or are reasonably likely to materially affect, the Company's control over financial reporting.
+ 
+ 
+None.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents
+ 

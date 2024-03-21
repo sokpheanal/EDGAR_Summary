@@ -1,0 +1,998 @@
+ITEM 7. 
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ 
+RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with our consolidated
+ 
+financial statements and related notes and other financial information appearing
+ 
+elsewhere in this Form 10-K. In addition to historical information, the
+ 
+following discussion and other parts of this Form 10-K contain
+ 
+forward-looking information that involves risks and uncertainties. Our actual results
+ 
+could differ materially from those anticipated by this forward-looking information
+ 
+due to the factors discussed under “Risk Factors,” “Cautionary Statement Concerning
+ 
+Forward-Looking Statements,” and elsewhere in this Form 10-K.
+  
+Executive Level Overview
+Company Background
+BlueLinx is a leading distributor of building and industrial products in the U.S. With a combination of market position and geographic coverage, the buying power of certain centralized procurement, and the strength of a locally-focused sales force, BlueLinx is able to provide a wide range of value-added services and solutions to our customers and suppliers.
+Industry Conditions
+Many of the factors that cause our operations to fluctuate are seasonal or cyclical in nature. Our operating results have historically been closely aligned with the level of single-family residential housing starts in the U.S. At any time, the demand for new homes is dependent on a variety of factors, including job growth, changes in population and demographics, the availability and cost of mortgage financing, the supply of new and existing homes and, importantly, consumer confidence. Since 2011, the U.S. housing market has shown steady improvement. We believe this trend will continue in the long term, and that we are well-positioned to support our customers.
+Recent Developments
+On January 10, 2018, we completed sale-leaseback transactions on 
+four
+ distribution centers (the “Sale-Leaseback Transactions”). We sold these properties for gross proceeds of 
+$110.0 million
+. As a result of the Sale-Leaseback Transactions, we recognized capital lease assets and obligations totaling 
+$95.1 million
+ on these properties, and a total deferred gain of 
+$83.9 million
+, which will be amortized over the lives of the applicable leases, in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”). The net proceeds received from the Sale-Leaseback Transactions were used to pay the remaining balance of our mortgage in its entirety in fiscal 2018. For tax purposes, the gain on the Sale-Leaseback Transactions is fully recognized in the year of sale. Our NOLs are sufficient to offset the taxable gain on the sale of these properties.
+Factors That Affect Our Operating Results
+Our results of operations and financial performance are influenced by a variety of factors, including the following:
+•
+changes in the prices, supply and/or demand for products which we distribute;
+•
+inventory management and commodities pricing;
+•
+new housing starts and inventory levels of existing homes for sale;
+•
+general economic and business conditions in the U.S.;
+•
+acceptance by our customers of our privately branded products;
+•
+financial condition and credit worthiness of our customers;
+•
+supply from key vendors;
+•
+reliability of the technologies we utilize;
+•
+activities of competitors;
+•
+changes in significant operating expenses;
+•
+fuel costs;
+•
+risk of losses associated with accidents;
+•
+exposure to product liability claims and other legal proceedings;
+•
+changes in the availability of capital and interest rates;
+•
+adverse weather patterns or conditions;
+•
+acts of cyber intrusion;
+•
+variations in the performance of the financial markets, including the credit markets; and
+19
+•
+the risk factors discussed under Item 1A Risk Factors and elsewhere in this Annual Report on Form 10-K.
+Key Business Metrics
+Net Sales
+Net sales result primarily from the distribution of products to dealers, industrial manufacturers, manufactured housing producers, and home improvement retailers. All revenues recognized are net of trade allowances, cash discounts, and sales returns. In addition, we provide inventory to certain customers through pre-arranged agreements on a consignment basis. When the consigned inventory is sold by the customer, we recognize revenue on a gross basis. Net sales may not be comparable year-over-year due to closed facilities, fiscal calendar weeks in the year, and market-driven fluctuations in the prices of the inventories we sell.
+Gross Profit
+Gross profit primarily represents revenues less the product cost from our suppliers (net of earned rebates and discounts), including the cost of inbound freight. The cost of outbound freight, purchasing, receiving, and warehousing are included in selling, general, and administrative expenses within operating expenses. Our gross profit may not be comparable to that of other companies, as other companies may include all or some of the costs related to their distribution network in cost of sales. Market price fluctuations, particularly on structural products vulnerable to commodity price variability, may impact our gross profit.
+Results of Operations
+Fiscal 
+2017
+ Compared to Fiscal 
+2016
+ 
+ 
+The following table sets forth our results of operations for fiscal 
+2017
+ and fiscal 
+2016
+, which both comprised 52 weeks. 
+ 
+Fiscal 2017
+ 
+% of
+Net
+Sales
+ 
+Fiscal 2016
+ 
+% of
+Net
+Sales
+ 
+(Dollars in thousands)
+Net sales                                                                  
+$
+1,815,535
+ 
+100.0%
+ 
+$
+1,881,043
+ 
+100.0%
+Gross profit
+231,029
+ 
+12.7%
+ 
+227,406
+ 
+12.1%
+Selling, general, and administrative
+198,709
+ 
+10.9%
+ 
+204,509
+ 
+10.9%
+Gains from sales of property
+(6,700
+)
+ 
+(0.4)%
+ 
+(28,097
+)
+ 
+(1.5)%
+Depreciation and amortization
+9,032
+ 
+0.5%
+ 
+9,342
+ 
+0.5%
+Operating income
+29,988
+ 
+1.7%
+ 
+41,652
+ 
+2.2%
+Interest expense, net
+21,225
+ 
+1.2%
+ 
+24,898
+ 
+1.3%
+Other income, net 
+(822
+)
+ 
+—%
+ 
+(452
+)
+ 
+—%
+Income before (benefit from) provision for income taxes
+9,585
+ 
+0.5%
+ 
+17,206
+ 
+0.9%
+(Benefit from) provision for income taxes
+(53,409
+)
+ 
+(2.9)%
+ 
+1,121
+ 
+0.1%
+Net income 
+$
+62,994
+ 
+3.5%
+ 
+$
+16,085
+ 
+0.9%
+ 
+The following table sets forth changes in net sales by product category. Certain prior year amounts have been reclassified to conform to the current year product mix of structural and specialty products.
+ 
+Fiscal 2017
+ 
+Fiscal 2016
+ 
+(In millions)
+Sales by category
+ 
+ 
+ 
+Structural products
+$
+842
+ 
+$
+775
+Specialty products
+986
+ 
+1,123
+Other 
+(1)
+(13
+)
+ 
+(17
+)
+Total sales
+$
+1,815
+ 
+$
+1,881
+(1)
+“Other” includes service revenue, unallocated allowances, and/or discounts.
+20
+The following table sets forth gross margin dollars and percentages by product category versus comparable prior periods. Certain prior year amounts have been reclassified to conform to the current year product mix of structural and specialty products.
+ 
+Fiscal 2017
+ 
+Fiscal 2016
+ 
+(Dollars in millions)
+Gross Profit $ by category
+ 
+ 
+ 
+Structural products
+$
+77
+ 
+$
+68
+Specialty products
+149
+ 
+154
+Other 
+(1)
+5
+ 
+5
+Total gross profit
+$
+231
+ 
+$
+227
+Gross margin % by category
+ 
+ 
+ 
+Structural products
+9.2
+%
+ 
+8.8
+%
+Specialty products
+15.1
+%
+ 
+13.7
+%
+Total gross margin %
+12.7
+%
+ 
+12.1
+%
+(1)
+“Other” includes service revenue, unallocated allowances, and discounts.
+The following table sets forth a reconciliation of net sales and gross profit to the non-GAAP measures of adjusted same-center net sales and adjusted same-center gross profit versus comparable prior periods 
+(1)
+:
+ 
+Fiscal 2017
+ 
+Fiscal 2016
+ 
+(Dollars in thousands)
+Net sales
+$
+1,815,535
+ 
+$
+1,881,043
+Less: non-GAAP adjustments
+—
+ 
+129,184
+Adjusted same-center net sales
+$
+1,815,535
+ 
+$
+1,751,859
+Adjusted year-over-year percentage increase
+3.6%
+ 
+ 
+ 
+ 
+ 
+ 
+Gross profit
+$
+231,029
+ 
+$
+227,406
+Less: non-GAAP adjustments
+50
+ 
+7,617
+Adjusted same-center gross profit
+$
+230,979
+ 
+$
+219,789
+(1)
+ 
+The schedule presented above includes a reconciliation of net sales and gross profit excluding the effect of operational efficiency initiatives; specifically, facility closures and the SKU rationalization initiative. These operational efficiency initiatives were substantially complete as of December 31, 2016. The above schedule is not a presentation made in accordance with GAAP, and is not intended to present a superior measure of the financial condition from those determined under GAAP. Adjusted net sales and adjusted gross profit as used herein, are not necessarily comparable to other similarly titled captions of other companies due to differences in methods of calculation.
+We believe adjusted net sales and adjusted gross profit are helpful in presenting comparability across periods without the effect of our operational efficiency initiatives on the later periods. We also believe that these non-GAAP metrics are used by securities analysts, investors, and other interested parties in their evaluation of our company, to illustrate the effects of these initiatives. We compensate for the limitations of using non-GAAP financial measures by using them to supplement GAAP results to provide a more complete understanding of the factors and trends affecting the business than using GAAP results alone.
+Discussion of Results of Operations:
+Net sales.
+ Net sales of 
+$1.8 billion
+ in fiscal 
+2017
+ decreased by 
+3.5%
+, or 
+$65.5 million
+ from fiscal 
+2016
+. The non-GAAP measure of adjusted same center net sales in fiscal 2017 increased by 3.6% from fiscal 2016, as we optimized the sales performance of our existing facilities. 
+Gross profit.
+ Total gross profit for fiscal 
+2017
+ was 
+$231.0 million
+, compared to 
+$227.4 million
+ in fiscal 
+2016
+. Gross margin increased to 
+12.7%
+ in fiscal 
+2017
+, compared to 
+12.1%
+ in fiscal 
+2016
+. This was due to higher margins on both our structural and specialty products, including margin increases of 140 basis points on specialty products and 40 basis points on structural 
+21
+products. Adjusted same-center gross profit, which is a non-GAAP measure, increased by $11.2 million in fiscal 2017 from fiscal 2016.
+Selling, general, and administrative.
+ Selling, general, and administrative expenses (“SG&A”) for fiscal 
+2017
+ were 
+$198.7 million
+, compared to 
+$204.5 million
+, during fiscal 
+2016
+; which, on a percentage of sales basis, remained flat at 
+10.9%
+ of net sales. The decrease of $5.8 million was largely comprised of decreases in payroll and related costs, general maintenance, and property taxes, and a decrease in third party freight costs; as cost benefits were realized during fiscal 2017 from the operational efficiency initiatives that were substantially completed during fiscal 2016.
+Interest expense, net.
+ Interest expense for fiscal 
+2017
+ was 
+$21.2 million
+, compared to 
+$24.9 million
+ for fiscal 
+2016
+. The decrease of 
+$3.7 million
+ related largely to our decreased principal balance of both our mortgage loan and U.S. revolving credit facility. Additionally, in fiscal 2016, we paid the remaining balance of our previous Canadian revolving credit facility, which related to our operations in Canada, that have since ceased. 
+Provision for income taxes.
+ Our effective tax rate was 
+(557.2)%
+ and 
+6.5%
+ for fiscal 
+2017
+ and fiscal 
+2016
+, respectively. Our effective tax rate for fiscal 2017 primarily was a result of a release of a substantial portion of our valuation allowance, as the positive evidence outweighed the negative evidence in considering the recoverability of our deferred tax assets (see Note 5 to our Consolidated Financial Statements). Our remaining valuation allowance is approximately $10.4 million, which primarily relates to state NOL carryforwards.
+The effective tax rate for fiscal 2016 was reduced by the utilization of our net operating loss deferred tax asset and the corresponding release of the valuation allowance due to net income generated during fiscal 2016. The effect of the valuation allowance for fiscal 2016 was impacted by alternative minimum tax, state income taxes, gross receipts taxes, and foreign income taxes recorded on a separate company basis.
+Fiscal 2016 Compared to Fiscal 2015 
+ 
+The following table sets forth our results of operations for fiscal 2016 and fiscal 2015, which both comprised 52 weeks. Fiscal 2016 results were comprised of 39 distribution centers, while results from fiscal 2015 were comprised of 44 distribution centers.
+ 
+ 
+Fiscal 2016
+ 
+% of
+Net
+Sales
+ 
+ 
+Fiscal 2015
+ 
+% of
+Net
+Sales
+ 
+(Dollars in thousands)
+Net sales                                                                                      
+$
+1,881,043
+ 
+100.0%
+ 
+$
+1,916,585
+ 
+100.0%
+Gross profit
+227,406
+ 
+12.1%
+ 
+222,472
+ 
+11.6%
+Selling, general, and administrative
+204,509
+ 
+10.9%
+ 
+196,315
+ 
+10.2%
+Gains from sales of property
+(28,097
+)
+ 
+(1.5)%
+ 
+—
+ 
+—%
+Depreciation and amortization
+9,342
+ 
+0.5%
+ 
+9,741
+ 
+0.5%
+Operating income
+41,652
+ 
+2.2%
+ 
+16,416
+ 
+0.9%
+Interest expense, net
+24,898
+ 
+1.3%
+ 
+27,342
+ 
+1.4%
+Other (income) expense, net 
+(452
+)
+ 
+—%
+ 
+497
+ 
+—%
+Income (loss) before provision for income taxes
+17,206
+ 
+0.9%
+ 
+(11,423
+)
+ 
+(0.6)%
+Provision for income taxes
+1,121
+ 
+0.1%
+ 
+153
+ 
+—%
+Net income (loss)
+$
+16,085
+ 
+0.9%
+ 
+$
+(11,576
+)
+ 
+(0.6)%
+ 
+The following table sets forth changes in net sales by product category. 
+ 
+Fiscal 2016
+ 
+Fiscal 2015
+ 
+(Dollars in millions)
+Sales by category
+ 
+ 
+ 
+Structural products
+$
+775
+ 
+$
+773
+Specialty products
+1,123
+ 
+1,167
+Other 
+(1)
+(17
+)
+ 
+(23
+)
+Total sales
+$
+1,881
+ 
+$
+1,917
+22
+(1)
+“Other” includes service revenue, unallocated allowances, and/or discounts.
+The following table sets forth gross margin dollars and percentages by product category versus comparable prior periods. 
+ 
+Fiscal 2016
+ 
+Fiscal 2015
+ 
+(Dollars in millions)
+Gross Profit $ by category
+ 
+ 
+ 
+Structural products
+$
+68
+ 
+$
+63
+Specialty products
+154
+ 
+156
+Other 
+(1)
+5
+ 
+3
+Total gross profit
+$
+227
+ 
+$
+222
+Gross margin % by category
+ 
+ 
+ 
+Structural products
+8.8
+%
+ 
+8.2
+%
+Specialty products
+13.7
+%
+ 
+13.4
+%
+Total gross margin %
+12.1
+%
+ 
+11.6
+%
+(1)
+“Other” includes service revenue, unallocated allowances, and discounts.
+The following table sets forth a reconciliation of net sales and gross profit to the non-GAAP measures of adjusted same-center net sales, adjusted same-center gross profit and adjusted same-center gross margin, versus comparable prior periods 
+(1)
+:
+ 
+ 
+Fiscal 2016
+ 
+Fiscal 2015
+ 
+ 
+(Dollars in thousands)
+Net sales
+ 
+$
+1,881,043
+ 
+$
+1,916,585
+Less: non-GAAP adjustments
+ 
+129,184
+ 
+272,525
+Adjusted same-center net sales
+ 
+$
+1,751,859
+ 
+$
+1,644,060
+Adjusted year-over-year percentage increase
+ 
+6.6
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gross profit
+ 
+$
+227,406
+ 
+$
+222,472
+Less: non-GAAP adjustments
+ 
+7,617
+ 
+28,359
+Adjusted same-center gross profit
+ 
+$
+219,789
+ 
+$
+194,113
+(1)
+ 
+The schedule presented above includes a reconciliation of net sales, gross profit and gross margin, excluding the full year effect of closed facilities and the SKU rationalization initiative, to arrive at adjusted non-GAAP metrics. The above schedule is not a presentation made in accordance with GAAP, and is not intended to present a superior measure of the financial condition from those determined under GAAP. Adjusted same-center sales, adjusted same-center gross profit and adjusted same-center gross margin, as used herein, are not necessarily comparable to other similarly titled captions of other companies due to differences in methods of calculation.
+We believe adjusted same-center sales, adjusted same-center gross profit and adjusted same-center gross margin are helpful in presenting comparability across periods without the full-year effect of closed distribution centers or our operational efficiency initiatives. We also believe that these non-GAAP metrics are used by securities analysts, investors, and other interested parties in their evaluation of our company, to illustrate the effects of these initiatives. We compensate for the limitations of using non-GAAP financial measures by using them to supplement GAAP results to provide a more complete understanding of the factors and trends affecting the business than using GAAP results alone.
+Discussion of Results of Operations:
+Net sales.
+ Net sales of $1.9 billion in fiscal 2016 decreased by 1.8%, or $35.5 million from fiscal 2015. This decrease was largely driven by the closure of certain distribution facilities in fiscal 2016. With these closures removed, adjusted same-center net sales, a non-GAAP measure, increased $107.8 million, or 6.6%, from $1.6 billion in fiscal 2015 to $1.8 billion in fiscal 2016, as we increased sales volume in our existing distribution centers.
+Gross profit.
+ Total gross profit for fiscal 2016 was $227.4 million, compared to $222.5 million in fiscal 2015. Gross margin increased to 12.1% in fiscal 2016, compared to 11.6% in fiscal 2015. This was due to a 50 basis point increase in gross margin 
+23
+overall, as we sold through our lower-margin SKU rationalization inventory, while selling higher-margin products overall in both the structural and specialty categories. Adjusted same-center gross margin, a non-GAAP measure, increased by 70 basis points, to 12.5% in fiscal 2016, as we consistently sold overall higher-margin products. 
+Selling, general, and administrative.
+ Selling, general, and administrative expenses (“SG&A”) for fiscal 2016 were $204.5 million, or 10.9% of net sales, compared to $196.3 million, or 10.2% of net sales, during fiscal 2015. This 70 basis point increase in selling, general, and administrative expenses was primarily driven by a $4.6 million increase in incentives due to short-term incentive plan accruals; along with $3.6 million in charges to SG&A due to our inventory initiatives, which included delivery and material handling charges; and $1.2 million in severance charges as a result of the facility closure initiative portion of the operational efficiency initiatives. This amount reflects the reclassification of pension costs in prior years between SG&A and Other, due to the adoption of Accounting Standards Updated (ASU) 2017-07, as discussed further in Note 1 to our Consolidated Financial Statements. This reclassification resulted in a decrease to SG&A and increase to Other of $0.2 million and $0.4 million for fiscal 2016 and 2015, respectively.
+Interest expense, net.
+ Interest expense for fiscal 2016 was $24.9 million compared to $27.3 million for fiscal 2015. The decrease of $2.4 million related largely to our decreased principal balance of both our mortgage loan and U.S. revolving credit facility. Additionally, in fiscal 2016, we paid the remaining balance of our Canadian revolving credit facility, which related to our operations in Canada, that have since ceased.
+Provision for income taxes.
+ Our effective tax rate was 
+6.5%
+ and 
+(1.3)%
+ for fiscal 2016 and fiscal 2015, respectively. The effective tax rate for fiscal 2016 was reduced by the utilization of our net operating loss deferred tax asset and the corresponding release of the valuation allowance due to net income generated during fiscal 2016. The effective tax rate for fiscal 2015 was offset by an increase to our net operating loss deferred tax asset and a corresponding increase to the valuation allowance due to net loss incurred during fiscal 2015. The effect of the valuation allowance for fiscal 2016 and fiscal 2015 was impacted by alternative minimum tax (fiscal 2016 only), state income taxes, gross receipts taxes, and foreign income taxes recorded on a separate company basis.
+Liquidity and Capital Resources
+We expect our primary sources of liquidity to be cash flows from sales in the normal course of our operations and borrowings under our revolving credit facility. We expect that these sources will fund our ongoing cash requirements for the foreseeable future. We believe that sales in the normal course of our operations and amounts currently available from our revolving credit facility and other sources will be sufficient to fund our routine operations and working capital requirements for at least the next 12 months.
+Sources and Uses of Cash
+Operating Activities
+During fiscal 
+2017
+, cash flows used in operating activities totaled 
+$2.5 million
+. This cash activity was primarily driven by changes in working capital components, including a decrease in accounts payable of 
+$12.1 million
+, and an increase in accounts receivable, partially offset by a decrease in inventory. 
+In the prior year, fiscal 2016 cash flows from operating activities totaled $41.4 million. The primary drivers of cash flows provided by operations were continued improvements in working capital components, due to our continued operational focus on these items, including a decrease in inventory of $35.4 million, a decrease in receivables of $12.7 million, partially offset by a decrease in accounts payable of $5.4 million. 
+Investing Activities
+During fiscal 
+2017
+, our net cash provided by investing activities was 
+$26.8 million
+, which was substantially driven by property sales and sale and leaseback transactions of 
+$27.6 million
+. Gains recognized on these sales were 
+$6.7 million
+, and included in adjustments to net income (loss) in operating activities on the Statements of Cash Flows. Additionally, we performed sale-leaseback transactions on three distribution centers, and recognized a total deferred gain of $13.7 million on the three sale-leaseback properties, which will generally amortize into net income over the terms of the leases, and, as such, will generally be reflected at each reporting period as adjustments to net income (loss) in operating activities on the Statements of Cash Flows. 
+The fiscal 2016 net cash provided by investing activities of 
+$36.8 million
+ was substantially driven by sales of non-operating properties of 
+$37.5 million
+. Gains on these sales were 
+$28.1 million
+, and included in adjustments to net income (loss) in operating activities on the Statements of Cash Flows.
+24
+Subsequent to December 30, 2017, in the first quarter of fiscal 2018, we sold four real properties, which resulted in gross proceeds of $110.0 million, and entered into leases on the same real properties. We may continue to enter into further sale and leaseback transactions in the future.
+Financing Activities
+Net cash used in financing activities was 
+$25.2 million
+ during fiscal 2017, which primarily reflected payments of principal on our mortgage of 
+$29.0 million
+. Payments of principal on our mortgage in fiscal 2017 were largely derived from sales of property and sale-leaseback transactions. Net cash used in financing activities was $77.5 million during fiscal 2016, which primarily reflected net repayments on our revolving credit facilities of $44.8 million and payments of principal on our mortgage of $41.4 million. Payments of principal on our mortgage during fiscal 2016 were largely derived from sales of property.
+On October 9, 2017, we replaced our previous revolving credit facility, which was due July 15, 2018, with a new credit facility, which matures on October 10, 2022. See Note 6 to our Consolidated Financial Statements.
+In fiscal 2018, we prepaid our mortgage in its entirety, through the use of proceeds received from sale and leaseback transactions. See Note 16 to our Consolidated Financial Statements.
+Operating Working Capital
+Operating working capital is an important measurement we use to determine the efficiencies of our operations and our ability to readily convert assets into cash. Operating working capital is defined as current assets less current liabilities plus the current portion of long-term debt. Management of operating working capital helps us monitor our progress in meeting our goals to enhance our return on working capital assets.
+Selected financial information (in thousands)
+ 
+December 30, 2017
+ 
+December 31, 2016
+Current assets:
+ 
+ 
+ 
+Cash 
+$
+4,696
+ 
+$
+5,540
+Receivables, less allowance for doubtful accounts
+134,072
+ 
+125,857
+Inventories, net
+187,512
+ 
+191,287
+Other current assets
+17,124
+ 
+23,126
+Total current assets
+$
+343,404
+ 
+$
+345,810
+ 
+ 
+ 
+ 
+Current liabilities:
+ 
+ 
+ 
+Accounts payable
+$
+70,623
+ 
+$
+82,735
+Bank overdrafts
+21,593
+ 
+21,696
+Accrued compensation
+9,229
+ 
+8,349
+Current maturities of long-term debt, net of discount
+—
+ 
+29,469
+Other current liabilities
+16,160
+ 
+12,092
+Total current liabilities
+$
+117,605
+ 
+$
+154,341
+ 
+ 
+ 
+ 
+Operating working capital
+$
+225,799
+ 
+$
+220,938
+Our operating working capital requirements generally reflect the seasonal nature of our business; while additionally taking into account certain operational efficiency initiatives that took place during fiscal 2016, which were substantially complete at the end of the 2016 fiscal year. Operating working capital increased by 
+$4.9 million
+ to 
+$225.8 million
+ as of December 30, 2017, from 
+$220.9 million
+ as of December 31, 2016. The increase in operating working capital primarily reflected a decrease of 
+$12.1 million
+ in accounts payable, along with an increase in accounts receivable of 
+$8.2 million
+, partially offset by an increase in other current liabilities, along with a decrease in inventories and other current assets.
+Debt and Credit Sources
+On October 9, 2017, we entered into a Credit Agreement, dated as of October 10, 2017, by and among the Company, certain of the Company’s subsidiaries, as borrowers (the “Borrowers”) or guarantors, Wells Fargo Bank, National Association, in its capacity as administrative agent (“Wells Fargo”), and certain other financial institutions party thereto (the “Credit Agreement”). The Credit Agreement provides for a senior secured revolving loan and letter of credit facility of up to 
+$335.0 
+25
+million
+ (the “Revolving Credit Facility”), and also an uncommitted accordion feature that permits us to increase the facility by an aggregate principal amount of up to 
+$75.0 million
+, subject to certain conditions, including lender consent. The maturity date of the Credit Agreement is October 10, 2022. The Credit Agreement replaces the previous 
+$335.0 million
+ secured revolving credit facility, which consisted of a revolving loan facility of up to 
+$335.0 million
+ and a Tranche A loan revolving loan facility of up to 
+$16.0 million
+, which was made available pursuant to the Borrowers’ prior credit agreement, dated August 4, 2006, as amended.
+In connection with the execution and delivery of the Credit Agreement, certain of the Company’s subsidiaries also entered into a Guaranty and Security Agreement with Wells Fargo (the “Guaranty and Security Agreement”). Pursuant to the Guaranty and Security Agreement, the Borrowers’ obligations under the Credit Agreement are secured by a first priority security interest in substantially all of the Company’s operating subsidiaries’ assets, including inventories, accounts receivable, significant real property, and proceeds from those items.
+Borrowings under the Credit Agreement will be subject to availability under the Borrowing Base (as defined in the Credit Agreement). The Borrowers will be required to repay revolving loans thereunder to the extent that such revolving loans exceed the Borrowing Base then in effect.The Revolving Credit Facility may be prepaid in whole or in part from time to time without penalty or premium, but including all breakage costs incurred by any lender thereunder.
+The Credit Agreement provides for interest on the loans at a rate per annum equal to (i) LIBOR plus a margin ranging from 
+2.25%
+ to 
+2.75%
+, with the amount of such margin determined based upon the average of the Borrowers’ excess availability for the immediately preceding fiscal quarter as calculated by the administrative agent, for loans based on LIBOR, or (ii) the administrative agent’s base rate plus a margin ranging from 
+0.75%
+ to 
+1.25%
+, with the amount of such margin determined based upon the average of the Borrowers’ excess availability for the immediately preceding fiscal quarter as calculated by the administrative agent, for loans based on the base rate.In the event excess availability falls below the greater of (i) 
+$35.0 million
+ and (ii) 
+10%
+ of the lesser of (a) the borrowing base and (b) the maximum permitted credit at such time, the Credit Agreement requires maintenance of a fixed charge coverage ratio of 
+1.1
+ to 1.0 (which, subject to satisfying certain conditions though the first fiscal quarter of 2018, may be reduced to 
+1.0
+ to 1.0) until such time as the Borrowers’ excess availability has been at least 
+$42.5 million
+ for a period of 
+60
+ days. The Credit Agreement also requires the Borrowers to limit their capital expenditures to 
+$30.0 million
+ in the aggregate per fiscal year; provided that any unused portion of such amount up to 
+$15.0 million
+ in any fiscal year may be applied to capital expenditures in the next fiscal year.
+The Credit Agreement also contains representations and warranties and affirmative and negative covenants customary for financings of this type as well as customary events of default. 
+In connection with the execution and delivery of the Credit Agreement, the Company also entered into a Limited Guaranty in favor of Wells Fargo (the “Limited Guaranty”), pursuant to which the Company agreed to guarantee the obligations of the Borrowers under the Credit Agreement for so long as the Company’s existing mortgage remained outstanding. The Limited Guaranty terminated in fiscal 2018 when the Company repaid its existing mortgage loan in full.
+As of 
+December 30, 2017
+, we had outstanding borrowings of 
+$182.7 million
+ and excess availability of 
+$63.3 million
+ under the terms of the Credit Agreement, based on qualifying inventory and accounts receivable. The interest rate on the Credit Agreement was 
+4.2%
+ at 
+December 30, 2017
+. We were in compliance with all covenants under the Credit Agreement as of 
+December 30, 2017
+.
+Our mortgage loan, which was paid in full subsequent to 
+December 30, 2017
+ (see Note 16), was secured by substantially all of the Company’s owned distribution facilities and a first priority pledge of the equity in the Company’s subsidiaries which held the real property that secured the mortgage loan.
+As of 
+December 30, 2017
+, the principal balance of the mortgage was 
+$97.9 million
+. Required principal payments were comprised of a 
+$55.0 million
+ principal payment due no later than 
+July 1, 2018
+, with the remaining balance due on 
+July 1, 2019
+. The mortgage required monthly interest-only payments at an interest rate of 
+6.35%
+. As of March 1, 2018, all obligations under the mortgage had been fully satisfied.
+Pension Funding Obligations
+We currently are required to make four quarterly cash contributions during 2018 and 2019 totaling approximately 
+$4.3 million
+, relating to our pension fiscal 2018 funding year pension contributions. In 2012, we obtained a funding waiver for that plan year, which continues to be repaid over the successive five-year period, through the 2017 funding year ending September 15, 2018, with principal and interest payments totaling approximately $0.7 million each year, which we have substantially repaid. In 2013, we contributed real property to the pension plan to satisfy minimum contribution requirements. Although such real property contribution was recognized for funding purposes, it was not recognized under GAAP, as this transaction did not 
+26
+meet the requirements to qualify as a sale under GAAP. We continue to evaluate pension funding obligations and requirements in order to meet our obligations while maintaining flexibility for working capital requirements. See Note 9 to our Consolidated Financial Statements.
+Off-Balance Sheet Arrangements
+As of 
+December 30, 2017
+, we did not have any material off-balance sheet arrangements.
+Critical Accounting Policies
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S., which require management to make estimates, judgments, and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. We believe that our most critical accounting policies and estimates relate to (1) revenue recognition; (2) our defined benefit pension plan; and (3) income taxes.
+Accounting estimates and assumptions discussed in this section are those that we consider to be the most critical to an understanding of our financial statements because they involve significant judgments and uncertainties. All of these estimates reflect our best judgment about current, and for some estimates future, economic and market conditions and their potential effects based on information available as of the date of these financial statements. If these conditions change from those expected, it is reasonably possible that the judgments and estimates described below could change, which may result in our recording additional pension liabilities, or increased tax liabilities, among other effects.
+Management has discussed the development, selection, and disclosure of critical accounting policies and estimates with the Audit Committee of the Company’s Board of Directors. While our estimates and assumptions are based on our knowledge of current events and actions we may undertake in the future, actual results ultimately may differ from these estimates and assumptions. For a discussion of the Company’s significant accounting policies, refer to the Notes to the Consolidated Financial Statements in Item 8.
+27
+Revenue Recognition
+We recognize revenue when persuasive evidence of an arrangement exists, delivery of products has occurred, the sales price is fixed or determinable and collectability is reasonably assured. For us, this generally means that we recognize revenue when title to our products is transferred to our customers. Title usually transfers upon shipment to or receipt at our customers’ locations, as determined by the specific sales terms of each transaction. Our customers can earn certain incentives including, but not limited to, cash and functional discounts. In preparing the financial statements, management must make estimates related to the contractual terms, customer performance, and sales volume to determine the total amounts recorded as deductions from revenue. Management also considers past results in making such estimates. The actual amounts ultimately paid may be different from our estimates, and recorded once they have been determined.
+Defined Benefit Pension Plan 
+We sponsor and contribute to a defined benefit pension plan. Most of the participants in the plan are inactive, with the majority of the remaining active participants no longer accruing benefits; and the plan is closed to new entrants. Management is required to make certain critical estimates related to actuarial assumptions used to determine our pension expense and related obligation. We believe the most critical assumptions are related to (1) the discount rate used to determine the present value of the liabilities and (2) the expected long-term rate of return on plan assets. All of our actuarial assumptions are reviewed annually, or upon any mid-year curtailment or settlement, should any such event occur. Changes in these assumptions could have a material impact on the measurement of our pension expense and related obligation. At each measurement date, we determine the discount rate by reference to rates of high-quality, long-term corporate bonds that mature in a pattern similar to the future payments we anticipate making under the plan. As of 
+December 30, 2017
+, and 
+December 31, 2016
+, the weighted-average discount rate used to compute our benefit obligation was 
+3.69%
+ and 
+4.26%
+, respectively. The expected long-term rate of return on plan assets is based upon the long-term outlook of our investment strategy as well as our historical returns and volatilities for each asset class. We also review current levels of interest rates and inflation to assess the reasonableness of our long-term rates. Our pension plan investment objective is to ensure our plan has sufficient funds to meet its benefit obligations when they become due. As a result, we periodically revise asset allocations, where appropriate, to improve returns and manage risk. The weighted-average expected long-term rate of return used to calculate our pension expense was 
+8.10%
+ and 
+7.82%
+ for fiscal 
+2017
+ and fiscal 
+2016
+, respectively.
+ The impact of a 0.25% change in these critical assumptions is as follows:
+Change in Assumption
+ 
+Effect on 2018 Pension Expense
+ 
+Effect on Accrued Pension Liability at December 30, 2017
+ 
+ 
+(In thousands)
+0.25% decrease in discount rate
+ 
+$
+11
+ 
+$
+3,600
+0.25% increase in discount rate
+ 
+$
+(16
+)
+ 
+$
+(3,446
+)
+0.25% decrease in expected long-term rate of return on assets
+ 
+$
+221
+ 
+$
+—
+0.25% increase in expected long-term rate of return on assets
+ 
+$
+(221
+)
+ 
+$
+—
+As almost all of the participants in the pension plan are inactive, we amortize actuarial gains and losses over the estimated average remaining life expectancy of the inactive participants, rather than the estimated average remaining service period of the active participants. The sensitivity analysis presented above reflects these assumptions.
+Income Taxes
+Our annual tax rate is based on our income, statutory tax rates and tax planning opportunities available to us in the various jurisdictions in which we operate. Significant judgment is required in determining our annual tax expense and in evaluating our tax positions. We establish reserves to remove some or all of the tax benefit of any of our tax positions at the time we determine that the positions become uncertain based upon one of the following: (1) the tax position is not “more likely than not” to be sustained, (2) the tax position is “more likely than not” to be sustained, but for a lesser amount, or (3) the tax position is “more likely than not” to be sustained, but not in the financial period in which the tax position was originally taken. For purposes of evaluating whether or not a tax position is uncertain, (1) we presume the tax position will be examined by the relevant taxing authority that has full knowledge of all relevant information, (2) the technical merits of a tax position are derived from authorities such as legislation and statutes, legislative intent, regulations, rulings and case law and their applicability to the facts and circumstances of the tax position, and (3) each tax position is evaluated without considerations of the possibility of offset or aggregation with other tax positions taken. We adjust these reserves, including any impact on the related interest and penalties, in light of changing facts and circumstances, such as the progress of a tax audit. Refer to Note 5 of Notes to Consolidated Financial Statements. 
+28
+A number of years may elapse before a particular matter for which we have established a reserve is audited and finally resolved. The number of years with open tax audits varies depending on the tax jurisdiction. The tax benefit that has been previously reserved because of a failure to meet the “more likely than not” recognition threshold would be recognized in our income tax expense in the first interim period when the uncertainty disappears under any one of the following conditions: (1) the tax position is “more likely than not” to be sustained, (2) the tax position, amount, and/or timing is ultimately settled through negotiation or litigation, or (3) the statute of limitations for the tax position has expired. Settlement of any particular issue would usually require the use of cash.
+On December 22, 2017, the U.S. government enacted tax legislation commonly known as the Tax Cuts and Jobs Act of 2017 (the “Tax Act”). The Tax Act provides for significant changes to tax law for tax years beginning after December 31, 2017, including, but not limited to, the reduction of the U.S. federal corporate income tax rate from 35% to 21%, repeal of the corporate alternative minimum tax (“AMT”), and additional limitations on the deductibility of interest expense and executive compensation.
+In order to determine the income tax effects of the Tax Act, we were required to re-measure our deferred tax balances as of the enactment date of the Tax Act, based on the rates at which the balances are expected to reverse in the future. The reduction in the federal corporate income tax rate from 35% to 21% resulted in a reduction in our deferred tax asset of $28.8 million with an offsetting adjustment to the valuation allowance of $28.6 million resulting in deferred income tax expense of $0.2 million in fiscal 2017. Furthermore, the Tax Act repealed the AMT and provided that taxpayers with AMT credit carryovers in excess of their regular tax liability may have the credits refunded over a period from 2018-2021. As a result, we released our valuation allowance on AMT credits due to the Tax Act of $0.8 million and recorded a corresponding deferred income tax benefit. In addition, we reclassed our AMT credit carryforward of $0.8 million to a non-current receivable. Once reclassed, we reduced the estimated refund and recorded a current income tax expense of $0.1 million to account for the effects of the sequester.
+Tax law requires items to be included in the tax return at different times than when these items are reflected in the consolidated financial statements. As a result, the annual tax rate reflected in our consolidated financial statements is different from that reported in our tax return (our cash tax rate). Some of these differences are permanent, such as expenses that are not deductible in our tax return, and some differences reverse over time, such as depreciation expense. These timing differences create deferred tax assets and liabilities. Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities. The tax rates used to determine deferred tax assets or liabilities are the enacted tax rates in effect for the year and manner in which the differences are expected to reverse. Based on the evaluation of all available information, we recognize future tax benefits, such as net operating loss carryforwards, to the extent that realizing these benefits is considered more likely than not. 
+We evaluate our ability to realize the tax benefits associated with deferred tax assets by analyzing our forecasted taxable income using both historical and projected future operating results; the reversal of existing taxable temporary differences; taxable income in prior carryback years (if permitted); and the availability of tax planning strategies. A valuation allowance is required to be established unless management determines that it is more likely than not that we will ultimately realize the tax benefit associated with a deferred tax asset. As of 
+December 30, 2017
+, we had determined that positive evidence outweighed the negative evidence in considering the recoverability of our deferred tax assets; and we therefore released a substantial portion of our valuation allowance of $53.5 million after considering tax reform implications. Our remaining valuation allowance is approximately $10.4 million, which primarily relates to state NOL carryforwards. See Note 5 to our Consolidated Financial Statements.
+Recently Issued Accounting Pronouncements
+For a summary of recent accounting pronouncements applicable to our consolidated financial statements, see Note 1 to the Consolidated Financial Statements in Item 8.

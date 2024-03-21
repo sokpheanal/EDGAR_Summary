@@ -1,0 +1,1374 @@
+Item 7.    
+Management
+’
+s Discussion and Analysis of Financial Condition and Results of Operations
+Trust Overview 
+SPDR
+®
+Gold is held by HSBC Bank plc (the “Custodian”) on behalf of the Trust. 
+As of the date of this quarterly report, Credit Suisse Securities (USA) LLC, Goldman, Sachs & Co., Goldman Sachs Execution & Clearing, L.P., HSBC Securities (USA) Inc., J.P. Morgan Securities LLC, Merrill Lynch Professional Clearing Corp., Morgan Stanley & Co. LLC, RBC Capital Markets LLC, UBS Securities LLC and Virtu Americas LLC are the only Authorized Participants. An updated list of Authorized Participants can be obtained from the Trustee or the Sponsor.
+Investing in the Shares does not insulate the investor from certain risks, including price volatility. The following chart illustrates the movement in the price of the Shares and NAV of the Shares against the corresponding gold 
+ 
+34 
+Table of Contents
+ 
+ 
+price (per 1/10 of an oz. of gold) since the day the Shares first began trading on the NYSE and subsequent transfer to NYSE Arca: 
+Share price & NAV v. gold price – November 18, 2004 to September 30, 2021 
+ 
+
+
+The divergence of the price of the Shares and NAV of the Shares from the gold price over time reflects the cumulative effect of the Trust expenses that arise if an investment had been held since inception. 
+Critical Accounting Policy 
+Valuation of Gold, Definition of Net Asset Value 
+The Trustee values the gold held by the Trust and determines the NAV of the Trust on each day the NYSE Arca is open for regular trading, at the earlier of the LBMA Gold Price PM for the day or 12:00 PM New York time. If no LBMA Gold Price PM is announced on a particular evaluation day or if the LBMA Gold Price PM has not been announced by 12:00 PM New York time on a particular evaluation day, the next most recent LBMA Gold Price (AM or PM) is used in the determination of the NAV of the Trust, unless the Trustee, in consultation with the Sponsor, determines that such price is inappropriate to use as the basis for such determination. In the event the Trustee and the Sponsor determine that such price is not an appropriate basis for valuation of the Trust’s gold, they will identify an alternative basis for such valuation to be employed by the Trustee. While we believe that the LBMA Gold Price is an appropriate indicator of the value of gold, there are other indicators that are available that could be different than the LBMA Gold Price. The use of such an alternative indicator could result in materially different fair value pricing of the gold in the Trust which could result in different market adjustments or redemption value adjustments of our outstanding redeemable Shares. 
+Once the value of the gold has been determined, the Trustee subtracts all estimated accrued fees, expenses and other liabilities of the Trust from the total value of the gold and all other assets of the Trust (other than any amounts credited to the Trust’s reserve account, if established). The resulting figure is the NAV of the Trust. The Trustee determines the NAV per Share by dividing the NAV of the Trust by the number of Shares outstanding as of the close of trading on NYSE Arca. 
+Inspectorate conducts two counts each year of the gold bullion held on behalf of the Trust at the vaults of the Custodian. A complete bar count is conducted once per year and coincides with the Trust’s financial year end at September 30
+th
+www.spdrgoldshares.com
+ 
+35 
+Table of Contents
+ 
+ 
+Gold acquired, or disposed of, by the Trust is recorded at average cost. The table below summarizes the impact of unrealized gains/(losses) on the Trust’s gold holdings at September 30, 2021 and 2020: 
+ 
+
+
+
+
+
+
+(Amount in 000’s of US$)
+  
+Sep-30,
+ 
+  
+Sep-30,
+ 
+
+
+ 
+Investment in gold – cost
+  
+$
+49,227,344
+ 
+  
+$
+60,743,750
+ 
+
+
+ 
+Unrealized gain/(loss) on investment in gold
+  
+ 
+6,246,679
+ 
+  
+ 
+16,234,250
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Investment in gold – market value
+  
+$
+55,474,023
+ 
+  
+$
+76,978,000
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Review of Financial Results 
+ 
+
+
+
+
+
+
+Financial Highlights
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+
+(All amounts in the following table and the subsequent paragraphs are in 
+  
+For the
+Sep-30, 2021
+ 
+ 
+For the
+Sep-30, 2020
+ 
+  
+For the
+Sep-30, 2019
+ 
+
+
+ 
+Net realized and change in unrealized gain/(loss) on investment in gold
+  
+$
+(5,488,874
+) 
+ 
+$
+13,309,558
+ 
+  
+$
+7,385,336
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Net income/(loss)
+  
+$
+(5,746,469
+) 
+ 
+$
+13,083,928
+ 
+  
+$
+7,250,161
+ 
+
+
+ 
+Net cash provided by operating activities
+  
+$
+—
+ 
+ 
+$
+—
+ 
+  
+$
+—
+ 
+The Trust’s net realized and change in unrealized gain on investment in gold for the year ended September 30, 2021 is made up of a gain of $43,413 on the sale of gold to pay expenses, a realized gain of $4,455,284 on gold distributed for the redemption of Shares, and a change in unrealized depreciation of $9,987,571 on investment in gold. 
+The Trust’s net realized and change in unrealized gain on investment in gold for the year ended September 30, 2020 is made up of a gain of $37,273 on the sale of gold to pay expenses, a realized gain of $2,138,221 on gold distributed for the redemption of Shares, and a change in unrealized appreciation of $11,134,064 on investment in gold. 
+The Trust’s net realized and change in unrealized gain on investment in gold for the year ended September 30, 2019 is made up of a gain of $6,023 on the sale of gold to pay expenses, a realized gain of $593,851 on gold distributed for the redemption of Shares, and a change in unrealized appreciation of $6,785,462 on investment in gold. 
+Selected Supplemental Data 
+ 
+
+
+
+
+
+
+(Amounts, except for per ounce and per share, are in 000’s)
+  
+Year ended
+Sep-30,
+ 
+ 
+Year ended
+Sep-30,
+ 
+ 
+Year ended
+Sep-30,
+ 
+
+
+ 
+Ounces of Gold:
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Opening balance
+  
+ 
+40,796.0
+ 
+ 
+ 
+29,737.6
+ 
+ 
+ 
+23,863.5
+ 
+
+
+ 
+Creations (excluding gold receivable at September 30, 2021 –0; September 30, 2020 –0 and September 30, 2019 –0)
+  
+ 
+6,325.9
+ 
+ 
+ 
+18,975.6
+ 
+ 
+ 
+13,678.0
+ 
+
+
+ 
+Redemptions (excluding gold payable at September 30, 2021 – 0; September 30, 2020 – 0 and September 30, 2019 –195,999)
+  
+ 
+(15,146.2
+) 
+ 
+ 
+(7,789.1
+) 
+ 
+ 
+(7,705.6
+) 
+
+
+ 
+Sales of gold
+  
+ 
+(145.3
+) 
+ 
+ 
+(128.1
+) 
+ 
+ 
+(98.3
+) 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Closing balance
+  
+ 
+31,830.4
+ 
+ 
+ 
+40,796.0
+ 
+ 
+ 
+29,737.6
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Gold price per ounce – LBMA Gold Price PM
+  
+$
+1,742.80
+ 
+ 
+$
+1,886.90
+ 
+ 
+$
+1,485.30
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Market value of gold holdings
+  
+$
+55,474,023
+ 
+ 
+$
+76,978,000
+ 
+ 
+$
+44,169,240
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Number of Shares (in 000’s):
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Opening balance
+  
+ 
+434,400
+ 
+ 
+ 
+314,000
+ 
+ 
+ 
+252,100
+ 
+
+
+ 
+Creations
+  
+ 
+67,500
+ 
+ 
+ 
+201,800
+ 
+ 
+ 
+144,900
+ 
+
+
+ 
+Redemptions
+  
+ 
+(161,600
+) 
+ 
+ 
+(81,400
+) 
+ 
+ 
+(83,000
+) 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Closing balance
+  
+ 
+340,300
+ 
+ 
+ 
+434,400
+ 
+ 
+ 
+314,000
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+Table of Contents
+ 
+ 
+On the date of inception of the Trust, the Custodian received 30,000 ounces of gold on behalf of the Trust in exchange for 300,000 Shares (3 Baskets). Trading of the Trust’s Shares commenced on November 18, 2004. In the year ended September 30, 2021, an additional 67,500,000 Shares (675 Baskets), were created in exchange for 6,325,889 ounces of gold, and 161,600,000 Shares (1,616 Baskets) were redeemed in exchange for 15,146,200 ounces of gold. For accounting purposes, the Trust reflects creations and the gold receivable with respect to such creations on the date of receipt of a notification of a creation but does not deliver Shares until the requisite amount of gold is received. Upon a redemption, the Trust delivers gold upon receipt of Shares. All references in this discussion to gold receivable and gold payable relate to creations and redemptions that had not been completed. These creations and redemptions were completed in the normal course of business, including the receipt and payment of the gold by the Custodian. 
+As at September 30, 2021, the amount of gold owned by the Trust and held by the custodian in its vault was 31,830,401 ounces, 100% of which is allocated gold in the form of London Good Delivery gold bars with a market value of $55,474,022,504 based on the LBMA Gold Price PM on September 30, 2021 (cost —$49,227,343,846). 
+As at September 30, 2020, the amount of gold owned by the Trust and held by the custodian in its vault was 40,796,015 ounces, 100% of which is allocated gold in the form of London Good Delivery gold bars with a market value of $76,978,000,158 based on the LBMA Gold Price PM on September 30, 2020 (cost —$60,743,750,288). 
+As at September 30, 2019, the amount of gold owned by the Trust and held by the custodian in its vault was 29,737,588 ounces, 100% of which is allocated gold in the form of London Good Delivery gold bars with a market value of $44,169,239,649 based on the LBMA Gold Price PM on September 30, 2019 (cost —$39,069,053,854). 
+Cash Flow from Operations 
+The Trust had no net cash flow from operations in the years ended September 30, 2021, 2020 and 2019. Cash received in respect of gold sold to pay expenses in the years ended September 30, 2021, 2020 and 2019 was the same as those expenses, resulting in a zero cash balance at September 30, 2021, 2020 and 2019. 
+Off-Balance
+The Trust is not a party to any 
+off-balance
+Cash Resources and Liquidity 
+At September 30, 2021 and 2020 the Trust did not have any cash balances. When selling gold to pay expenses, the Trustee endeavors to sell the exact amount of gold needed to pay expenses in order to minimize the Trust’s holdings of assets other than gold. As a consequence, we expect that the Trust will not record any cash flow from its operations and that its cash balance will be zero at the end of each reporting period. 
+Analysis of Movements in the Price of Gold 
+As movements in the price of gold are expected to directly affect the price of the Trust’s Shares, investors should understand what the recent movements in the price of gold have been. Investors, however, should also be aware that past movements in the gold price are not indicators of future movements. This section identifies recent movements in the gold price. 
+ 
+37 
+Table of Contents
+ 
+ 
+The following chart provides historical background on the price of gold. The chart illustrates movements in the price of gold in U.S. dollars per ounce over the period from October 1, 2016 to September 30, 2021 and is based on the LBMA Gold Price PM. 
+ 
+
+
+The average high, low and 
+end-of-period
+ 
+
+
+
+
+
+
+Period
+  
+Average
+ 
+  
+High
+ 
+  
+Date
+ 
+  
+Low
+ 
+  
+Date
+ 
+  
+End of
+ 
+  
+Last
+(1)
+ 
+
+
+ 
+Three months to December 31, 2018
+  
+$
+1,226.28
+ 
+  
+$
+1,279.00
+ 
+  
+ 
+Dec 28, 2018
+ 
+  
+$
+1,185.55
+ 
+  
+ 
+Oct 9, 2018
+ 
+  
+$
+1,281.65
+ 
+  
+ 
+Dec 31, 2018
+(2)
+
+
+ 
+Three months to March 31, 2019
+  
+$
+1,303.79
+ 
+  
+$
+1,343.75
+ 
+  
+ 
+Feb 20, 2019
+ 
+  
+$
+1,279.55
+ 
+  
+ 
+Jan 21, 2019
+ 
+  
+$
+1,295.40
+ 
+  
+ 
+Mar 29, 2019
+ 
+
+
+ 
+Three months to June 30, 2019
+  
+$
+1,309.39
+ 
+  
+$
+1,431.40
+ 
+  
+ 
+June 25, 2019
+ 
+  
+$
+1,269.50
+ 
+  
+ 
+Apr 23, 2019
+ 
+  
+$
+1,409.00
+ 
+  
+ 
+June 28, 2019
+ 
+
+
+ 
+Three months to September 30, 2019
+  
+$
+1,472.47
+ 
+  
+$
+1,546.10
+ 
+  
+ 
+Sep 4, 2019
+ 
+  
+$
+1,388.65
+ 
+  
+ 
+July 5, 2019
+ 
+  
+$
+1,485.30
+ 
+  
+ 
+Sep 30, 2019
+ 
+
+
+ 
+Three months to December 31, 2019
+  
+$
+1,480.96
+ 
+  
+$
+1,517.10
+ 
+  
+ 
+Oct 3, 2019
+ 
+  
+$
+1,452.05
+ 
+  
+ 
+Nov 12, 2019
+ 
+  
+$
+1,523.00
+ 
+  
+ 
+Dec 31, 2019
+(2)
+
+
+ 
+Three months to March 31, 2020
+  
+$
+1,582.80
+ 
+  
+$
+1,683.65
+ 
+  
+ 
+Mar 6, 2020
+ 
+  
+$
+1,474.25
+ 
+  
+ 
+Mar 19, 2020
+ 
+  
+$
+1,608.95
+ 
+  
+ 
+Mar 31, 2020
+ 
+
+
+ 
+Three months to June 30, 2020
+  
+$
+1,711.13
+ 
+  
+$
+1,771.60
+ 
+  
+ 
+June 29, 2020
+ 
+  
+$
+1,576.55
+ 
+  
+ 
+Apr 1, 2020
+ 
+  
+$
+1,768.10
+ 
+  
+ 
+June 30, 2020
+ 
+
+
+ 
+Three months to September 30, 2020
+  
+$
+1,908.56
+ 
+  
+$
+2,067.15
+ 
+  
+ 
+Aug 6, 2020
+ 
+  
+$
+1,771.05
+ 
+  
+ 
+July 1, 2020
+ 
+  
+$
+1,886.90
+ 
+  
+ 
+Sep 30, 2020
+ 
+
+
+ 
+Three months to December 31, 2020
+  
+$
+1,874.23
+ 
+  
+$
+1,940.80
+ 
+  
+ 
+Nov 6, 2020
+ 
+  
+$
+1,762.55
+ 
+  
+ 
+Nov 30, 2020
+ 
+  
+$
+1,891.10
+ 
+  
+ 
+Dec 31, 2020
+(2)
+
+
+ 
+Three months to March 31, 2021
+  
+$
+1,794.01
+ 
+  
+$
+1,943.20
+ 
+  
+ 
+Jan 4, 2021
+ 
+  
+$
+1,683.95
+ 
+  
+ 
+Mar 30, 2021
+ 
+  
+$
+1,691.05
+ 
+  
+ 
+Mar 31, 2021
+ 
+
+
+ 
+Three months to June 30, 2021
+  
+$
+1,816.48
+ 
+  
+$
+1,902.75
+ 
+  
+ 
+June 2, 2021
+ 
+  
+$
+1,726.05
+ 
+  
+ 
+Apr 1, 2021
+ 
+  
+$
+1,763.15
+ 
+  
+ 
+June 30, 2021
+ 
+
+
+ 
+Three months to September 30, 2021
+  
+$
+1,789.52
+ 
+  
+$
+1,829.30
+ 
+  
+ 
+July 29, 2021
+ 
+  
+$
+1,723.35
+ 
+  
+ 
+Aug 10, 2021
+ 
+  
+$
+1,742.80
+ 
+  
+ 
+Sep 30, 2021
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Twelve months ended September 30, 2019
+  
+$
+1,329.69
+ 
+  
+$
+1,546.10
+ 
+  
+ 
+Sep 4, 2019
+ 
+  
+$
+1,185.55
+ 
+  
+ 
+Oct 9, 2018
+ 
+  
+$
+1,485.30
+ 
+  
+ 
+Sep 30, 2019
+ 
+
+
+ 
+Twelve months ended September 30, 2020
+  
+$
+1,672.83
+ 
+  
+$
+2,067.15
+ 
+  
+ 
+Aug 6, 2020
+ 
+  
+$
+1,452.05
+ 
+  
+ 
+Nov 12, 2019
+ 
+  
+$
+1,886.90
+ 
+  
+ 
+Sep 30, 2020
+ 
+
+
+ 
+Twelve months ended September 30, 2021
+  
+$
+1,818.12
+ 
+  
+$
+1943.20
+ 
+  
+ 
+Jan 4, 2021
+ 
+  
+$
+1,683.95
+ 
+  
+ 
+Mar 30, 2021
+ 
+  
+$
+1,742.80
+ 
+  
+ 
+Sep 30, 2021
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+November 12, 2004 to September 30, 2021
+  
+$
+1,199.15
+ 
+  
+$
+2,067.15
+ 
+  
+ 
+Aug 6, 2020
+ 
+  
+$
+411.10
+ 
+  
+ 
+Feb 8, 2005
+ 
+  
+$
+1,742.80
+ 
+  
+ 
+Sep 30, 2021
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+(1)
+ 
+The end of period gold price is the LBMA Gold Price PM on the last business day of the period. This is in accordance with the Trust Indenture and the basis used for calculating the Net Asset Value of the Trust. 
+
+
+
+
+(2)
+ 
+There was no LBMA Gold Price PM on the last business day of December 2020, 2019 or 2018. The LBMA Gold Price AM on the last business day of December 2020, 2019 and 2018 was $1,891.10, $1,523.00 and $1,281.65, respectively. The Net Asset Value of the Trust on December 31, 2020, 2019 and 2018 was calculated using the LBMA Gold Price AM, in accordance with the Trust Indenture. 
+Item 7A.    
+Quantitative and Qualitative Disclosures about Market Risk
+The Trust Indenture does not authorize the Trustee to borrow for payment of the Trust’s ordinary expenses. The Trust does not engage in transactions in foreign currencies which could expose the Trust or holders of Shares to any foreign currency related market risk. The Trust does not invest in any derivative financial instruments or long-term debt instruments. 
+ 
+38 
+Table of Contents
+ 
+ 
+Item 8.    
+Financial Statements and Supplementary Data
+See Index to Financial Statements on 
+page F-1
+Item 9.    
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+There have been no changes in accountants and no disagreements with accountants on any matter of accounting principles or practices or financial statement disclosures during the year ended September 30, 2021. 
+Item 9A.    
+Controls and Procedures
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures 
+The Trust maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in its Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to the Principal Executive Officer and Principal Financial and Accounting Officer of the Sponsor, and to the audit committee of the Board of Directors of the Sponsor, as appropriate, to allow timely decisions regarding required disclosure. 
+Under the supervision and with the participation of the Principal Executive Officer and the Principal Financial and Accounting Officer of the Sponsor, the Sponsor conducted an evaluation of the Trusts disclosure controls and procedures, as defined under Exchange Act 
+Rule 13a-15(e).
+Change in Internal Control Over Financial Reporting 
+There was no change in the Trust’s internal controls over financial reporting that occurred during the Trust’s most recently completed fiscal quarter ended September 30, 2021 that has materially affected, or is reasonably likely to materially affect, these internal controls. 
+Management’s Report on Internal Control over Financial Reporting 
+The Sponsor’s management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined under Exchange Act 
+Rules 13a-15(f)
+15d-15(f).
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become ineffective because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+The Principal Executive Officer and Principal Financial and Accounting Officer of the Sponsor assessed the effectiveness of the Trust’s internal control over financial reporting as of September 30, 2021. In making this assessment, they used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway 
+ 
+39 
+Table of Contents
+ 
+ 
+ 
+Commission (COSO) in Internal Control—Integrated Framework (2013). Their assessment included an evaluation of the design of the Trust’s internal control over financial reporting and testing of the operational effectiveness of its internal control over financial reporting. Based on their assessment and those criteria, the Principal Executive Officer and Principal Financial and Accounting Officer of the Sponsor concluded that the Trust maintained effective internal control over financial reporting as of September 30, 2021. 
+KPMG LLP, the independent registered public accounting firm that audited and reported on the financial statements as of and for the year ended September 30, 2021 included in this 
+Form 10-K,
+November 24, 2021 
+ 
+ 
+40 
+Table of Contents
+ 
+ 
+ 
+Report of Independent Registered Public Accounting Firm 
+To the Shareholders and the Trustee of SPDR® Gold Trust and the Board of Directors of World Gold Trust Services, LLC: 
+Opinion on Internal Control Over Financial Reporting 
+We have audited SPDR® Gold Trust’s (the Trust) internal control over financial reporting as of September 30, 2021, based on criteria established in 
+Internal Control – Integrated Framework (2013)
+Internal Control – Integrated Framework (2013)
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the statements of financial condition of the Trust, including the schedules of investment, as of September 30, 2021 and 2020, the related statements of operations, cash flows, and changes in net assets for each of the years in the three-year period ended September 30, 2021, and the related notes (collectively, the financial statements), and our report dated November 24, 2021 expressed an unqualified opinion on those financial statements. 
+Basis for Opinion 
+The management of World Gold Trust Services, LLC (the Trust’s sponsor) is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Trust’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Trust in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+Definition and Limitations of Internal Control Over Financial Reporting 
+An entity’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. An entity’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the entity; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the entity are being made only in accordance with authorizations of management and directors of the entity; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the entity’s assets that could have a material effect on the financial statements. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+/s/ KPMG LLP 
+New York, New York 
+November 24, 2021 
+ 
+41 
+ 
+Table of Contents
+ 
+ 
+Item 9B.    
+Other Information
+Not applicable. 
+Item 9C.    
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+Not applicable. 
+ 
+42 
+Table of Contents
+ 
+ 

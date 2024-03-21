@@ -1,0 +1,459 @@
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our financial statements and the related notes to those statements included elsewhere in this Annual Report on Form 10-K. In addition to historical financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties and assumptions. Some of the numbers included herein have been rounded for the convenience of presentation. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of many factors, including those discussed under Part I. "Item 1A. Risk Factors’’ and elsewhere in this Annual Report on Form 10-K.
+Overview
+We are a medical technology company focused on the development and commercialization of innovative and minimally invasive solutions for patients with obstructive sleep apnea. Our proprietary Inspire system is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea. We have developed a novel, closed-loop solution that continuously monitors a patient’s breathing and delivers mild hypoglossal nerve stimulation to maintain an open airway. Inspire therapy is indicated for patients with moderate to severe obstructive sleep apnea who do not have significant central sleep apnea and do not have a complete concentric collapse of the airway at the soft palate level. In addition, patients in the United States ("U.S.") must have been confirmed to fail or be unable to tolerate positive airway pressure treatments, such as CPAP, and be 22 years of age or older, though there are no similar requirements for patients in Europe. 
+We sell our Inspire system to hospitals and ASCs in the U.S. and in select countries in Europe through a direct sales organization. Our direct sales force engages in sales efforts and promotional activities focused on ENT physicians and sleep centers. In addition, we highlight our compelling clinical data and value proposition to increase awareness and adoption amongst referring physicians. We build upon this top-down approach with strong direct-to-patient marketing initiatives to create awareness of the benefits of our Inspire system and drive demand through patient empowerment. This outreach helps to educate thousands of patients on our Inspire therapy and frequently results in patient leads. We increased the number of employees in our sales, marketing and reimbursement organizations from 40 as of December 31, 2015 to 129 as of December 31, 2018. 
+Although our sales and marketing efforts are directed at patients and physicians because they are the primary users of our technology, we consider the hospitals and ASCs where the procedure is performed to be our customers, as they are the purchasing agents of our Inspire system. Our customers are reimbursed the cost required to treat each patient through various third-party payors, such as commercial payors and government agencies. Our Inspire system is currently reimbursed primarily on a per-patient prior authorization basis for patients covered by commercial payors, on a medical necessity basis for most patients covered by Medicare, and under U.S. government contract for patients who are treated by the Veterans Health Administration. To date, approximately 330 commercial payors have prior authorized for patients’ treatment with our Inspire therapy. In July 2018, Aetna Inc., one of the leading health plans in the U.S., began providing coverage for our Inspire therapy, and in January 2019, Blue Cross Blue Shield Association's (“BCBSA”) Evidence Street, which performs healthcare technology assessments for the 36 BCBSA insurers, issued a positive assessment of Inspire therapy to its members. We have 
+75
+Table of Contents
+ currently secured positive coverage policies with 18 U.S. commercial payors. In June 2018, Japan’s Ministry of Health, Labour and Welfare approved our Inspire therapy to treat moderate to severe OSA, and we are currently seeking reimbursement coverage in Japan. For the year ended December 31, 2018, 87.7% of our revenue was derived in the U.S. and 12.3% was derived in Europe. No single customer accounted for more than 10% of our revenue.
+We rely on third-party suppliers to manufacture our Inspire system and its components. Many of these suppliers are currently single source suppliers. We seek to maintain higher levels of inventory to protect ourselves from supply interruptions, and, as a result, we are subject to the risk of inventory obsolescence and expiration, which could lead to inventory impairment charges. In the U.S., our products are shipped directly to our customers on a purchase order basis, primarily by a third-party vendor with a facility in Tennessee. We ship our physician programmers and some Inspire systems from our facility in Minnesota. Warehousing and shipping operations for our European customers are handled by a third-party vendor with facilities located in the Netherlands. Customers do not have the right to return non-defective product, nor do we place product on consignment. Our sales representatives do not maintain trunk stock.
+Since our inception in 2007, we have financed our operations primarily through sales of our Inspire system, private placements of our convertible preferred securities, amounts borrowed under our credit facility, the initial public offering of our common stock that closed in May 2018 (our "IPO") and the offering of our common stock that closed in December 2018 (our "follow-on offering"). We have devoted significant resources to research and development activities related to our Inspire system, including clinical and regulatory initiatives to obtain marketing approval, and sales and marketing activities. For the year ended December 31, 2018, we generated revenue of $50.6 million with a gross margin of 80.1% and a net loss of $21.8 million compared to revenue of $28.6 million with a gross margin of 78.9% and a net loss of $17.5 million for the year ended December 31, 2017 and revenue of $16.4 million with a gross margin of 76.2% and a net loss of $18.5 million for the year ended December 31, 2016. Our accumulated deficit as of December 31, 2018 was $146.9 million.
+We have invested heavily in product development. Our research and development activities have been centered on driving continuous improvements to our Inspire therapy. We have also made significant investments in clinical studies to demonstrate the safety and efficacy of our Inspire therapy and to support regulatory submissions. We intend to make significant investments building our sales and marketing organization by increasing the number of U.S. sales representatives and continuing our direct-to-patient marketing efforts in existing and new markets throughout the U.S. and in Europe. We also intend to continue to make investments in research and development efforts to develop our next generation Inspire systems and support our future regulatory submissions for expanded indications and for new markets such as Europe and Japan. Because of these and other factors, we expect to continue to incur net losses for the next several years and we expect to require substantial additional funding, which may include future equity and debt financings. 
+On May 7, 2018, we completed our IPO by issuing 7,762,500 shares of common stock, at a public offering price of $16.00 per share, for net proceeds of approximately $112.0 million after deducting underwriting discounts and commissions and offering expenses payable by us. On December 11, 2018, we completed the follow-on offering that included our offer and sale of 1,875,000 shares of common stock and the selling stockholders' offer and sale of 1,000,000 shares of common stock, at a public offering price of $40.00 per share. We received net proceeds of approximately $69.8 million after deducting underwriting discounts and commissions and offering expenses. We received no proceeds from the sale of our common stock by the selling shareholders.
+Components of Our Results of Operations
+Revenue
+We derive primarily all of our revenue from the sale of our Inspire system to hospitals and ASCs in the U.S. and select countries in Europe. Recent revenue growth has been driven by, and we expect continued growth as a result of, increased patient and physician awareness of the Inspire system, additional sales representatives and an increase in approvals of prior authorization submissions. Any reversal in these recent trends, however, could have a negative impact on our future revenue. In addition, we have expanded our sales and marketing organization to help us drive and support revenue growth and intend to continue this expansion. Moreover, we expect that our revenue growth will be positively impacted by, and to the extent we obtain, additional positive coverage policies. Our revenue has fluctuated, and we expect our revenue to continue to fluctuate, from quarter to quarter due to a variety of factors. For example, we have historically experienced seasonality in our first and fourth quarters.
+76
+Table of Contents
+Cost of Goods Sold and Gross Margin
+Cost of goods sold consists primarily of acquisition costs of the components of the Inspire system, overhead costs, scrap and inventory obsolescence, as well as distribution-related expenses such as logistics and shipping costs, net of costs charged to customers. The overhead costs include the cost of material procurement and operations supervision and management personnel. We expect overhead costs as a percentage of revenue to continue to decrease as our sales volume increases. We expect cost of goods sold to increase in absolute dollars primarily as, and to the extent, our revenue grows. 
+We calculate gross margin as gross profit divided by revenue. Our gross margin has been and we expect it will continue to be affected by a variety of factors, including manufacturing costs, the average selling price of our Inspire system, the implementation of cost-reduction strategies, inventory obsolescence costs, which generally occur when new generations of our Inspire system are introduced, and to a lesser extent the sales mix between the U.S. and Europe as our average selling price in the U.S. tends to be higher than in Europe. Our gross margin may increase over the long term to the extent our production volumes increase and we receive discounts on the costs charged by our contract manufacturers, thereby reducing our per unit costs. However, our gross margin may fluctuate from quarter to quarter due to seasonality.
+Research and Development Expenses
+Research and development expenses consist primarily of product development, engineering, clinical studies to develop and support our products, regulatory expenses, testing, consulting services and other costs associated with the next generation versions of the Inspire system. These expenses include employee compensation (including stock-based compensation), supplies, materials, consulting, and travel expenses related to research and development programs. Additionally, these expenses include clinical trial management and monitoring, payments to clinical investigators, data management and travel expenses for our various clinical trials. We expect research and development expenses to increase in the future as we develop next generation versions of our Inspire system and continue to expand our clinical studies to secure positive coverage policies from private commercial payors in the U.S. and enter into new markets such as Europe, Japan and Australia. We expect research and development expenses as a percentage of revenue to vary over time depending on the level and timing of initiating new product development efforts and new clinical development activities.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses consist primarily of compensation for personnel, including base salaries, stock-based compensation and commissions related to our sales organization, finance, information technology, and human resource functions, as well as spending related to marketing, sales operations and training and reimbursement personnel. Other selling, general and administrative expenses include training physicians, travel expenses, advertising, direct-to-patient promotional programs, conferences, trade shows and consulting services, professional services fees, audit fees, insurance costs and general corporate expenses, including facilities-related expenses. We expect selling general and administrative expenses to continue to increase as we expand our commercial infrastructure to both drive and support our planned growth in revenue and as we increase our headcount and expand administrative personnel to support our growth and operations as a public company including finance personnel and information technology services. 
+Additionally, we anticipate increased expenses related to audit, legal, and tax-related services associated with maintaining compliance with exchange listing and SEC requirements, director and officer insurance premiums and investor relations costs associated with being a public company. We also expect to see an increase in our stock-based compensation expense with the establishment of a new equity plan in connection with our IPO and related grants either in the form of restricted stock or options.
+Other Expense, Net
+Other expense, net consists primarily of interest expense payable under our credit facility. Other items include interest income and fair value adjustments related to convertible preferred stock warrants, which were accounted for as a liability and marked-to-market at each reporting period. Immediately prior to the closing of our IPO, our outstanding convertible preferred stock warrants automatically converted into warrants to purchase shares of our common stock.
+77
+Table of Contents
+Results of Operations
+Year Ended December 31, 2018 Compared to Year Ended December 31, 2017
+Year Ended December 31,
+Change
+2018 
+2017 
+$
+%
+(in thousands, except percentages)
+Revenue
+$
+50,593 
+$
+28,567 
+$
+22,026 
+77.1 
+%
+Cost of goods sold
+10,056 
+6,018 
+4,038 
+67.1 
+%
+Gross profit
+40,537 
+22,549 
+17,988 
+79.8 
+%
+Gross margin
+80.1 
+%
+78.9 
+%
+Operating expenses:
+Research and development
+7,388 
+6,194 
+1,194 
+19.3 
+%
+Selling, general and administrative
+53,527 
+32,358 
+21,169 
+65.4 
+%
+Total operating expenses
+60,915 
+38,552 
+22,363 
+58.0 
+%
+Operating loss
+(20,378)
+(16,003)
+(4,375)
+27.3 
+%
+Other expense, net
+1,450 
+1,508 
+(58)
+(3.8)
+%
+Net loss
+$
+(21,828)
+$
+(17,511)
+$
+(4,317)
+24.7 
+%
+Revenue
+Revenue increased $22.0 million, or 77.1%, to $50.6 million for the year ended December 31, 2018 compared to the year ended December 31, 2017. The increase was attributable to an increase in sales of our Inspire system of $20.1 million in the U.S. and an increase of $1.9 million in Europe, primarily in Germany.
+Revenue information by region is summarized as follows:
+Year Ended December 31, 
+2018 
+2017 
+Change 
+Amount 
+% of Revenue 
+Amount 
+% of Revenue 
+$ 
+% 
+(in thousands, except percentages) 
+United States 
+$
+44,378 
+87.7 
+%
+$
+24,293 
+85.0 
+%
+$
+20,085 
+82.7 
+%
+Europe 
+6,215 
+12.3 
+%
+4,274 
+15.0 
+%
+1,941 
+45.4 
+%
+Total revenue 
+$
+50,593 
+100.0 
+%
+$
+28,567 
+100.0 
+%
+$
+22,026 
+77.1 
+%
+Revenue generated in the U.S. was $44.4 million for the year ended December 31, 2018, an increase of $20.1 million or 82.7% over the year ended December 31, 2017. Revenue growth in the U.S. was primarily due to increased market penetration in existing territories, the expansion of our U.S. sales representatives into new territories, increased physician and patient awareness of our Inspire system, and a greater number of prior authorization approvals. Additionally, $1.0 million of the increase in revenue was attributable to an increase in our average selling price with the introduction of the fourth generation Inspire system in the U.S. in July 2017.
+Revenue generated in Europe was $6.2 million in the year ended December 31, 2018, an increase of $1.9 million or 45.4% over the year ended December 31, 2017. Revenue growth in Europe was primarily due to increased market penetration in existing territories and increased physician and patient awareness of our Inspire system. Additionally, $0.5 million of the increase in revenue was attributable to an increase in our average selling price and, to a lesser extent, changes in foreign currency rates. 
+78
+Table of Contents
+Cost of Goods Sold and Gross Margin
+Cost of goods sold increased $4.1 million, or 67.1%, to $10.1 million for the year ended December 31, 2018 compared to $6.0 million for the year ended December 31, 2017. The increase was primarily due to increased purchases of manufactured products due to higher sales volume of our Inspire system.
+Gross margin was 80.1% for the year ended December 31, 2018 compared to 78.9% for the year ended December 31, 2017. The lower gross margin for the year ended December 31, 2017 was primarily due to higher cost of goods sold resulting from an excess inventory charge of $0.5 million for the anticipated introduction of the fourth generation Inspire system in the U.S. in July 2017.
+Research and Development Expenses
+Research and development expenses increased $1.2 million, or 19.3%, to $7.4 million for the year ended December 31, 2018 compared to $6.2 million for the year ended December 31, 2017. This change was primarily due to an increase of $1.1 million of compensation and employee-related expenses, mainly as a result of increased headcount, and $0.1 million for ongoing research and development costs.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased $21.1 million, or 65.4%, to $53.5 million for the year ended December 31, 2018 compared to $32.4 million for the year ended December 31, 2017. The primary driver of this increase was an increase of $14.8 million due to compensation, travel and other employee-related expenses, mainly as a result of increased headcount, $1.0 million of which related to our reimbursement organization. In addition, selling, general and administrative expenses increased $2.0 million related to legal fees, financial audit fees, and insurance costs, which increased primarily as a result of becoming a public company, as well as out-sourced information technology services and facilities costs. Other drivers included an increase of $2.5 million of direct-to-patient marketing programs, trade show and conference expenses and an increase of $0.2 million due to increased physician training costs.
+Other Expense, Net
+Other expense, net was steady at $1.5 million for the years ended December 31, 2018 and 2017. In fiscal 2018, an increase of $1.7 million of interest income related to our higher cash, cash equivalents and short-term investments balances was offset by an increase in interest expense of $0.8 million related to additional borrowings under our credit facility, the fair value adjustment of $0.6 million of our previously outstanding convertible preferred stock warrants, and $0.2 million related to the final payment fee under our credit facility. 
+Year Ended December 31, 2017 Compared to Year Ended December 31, 2016
+Year Ended December 31,
+Change
+2017 
+2016 
+$
+%
+(in thousands, except percentages) 
+Revenue
+$
+28,567 
+$
+16,427 
+$
+12,140 
+73.9 
+%
+Cost of goods sold
+6,018 
+3,905 
+2,113 
+54.1 
+%
+Gross profit
+22,549 
+12,522 
+10,027 
+80.1 
+%
+Gross margin
+78.9 
+%
+76.2 
+%
+Operating expenses:
+Research and development
+6,194 
+7,091 
+(897)
+(12.6)
+%
+Selling, general and administrative
+32,358 
+22,684 
+9,674 
+42.6 
+%
+Total operating expenses
+38,552 
+29,775 
+8,777 
+29.5 
+%
+Operating loss
+(16,003)
+(17,253)
+1,250 
+(7.2)
+%
+Other expense, net
+1,508 
+1,275 
+233 
+18.3 
+%
+Net loss
+$
+(17,511)
+$
+(18,528)
+$
+1,017 
+(5.5)
+%
+79
+Table of Contents
+Revenue
+Revenue increased $12.1 million, or 73.9%, to $28.6 million in fiscal year 2017 compared to $16.4 million in fiscal year 2016. The increase was attributable to an increase in sales of our Inspire system of $10.5 million in the U.S. and an increase of $1.6 million in Europe, primarily in Germany.
+Revenue information by region is summarized as follows:
+Year Ended December 31,
+2017
+2016
+Change
+Amount
+% of Revenue
+Amount
+% of Revenue
+$
+%
+(in thousands, except percentages)
+United States
+$
+24,293 
+85.0 
+%
+$
+13,789 
+83.9 
+%
+$
+10,504 
+76.2 
+%
+Europe
+4,274 
+15.0 
+%
+2,638 
+16.1 
+%
+1,636 
+62.0 
+%
+Total revenue
+$
+28,567 
+100.0 
+%
+$
+16,427 
+100.0 
+%
+$
+12,140 
+73.9 
+%
+Revenue generated in the U.S. was $24.3 million in fiscal year 2017, an increase of $10.5 million or 76.2% over fiscal year 2016. Revenue growth in the U.S. was primarily due to increased market penetration in existing territories, the expansion of our sales representatives into new territories, increased physician and patient awareness of our Inspire system, increased prior authorization approvals, and an increase in our average selling price.
+Revenue generated in Europe was $4.3 million in fiscal year 2017, an increase of $1.6 million or 62.0% over fiscal year 2016. Revenue growth in Europe was primarily due to increased market penetration in existing territories and increased physician and patient awareness of our Inspire system. 
+Cost of Goods Sold and Gross Margin
+Cost of goods sold increased $2.1 million, or 54.1%, to $6.0 million in fiscal year 2017 compared to $3.9 million in fiscal year 2016. The increase was primarily due to increased costs to purchase manufactured products due to higher sales volume of our Inspire system. 
+Gross margin increased to 78.9% in fiscal year 2017 compared to 76.2% in fiscal year 2016. The increase in gross margin was primarily due to the growth in revenue, which enabled us to spread the fixed portion of our operations costs, including distribution-related expenses and management salaries, over more units.
+Research and Development Expenses
+Research and development expenses decreased $0.9 million, or 12.6%, to $6.2 million in fiscal year 2017 compared to $7.1 million in fiscal year 2016. As a percentage of revenue, research and development expenses decreased to 21.7% in fiscal year 2017 compared to 43.2% in fiscal year 2016. The decrease in research and development expenses was primarily attributable to a decrease in product development costs and consulting costs of $1.4 million relating to the completion of the fourth generation of our Inspire system in fiscal year 2016, partially offset by higher research study costs of $0.2 million and an increase of $0.3 million in regulatory expenses due to the commencement of regulatory activities in Japan during 2017.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased $9.7 million, or 42.6%, to $32.4 million in fiscal year 2017 compared to $22.7 million in fiscal year 2016. The primary driver of the increase was compensation, travel and other employee-related expenses of $3.9 million and $1.1 million for our U.S. and European sales and marketing organizations, respectively, primarily as a result of increased headcount. Other drivers included an increase of $2.3 million of direct-to-patient marketing programs, trade show and conference expenses, an increase of $0.7 million of expenses related to increased headcount in our reimbursement organization, and an increase of $0.4 million due to increased physician training costs. Also contributing to the increase was an additional $0.7 million related to legal fees, financial audit fees, insurance costs, out-sourced information technology services and facilities costs, and $0.3 million due to compensation, travel and other employee-related expenses for administrative personnel.
+80
+Table of Contents
+Other Expense, Net
+Other expense, net increased $0.2 million, or 18.2%, to $1.5 million in fiscal year 2017 compared to $1.3 million in fiscal year 2016. The increase in other expense, net was due to an increase in interest expense of $0.5 million related to additional borrowings under our credit facility and the fair value adjustment of $0.1 million of our outstanding convertible preferred stock warrants, which were accounted for as a liability and marked-to-market at each reporting period. This increase was partially offset by $0.1 million due to foreign currency exchange and by $0.1 million of interest income with our higher cash, cash equivalents and short-term investments balances compared to 2016.
+Liquidity and Capital Resources
+As of December 31, 2018, we had cash, cash equivalents and short-term investments of $188.2 million and an accumulated deficit of $146.9 million, compared to cash, cash equivalents and short-term investments of $16.1 million and an accumulated deficit of $125.1 million as of December 31, 2017. As of December 31, 2018, we had $24.5 million of outstanding borrowings under our credit facility. No borrowings remain available under this credit facility.
+On May 7, 2018, we completed our IPO by issuing 7,762,500 shares of common stock, at a public offering price of $16.00 per share, for net proceeds of approximately $112.0 million after deducting underwriting discounts and commissions and offering expenses payable by us. On December 11, 2018, we completed the follow-on offering that included our offer and sale of 1,875,000 shares of common stock and the selling stockholders' offer and sale of 1,000,000 shares of common stock, at a public offering price of $40.00 per share. We received net proceeds of approximately $69.8 million after deducting underwriting discounts and commissions and offering expenses. We received no proceeds from the sale of our common stock by the selling shareholders. 
+Our sources of capital have historically come from private placements of our convertible preferred securities, sales of our Inspire system, borrowings under credit facilities and registered offerings of our common stock. As of December 31, 2018, we had raised a total of $119.1 million in net proceeds from private placements of our convertible preferred securities and $181.8 million from registered equity offerings. 
+We believe that our existing cash resources will be sufficient to meet our capital requirements and fund our operations for at least the next 12 months. We may also seek liquidity through additional securities offerings or through borrowings under a new credit facility.
+Cash Flows
+The following table presents a summary of our cash flow for the periods indicated:
+Year Ended December 31,
+2018
+2017
+2016
+(in thousands)
+Net cash provided by (used in):
+Operating activities
+$
+(18,694)
+$
+(15,791)
+$
+(17,949)
+Investing activities
+(83,389)
+(7,600)
+(306)
+Financing activities
+190,383 
+25,661 
+12,814 
+Effect of exchange rate on cash
+33 
+— 
+— 
+Net increase (decrease) in cash and cash equivalents
+$
+88,333 
+$
+2,270 
+$
+(5,441)
+Operating Activities
+The net cash used in operating activities was $18.7 million for 2018 and consisted primarily of a net loss of $21.8 million, an increase in net operating assets of $0.9 million and non-cash charges of $2.3 million. Net operating assets consisted primarily of accrued expenses, accounts payable, accounts receivable, and prepaid expenses and other assets to support the growth of our operations. Non-cash charges consisted primarily of stock-based compensation, the change in fair value of preferred stock warrants, accretion of debt discount, and depreciation, offset by the non-cash income related to the accretion of the investment discount.
+81
+Table of Contents
+The net cash used in operating activities was $15.8 million in 2017 and consisted primarily of a net loss of $17.5 million, a decrease in net operating assets of $0.8 million and non-cash charges of $0.9 million. Net operating assets consisted primarily of accounts receivable and inventory to support the growth of our operations and accrued compensation as annual bonuses were paid. Non-cash charges consisted primarily of depreciation and stock-based compensation.
+The net cash used in operating activities was $17.9 million in 2016 and consisted primarily of a net loss of $18.5 million, a decrease in net operating assets of $0.3 million and non-cash charges of $0.3 million. Net operating assets consisted primarily of accounts receivable to support the growth of our operations and accrued compensation as annual bonuses were paid. Non-cash charges consisted primarily of depreciation and stock-based compensation.
+Investing Activities
+Net cash used in investing activities for 2018 was $83.4 million and consisted primarily of purchases of short-term investments of $115.5 million, offset by proceeds from sales or maturities of short-term investments of $32.3 million.
+Net cash used in investing activities was $7.6 million in 2017 and consisted of $7.2 million of investments in short-term marketable securities and $0.4 million of purchases of property and equipment.
+Net cash used in investing activities in 2016 was $0.3 million and consisted of purchases of property and equipment.
+Financing Activities
+Net cash provided by financing activities was $190.4 million for 2018 and consisted primarily of $181.8 million of net proceeds from public offerings of our common stock and borrowings of $8.0 million under our credit facility.
+Net cash provided by financing activities was $25.7 million in 2017 and consisted primarily of $25.0 million of net proceeds from the issuance of Series F convertible preferred stock, borrowings of $1.0 million under our credit facility less $0.5 million of expenses and $0.2 million in proceeds from the exercise of stock options.
+Net cash provided by financing activities was $12.8 million in 2016 and consisted primarily of $12.3 million of net proceeds from the issuance of Series F convertible preferred stock, $0.3 million from the purchase of preferred shares under preferred stock warrants and $0.2 million in proceeds from the exercise of stock options.
+Indebtedness
+In August 2015, we entered into a loan and security agreement with Oxford Finance LLC ("Oxford Finance"), as lender and collateral agent. The loan and security agreement initially provided for a term A loan facility in the amount of $15.5 million, which was fully funded on the closing date, and a term B loan facility in an amount of at least $3.5 million but no more than $10.0 million, to be available in the future subject to our achievement of certain revenue milestones. We refer to our term A loan facility and our term loan B facility together as our credit facility. In February 2017, we amended the loan and security agreement to, among other things, increase borrowings under the term A loan facility by $1.0 million, increase the minimum amount of the term B loan facility to $5.0 million and reduce the maximum amount of the term B loan facility to $9.0 million. On February 7, 2018, we borrowed $8.0 million under the term B loan facility.
+The credit facility is secured by substantially all of our personal property other than our intellectual property. Outstanding borrowings under the credit facility bear interest at an annual rate equal to the greater of (i) 7.95% and (ii) the sum of (a) the 30-day U.S. LIBOR rate on the last business day of the month that immediately precedes the month in which such interest will accrue, plus (b) 6.90%. We are required to make monthly payments of interest only through March 1, 2019, or the interest-only period; provided that the interest-only period will be extended to March 1, 2020 if we have revenue, measured on a trailing 12-month basis as of December 31, 2018, of at least $25.0 million, which was met, and, therefore, the interest-only period is extended to March 1, 2020. Following the interest-only period, we will be required to make monthly payments of interest and principal in 24 consecutive monthly installments. Outstanding borrowings under the credit facility mature on February 1, 2022. On the maturity date, in addition to our regular monthly payments of principal and accrued interest, we will be required to make a payment of 5.0% (or 5.5% if the interest-only period has been extended to March 1, 2020) of the total amount borrowed under the credit facility, which we refer to as the Final Payment, unless we have not already made such
+82
+Table of Contents
+ payment in connection with an acceleration or prepayment of borrowings under the credit facility. Because the interest-only period has been extended, the Final Payment fee will be 5.5%.
+Borrowings under the term A loan facility are prepayable at our option in whole, but not in part, together with all accrued and unpaid interest thereon and, if not previously made, the Final Payment, subject to a prepayment fee of 1.5% if such borrowings are prepaid prior to February 24, 2019 and 1.00% if such borrowings are prepaid on or after February 24, 2019. The Final Payment is being accrued over the life of the credit facility and will be due at the earlier of maturity or prepayment. Borrowings under the term B loan facility are prepayable at our option in whole, but not in part, together with all accrued and unpaid interest thereon and, if not previously made, the Final Payment, subject to a prepayment fee of 2.5% if the such borrowings are prepaid prior to February 7, 2019, 1.5% if such borrowings are prepaid on or after February 7, 2019 but prior to February 7, 2020 and 1.00% if such borrowings are on or after February 7, 2020. We are also required to prepay the amounts outstanding under the credit facility upon the occurrence of certain customary events of default, as well as the occurrence of certain material adverse events. The credit facility also includes certain customary affirmative and negative covenants, but does not include any financial covenants. We were in compliance with all covenants under the credit facility as of December 31, 2018.
+In August 2015, we issued to Oxford Finance warrants to purchase 12,404 and 17,176 shares, respectively, of our Series E convertible preferred stock, having an exercise price of $2.62 per share. In February 2017 and February 2018, we issued warrants to Oxford Finance to purchase 29,197 and 233,577 shares, respectively, of our Series F convertible preferred stock, having an exercise price of $1.37 per share. Each of the warrants described above has a term of 10 years.
+Upon the closing of the IPO, the warrants to purchase 630,372 shares of preferred stock at a weighted average exercise price of $1.46 per share became exercisable to purchase 100,558 shares of common stock at a weighted average exercise price of $9.38 per share. Warrants to purchase 93,963 shares of common stock were exercised during 2018, resulting in 6,595 warrants outstanding at December 31, 2018 with a weighted average exercise price of $15.16 per share as of such date.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements, as defined by applicable regulations of the SEC, that are reasonably likely to have a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+Contractual Obligations and Commitments
+Our contractual obligations and commitments as of December 31, 2018 are summarized in the table below:
+Payments Due by Year
+($ in thousands)
+Total
+Less than
+1 year
+1 - 3 years
+3 - 5 years
+More than
+5 years
+Long-term debt, including interest 
+(1)
+$
+29,577 
+$
+2,297 
+$
+25,214 
+$
+2,066 
+$
+— 
+Operating leases
+(2)
+1,995 
+1,043 
+952 
+— 
+— 
+Purchase obligations
+15,893 
+15,862 
+31 
+— 
+— 
+Total contractual obligations
+$
+47,465 
+$
+19,202 
+$
+26,197 
+$
+2,066 
+$
+— 
+1.
+The total amount outstanding under the credit facility was 
+$24.5 million at December 31, 2018. All amounts borrowed under the credit facility are interest-only through March 1, 2020, after which payments of interest and principal will be payable in 24 consecutive monthly installments. Variable interest is assumed at December 31, 2018 rates. Under the terms of the credit facility, a final payment fee of 5.5% is due at the earlier of maturity or prepayment. This amount is not included in the table above.
+2.
+We currently sublease approximately 44,000 square feet of office space for our corporate headquarters in Golden Valley, Minnesota, under an operating lease which expires November 30, 2020. We also lease approximately 9,300 square feet for our previous headquarters in Maple Grove, Minnesota under a lease that expires in March 2019.
+83
+Table of Contents
+Critical Accounting Policies and Estimates
+The preparation of the financial statements in conformity with accounting principles generally accepted in the U.S. requires management to make estimates and assumptions that affect the amounts reported in the audited financial statements and accompanying notes included elsewhere in this Annual Report on Form 10-K. We believe that such estimates have been based on reasonable and supportable assumptions and the resulting estimates are reasonable for use in the preparation of the audited financial statements. Actual results could differ from these estimates.
+Significant areas requiring management estimates or judgments include the following key financial areas:
+Revenue Recognition
+We recognize revenue when persuasive evidence of an arrangement exists, product shipment has occurred, or there are no further obligations yet to be performed, pricing is fixed or determinable, and collection is reasonably assured. We make reasonable assumptions regarding the future collectability of amounts receivable from customers to determine whether the revenue recognition criteria have been met. Taxes assessed by a governmental authority that are directly imposed on revenue-producing transactions between a seller and a customer are not recorded as revenue. In general, our standard terms and conditions of sale do not allow for product returns. Sales returns have been limited to damaged product and have not been material. We expense shipping and handling costs as incurred and include them in the cost of goods sold. In those cases where shipping and handling costs are billed to customers, we classify the amounts billed as a component of cost of goods sold.
+Common Stock Valuation and Stock-Based Compensation
+We maintain an equity incentive plan to provide long-term incentives for employees, consultants, and members of the board of directors. The plan allows for the issuance of non-statutory and incentive stock options to employees and non-statutory stock options to consultants and directors.
+We recognize equity-based compensation expense for awards of equity instruments to employees and directors based on the grant date fair value of those awards in accordance with Financial Accounting Standards Board ("FASB") Accounting Standards Codification ("ASC") Topic 718, Stock Compensation ("ASC 718"). ASC 718 requires all equity-based compensation awards to employees and directors, including grants of restricted shares and stock options, to be recognized as expense in the statements of operations and comprehensive loss based on their grant date fair values. We estimate the fair value of stock options using the Black-Scholes option pricing model. We have not granted any restricted shares. We have not granted any share-based awards to our consultants.
+The Black-Scholes option pricing model requires the input of certain subjective assumptions, including (i) the expected share price volatility, (ii) the expected term of the award, (iii) the risk-free interest rate and (iv) the expected dividend yield. Due to the lack of a public market for the trading of our common stock and a lack of company-specific historical and implied volatility data, we have based our estimate of expected volatility on the historical volatility of a group of similar companies that are publicly traded. The historical volatility is calculated based on a period of time commensurate with the expected term assumption. The group of representative companies have characteristics similar to us, including stage of product development and focus on the life science industry. We use the simplified method, which is the average of the final vesting tranche date and the contractual term, to calculate the expected term for options granted to employees and directors as we do not have sufficient historical exercise data to provide a reasonable basis upon which to estimate the expected term. The risk-free interest rate is based on a Treasury instrument whose term is consistent with the expected term of the stock options. We use an assumed dividend yield of zero as we have never paid dividends and have no current plans to pay any dividends on our common stock.
+We expense the fair value of our equity-based compensation awards granted to employees and directors on a straight-line basis over the associated service period, which is generally the period in which the related services are received. We account for award forfeitures as they occur.
+84
+Table of Contents
+Inventories
+Inventories are valued at the lower of cost or net realizable value, computed on a first-in, first out basis. We estimate the recoverability of our inventory by reference to internal estimates of future demands and product life cycles, including expiration of inventory prior to sale. We regularly review inventory quantities on-hand for excess and obsolete inventory and, when circumstances indicate, incur charges to write down inventories to their net realizable value. Our review of inventory for excess and obsolete quantities is based primarily on the estimated forecast of future product demand, product life cycles, and introduction of new products. The reserve for excess and obsolete inventory was $0.8 million and $0.5 million as of December 31, 2018 and 2017, respectively.
+Income Taxes
+We account for income taxes using the liability method. Under this method, deferred tax assets and liabilities are determined based on the differences between the financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates that will be in effect when the differences are expected to reverse. Valuation allowances against deferred tax assets are established, when necessary, to reduce deferred tax assets to the amounts expected to be realized. As we have historically incurred operating losses, we have recorded a full valuation allowance against its net deferred tax assets, and there is no provision for income taxes. Our policy is to record interest and penalties expense related to uncertain tax positions as other expense in the statements of operations and comprehensive loss.
+Recent Accounting Pronouncements
+A discussion of recent accounting pronouncements is included in Note 2 to our financial statements contained in this Annual Report on Form 10-K.
+JOBS Act
+As a company with less than $1.07 billion in revenue during our last fiscal year, we qualify as an "emerging growth company," as defined in the JOBS Act. An emerging growth company may take advantage of reduced reporting requirements that are otherwise applicable to public companies. These provisions include:
+•
+being permitted to present only two years of audited financial statements and only two years of related Management's Discussion and Analysis of Financial Condition and Results of Operations in this Annual Report on Form 10-K;
+•
+not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act;
+•
+reduced disclosure obligations regarding executive compensation in this Annual Report on Form 10-K and in our periodic reports, proxy statements and registration statements; and
+•
+exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved.
+We may take advantage of these provisions until December 31, 2023. However, if certain events occur prior to the end of such date, including if we become a "large accelerated filer," our annual gross revenue exceeds $1.07 billion or we issue more than $1.0 billion of non-convertible debt in any three-year period, we will cease to be an emerging growth company prior to December 31, 2023.
+We have elected to take advantage of certain of the reduced disclosure obligations in this registration statement and may elect to take advantage of other reduced reporting requirements in future filings. As a result, the information that we provide to our stockholders may be different from what you might receive from other public reporting companies in which you hold equity interests.
+In addition, under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards until such time as those standards apply to private companies. We have elected to avail ourselves of this exemption and, as a result, our financial statements may not be comparable to the financial statements of issuers who are required to comply with the
+85
+Table of Contents
+ effective dates for new or revised accounting standards that are applicable to public companies. Section 107 of the JOBS Act provides that we can elect to opt out of the extended transition period at any time, which election is irrevocable.

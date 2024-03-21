@@ -1,0 +1,1566 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following management’s discussion and analysis (“MD&A”) is intended to provide the reader with an overall understanding of our financial condition, results of operations, cash flows and sources and uses of cash. This section also includes general information about our business and a discussion of our management’s analysis of certain trends, risks and opportunities in our industry. In addition, we also provide a discussion of accounting policies that require critical judgments and estimates. This discussion should be read in conjunction with our Consolidated Financial Statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion contains forward-looking statements and our actual results could differ materially from those discussed in the forward-looking statements as a result of a number of factors, including those set forth in the sections entitled “Risk Factors” and “Forward-Looking Statements” and elsewhere in this Annual Report on Form 10-K. 
+We use the term “Transactions” to refer to all material acquisitions and divestitures that were completed from January 1, 
+2015
+ to 
+December 31, 2017
+. The Transactions are described in more detail in our Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K.  We use the term “pro forma” in this section to refer to results that include the Transactions as if they had been completed on January 1, 
+2015
+. 
+Discontinued Operations
+During the fourth quarter of 2017, we undertook a corporate strategic review of the Company’s operations and concluded the Company should exit certain Entertainment businesses and that two live event verticals, Premium Music and Holiday, would be discontinued.  The assets, liabilities and results of operations of these businesses have been reclassified as discontinued operations. Refer to Note 13 in the accompanying Consolidated Financial Statements for additional information. 
+Format of Presentation
+Townsquare is a radio, digital media, entertainment and digital marketing solutions company, principally focused on being the premier local advertising and marketing solutions platform in small and mid-sized markets across the United States. Our assets include market leading radio stations, live events, and digital, mobile, video and social media properties. Our integrated and diversified product and service offerings, which we refer to as 
+Townsquare Everywhere
+, enable local, regional and national advertisers to target audience engagement across multiple platforms, including on-air, online and at live events. We believe our 
+Townsquare Everywhere
+ capabilities, combined with our leading market position in small and mid-sized markets, enable us to generate higher total net revenue per audience member than radio station owners focused on larger markets.
+Our discussion is presented on both a consolidated and segment basis. We have two reportable segments, Local Marketing Solutions, which provides broadcast and digital products and solutions to advertisers and businesses within our local markets, and Entertainment, which provides live event experiences and music and lifestyle content directly to consumers, and promotion, advertising and product activations to local and national advertisers. 
+Local Marketing Solutions
+Our Local Marketing Solutions segment is composed of 
+317
+ owned and operated radio stations and over 
+325
+ owned and operated local websites serving 
+67
+ small and mid-sized markets, a digital marketing solutions company, a digital programmatic advertising platform and an e-commerce product offering.  Almost all of our radio stations have local companion websites that utilize the station brands and are populated with original content created or curated by our local media personalities.   
+Our primary source of Local Marketing Solutions net revenue is the sale of advertising on our radio stations, local companion websites, radio stations’ online streams and mobile applications. Our sales of advertisements are primarily affected by the demand for advertising from local, regional and national advertisers and the advertising rates we charge. Advertising demand and rates are based primarily on our ability to attract audiences to our various products in the demographic groups targeted by advertisers, as measured principally by various services on a periodic basis. We endeavor to develop strong audience loyalty and believe that the diversification of formats on our radio stations and websites helps to insulate our radio stations and websites from the effects of changes in musical tastes of the public with respect to any particular format. We believe that the sale of our online and mobile advertisements, which currently have rates per advertisement that are less than those of terrestrial radio advertisements, has not negatively impacted our terrestrial radio 
+44
+advertising net revenue. Should a significant and sudden shift in demand for these products toward online and mobile occur, there could be a material adverse impact on our financial condition and results of operations if we are unable to increase rates accordingly. However, we believe that as a result of our strong brands and quality online and mobile offerings we are well positioned to increase rates as demand increases for these products.
+Within our Local Marketing Solutions segment we offer digital marketing solutions, on a subscription basis, to small and mid-sized local and regional businesses in small and mid-sized markets across the United States, including the markets in which we operate radio stations.  Our digital marketing solutions, offered under the brand name Townsquare Interactive, include traditional and mobile-enabled website development and hosting services, e-commerce platforms, search engine and online directory optimization services, online reputation management and social media management.
+We strive to maximize Local Marketing Solutions net revenue by managing our advertising inventory time and adjusting prices based on supply and demand and by broadening our base of advertisers and subscribers. Our selling and pricing activity is based on demand for our advertising inventory and, in general, we respond to this demand by varying prices rather than by varying our target inventory levels. The optimal number of advertisements available for sale depends on the platform and in the case of our radio stations, their online streams, mobile applications and the programming format of a particular radio station. Each of our advertising products has a general target level of available inventory. We seek to broaden our base of advertisers in each of our markets by providing a wide array of audience demographic segments across our platforms, thereby providing each of our potential advertisers with an effective means of reaching a targeted demographic group.
+In addition, we offer precision customer targeting solutions to advertisers through Townsquare Ignite, our digital programmatic advertising platform. Combining first and third party audience and geographic location data, Ignite is able to hyper-target audiences for our local, regional and national advertisers, providing them the ability to reach a high percentage of their online audience. Ignite delivers these solutions across desktop, mobile, connected TV, email, paid search and social media platforms utilizing display, video and native executions. 
+Our Local Marketing Solutions contracts are generally short-term. In the media industry, companies, including ours, sometimes utilize barter agreements that exchange advertising time for goods or services such as travel or lodging, instead of cash. Barter revenue was 
+$16.4 million
+, 
+$24.4 million
+ and 
+$27.7 million
+ for the years ended 
+December 31,
+ 
+2015
+, 
+2016
+ and 
+2017
+, respectively. Barter expense was 
+$14.2 million
+, 
+$14.7 million
+ and 
+$15.9 million
+ for the years ended 
+December 31,
+ 
+2015
+, 
+2016
+ and 
+2017
+, respectively.
+Other sources of revenue within our Local Marketing Solutions segment include tower and other miscellaneous revenue.  We generate revenue from leasing space on our owned tower facilities to communications companies and local authorities, as well as from other miscellaneous revenue sources.  As a result of the September 1, 2015 sale of 43 towers (see Note 5 of the Notes to the Consolidated Financial Statements), tower lease revenue is no longer a significant contributor to other revenue.
+Our most significant Local Marketing Solutions expenses are sales, programming, digital, marketing and promotional, engineering, and general and administrative expenses. We strive to control these expenses by closely monitoring and managing each of our local markets and through efficiencies gained from the centralization of finance, accounting, legal and human resources functions and management information systems. We also use our scale and diversified geographic portfolio to negotiate favorable rates with vendors where feasible.
+A portion of our Local Marketing Solutions expenses are variable. These variable expenses primarily relate to sales costs, such as commissions, as well as certain programming costs, such as music license fees. Marketing and promotions expenses are discretionary and are primarily incurred in an effort to maintain and/or increase our audience share.  Other programming, digital, engineering and general and administrative expenses are primarily fixed costs.  
+Entertainment
+Our Entertainment segment is composed of a diverse range of live events, which we create, promote and produce. This includes festivals, fairs, concerts, expositions and other experiential events within and beyond our markets. It is also composed of music and lifestyle content that is distributed through our owned, operated and affiliated national websites.
+ 
+ 
+Our primary source of Entertainment net revenue is from ticket sales for our live events.  Our live events also generate substantial net revenue through the sale of sponsorships, ride tickets, food and other concessions, merchandise and other ancillary products and services. Live event ticket pricing is based on consumer demand for each event and the 
+45
+geographic location and target audience demographic of each event. Unforeseen events such as inclement weather conditions can have an adverse impact on our Entertainment net revenue. In certain cases, we mitigate this risk with insurance policies, which cover a portion of lost revenue as a result of unforeseen events including inclement weather.
+Another source of Entertainment net revenue is national digital advertising, primarily display advertisements on our owned and operated music and entertainment websites. Our national digital assets are subject to general advertising trends as well as advertisers’ perception and demand for our products. A downturn in advertising spending or the economy could have an adverse effect on this net revenue. 
+Certain expenses in our Entertainment segment are variable, including sales commissions, certain costs related to production and certain revenue sharing agreements with partners.  A portion of our revenue and expenses related to our NAME operations are denominated in Canadian dollars and expose us to translational foreign currency risk.  We have not historically hedged our exposure to this risk. 
+    
+Seasonality
+Our net revenue varies throughout the year. We expect that our first calendar quarter will produce the lowest net revenue for the year, as advertising expenditures generally decline following the winter holidays, and the second and third calendar quarters will generally produce the highest net revenue for the year. During even-numbered years, net revenue generally includes increased advertising expenditures by political candidates, political parties and special interest groups. Political spending is typically highest during the fourth quarter. In addition to advertising revenue seasonality, our Entertainment net revenue exhibits seasonality resulting in the third quarter being the highest revenue period, followed by the second, then fourth, then first quarter. Large drivers of this seasonality are our multi-day music festivals and NAME’s revenue which is concentrated in the third quarter. Our operating results in any period may be affected by the incurrence of advertising and promotion expenses that typically do not have an effect on net revenue generation until future periods, if at all.
+Macroeconomic Indicators
+Our advertising revenue for our businesses is highly correlated to changes in gross domestic product (“GDP”) as advertising spending has historically trended in line with, and in our experience often lags, changes in GDP.  According to the U.S. Department of Commerce estimate as of February 28, 2018, U.S. GDP growth for the year ended 
+December 31, 2017
+ was 2.3%.
+Emerging Growth Company
+The Company is an “emerging growth company,” as defined in the JOBS Act, and may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not “emerging growth companies” including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act, and exemptions from the requirements of Sections 14A(a) and (b) of the Securities Exchange Act to hold a non-binding advisory vote of stockholders on executive compensation and any golden parachute payments not previously approved.
+46
+Executive Summary
+The key developments in our business for the year ended 
+December 31, 2017
+ as compared to 
+2016
+ are summarized below:
+▪
+2017
+ net revenue decreased 
+$8.6 million
+, or 
+1.7%
+. 
+▪
+Local Marketing Solutions net revenue increased 
+$6.5 million
+, or 
+1.9%
+. 
+▪
+Entertainment net revenue decreased 
+$15.0 million
+, or 
+8.6%
+.
+47
+Consolidated Results of Operations
+Year Ended December 31, 2016
+ compared to 
+Year Ended December 31, 2017
+ 
+The following table summarizes our historical consolidated results of operations:
+ 
+Year Ended
+December 31,
+ 
+ 
+ 
+ 
+($ in thousands)
+2016
+ 
+2017
+ 
+$ Change
+ 
+% Change
+Statement of Operations Data:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Local Marketing Solutions net revenue
+$
+342,191
+ 
+$
+348,660
+ 
+$
+6,469
+ 
+1.9
+ %
+  Entertainment net revenue
+173,804
+ 
+158,774
+ 
+(15,030
+)
+ 
+(8.6
+)%
+Net revenue
+515,995
+ 
+507,434
+ 
+(8,561
+)
+ 
+(1.7
+)%
+Operating costs and expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Local Marketing Solutions direct operating expenses
+223,286
+ 
+234,524
+ 
+11,238
+ 
+5.0
+ %
+  Entertainment direct operating expenses
+160,708
+ 
+149,888
+ 
+(10,820
+)
+ 
+(6.7
+)%
+Direct operating expenses, excluding depreciation, amortization and stock-based compensation
+383,994
+ 
+384,412
+ 
+418
+ 
+0.1
+ %
+Depreciation and amortization
+23,971
+ 
+25,683
+ 
+1,712
+ 
+7.1
+ %
+Corporate expenses
+25,370
+ 
+25,828
+ 
+458
+ 
+1.8
+ %
+Stock-based compensation 
+4,253
+ 
+748
+ 
+(3,505
+)
+ 
+(82.4
+)%
+Transaction costs
+844
+ 
+1,175
+ 
+331
+ 
+39.2
+ %
+Business realignment costs
+—
+ 
+6,204
+ 
+6,204
+ 
+100
+ %
+Goodwill and other intangible impairment charges
+—
+ 
+51,848
+ 
+51,848
+ 
+100
+ %
+Net loss on sale and retirement of assets
+282
+ 
+397
+ 
+115
+ 
+40.8
+ %
+Total operating costs and expenses
+438,714
+ 
+496,295
+ 
+57,581
+ 
+13.1
+ %
+Operating income
+77,281
+ 
+11,139
+ 
+(66,142
+)
+ 
+(85.6
+)%
+Other expense (income):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest expense, net
+34,072
+ 
+32,753
+ 
+(1,319
+)
+ 
+(3.9
+)%
+Impairment on investment
+4,236
+ 
+—
+ 
+(4,236
+)
+ 
+(100
+)%
+Repurchase of debt
+(546
+)
+ 
+—
+ 
+546
+ 
+100
+ %
+Other (income) expense, net
+(665
+)
+ 
+288
+ 
+953
+ 
+(143.3
+)%
+Total other expense
+37,097
+ 
+33,041
+ 
+(4,056
+)
+ 
+(10.9
+)%
+Income (loss) from continuing operations before income taxes
+40,184
+ 
+(21,902
+)
+ 
+(62,086
+)
+ 
+(154.5
+)%
+Provision (benefit) from income taxes
+16,982
+ 
+(13,027
+)
+ 
+(30,009
+)
+ 
+(176.7
+)%
+Net income (loss) from continuing operations
+23,202
+ 
+(8,875
+)
+ 
+(32,077
+)
+ 
+(138.3
+)%
+Net income (loss) from discontinued operations, net of income taxes 
+91
+ 
+(1,398
+)
+ 
+(1,489
+)
+ 
+**
+Net income (loss)
+$
+23,293
+ 
+$
+(10,273
+)
+ 
+$
+(33,566
+)
+ 
+(144.1
+)%
+**Percent change not meaningful. 
+Net Revenue
+Net revenue for the 
+year ended December 31, 2017
+ 
+decreased
+ by 
+$8.6 million
+, or 
+1.7%
+, as compared to 
+2016
+.  The decrease was driven primarily by a decrease in Entertainment net revenue of 
+$15.0 million
+ partially offset by an increase in Local Marketing Solutions net revenue of 
+$6.5 million
+.  
+Local Marketing Solutions net revenue for the 
+year ended December 31, 2017
+ 
+increased
+ 
+$6.5 million
+ or 
+1.9%
+, as compared to 
+2016
+.  The increase was driven by an increase in non-political net revenue of 
+$13.1 million
+ partially offset by a decrease in political net revenue of 
+$6.6 million
+.
+Entertainment net revenue for the 
+year ended December 31, 2017
+ 
+decreased
+ 
+$15.0 million
+ or 
+8.6%
+, as compared to 
+2016
+.  The decrease was a result of revenue declines in our national digital business and certain live events.
+48
+Direct Operating Expenses
+Direct operating expenses for the 
+year ended December 31, 2017
+ 
+increased
+ by 
+$0.4 million
+, or 
+0.1%
+, as compared to 
+2016
+. The increase was driven by an increase in Local Marketing Solutions direct operating expenses of 
+$11.2 million
+, partially offset by a decrease in Entertainment direct operating expenses of 
+$10.8 million
+.
+Local Marketing Solutions direct operating expenses for the 
+year ended December 31, 2017
+ 
+increased
+ 
+$11.2 million
+, or 
+5.0%
+, as compared to 
+2016
+. The increase was primarily a result of higher costs in headcount-related expenses including salaries, sales commissions and benefits, to support growth within our digital businesses.
+Entertainment direct operating expenses for the 
+year ended December 31, 2017
+ 
+decreased
+ 
+$10.8 million
+, or 
+6.7%
+, as compared to 
+2016
+.  This decrease was primarily related to a decrease in variable costs associated with the aforementioned revenue declines, partially offset by higher costs at our NAME business.
+Depreciation and Amortization
+Depreciation and amortization expense for the 
+year ended December 31, 2017
+ 
+increased
+ 
+$1.7 million
+, or 
+7.1%
+, as compared to 
+2016
+ primarily related to an increase in amortization of capitalized software development costs.
+Corporate Expenses
+Corporate expenses for the 
+year ended December 31, 2017
+ 
+increased
+ 
+$0.5 million
+, or 
+1.8%
+, as compared to 
+2016
+ primarily related to additional installation and training costs related to the transition of our local traffic and billing system.
+Stock-based Compensation
+Stock-based compensation expense for the 
+year ended December 31, 2017
+ 
+decreased
+ 
+$3.5 million
+ as compared to 
+2016
+.  The decrease primarily relates to a one-time $3.4 million stock option repricing expense in the fourth quarter of 2016 that was not repeated in 2017.
+Transaction Costs
+Transaction costs for the 
+year ended December 31, 2017
+ were 
+$1.2 million
+ as compared to 
+$0.8 million
+ in 
+2016
+. 
+Business Realignment Costs
+Business realignment costs of 
+$6.2 million
+ in 2017 represent the costs associated with discontinuing two music festivals and streamlining the operations of our national digital business and certain live event verticals. 
+Goodwill and Other Intangible Impairment Charges
+Based on the results of the Company’s 2017 annual impairment evaluations, the Company recorded impairment charges aggregating 
+$51.8 million
+.  For the year ended December 31, 2017, 
+$48.9 million
+ of the impairment pertained to goodwill in our Entertainment segment, which was recorded in connection with our strategic review and restructuring of that segment, and 
+$2.9 million
+ of the impairment pertained to FCC licenses in our Rochester and Wichita Falls markets. No such impairment was recorded in 2016.
+Net Loss on Sale and Retirement of Assets
+Net loss on sale and retirement of assets for the 
+year ended December 31, 2017
+, 
+increased
+ 
+$0.1 million
+, as compared to 
+2016
+.  The net loss in 2017 primarily relates to retirement of certain assets. The net loss in 2016 was primarily comprised of a $1.0 million loss on the sale of certain live events, which was partially offset by a $0.8 million gain from an earnout payment related to the sale of certain towers.
+Impairment on Investment
+During the year ended December 31, 
+2016
+, there was objective evidence to indicate certain events had adversely impacted estimated future cash flows for one of our investments and as a result we recorded a 
+$4.2 million
+ impairment charge for the year ended December 31, 
+2016
+. No such impairment was recorded in 2017.  
+Other Expense (Income)
+Interest expense, net is the major recurring component of other expense (income). Interest expense, net 
+decreased
+ 
+$1.3 million
+, or 
+3.9%
+, in the 
+year ended December 31, 2017
+ as compared to 
+2016
+. This decrease was primarily due to the repayment of debt in 2016 and 2017, and a decrease in interest rate as a result of the repricing of our Term Loans in 2017.
+49
+The following table illustrates the components of our interest expense, net for the periods indicated.
+ 
+Year Ended 
+December 31,
+(in thousands)
+2016
+ 
+2017
+Unsecured Senior Notes   
+$
+18,836
+ 
+$
+18,199
+Term Loans   
+13,238
+ 
+12,816
+Capital leases and other   
+42
+ 
+9
+Loan origination cost   
+1,956
+ 
+1,729
+Interest expense, net   
+$
+34,072
+ 
+$
+32,753
+Provision (Benefit) from Income Taxes
+The income tax benefit for the 
+year ended December 31, 2017
+ was 
+$13.0 million
+ at an effective tax rate of approximately 
+59.5%
+ compared to an income tax provision of 
+$17.0 million
+ at an effective tax rate of approximately 
+42.2%
+ for the year ended December 31, 2016.  Our effective tax rate may vary significantly from year to year and can be influenced by many factors.  These factors include, but are not limited to, changes to statutory rates in the jurisdictions where we have operations, certain expenses that are not deductible for tax purposes and changes in the valuation of deferred tax assets and liabilities.  The effective tax rate for the year ended December 31, 2017 reflects a $19.1 million benefit primarily due to a change in the federal tax rate from 35% to 21% under the Tax Cuts and Jobs Act and a $13.9 million expense for nondeductible goodwill impairment.  The difference between the effective tax rate and the federal statutory rate of 35% for the year ended December 31, 2017 primarily relates to state, local and foreign income taxes.
+Net income (loss) from Discontinued Operations, net of income taxes 
+During the year ended December 31, 2017, we discontinued the operations of two live event verticals, Premium Music and Holiday. The operations and related expenses of these verticals are presented as net income (loss) from discontinued operations. Net income from discontinued operations was 
+$0.1 million
+ for the year ended December 31, 2016 and a net loss of 
+$1.4 million
+ for the year ended December 31, 2017. 
+50
+Year Ended December 31, 
+2015
+ compared to 
+Year Ended December 31, 2016
+ 
+The following table summarizes our historical consolidated results of operations:
+ 
+Year Ended
+December 31,
+ 
+ 
+ 
+ 
+($ in thousands)
+2015
+ 
+2016
+ 
+$ Change
+ 
+% Change
+Statement of Operations Data:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Local Marketing Solutions net revenue
+$
+326,646
+ 
+$
+342,191
+ 
+$
+15,545
+ 
+4.8
+ %
+  Entertainment net revenue
+114,576
+ 
+173,804
+ 
+59,228
+ 
+51.7
+ %
+Net revenue
+441,222
+ 
+515,995
+ 
+74,773
+ 
+16.9
+ %
+Operating costs and expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Local Marketing Solutions direct operating expenses
+212,110
+ 
+223,286
+ 
+11,176
+ 
+5.3
+ %
+  Entertainment direct operating expenses
+105,679
+ 
+160,708
+ 
+55,029
+ 
+52.1
+ %
+Direct operating expenses, excluding depreciation, amortization and stock-based compensation
+317,789
+ 
+383,994
+ 
+66,205
+ 
+20.8
+ %
+Depreciation and amortization
+17,577
+ 
+23,971
+ 
+6,394
+ 
+36.4
+ %
+Corporate expenses
+25,458
+ 
+25,370
+ 
+(88
+)
+ 
+(0.3
+)%
+Stock-based compensation 
+4,278
+ 
+4,253
+ 
+(25
+)
+ 
+(0.6
+)%
+Transaction costs
+1,739
+ 
+844
+ 
+(895
+)
+ 
+(51.5
+)%
+Goodwill and other intangible impairment charges
+1,680
+ 
+—
+ 
+(1,680
+)
+ 
+(100
+)%
+Net (gain) loss on sale and retirement of assets
+(12,029
+)
+ 
+282
+ 
+12,311
+ 
+**
+Total operating costs and expenses
+356,492
+ 
+438,714
+ 
+82,222
+ 
+23.1
+ %
+Operating income
+84,730
+ 
+77,281
+ 
+(7,449
+)
+ 
+(8.8
+)%
+Other expense (income):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest expense, net
+35,979
+ 
+34,072
+ 
+(1,907
+)
+ 
+(5.3
+)%
+Impairment on investment
+—
+ 
+4,236
+ 
+4,236
+ 
+**
+Cancellation and (repurchase) of debt
+30,305
+ 
+(546
+)
+ 
+(30,851
+)
+ 
+**
+Other expense (income), net
+276
+ 
+(665
+)
+ 
+(941
+)
+ 
+**
+Total other expense
+66,560
+ 
+37,097
+ 
+(29,463
+)
+ 
+(44.3
+)%
+Income from continuing operations before income taxes
+18,170
+ 
+40,184
+ 
+22,014
+ 
+121.2
+ %
+Provision for income taxes
+7,924
+ 
+16,982
+ 
+9,058
+ 
+114.3
+ %
+Net income from continuing operations
+10,246
+ 
+23,202
+ 
+12,956
+ 
+126.4
+ %
+Net income from discontinued operations, net of income taxes
+—
+ 
+91
+ 
+91
+ 
+**
+Net income
+$
+10,246
+ 
+$
+23,293
+ 
+$
+13,047
+ 
+127.3
+ %
+**Percent change not meaningful. 
+Net Revenue
+Net revenue for the year ended December 31, 2016 increased by $74.8 million, or 16.9%, as compared to 2015.  The increase was driven by increases in Local Marketing Solutions net revenue of $15.5 million and Entertainment net revenue of $59.2 million.
+Local Marketing Solutions net revenue for the year ended December 31, 2016 increased $15.5 million or 4.8%, as compared to 2015.  The increase was driven by an increase in political net revenue of $6.1 million and non-political net revenue of $9.4 million. 
+Entertainment net revenue for the year ended December 31, 2016 increased $59.2 million or 51.7%, as compared to 2015.  The increase was driven by $63.1 million of growth from the acquisition of NAME on September 1, 2015, including its subsequent performance from the date of acquisition, offset by a decrease of $3.9 million from our existing business. 
+51
+Direct Operating Expenses
+Direct operating expenses for the year ended December 31, 2016 increased by $66.2 million, or 20.8%, as compared to 2015. The increase was driven by increases in Local Marketing Solutions direct operating expenses of $11.2 million and Entertainment direct operating expenses of $55.0 million.
+Local Marketing Solutions direct operating expenses for the year ended December 31, 2016 increased $11.2 million, or 5.3%, as compared to 2015. The increase was primarily a result of (i) higher costs in headcount-related expenses including salaries and benefits, to support the growth of our digital marketing solutions offering and (ii) increases in costs associated with a new product which launched in the second half of 2015.
+Entertainment direct operating expenses for the year ended December 31, 2016 increased $55.0 million, or 52.1%, as compared to 2015. The increase in Entertainment direct operating expenses was primarily related to NAME, which we acquired on September 1, 2015.
+Depreciation and Amortization
+Depreciation and amortization expense for the year ended December 31, 2016 increased $6.4 million, or 36.4%, as compared to 2015 primarily related to depreciation on property and equipment acquired through the acquisition of NAME and amortization of capitalized software development costs.
+Corporate Expenses
+Corporate expenses were approximately flat for the year ended December 31, 2016 as compared to 2015. 
+Stock-based Compensation
+Stock-based compensation expense was approximately flat for the year ended December 31, 2016 as compared to 2015. The stock-based compensation expense in 2016 was related to (i) the grant of stock options in the first quarter that vest over a period of four years and (ii) a one-time $3.4 million stock option repricing expense in the fourth quarter.  The stock-based compensation expense in 2015 was related to a stock option grant that provided for immediate vesting.
+Transaction Costs
+Transaction costs for the year ended December 31, 2016 were $0.8 million as compared to $1.7 million in 2015. The fluctuation in transaction costs primarily relates to costs associated with the NAME acquisition, which closed on September 1, 2015. 
+Goodwill and Other Intangible Impairment Charges
+Based on the results of the Company’s 2015 annual impairment evaluations, the Company recorded impairment charges aggregating $1.7 million pertaining to FCC licenses in our Quad Cities and Grand Junction markets in the year ended December 31, 2015. No such impairment was recorded in 2016.  
+Net (Gain) Loss on Sale and Retirement of Assets
+Net (gain) loss on sale and retirement of assets for the year ended December 31, 2016, increased $12.3 million, as compared to 2015.  The net gain in 2015 primarily resulted from the Tower Sale.  The net loss in 2016 was primarily composed of a $1.0 million loss on the sale of certain live events, which was partially offset by a $0.8 million gain from earn-out payments related to the Tower Sale.
+Impairment on Investment
+During the year ended December 31, 2016, there was objective evidence to indicate certain events had adversely impacted estimated future cash flows for one of our investments and as a result we recorded a $4.2 million impairment charge for the year ended December 31, 2016. No such impairment was recorded in 2015.  
+Other Expense (Income)
+Interest expense, net is the major recurring component of other expense (income). Interest expense, net decreased $1.9 million, or 5.3%, in the year ended December 31, 2016 as compared to 2015, primarily due to the refinancing of our outstanding indebtedness at more favorable rates on April 1, 2015, and the repayment of debt in 2016.  
+On April 1, 2015, the Company issued $300.0 million of 6.5% Unsecured Senior Notes due in 2023 (the "2023 Notes") and entered into a Senior Secured Credit Facility, including a seven year, $275.0 million term loan facility (the "Term Loans") and a five year, $50.0 million revolving credit facility (the "Revolver" and together with the Term Loans, the "Senior Secured Credit Facility").  The proceeds from the 2023 Notes and Term Loans were used to repay substantially all of our previous long-term borrowings. We recognized a $30.0 million net loss on debt extinguishment in connection with these repayments. See "Liquidity and Capital Resources" for information on the recent repricing of our Senior Secured Credit Facility.
+52
+The following table illustrates the components of our interest expense, net for the periods indicated.
+ 
+Year Ended 
+December 31,
+(in thousands)
+2015
+ 
+2016
+Unsecured Senior Notes   
+$
+23,447
+ 
+$
+18,836
+Term Loans   
+10,757
+ 
+13,238
+Capital leases and other   
+55
+ 
+42
+Loan origination cost   
+1,720
+ 
+1,956
+Interest expense, net   
+$
+35,979
+ 
+$
+34,072
+Provision for Income Taxes
+The income tax provision for the year ended December 31, 2016 was $17.0 million at an effective tax rate of approximately 42.2% compared to $7.9 million at an effective tax rate of approximately 43.6% for the year ended December 31, 2015.  Our effective tax rate may vary significantly from year to year, and can be influenced by many factors.  These factors include, but are not limited to, changes to statutory rates in the jurisdictions where we have operations and changes in the valuation of deferred tax assets and liabilities.  The difference between the effective tax rate and the federal statutory rate of 35% for the year ended December 31, 2016 primarily relates to state, local and foreign income taxes.
+Net Income from Discontinued Operations, net of income taxes 
+During the year ended December 31, 2017, we discontinued the operations of Premium Music and Holiday. The operations and related expenses of these verticals are presented as net income (loss) from discontinued operations.  Net income from discontinued operations was 
+$0.1 million
+ during the year ended December 31, 2016. There were no discontinued operations in 2015. 
+Supplemental Pro Forma Net Revenue
+For comparative purposes and to enable the reader to adequately compare prior year results with current year results, the following discussion and tables present net revenue for Townsquare, pro forma for the Transactions disclosed in more detail in our Consolidated Financial Statements contained elsewhere in this Annual Report on Form 10-K. The following tables present our pro forma results, which include the results of acquisitions and exclude the results of divestitures prior to the transaction dates. Also provided are constant currency adjustments which aim to normalize the effect of fluctuations in the Canadian-US dollar exchange rate, and its effect on our Canadian-based NAME business over time.
+The following table summarizes our pro forma, constant currency net revenue for the years ended December 31, 2016 and 2017:
+ 
+Year Ended 
+ 
+$
+ 
+%
+ 
+Constant Currency Year Ended 
+ 
+$
+ 
+%
+($ in thousands)
+2016
+ 
+2017
+ 
+Change
+ 
+Change
+ 
+2016
+(1)
+ 
+2017
+ 
+Change
+ 
+Change
+Local Marketing Solutions net revenue
+$
+342,191
+ 
+$
+348,660
+ 
+$
+6,469
+ 
+1.9
+ %
+ 
+$
+342,191
+ 
+$
+348,660
+ 
+$
+6,469
+ 
+1.9
+ %
+Entertainment net revenue
+173,804
+ 
+158,774
+ 
+(15,030
+)
+ 
+(8.6
+)%
+ 
+174,497
+ 
+158,774
+ 
+(15,723
+)
+ 
+(9.0
+)%
+Net revenue
+$
+515,995
+ 
+$
+507,434
+ 
+$
+(8,561
+)
+ 
+(1.7
+)%
+ 
+$
+516,688
+ 
+$
+507,434
+ 
+$
+(9,254
+)
+ 
+(1.8
+)%
+(1)  
+2016 constant currency adjustment was calculated using prevailing 2017 rates.
+ 
+ 
+ 
+ 
+ 
+ 
+On a pro forma consolidated basis, net revenue for the year ended December 31, 2017 decreased by 
+$8.6 million
+, or 
+1.7%
+, as compared to 2016. The decrease resulted from a decrease in Entertainment net revenue of 
+$15.0 million
+ or 
+8.6%
+, offset by an increase of 
+$6.5 million
+, or 
+1.9%
+, in Local Marketing Solutions net revenue. Adjusted for the effects of fluctuations in the Canadian dollar to U.S. dollar exchange rate, net revenue for the year ended December 31, 2016 decreased by 
+$9.3 million
+, or 
+1.8%
+.
+The increase in Local Marketing Solutions net revenue was driven by an increase in non-political net revenue of $13.1 million partially offset by a decrease in political net revenue of $6.6 million. 
+The decrease in Entertainment net revenue was primarily the result of declines in revenue in our national digital business and certain live events. On a constant currency basis, Entertainment net revenue decreased by 
+$15.7 million
+, or 
+9.0%
+, as compared to 
+$15 million
+, the difference attributable to changes in the Canadian dollar to U.S. dollar exchange rate.
+53
+The following table summarizes our pro forma, constant currency net revenue for the years ended December 31, 2015 and 2016:
+ 
+Year Ended December 31,
+ 
+$
+ 
+%
+ 
+Constant Currency Year Ended December 31,
+ 
+$
+ 
+%
+($ in thousands)
+2015
+ 
+2016
+ 
+Change
+ 
+Change
+ 
+2015
+(1)
+ 
+2016
+(1)
+ 
+Change
+ 
+Change
+Local Marketing Solutions net revenue
+$
+325,685
+ 
+$
+342,191
+ 
+$
+16,506
+ 
+5.1
+ %
+ 
+$
+325,685
+ 
+$
+342,191
+ 
+$
+16,506
+ 
+5.1
+ %
+Entertainment net revenue
+176,237
+ 
+173,804
+ 
+(2,433
+)
+ 
+(1.4
+)%
+ 
+176,783
+ 
+174,497
+ 
+(2,286
+)
+ 
+(1.3
+)%
+Net revenue
+$
+501,922
+ 
+$
+515,995
+ 
+$
+14,073
+ 
+2.8
+ %
+ 
+$
+502,468
+ 
+$
+516,688
+ 
+$
+14,220
+ 
+2.8
+ %
+(1)  
+2015 and 2016 constant currency adjustments were calculated using prevailing 2017 rates.
+ 
+ 
+ 
+ 
+ 
+ 
+On a pro forma consolidated basis, net revenue for the year ended December 31, 2016 increased by 
+$14.1 million
+, or 
+2.8%
+, as compared to 2015. The increase resulted from an increase of $16.5 million, or 5.1%, in Local Marketing Solutions net revenue, offset by a decrease in Entertainment net revenue of 
+$2.4 million
+ or 
+1.4%
+. Adjusted for the effects of fluctuations in the Canadian dollar to U.S. dollar exchange rate, net revenue for the year ended December 31, 2016 increased by 
+$14.2 million
+, or 
+2.8%
+.
+The increase in Local Marketing Solutions net revenue was driven by an increase in political net revenue of $6.1 million and non-political net revenue of $10.4 million. 
+The decrease in Entertainment net revenue was primarily the result of inclement weather, specifically for our NAME events, and reduced revenue from our music festivals. On a constant currency basis, Entertainment net revenue decreased by 
+$2.3 million
+, or 
+1.3%
+, the difference attributable to changes in the Canadian dollar to U.S. dollar exchange rate.
+Liquidity and Capital Resources
+ 
+ 
+Year Ended December 31,
+   (in thousands)
+ 
+2015
+ 
+2016
+ 
+2017
+Cash    
+ 
+$
+33,298
+ 
+$
+51,540
+ 
+$
+65,295
+Cash provided by operating activities   
+ 
+25,943
+ 
+59,797
+ 
+50,684
+Cash used in investing activities   
+ 
+(71,777
+)
+ 
+(20,963
+)
+ 
+(28,930
+)
+Cash provided by (used in) financing activities   
+ 
+54,431
+ 
+(19,715
+)
+ 
+(7,954
+)
+Net effect of foreign currency exchange rate changes  
+ 
+239
+ 
+(877
+)
+ 
+(45
+)
+Net increase in cash
+ 
+and restricted cash
+  
+ 
+$
+8,836
+ 
+$
+18,242
+ 
+$
+13,755
+We fund our working capital requirements through a combination of cash flows from our operating, investing and financing activities. Based on current and anticipated levels of operations and conditions in our markets and industry, we believe that our cash on hand and cash flows from our operating, investing and financing activities, together with funds available under our revolving credit facility, will enable us to meet our working capital, capital expenditures, debt service, dividend and other funding requirements for at least one year from the date of this report. As of 
+December 31, 2017
+, we had 
+$565.1 million
+ of outstanding indebtedness, net of deferred financing costs of 
+$6.8 million
+, and based on interest rates in effect as of that date, we expect our debt service requirements to be approximately 
+$40.5 million
+ including the required excess cash flow payment, over the next twelve months. As of December 31, 
+2017
+, we will be required to make an excess cash flow payment on the outstanding Term Loans of 
+$9.5 million
+ in the first quarter of 2018.  In addition, as of 
+December 31, 2017
+, we had 
+$65.3 million
+ of cash and restricted cash, 
+$61.7 million
+ of receivables from customers, which historically have had an average collection cycle of approximately 45 days and $50.0 million of available borrowing capacity under our revolving credit facility. We had restricted cash of $0.9 million as of December 31, 2016 and 2017, respectively, included within cash, that was held as collateral in connection with certain agreements. From time to time, such restricted funds could be returned to us or we could be required to pledge additional cash.
+54
+Our anticipated uses of cash in the near term include working capital needs, debt payments, dividend payments, other obligations, and capital expenditures. However, our ability to fund our working capital needs, debt payments, dividend payments, other obligations, capital expenditures, and to comply with financial covenants under our debt agreements, depends on our future operating performance and cash flow, which are in turn subject to prevailing economic conditions, increases or decreases in advertising spending, changes in the highly competitive industry in which we operate, which may be rapid, and other factors, many of which are beyond our control.
+Additionally, on a continuing basis, we evaluate and consider strategic acquisitions and divestitures to enhance our strategic and competitive position as well as our financial performance. Any future acquisitions, joint ventures or other similar transactions will likely require additional capital, which may not be available to us on acceptable terms, if at all.
+We closely monitor the impact of capital and credit market conditions on our liquidity as related to our floating rate debt. We also routinely monitor the changes in the financial condition of our customers and the potential impact on our results of operations.
+Operating Activities
+Net cash provided by operating activities decreased 
+$9.1 million
+ for the year ended December 31, 
+2017
+ to 
+$50.7 million
+.  This decrease was primarily due to a decrease in net revenue and an increase in benefit from income taxes partially offset by impairment of goodwill and FCC licenses. 
+Net cash provided by operating activities increased 
+$33.9 million
+ for the year ended December 31, 
+2016
+ to 
+$59.8 million
+.  This increase was primarily due to a one-time cash payment of $27.7 million made on April 1, 2015 to lenders for the redemption of the Unsecured Senior Notes due 2019, that was not repeated in 2016. In addition, cash provided by operating activities increased due to lower cash interest expense payments in 2016 as compared to 2015. 
+Investing Activities
+Our investing activities primarily relate to payments made for capital expenditures and acquisitions consistent with our strategy to prudently invest in market leading properties. Cash used in investing activities for the years ended December 31, 
+2015
+, 
+2016
+ and 
+2017
+ was 
+$71.8 million
+, 
+$21.0 million
+ and 
+$28.9 million
+, respectively. Cash used in investing activities related to capital expenditures for the years ended December 31, 
+2015
+, 
+2016
+ and 
+2017
+ was 
+$14.7 million
+, 
+$20.7 million
+ and 
+$22.8 million
+, respectively. Cash used in investing activities related to acquisitions for the years ended December 31, 
+2015
+, 
+2016
+ and 
+2017
+ was 
+$76.2 million
+, 
+$2.2 million
+ and 
+$5.5 million
+, respectively. Cash used in investing activities has been partially offset by proceeds from the sale of assets for the years ended December 31, 
+2015
+, 
+2016
+ and 
+2017
+ of 
+$19.1 million
+, 
+$1.7 million
+ and 
+$1.1 million
+, respectively. 
+Financing Activities
+Cash flows used in financing activities in 
+2017
+ were 
+$8.0 million
+ and primarily consisted of a $6.7 million excess cash flow payment on Term Loans. 
+Cash flows used in financing activities in 
+2016
+ were 
+$19.7 million
+ and primarily consisted of 
+$19.4 million
+ of voluntary payments made to repurchase and cancel our 2023 Notes outstanding at a market price below par, plus accrued interest.
+Cash flows provided by financing activities in 
+2015
+ were 
+$54.4 million
+, and primarily consisted of $620.0 million of proceeds from our new long-term borrowing arrangements, partially offset by $553.6 million of repayments of our existing debt and $11.4 million of costs related to debt financing.
+Financing Arrangements
+On April 1, 2015, the Company issued $300.0 million of 6.5% Unsecured Senior Notes due in 2023 and entered into a Senior Secured Credit Facility, including a seven year, $275.0 million term loan facility and a five year, $50.0 million revolving credit facility. On September 1, 2015, the Company issued incremental term loans of $45.0 million under the Senior Secured Credit Facility.
+55
+On February 8, 2017, the Company amended its Senior Secured Credit Facility agreement to reduce the applicable interest rate on its Term Loan. Under the amended Term Loan, the applicable margin was reduced by 25 basis points to 300 basis points, bringing the interest rate to LIBOR plus 3.00% from LIBOR plus 3.25%. The LIBOR floor of 1.00% remained unchanged. As of 
+December 31, 2017
+, LIBOR increased to 1.42% bringing the interest rate to 4.42%. All other terms of the Senior Secured Credit Facility agreement remain substantially unchanged. The Revolver has an interest rate based either on LIBOR and an applicable margin of 250 basis points, or an alternative base rate and an applicable margin of 150 basis points. The Company paid $0.4 million of deferred financing costs in connection with this repricing.
+On March 20, 2017, the Company made an excess cash flow payment on the outstanding Term Loans of $6.7 million and recognized an expense of $0.1 million on the accelerated depreciation of unamortized deferred financing costs in the first quarter of 2017.
+As of 
+December 31, 2017
+, the Company had $291.9 million of Term Loan borrowings, and no outstanding borrowings under the Revolver. As of 
+December 31, 2017
+, the Company is in compliance with all terms and covenants of its borrowing arrangements, and has $50 million of revolving credit availability under the Senior Secured Credit Facility.
+We have historically serviced our debt obligations from funds generated by operating activities. We believe that our cash balance, together with our remaining capacity under the Revolver and cash generated by operating activities, will be sufficient to fund our operations, service our debt obligations and pursue our strategy for one year from the date of this report.
+56
+Contractual Obligations and Commitments
+The below table reflects our estimated contractual obligations and other commercial commitments as of 
+December 31, 2017
+.
+ 
+ 
+Payments due by period
+(in thousands)
+ 
+2018
+ 
+2019-2020
+ 
+2021-2022
+ 
+Thereafter
+ 
+Total
+2023 Notes
+ 
+$
+—
+ 
+$
+—
+ 
+$
+—
+ 
+$
+280,079
+ 
+$
+280,079
+Term Loans
+(1)
+ 
+9,519
+ 
+—
+ 
+282,332
+ 
+—
+ 
+291,851
+Capitalized obligations
+ 
+5
+ 
+10
+ 
+—
+ 
+—
+ 
+15
+Interest payments
+ (2)
+ 
+30,971
+ 
+61,765
+ 
+52,192
+ 
+9,103
+ 
+154,031
+Significant contracts 
+(3)
+ 
+14,381
+ 
+26,759
+ 
+11,841
+ 
+3,859
+ 
+56,840
+Operating leases
+ 
+10,185
+ 
+15,369
+ 
+8,907
+ 
+14,310
+ 
+48,771
+Total contractual cash obligations
+ 
+$
+65,061
+ 
+$
+103,903
+ 
+$
+355,272
+ 
+$
+307,351
+ 
+$
+831,587
+(1)    Includes excess cash flow payment on the Term Loans to be paid in the first quarter of 2018.
+(2)    The interest amounts relate to our 2023 Notes and Senior Secured Credit Facility and represent an annual amount estimated based on interest rates    in effect as of 
+December 31, 2017
+.
+(3)     Significant contracts relate to our agreements with Nielsen, the radio broadcast industry’s principal ratings service, other broadcast service products and unconditional fee obligations which result from our advance commitments to provide rides, games and concessions at certain fairs.
+Off-Balance Sheet Arrangements
+We have no material off-balance sheet arrangements or transactions.
+Impact of Inflation
+We do not believe inflation has a significant impact on our operations. However, there can be no assurance that future inflation would not have an adverse impact on our financial condition and results of operations.
+Critical Accounting Policies and Estimates
+The preparation of our Consolidated Financial Statements requires management to make estimates that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures of contingent items. Actual results could differ significantly from those estimates. The following discussion addresses our critical accounting policies. These policies are important to the presentation of our operating results and financial position and require significant judgment or the use of estimates.
+Revenue Recognition
+We recognize broadcast revenue for commercial broadcasting advertisements when the commercial is broadcast. We report revenue net of agency commissions. We calculate agency commissions based on a stated percentage applied to gross billing revenue for advertisers that use agencies. We recognize live event revenue and other non-broadcast advertising revenue as events are conducted. We derive internet revenue primarily from the sale of internet-based advertising campaigns to local and national advertisers and we recognize it over the duration of the campaigns.
+We adopted the new accounting guidance regarding revenue from contracts with customers on January 1, 2018 using the modified retrospective approach (refer to Note 2). Adoption of the guidance will not have a material impact on our financial statements.
+57
+Allowance for Doubtful Accounts
+We reduce the carrying amount of accounts receivable by a valuation allowance that reflects our best estimate of the accounts that will not be collected. In addition to reviewing delinquent accounts receivable, we consider many factors in estimating our general allowance including historical data, experience, customer types, creditworthiness and economic trends. From time to time, we may adjust our assumptions for anticipated changes in any of those or other factors expected to affect collectability. We charge off account balances against the allowance when it is probable the receivable will not be recovered.
+Acquisitions and Business Combinations
+We account for our business acquisitions under the purchase method of accounting in accordance with ASC, Business Combination Topic 805. We allocate the total cost of acquisitions to the underlying identifiable net assets, based on their respective estimated fair values at the date of acquisition. Goodwill represents the excess of the purchase price over the fair value of net assets acquired, including the amounts assigned to identifiable intangible assets. Determining the fair value of assets acquired and liabilities assumed requires management’s judgment and often involves the use of significant estimates and assumptions, including assumptions with respect to future cash inflows and outflows, discount rates, asset lives and market multiples, among other items. In addition, we may establish liabilities in the Company’s Consolidated Balance Sheets related to acquired liabilities and qualifying restructuring costs and contingencies based on assumptions made at the time of acquisition. We evaluate these reserves on a regular basis to determine the adequacies of the amounts.
+ASC, Business Combination Topic 805 requires an acquiring entity to recognize all the assets acquired and liabilities assumed in a transaction at the acquisition date’s fair value with limited exceptions and changes in the accounting treatment for certain specific items, including:
+•
+acquisition costs are generally expensed as incurred; 
+•
+noncontrolling interests (previously referred to as “minority interests”) are valued at fair value at the acquisition date; and
+•
+restructuring costs associated with a business combination are generally expensed subsequent to the acquisition date.
+Intangible Assets
+We consider our FCC licenses to be indefinite lived intangibles. We evaluate our FCC licenses for impairment annually or more frequently if events or changes in circumstances indicate that the assets might be impaired. We evaluate the fair value of our FCC licenses at the unit of account level and have determined that the geographic market is the appropriate unit of accounting.  We determine the fair value of our FCC licenses using an income-based approach.
+We evaluate our goodwill for impairment at least on an annual basis, or when events or changes in circumstances indicate that the carrying value of such assets may not be recoverable.  During our evaluation we determined that there were indicators of impairment present, see Footnote 6.
+Stock-based Compensation
+We measure and recognize stock-based compensation expense related to stock-based transactions, including employee awards, in the Consolidated Financial Statements based on the fair value of the award on the grant date. We estimate the fair value of option awards using the Black-Scholes option-pricing model. This model requires assumptions including the fair value of our common stock, expected volatility, expected term of the award, expected dividend yield and risk-free interest rate. Stock-based compensation expense is recognized as the equity awards vest. The calculated compensation expense is adjusted based on an estimate of awards ultimately expected to vest. 
+Income Taxes
+Income taxes are accounted for under the asset and liability method.  Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carry forwards.  Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary 
+58
+differences are expected to be recovered or settled.  The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the period that includes the enactment date. 
+We evaluate the need for valuation allowances to reduce the deferred tax assets to realizable amounts.  Management evaluates all positive and negative evidence and uses judgment regarding past and future events, including operating results, to help determine when it is more likely than not that all or some portion of the deferred tax assets may not be realized.  When appropriate, a valuation allowance is recorded against deferred tax assets to offset future tax benefits that may not be realized. 
+We follow the provisions of ASC Topic 740, 
+Accounting for Income Taxes
+.  ASC Topic 740 clarifies the accounting for uncertainties in income taxes recognized in an enterprise’s financial statements.  ASC Topic 740 also prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return.  ASC Topic 740 provides guidance on derecognition, classification, interest and penalties, disclosures and transition.  As required by the uncertain tax position guidance in ASC Topic 740, we recognize the financial statement benefit of a tax position only after determining that the relevant tax authority would more likely than not sustain the position following an audit.  For tax positions meeting the more-likely-than-not threshold, the amount recognized in the financial statements is the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement with the relevant tax authority. Our policy is to recognize interest and penalties accrued on unrecognized tax benefits as part of income tax expense. 
+Contingencies and Litigation
+On an ongoing basis, we evaluate our exposure related to contingencies and litigation and record a liability when available information indicates that a liability is probable and estimable. We also disclose significant matters that are reasonably possible to result in a loss that is expected to be material to our operations or financial results or are probable but not estimable.
+Recent Accounting Pronouncements
+For a discussion of accounting standards updates that have been adopted or will be adopted in the future, please refer to Note 2 of the Notes to Consolidated Financial Statements. 

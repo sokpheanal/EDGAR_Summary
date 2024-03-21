@@ -1,0 +1,821 @@
+51
+Table of Contents
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of our operations should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this Annual Report. In addition to historical consolidated financial information, this discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to these differences include, but are not limited to, those identified below, and those discussed in “Section 1A. Risk Factors” included elsewhere in this Annual Report.
+Overview
+Workiva provides Wdesk, an intuitive cloud platform that modernizes how customers work with business data at thousands of organizations. Wdesk is built on a data management engine, offering controlled collaboration, data connections, granular permissions and a full audit trail. Wdesk helps mitigate risk, improves productivity and gives users confidence in their data-driven decisions. As of December 31, 2017, we provided our solutions to more than 3,000 enterprise customers, including more than 70% of Fortune 500 companies.
+(1)
+Our scalable, enterprise-grade data engine enables users to collect, aggregate and manage their unstructured and structured data in Wdesk. Although our Wdesk platform is used for hundreds of different use cases across public and private companies, state and local governments and universities, we are currently focusing our sales and marketing resources to expand the use of Wdesk in four areas: finance and accounting, audit and internal controls, risk and compliance and performance and management reporting.
+We operate our business on a software-as-a-service (SaaS) model. Customers enter into quarterly, annual and multi-year subscription contracts to gain access to Wdesk. Our subscription fee includes the use of our software and technical support. Our pricing is based primarily on the number of corporate entities, number of users, level of customer support and length of contract. Our pricing model is scaled to the number of users, so the subscription price per user typically decreases as the number of users increases. We charge customers additional fees primarily for document setup and XBRL tagging services. We generate sales primarily through our direct sales force and, to a lesser extent, our customer success and professional services teams.  In addition, we augment our direct-sales channel with partnerships. Our advisory and service partners offer a wider range of domain and functional expertise that broadens the capabilities of Wdesk, bringing scale and support to customers and prospects. Our technology partners enable more data and process integrations to help customers connect critical transactional systems directly to Wdesk, which becomes a central repository of trusted data, with powerful linking, auditability and control features.
+Our integrated platform, subscription-based model and exceptional customer support have contributed to a low rate of customer turnover while achieving strong revenue growth. Our subscription and support revenue retention rate was 96.0% (excluding add-on seats) for the twelve months ended December 31, 2017. 
+We continue to invest in the development of our solutions, infrastructure and sales and marketing to drive long-term growth. Our full-time employee headcount expanded to 1,318 at December 31, 2017 from 1,172 at December 31, 2016, an increase of 12.5%.
+We have achieved significant revenue growth in recent periods. Our revenue grew to $207.9 million in 2017 from $178.6 million in 2016, an increase of 16.4%. We incurred net losses of $44.4 million and $44.0 million in 2017 and 2016, respectively. 
+(1) Claim not confirmed by FORTUNE or Time Inc. FORTUNE 500 is a registered trademark of Time Inc. and is used under license. FORTUNE and Time Inc. are not affiliated with, and do not endorse products or services of, Workiva Inc.
+52
+Table of Contents
+We adopted the guidance codified in ASC 606, 
+Revenue Recognition - Revenue from Contracts with Customers
+ (ASU 2014-09) effective January 1, 2018. We expect the application of this guidance will result in timing and presentation changes affecting our consolidated balance sheet and statement of operations, including acceleration of our professional services revenue for certain contracts; longer deferral of the incremental costs of obtaining a contract; and increases in accounts receivable, deferred revenue and accrued expenses and other current liabilities. We will record a one-time adjustment to the opening balance of our accumulated deficit as of January 1, 2018 to adjust for these items. We do not expect the adoption of this standard to impact our total cash flows from operations. Refer to Note 1 of the notes to the consolidated financial statements for additional details of our evaluation of ASU 2014-09.
+On December 22, 2017, the U.S. federal government enacted legislation commonly referred to as the “Tax Cuts and Jobs Act” (the “TCJA”). The TCJA makes widespread changes to the Internal Revenue Code, including, among other items, the reduction in the federal corporate statutory tax rate from 35% to 21% and the introduction of a new international “Global Intangible Low-Taxed Income” (“GILTI”) regime, both effective January 1, 2018. Please refer to Notes 1 and 11 of the notes to consolidated financial statements for additional details of the impact of the TCJA. 
+Key Factors Affecting Our Performance
+Generate Growth From Existing Customers.
+ Wdesk can exhibit a powerful network effect within an enterprise, meaning that the usefulness of our platform attracts additional users and more data. As more employees in an enterprise use Wdesk, additional opportunities for collaboration and automation drive demand among their colleagues for add-on seats. Expansion within current customers includes adding users for both existing solutions and new use cases. 
+Pursue New Customers.
+ Our first software solution enabled customers to streamline and automate their SEC regulatory filing process. In 2013, we began expanding into additional markets that were faced with managing large, complex processes with many contributors and disparate sets of business data. We now sell to new customers in the areas of finance and accounting, risk and compliance, audit and internal controls and performance and management reporting. We intend to continue to build our sales and marketing organization and leverage our brand equity to attract new customers. 
+Offer More Solutions.
+ We intend to introduce new solutions to continue to meet growing demand for our Wdesk platform. Our close and trusted relationships with our customers are a source for new use cases, features and solutions. We have a disciplined process for tracking, developing and releasing new solutions that are designed to have immediate, broad applicability; a strong value proposition and a high return on investment for both Workiva and our customers. Our advance planning team assesses customer needs, conducts industry-based research and defines new markets. This vetting process involves our sales, product marketing, customer success, professional services, research and development, finance and senior management teams.
+Expand Across Enterprises.
+ Our success in delivering multiple solutions has created demand from customers for a broader-based, enterprise-wide Wdesk platform. In response, we have been improving our technology and realigning sales and marketing to capitalize on our growing enterprise-wide opportunities. We believe this expansion will add seats and revenue and continue to support our high revenue retention rates. However, we expect that enterprise-wide deals will be larger and more complex, which tend to lengthen the sales cycle.
+Add Partners.
+ In 2017, we continued to add more partners. Our consulting and accounting partners offer a broader range of services that leverage the capabilities of Wdesk. Our technology partners enable data connections and process integrations to further streamline critical business functions as we capitalize on growing Wdesk demand for broader-based, enterprise-wide opportunities.
+Investment in growth.
+ We plan to continue to invest in the development of our Wdesk platform to enhance our current offerings and build new features. In addition, we expect to continue to invest in our 
+53
+Table of Contents
+sales, marketing, professional services and customer success organizations to drive additional revenue and support the needs of our growing customer base. Investments we make in our sales and marketing and research and development organizations will occur in advance of experiencing any benefits from such investments. As a result, we expect our total operating expenses to increase.
+Seasonality.
+ Our revenue from professional services has some degree of seasonality. Many of our customers employ our professional services just before they file their Form 10-K, often in the first calendar quarter. As of December 31, 2017, approximately 78% of our SEC customers report their financials on a calendar-year basis. As our non-SEC offerings continue to grow, we expect our professional services revenue to continue to become less seasonal. Our sales and marketing expense also has some degree of seasonality. Sales and marketing expense is generally higher in the third quarter since we hold our annual user conference in September. In addition, the timing of the payments of cash bonuses to employees during the first and fourth calendar quarters may result in some seasonality in operating cash flow. 
+Key Performance Indicators
+Year ended December 31, 
+2017 
+2016 
+2015 
+(dollars in thousands) 
+Financial metrics 
+Total revenue 
+$
+207,869 
+$
+178,646 
+$
+145,272 
+Year-over-year percentage increase in total revenue 
+16.4 
+%
+23.0 
+%
+28.9 
+%
+Subscription and support revenue 
+$
+169,283 
+$
+143,120 
+$
+116,288 
+Year-over-year percentage increase in subscription and support revenue 
+18.3 
+%
+23.1 
+%
+27.3 
+%
+Subscription and support as a percent of total revenue 
+81.4 
+%
+80.1 
+%
+80.0 
+%
+As of December 31, 
+2017 
+2016 
+2015 
+Operating metrics 
+Number of customers 
+3,063 
+2,772 
+2,524 
+Subscription and support revenue retention rate 
+96.0 
+%
+95.4 
+%
+95.8 
+%
+Subscription and support revenue retention rate including add-ons 
+107.6 
+%
+107.4 
+%
+112.5 
+%
+Total customers.
+ We believe total number of customers is a key indicator of our financial success and future revenue potential. We define a customer as an entity with an active subscription contract as of the measurement date. Our customer is typically a parent company or, in a few cases, a significant subsidiary that works with us directly. Companies with publicly listed securities account for a substantial majority of our customers. 
+Subscription and support revenue retention rate.
+ We calculate our subscription and support revenue retention rate by annualizing the subscription and support revenue recorded in the first month of the measurement period for only those customers in place throughout the entire measurement period, thereby excluding any attrition. We divide the result by the annualized subscription and support revenue in the first month of the measurement period for all customers in place at the beginning of the measurement period. The measurement period is based on the trailing twelve months. 
+54
+Table of Contents
+Our subscription and support revenue retention rate was 96.0% at the December 2017 measurement date, up from 95.4% as of December 2016. We believe that our success in maintaining a high rate of revenue retention is attributable primarily to our robust technology platform and strong customer service. Customers being acquired or otherwise ceasing to file SEC reports have been the largest contributing factor to our revenue attrition.
+Subscription and support revenue retention rate including add-ons.
+ Add-on revenue includes the change in both seats purchased and seat pricing for existing customers. We calculate our subscription and support revenue retention rate including add-ons by annualizing the subscription and support revenue recorded in the last month of the measurement period for only those customers in place throughout the entire measurement period. We divide the result by the annualized subscription and support revenue in the first month of the measurement period for all customers in place at the beginning of the measurement period. The measurement period is based on the trailing twelve months.
+Our subscription and support revenue retention rate including add-ons was 107.6% at the December 2017 measurement date, up from 107.4% as of December 2016.
+Components of Results of Operations
+Revenue
+We generate revenue through the sale of subscriptions to our cloud-based software and the delivery of professional services. We serve a wide range of customers in many industries, and our revenue is not concentrated with any single customer or small group of customers. For each of the years ended December 31, 2017, 2016 and 2015, no single customer represented more than 1% of our revenue, and our largest ten customers accounted for less than 5% of our revenue in the aggregate.
+We generate sales directly through our sales force and partners. We also identify some sales opportunities with existing customers through our customer success and professional services teams.
+Our customer contracts typically range in length from three to 36 months. Our arrangements do not contain general rights of return. We typically invoice our customers for subscription fees in advance on a quarterly, annual, two-year or three-year basis, with payment due at the start of the subscription term. We plan to convert a substantial majority of our remaining quarterly contracts to annual terms over the next twelve months. In addition, we continue to offer limited incentives for customers to enter into contract terms of more than one year, typically for terms of two or three years. Unpaid invoice amounts for services starting in future periods are excluded from accounts receivable and deferred revenue. Invoiced amounts are reflected as accounts receivable once we have initiated services with an offset to deferred revenue or revenue depending on whether the revenue recognition criteria have been met. At December 31, 2017, deferred revenue was $127.4 million. Estimated future recognition from deferred revenue at December 31, 2017 was $104.7 million in 2018, $18.3 million in 2019, and $4.4 million in 2020.   
+Subscription and Support Revenue
+. We recognize the aggregate minimum subscription and support fees ratably on a straight-line basis over the subscription term, provided that an enforceable contract has been signed by both parties, access to our SaaS solutions has been granted to the customer, the fee for the subscription and support is fixed or determinable, and collection is reasonably assured. 
+Professional Services Revenue
+. We believe our professional services facilitate the sale of our subscription service to certain customers. To date, most of our professional services have consisted of document set up, XBRL tagging, and consulting with our customers on business processes and best practices for using Wdesk. Our professional services are not required for customers to utilize our solution. We recognize revenue for our professional services contracts when the services are performed. 
+55
+Table of Contents
+Cost of Revenue
+Cost of revenue consists primarily of personnel and related costs directly associated with our professional services, customer success teams and training personnel, including salaries, benefits, bonuses, and stock-based compensation; the costs of contracted third-party vendors; the costs of server usage by our customers; information technology costs; and facility costs. Costs of server usage are comprised primarily of fees paid to Google Cloud Platform and Amazon Web Services. 
+Sales and Marketing Expenses
+Sales and marketing expenses consist primarily of personnel and related costs, including salaries, benefits, bonuses, commissions, travel, and stock-based compensation. Other costs included in this expense are marketing and promotional events, our annual user conference, online marketing, product marketing, information technology costs, and facility costs. We capitalize and amortize sales commissions that are directly attributable to a contract over the lesser of twelve months or the non-cancelable term of the customer contract based on the terms of our commission arrangements.
+Research and Development Expenses
+Research and development expenses consist primarily of personnel and related costs, including salaries, benefits, bonuses, and stock-based compensation; costs of server usage by our developers; information technology costs; and facility costs.
+General and Administrative Expenses
+General and administrative expenses consist primarily of personnel and related costs for our executive, finance, legal, human resources, and administrative personnel, including salaries, benefits, bonuses, and stock-based compensation; legal, accounting, and other professional service fees; other corporate expenses; information technology costs; and facility costs.
+56
+Table of Contents
+Results of Operations
+The following table sets forth selected consolidated statement of operations data for each of the periods indicated:
+Year ended December 31, 
+2017 
+2016 
+2015 
+(in thousands) 
+Revenue 
+Subscription and support 
+$
+169,283 
+$
+143,120 
+$
+116,288 
+Professional services 
+38,586 
+35,526 
+28,984 
+Total revenue 
+207,869 
+178,646 
+145,272 
+Cost of revenue 
+Subscription and support
+(1)
+32,646 
+27,895 
+22,559 
+Professional services
+(1)
+27,599 
+23,730 
+17,645 
+Total cost of revenue 
+60,245 
+51,625 
+40,204 
+Gross profit 
+147,624 
+127,021 
+105,068 
+Operating expenses 
+Research and development
+(1)
+68,172 
+57,438 
+50,466 
+Sales and marketing
+(1)
+84,161 
+80,466 
+69,569 
+General and administrative
+(1)
+39,594 
+32,695 
+28,716 
+Total operating expenses 
+191,927 
+170,599 
+148,751 
+Loss from operations 
+(44,303)
+(43,578)
+(43,683)
+Interest expense 
+(1,845)
+(1,875)
+(2,025)
+Other income, net 
+1,783 
+1,500 
+2,302 
+Loss before provision for income taxes 
+(44,365)
+(43,953)
+(43,406)
+Provision (benefit) for income taxes 
+61 
+24 
+(7)
+Net loss 
+$
+(44,426)
+$
+(43,977)
+$
+(43,399)
+(1) Stock-based compensation expense included in these line items was as follows:
+Year ended December 31, 
+2017 
+2016 
+2015 
+(in thousands) 
+Cost of revenue 
+Subscription and support 
+$
+738 
+$
+493 
+$
+363 
+Professional services 
+465 
+411 
+349 
+Operating expenses 
+Research and development 
+2,224 
+2,365 
+1,924 
+Sales and marketing 
+2,983 
+2,075 
+1,727 
+General and administrative 
+13,066 
+8,903 
+6,637 
+Total stock-based compensation expense 
+$
+19,476 
+$
+14,247 
+$
+11,000 
+57
+Table of Contents
+The following table sets forth our consolidated statement of operations data as a percentage of revenue for each of the periods indicated:
+Year ended December 31, 
+2017 
+2016 
+2015 
+Revenue 
+Subscription and support 
+81.4 
+%
+80.1 
+%
+80.0 
+%
+Professional services 
+18.6 
+ 
+19.9 
+ 
+20.0 
+ 
+Total revenue 
+100.0 
+ 
+100.0 
+ 
+100.0 
+ 
+Cost of revenue 
+Subscription and support 
+15.7 
+ 
+15.6 
+ 
+15.5 
+ 
+Professional services 
+13.3 
+ 
+13.3 
+ 
+12.1 
+ 
+Total cost of revenue 
+29.0 
+ 
+28.9 
+ 
+27.6 
+ 
+Gross profit 
+71.0 
+ 
+71.1 
+ 
+72.4 
+ 
+Operating expenses 
+Research and development 
+32.8 
+ 
+32.2 
+ 
+34.7 
+ 
+Sales and marketing 
+40.5 
+ 
+45.0 
+ 
+47.9 
+ 
+General and administrative 
+19.0 
+ 
+18.3 
+ 
+19.8 
+ 
+Total operating expenses 
+92.3 
+ 
+95.5 
+ 
+102.4 
+ 
+Loss from operations 
+(21.3)
+ 
+(24.4)
+ 
+(30.0)
+ 
+Interest expense 
+(0.9)
+ 
+(1.0)
+ 
+(1.4)
+ 
+Other income and (expense), net 
+0.9 
+ 
+0.8 
+ 
+1.6 
+ 
+Loss before provision for income taxes 
+(21.3)
+ 
+(24.6)
+ 
+(29.8)
+ 
+Provision for income taxes 
+— 
+ 
+— 
+ 
+— 
+ 
+Net loss 
+(21.3)
+%
+(24.6)
+%
+(29.8)
+%
+Revenue
+Comparison of Years Ended December 31, 2017 and 2016
+Year ended December 31, 
+Period-to-period change 
+2017 
+2016 
+Amount 
+% Change 
+(dollars in thousands) 
+Revenue 
+Subscription and support 
+$
+169,283 
+$
+143,120 
+$
+26,163 
+18.3% 
+ 
+Professional services 
+38,586 
+35,526 
+3,060 
+8.6% 
+ 
+Total revenue 
+$
+207,869 
+$
+178,646 
+$
+29,223 
+16.4% 
+ 
+Total revenue increased $29.2 million in 2017 compared to 2016 due primarily to the increase in subscription and support revenue of $26.2 million. Of the total increase in subscription and support revenue, 27.7% represented revenue from new customers acquired after December 31, 2016 and 72.3% represented revenue from existing customers at or prior to December 31, 2016. The total number of our customers increased 10.5% from December 31, 2016 to December 31, 2017. The growth in professional services revenue was attributable primarily to increased XBRL services. Professional services revenue increased at a slower rate than subscription and support revenue in 2017 compared to 2016. As our customers become familiar with our platform, they typically become more self sufficient and require 
+58
+Table of Contents
+fewer professional services. We expect the revenue growth rate from subscription and support to continue to outpace revenue growth from professionals services on an annual basis.
+Comparison of Years Ended December 31, 2016 and 2015
+Year ended December 31, 
+Period-to-period change 
+2016 
+2015 
+Amount 
+% Change 
+(dollars in thousands) 
+Revenue 
+Subscription and support 
+$
+143,120 
+$
+116,288 
+$
+26,832 
+23.1% 
+ 
+Professional services 
+35,526 
+28,984 
+6,542 
+22.6% 
+ 
+Total revenue 
+$
+178,646 
+$
+145,272 
+$
+33,374 
+23.0% 
+ 
+Total revenue increased $33.4 million in 2016 compared to 2015 due primarily to the increase in subscription and support revenue of $26.8 million. The growth in professional services revenue was attributable mainly to increased consulting and services related to our non-SEC use cases. Of the total increase in subscription and support revenue, 23.5% represented revenue from new customers acquired after December 31, 2015 and 76.5% represented revenue from existing customers at or prior to December 31, 2015. The total number of our customers increased 9.8% from December 31, 2015 to December 31, 2016.
+Cost of Revenue
+Comparison of Years Ended December 31, 2017 and 2016
+Year ended December 31, 
+Period-to-period change 
+2017 
+2016 
+Amount 
+% Change 
+(dollars in thousands) 
+Cost of revenue 
+Subscription and support 
+$
+32,646 
+$
+27,895 
+$
+4,751 
+17.0% 
+ 
+Professional services 
+27,599 
+23,730 
+3,869 
+16.3% 
+ 
+Total cost of revenue 
+$
+60,245 
+$
+51,625 
+$
+8,620 
+16.7% 
+ 
+Cost of revenue increased $8.6 million in 2017 compared to 2016, due primarily to an increase in headcount, employee compensation, benefits and travel costs of $7.5 million and an increase in server usage costs of $0.7 million to support our expanding customer base. Subscription and support expense rose 17.0% in the year ended December 31, 2017 compared to the prior year due primarily to increases in headcount, employee compensation, and server expenses used to support our expanding customer base. Professional services expense increased 16.3% in the year ended December 31, 2017 versus the prior year due primarily to an increase in headcount, employee compensation and travel expense related to fulfilling demand for XBRL services and non-SEC consulting services.
+59
+Table of Contents
+Comparison of Years Ended December 31, 2016 and 2015
+Year ended December 31, 
+Period-to-period change 
+2016 
+2015 
+Amount 
+% Change 
+(dollars in thousands) 
+Cost of revenue 
+Subscription and support 
+$
+27,895 
+$
+22,559 
+$
+5,336 
+23.7% 
+ 
+Professional services 
+23,730 
+17,645 
+6,085 
+34.5% 
+ 
+Total cost of revenue 
+$
+51,625 
+$
+40,204 
+$
+11,421 
+28.4% 
+ 
+Cost of revenue increased $11.4 million in 2016 compared to 2015, due primarily to an increase in headcount, employee compensation, benefits and travel costs of $9.1 million, an increase in other support costs of $1.3 million, and an increase in server usage costs of $1.3 million. Subscription and support expense rose 23.7% in the year ended December 31, 2016 compared to the prior year due primarily to increases in headcount, employee compensation, and server expenses used to support our expanding customer base. Professional services expense increased 34.5% in the year ended December 31, 2016 versus the prior year due primarily to an increase in headcount, employee compensation and travel expense related to fulfilling increased demand for our non-SEC consulting services.
+Operating Expenses
+Comparison of Years Ended December 31, 2017 and 2016
+Year ended December 31, 
+Period-to-period change 
+2017 
+2016 
+Amount 
+% Change 
+(dollars in thousands) 
+Operating expenses 
+Research and development 
+$
+68,172 
+$
+57,438 
+$
+10,734 
+18.7% 
+ 
+Sales and marketing 
+84,161 
+80,466 
+3,695 
+4.6% 
+ 
+General and administrative 
+39,594 
+32,695 
+6,899 
+21.1% 
+ 
+Total operating expenses 
+$
+191,927 
+$
+170,599 
+$
+21,328 
+12.5% 
+ 
+Research and Development
+Research and development expenses increased $10.7 million in 2017 compared to 2016 due primarily to $6.5 million in higher headcount, cash-based compensation, benefits, and travel costs and a $3.1 million increase in professional services expense related to an increase in technology consultants. We continue to dedicate resources to developing the next generation of Wdesk, which has resulted in higher headcount and additional consultants in research and development. In addition, the cost of server usage included in research and development increased $0.7 million during 2017 compared to 2016. 
+Sales and Marketing
+Sales and marketing expenses increased $3.7 million in 2017 compared to 2016 due primarily to  $4.9 million in higher employee compensation, benefits and travel costs. The increase in these costs was offset partially by a decline in vendor fees of $0.6 million related to a reduction in consulting and vendor created content and a $0.3 million in software expenses.We expect to continue to invest in sales and marketing employees for future revenue growth.
+60
+Table of Contents
+General and Administrative
+General and administrative expenses rose $6.9 million in 2017 compared to 2016 due primarily to higher headcount and additional cash-based compensation, benefits, and travel costs of $3.4 million and employee stock-based compensation of $4.0 million. In the fourth quarter of 2017, we recorded an additional $400,000 and $1.5 million of cash-based and equity-based compensation, respectively, from certain severance arrangements. The remaining increase in personnel-related costs was driven primarily by a rise in headcount to support the growth of our business and regulatory compliance. The remaining increase in stock-based compensation was driven primarily by restricted stock grants to executive officers in February 2015, January 2016, and January 2017 with a vesting term of three years, as well as stock option grants to executive officers in February 2016 and 2017 with a vesting term of three years.
+Comparison of Years Ended December 31, 2016 and 2015
+Year ended December 31, 
+Period-to-period change 
+2016 
+2015 
+Amount 
+% Change 
+(dollars in thousands) 
+Operating expenses 
+Research and development 
+$
+57,438 
+$
+50,466 
+$
+6,972 
+13.8% 
+ 
+Sales and marketing 
+80,466 
+69,569 
+10,897 
+15.7% 
+ 
+General and administrative 
+32,695 
+28,716 
+3,979 
+13.9% 
+ 
+Total operating expenses 
+$
+170,599 
+$
+148,751 
+$
+21,848 
+14.7% 
+ 
+Research and Development
+Research and development expenses increased $7.0 million in 2016 compared to 2015 due primarily to $6.7 million in higher employee compensation, benefits, and travel costs. We continued to dedicate resources to enhance our Wdesk platform, which resulted in higher headcount in research and development.
+Sales and Marketing
+Sales and marketing expenses increased $10.9 million in 2016 compared to 2015 due primarily to $11.5 million in higher employee compensation, benefits and travel costs. The increase in these costs was offset partially by a decline in professional service fees of $0.9 million related to consulting, recruiting and training.
+General and Administrative
+General and administrative expenses rose $4.0 million in 2016 compared to 2015 due primarily to higher employee cash-based compensation, benefits, and travel costs of  $1.0 million and additional employee stock-based compensation of $2.8 million. The increase in personnel-related costs was driven primarily by a rise in headcount to support the growth of our business. Higher stock-based compensation expense was driven primarily by restricted stock grants to executive officers in February 2015 and January 2016 with a vesting term of three years, as well as stock option grants to executive officers in February 2016 with a vesting term of three years.
+61
+Table of Contents
+Non-Operating Income (Expenses)
+Comparison of Years Ended December 31, 2017 and 2016
+Year ended December 31, 
+Period-to-period change 
+2017 
+2016 
+Amount 
+(dollars in thousands) 
+Interest expense 
+$
+(1,845)
+$
+(1,875)
+$
+30 
+Other income, net 
+1,783 
+1,500 
+283 
+Interest Expense and Other Income, Net
+Interest expense remained relatively flat during the year ended December 31, 2017 compared to the prior year.
+Other income, net increased $0.3 million in 2017 compared to 2016 due to increases in interest income and in the amount recognized related to our job training reimbursement program. These increases were partially offset by losses on foreign currency transactions.
+Comparison of Years Ended December 31, 2016 and 2015
+Year ended December 31, 
+Period-to-period change 
+2016 
+2015 
+Amount 
+(dollars in thousands) 
+Interest expense 
+$
+(1,875)
+$
+(2,025)
+$
+150 
+Other income, net 
+1,500 
+2,302 
+(802)
+Interest Expense and Other Income, Net
+Interest expense remained relatively flat during the year ended December 31, 2016 compared to the same period a year ago.
+Other income, net decreased $0.8 million in 2016 compared to 2015 due to recognition in 2015 of our deferred government grant obligation relating to our 2011 Iowa Economic Development award of $1.6 million. This decrease was partially offset by an increase of $0.4 million in the amount recognized related to our job training reimbursement program resulting from the amounts diverted and paid to the community college in the periods.
+Quarterly Results of Operations
+See “Unaudited Quarterly Results of Operations” included in Note 13 of this Annual Report on Form 10-K for the unaudited quarterly results of operations for the years ended December 31, 2017 and 2016.
+62
+Table of Contents
+Liquidity and Capital Resources
+Year ended December 31, 
+2017 
+2016 
+2015 
+(in thousands) 
+Cash flow provided by (used in) operating activities 
+$
+5,520 
+$
+(10,369)
+$
+(21,592)
+Cash flow (used in) provided by investing activities 
+(6,473)
+3,805 
+(19,777)
+Cash flow provided by (used in) financing activities 
+9,822 
+(895)
+(1,102)
+Net increase (decrease) in cash and cash equivalents, net of impact of exchange rates 
+$
+9,052 
+$
+(7,469)
+$
+(42,381)
+As of December 31, 2017, our cash, cash equivalents, and marketable securities totaled $76.7 million. To date, we have financed our operations primarily through the proceeds of our initial public offering, private placements of equity, debt that was settled in equity and cash from operating activities. We have generated significant operating losses and negative cash flows from operating activities as reflected in our accumulated deficit and consolidated statements of cash flows. We expect to continue to incur operating losses and may incur negative cash flows from operations in the future. As a result, we may require additional capital resources to continue to grow our business. We believe that current cash and cash equivalents, cash flows from operating activities, availability under our existing credit facility and the ability to offer and sell securities pursuant to our shelf registration statement will be sufficient to fund our operations for at least the next twelve months.
+In August 2014, we entered into a $15.0 million credit facility with Silicon Valley Bank. Borrowing capacity is equal to the most recent month’s subscription and support revenue multiplied by a percentage that adjusts based on the prior quarter’s customer retention rate. The credit facility can be used to fund working capital and general business requirements. The credit facility is secured by all of our assets, has first priority over our other debt obligations, and requires us to maintain certain financial covenants, including the maintenance of at least $5.0 million of cash on hand or unused borrowing capacity. The credit facility contains certain restrictive covenants that limit our ability to transfer or dispose of assets, merge with other companies or consummate certain changes of control, acquire other companies, pay dividends, incur additional indebtedness and liens, effect changes in management and enter into new businesses. The credit facility has a variable interest rate equal to the bank’s prime lending rate with interest payable monthly and the principal balance due at maturity. The credit facility matures in August 2018, and no amount was outstanding under the credit facility as of December 31, 2017.
+We filed a universal shelf registration statement on Form S-3 with the SEC that became effective August 10, 2017. Under the shelf registration statement, we may offer and sell, from time to time in the future in one or more public offerings, our Class A common stock, preferred stock, debt securities, warrants, rights and units. The aggregate initial offering price of all securities sold by us under the shelf registration statement will not exceed $250.0 million.
+Operating Activities
+For the year ended December 31, 2017, cash provided by operating activities was $5.5 million. The primary factors affecting our operating cash flows during the period were our net loss of $44.4 million, adjusted for non-cash charges of $3.5 million for depreciation and amortization of our property and equipment and intangible assets, $19.5 million of stock-based compensation, and $1.6 million for recognition of other income from government grants. The primary drivers of the changes in operating assets and liabilities were a $5.5 million increase in accounts receivable and a $0.8 million decrease in accrued expenses and other liabilities offset by a $29.4 million increase in deferred revenue, a $3.0 million decrease in prepaid expenses, and a $2.2 million increase in accounts payable. Short-term deferred revenue from subscription and support contracts increased $28.1 million from December 31, 
+63
+Table of Contents
+2016 to December 31, 2017. Long-term deferred revenue from subscription and support contracts increased by $1.2 million from December 31, 2016 to December 31, 2017. Short-term deferred revenue from professional services increased by $0.1 million from December 31, 2016 to December 31, 2017. Customer growth and contract renewals for longer terms accounted for most of the increase in deferred revenue. The increase in accounts receivable was attributable primarily to the timing of our billings and cash collections.  The decrease in accrued expenses and other liabilities was due primarily to the timing of year-end bonus payments for 2017, as we moved the payment of bonuses to eligible non-executive employees from January to December. The decrease in prepaid expenses was due primarily to timing of payments relating to cloud infrastructure services and our annual user conference. The increase in accounts payable was attributable primarily to the timing of our cash payments.
+For the year ended December 31, 2016, cash used in operating activities was $10.4 million.  The primary factors affecting our operating cash flows during the period were our net loss of $44.0 million, adjusted for non-cash charges of $3.8 million for depreciation and amortization of our property and equipment and intangible assets, $14.2 million of stock-based compensation, and $1.1 million for recognition of other income from government grants. The primary drivers of the changes in operating assets and liabilities were a $7.1 million increase in accounts receivable, a $0.7 million increase in other receivables, a $5.5 million increase in prepaid expenses, and a $3.9 million decrease in accounts payable, offset by a $34.2 million increase in deferred revenue. Short-term deferred revenue from subscription and support contracts increased $18.9 million from December 31, 2015 to December 31, 2016. Long-term deferred revenue from subscription and support contracts increased by $13.8 million from December 31, 2015 to December 31, 2016. Short-term deferred revenue from professional services increased by $1.4 million from December 31, 2015 to December 31, 2016. Customer growth and contract renewals for longer terms accounted for most of the increase in deferred revenue. The increase in accounts receivable was attributable primarily to the timing of our billings and cash collections. The increase in other receivables was due primarily to timing of health care insurance reimbursements. The increase in prepaid expenses was due to purchasing server capacity upfront, an upfront payment for our 2017 annual user conference and to the timing of rent and travel payments. The decrease in accounts payable was attributable primarily to the timing of our cash payments.
+Investing Activities
+Cash used in investing activities of $6.5 million for the year ended December 31, 2017 was due primarily to $14.4 million for the purchase of marketable securities and $1.2 million of capital expenditures, partially offset by $9.3 million from the maturities of marketable securities. Our capital expenditures were associated primarily with computer equipment and furniture and fixtures in support of expanding our infrastructure and work force.
+Cash provided by investing activities of $3.8 million for the year ended December 31, 2016 was due primarily to $1.3 million for the purchase of marketable securities and $1.9 million of capital expenditures, more than offset by proceeds of $7.2 million from the sale of marketable securities. Our capital expenditures were associated primarily with leasehold improvements, computer equipment, and furniture and fixtures in support of expanding our infrastructure and work force.
+Financing Activities
+Cash provided by financing activities of $9.8 million for the year ended December 31, 2017 was due primarily to $12.5 million in proceeds from option exercises, partially offset by an aggregate $1.5 million in repayments on long-term debt and payments on capital lease and financing obligations and $1.1 million in taxes paid related to the net share settlements of stock-based compensation awards.
+64
+Table of Contents
+Cash used in financing activities of $0.9 million for the year ended December 31, 2016 was due primarily to $0.8 million in taxes paid related to the net share settlements of stock-based compensation awards and an aggregate $1.9 million in repayments on long-term debt and payments on capital lease and financing obligations, partially offset by $1.6 million in proceeds from option exercises.
+65
+Table of Contents
+Contractual Obligations and Commitments
+The following table represents our contractual obligations as of December 31, 2017, aggregated by type:
+Payments due by period 
+Total 
+Less than 1 year 
+1-3 years 
+3-5 years 
+More than 5 years 
+(in thousands) 
+Operating lease obligations relating to office facilities 
+$
+18,844 
+$
+3,659 
+$
+4,865 
+$
+4,074 
+$
+6,246 
+Capital lease obligations, including interest for technology and equipment 
+66 
+66 
+— 
+— 
+— 
+Financing obligations, including interest for building 
+39,382 
+2,792 
+5,584 
+5,356 
+25,650 
+Cloud infrastructure services 
+8,900 
+4,100 
+4,800 
+— 
+— 
+Total contractual obligations 
+$
+67,192 
+$
+10,617 
+$
+15,249 
+$
+9,430 
+$
+31,896 
+We have entered into a lease agreement for land and an office building in Ames, Iowa, which was constructed in two phases. The lease term includes an initial 15-year term and three five-year extensions at our option because renewal was determined to be reasonably assured at the inception of the lease. As part of the lease agreement, the landlord was responsible for constructing the building in accordance with our specifications and agreed to fund $11.8 million for the first phase and $11.1 million for the second phase of construction. We were the developer of the project and responsible for construction costs in excess of these amounts. As a result of this involvement, we were required to capitalize the construction costs associated with the office building. The construction liability of $11.8 million was reclassified to a financing obligation and $17.1 million of costs capitalized during construction were placed in service during June 2013 for the first phase. Upon completion of the second phase of the project, the construction liability of $11.1 million was reclassified to a financing obligation, and $19.9 million of costs capitalized during construction were placed in service during 2014. 
+The lease contains purchase options to acquire the landlord’s interest in the land lease and building at any time beginning three years from June 2014 (the commencement date of the second phase of the lease). In addition, the lease requires us to purchase the building from the landlord upon certain events, such as a change in control. The purchase options were deemed to be fair value at the inception of the lease. 
+In January 2018, we signed a new lease for approximately 30,000 square feet that will replace our existing offices in Denver and Boulder. The aggregate annual payments under the new lease will be approximately $1.0 million and are subject to annual increases over the lease term, which expires in February 2029.
+Off-Balance Sheet Arrangements
+During the years ended December 31, 2017, 2016 and 2015, we did not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. As a result, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in those types of relationships.
+66
+Table of Contents
+Critical Accounting Policies and Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, provision for income taxes and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions.
+We believe that of our significant accounting policies, which are described in Note 1 to our consolidated financial statements, the following accounting policies involve a greater degree of judgment and complexity. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of our operations.
+Revenue Recognition
+We commence revenue recognition for subscriptions to our cloud solutions and professional services when all of the following criteria are met:
+Persuasive evidence of an arrangement exists;
+The service has been or is being provided to the customer;
+Collection of the fees is reasonably assured; and
+The amount of fees to be paid by the customer is fixed or determinable.
+Collectability is assessed based on a number of factors, including past transaction history with the customer and the creditworthiness of the customer. Collateral is not requested from the customer. If it is determined that the collection of a fee is not probable, the revenue is deferred until collection becomes probable, which is generally upon the receipt of cash.
+Subscription and Support Revenue 
+We recognize the aggregate minimum subscription and support fees ratably on a straight-line basis over the subscription term, provided that an enforceable contract has been signed by both parties, access to our SaaS solutions has been granted to the customer, the fee for the subscription and support is fixed or determinable, and collection is reasonably assured. 
+Professional Services Revenue 
+Our professional services are not required for customers to utilize our solution. We recognize revenue for our professional services contracts when the services are performed.  
+Our professional services revenue is higher in the first calendar quarter because many of our customers employ our professional services just before they file their Form 10-K. 
+Multiple Deliverable Arrangements 
+For arrangements with multiple deliverables, we evaluate whether the individual deliverables qualify as separate units of accounting. In order to treat deliverables in a multiple deliverable arrangement as separate units of accounting, the deliverables must have standalone value upon delivery. For deliverables that have standalone value upon delivery, we account for each deliverable separately and recognize revenue for the respective deliverables as they are delivered. 
+Subscription contracts have standalone value as we sell the subscriptions separately. In determining whether professional services can be accounted for separately from subscription services, we consider the availability of the professional services from other vendors, the nature of our professional services and whether we sell our solutions to new customers without professional services. We have 
+67
+Table of Contents
+determined that we have established standalone value for our professional services. This determination was made due primarily to the ability of the customer to complete these tasks without assistance and the sale of services separate from the initial subscription order. Because we established standalone value for our professional services, such service arrangements are being accounted for separately from subscription services. 
+When multiple deliverables included in an arrangement are separable into different units of accounting, the arrangement consideration is allocated to the identified separate units of accounting based on their relative selling price. Multiple deliverable arrangements accounting guidance provides a hierarchy to use when determining the relative selling price for each unit of accounting. Vendor-specific objective evidence (VSOE) of selling price, based on the price at which the item is regularly sold by the vendor on a standalone basis, should be used if it exists. If VSOE of selling price is not available, third-party evidence (TPE) of selling price is used to establish the selling price if it exists. VSOE and TPE do not currently exist for any of our deliverables. Accordingly, for arrangements with multiple deliverables that can be separated into different units of accounting, we allocate the arrangement fee to the separate units of accounting based on our best estimate of selling price. The amount of arrangement fee allocated is limited by contingent revenue, if any. 
+We determine our best estimate of selling price for our deliverables based on our overall pricing objectives, taking into consideration market conditions and entity-specific factors. We evaluate our best estimate of selling price by reviewing historical data related to sales of our deliverables, including comparing the percentages of our contract prices to our list prices. We also may consider several other data points in our evaluation, including the size of our arrangements, length of term, the cloud solutions sold, customer demographics and the numbers and types of users within our arrangements. 
+While changes in assumptions or judgments or changes to the elements of the arrangement could cause an increase or decrease in the amount of revenue that we report in a particular period, these changes have not historically been significant because our recurring revenue is primarily subscription and support revenue.
+Stock-Based Compensation
+We measure and recognize compensation expense for all stock-based awards granted to our employees, non-employee directors, and other service providers based on the estimated fair value of the award on the grant date or reporting date, if required to be remeasured under the guidance. We utilize stock-based compensation in the form of restricted stock awards, restricted stock units, options to purchase Class A common stock and ESPP purchase rights. The fair value of each stock option award and ESPP purchase right is determined at the date of grant by applying the Black-Scholes option pricing model. The fair value of each restricted stock award is based on the number of shares granted and the closing price of our Class A common stock as reported on the New York Stock Exchange on the date of grant. The fair value of these awards is recognized as an expense on a straight line basis over the requisite service period.
+All stock-based awards made since the date of our initial public offering have been for Class A common stock. All references to common stock in this “Stock-Based Compensation” section are to our Class A common stock and Class B common stock, as applicable.
+Our option pricing model requires the input of highly subjective assumptions, including the expected term of the option, the expected volatility of the price of our common stock, risk-free interest rates, and the expected dividend yield of our common stock. The assumptions used in our option-pricing model represent management’s best estimates. These estimates involve inherent uncertainties and the application of management’s judgment. If factors change and different assumptions are used, our stock-based compensation expense could be materially different in the future.
+68
+Table of Contents
+These assumptions are estimated as follows:
+Fair Value of Our Common Stock:
+ The fair value of our common stock is based on the closing price of our Class A common stock on the New York Stock Exchange. 
+Risk-Free Interest Rate:
+ We base the risk-free interest rate used in the Black-Scholes option pricing model on the implied yield available on U.S. Treasury STRIPS with remaining terms similar to the expected term on the options.
+Expected Term:
+ We estimate the expected term using the simplified method due to the lack of historical exercise activity for our company. The simplified method calculates the expected term as the mid-point between the vesting date and the contractual expiration date of the award.
+Volatility:
+ Due to the limited trading history of our common stock, we estimate volatility for option grants by evaluating the average historical volatility of a peer group of companies for the period immediately preceding the option grant for a term that is approximately equal to the options’ expected life. 
+Dividend yield:
+ We have never declared or paid any cash dividends and do not presently plan to pay cash dividends in the foreseeable future. Consequently, we used an expected dividend yield of zero.
+Please refer to Note 8 of the notes to consolidated financial statements for additional information on our estimates related to stock-based compensation.
+Recent Accounting Pronouncements
+Refer to Note 1 of the notes to consolidated financial statements for a full description of recent accounting pronouncements.

@@ -1,0 +1,633 @@
+ 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes that appear elsewhere in this Annual Report on Form 10‑K. In addition to historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10‑K, particularly in “Risk Factors.”
+ 
+Overview
+ 
+We believe that we are a leader in the field of land-based aquaculture and the use of technology for improving its productivity and sustainability. Our lead product is the AquAdvantage salmon, which received FDA approval in 2015 as the first bioengineered animal available for sale for human consumption. We have commenced commercial activities with operations in the United States and Canada where we have received regulatory approval.
+ 
+COVID-19
+ 
+In March 2020, the World Health Organization declared the outbreak of a novel coronavirus, SARS-CoV-2, as a pandemic, which continues to spread throughout the United States and worldwide. Because infections of this virus and the incidences of the disease it causes, certain national, provincial, state, and local governmental authorities in the United States and Canada have issued proclamations and directives aimed at minimizing the spread of the virus. Additional, more restrictive proclamations and directives may be issued in the future.
+ 
+The ultimate impact of the COVID-19 pandemic on our operations is unknown and will depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the duration of the COVID-19 pandemic, new information which may emerge concerning the severity of the COVID-19 pandemic, and any additional preventative and protective actions that governments, or we, may direct, which may result in an extended period of continued business disruption and reduced operations. 
+ 
+To date, our farm operations have not been materially affected by the pandemic, although we have made modifications to biosecurity procedures and our farm sites to adapt to local requirements and to provide a safe work environment. Our current preventative and protective measures include, but are not limited to, segregating farm workers to specific locations, rotating shifts, and monitoring worker temperatures upon arrival at our facilities. To the extent possible, work-from-home is utilized for employees that do not have fish care responsibilities. 
+ 
+We have experienced delays in capital projects due to the pandemic, including a six-month delay in the completion of the processing facility at our Indiana farm, which did not become operational until November 2020. We utilized third party alternatives for fish processing during the delay. 
+ 
+We have been primarily impacted by a reduction in the market price and demand for Atlantic salmon due to the pandemic’s impact on the food service sector. This had and continues to have a negative impact on our revenue and inventory value, as we are not yet an established vendor and customers do not need a new supplier during a period of depressed demand.  Consequently, in December 2020, we made the decision to donate substantially all of our conventional salmon to local food charities, which are experiencing unprecedented need during the pandemic.  This decision was made to ease the capacity constraints at our Indiana farm to provide space for our growing biomass of AquAdvantage salmon. The donation program commenced in February 2021.
+ 
+The financial impact of the pandemic is likely to continue through at least the first half of 2021, as the industry waits for the roll-out of COVID-19 vaccines and the subsequent reopening of the food service sector. Any financial impact beyond the near-term cannot be reasonably estimated at this time but may have a material adverse impact on our business, financial condition, and results of operations in 2021.
+ 
+We remain focused on maintaining a strong balance sheet, liquidity, and financial flexibility and continue to monitor developments as we deal with the disruptions and uncertainties from a business and financial perspective relating to the COVID-19 pandemic. 
+ 
+Financial Overview
+ 
+We have incurred significant losses since our inception. We expect to continue to incur significant losses for the foreseeable future, and we may never achieve or maintain profitability. We expect to generate product revenue primarily through the sales of our AquAdvantage salmon. We also sell conventional Atlantic salmon, salmon eggs, fry, and byproducts. We expect revenues to be 
+29
+ 
+Table of Contents
+ 
+modest and infrequent in the first half of 2021 until the U.S. economy begins to recover from the COVID-19 pandemic and food service operations begin to return to normal capacity.
+ 
+We expect our future capital requirements may be substantial, particularly as we continue to develop our business and expand our commercial activities, as discussed in “Liquidity and Capital Resources”.  During the next several years, we expect that our working capital requirements and our capital expenditures will increase substantially due to our plans to construct four to five new land-based production farms.
+ 
+Product Revenue
+ 
+We currently generate product revenue through the sales of our conventional Atlantic salmon, salmon eggs, fry, and byproducts. We expect revenues in 2021 to include our AquAdvantage salmon, but to be modest and infrequent for at least the first half of the year until the U.S. economy begins to recover from the COVID-19 pandemic and food service operations begin to return to normal capacity.
+ 
+In the future, we believe that our revenue will depend upon the number and capacity of grow-out farms we have in operation and the market acceptance we achieve.
+ 
+Production Costs
+ 
+Production costs include the labor and related costs to grow out our fish, including feed, oxygen, and other direct costs; an application of overhead; and the cost to process and ship our products to customers. A portion of production costs are absorbed into inventory as fish in process to the extent that these costs do not exceed the net realizable value of the fish in process. The costs that are not absorbed into inventory, as well as any valuation reserves against inventory are classified as other production costs. As of December 31, 2020, we had forty-three employees engaged in production activities.
+ 
+Sales and Marketing Expenses
+ 
+Our sales and marketing expenses currently include consulting fees for market-related activities. As of December 31, 2020, we had no employees dedicated to sales and marketing.  We expect our sales and marketing expenses to increase as our production output and revenues grow.
+ 
+Research and Development Expenses
+ 
+As of December 31, 2020, we employed fifteen scientists and technicians at our facilities on Prince Edward Island to oversee our broodstock of AquAdvantage salmon, as well as the lines of fish we maintain for research and development purposes. We recognize research and development expenses as they are incurred. Our research and development expenses consist primarily of:
+ 
+
+sala
+ries and related overhead expenses for personnel in research, development functions, and brood-stock husbandry;
+
+fees paid to contract research organizations and consultants who perform research for us;
+
+costs related to laboratory supplies used in our research and development efforts; and
+
+costs relate
+d to the operation of our field trials.
+ 
+General and Administrative Expenses
+ 
+General and administrative expenses consist primarily of salaries and related costs for employees in executive, corporate, and finance functions. Other significant general and administrative expenses include corporate governance and public company costs, regulatory compliance, rent and utilities, insurance, and legal service. We had fourteen employees in our general and administrative group at December 31, 2020.
+ 
+Other Income (Expense), Net
+ 
+Interest expense includes the interest on our outstanding loans and amortization of debt issuance costs. Other income (expense) includes bank charges, fees, interest income, and miscellaneous gains or losses on asset disposals.
+ 
+30
+ 
+Table of Contents
+ 
+ 
+Critical Accounting Policies and Estimates
+ 
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations is based on our consolidated financial statements, which we have prepared in accordance with GAAP. The preparation of our consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported revenues and expenses during the reporting periods. We evaluate these estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Our actual results may differ from these estimates under different assumptions or conditions. While our significant accounting policies are more fully described in Note 2 to our audited consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K, we believe that the following accounting policies and estimates are the most critical for fully understanding and evaluating our financial condition and results of operations. 
+Inventories
+ 
+Inventories are mainly comprised of feed, eggs, fish in process and packaging materials. Fish in process inventory is a biological asset that is measured based on the estimated biomass of fish on hand.  The Company has established a standard procedure to estimate the biomass of fish on hand using counting and sampling techniques.
+As of December 31, 2020, all of our fish in process is carried at net realizable value (NRV).  Our NRV calculation contains various estimates and assumptions in regard to the calculation of the biomass, including expected yield, the market value of the biomass and estimated costs of completion and transportation.   As of December 31, 2020, the NRV of our conventional salmon biomass was valued at $0 as a result of our intent to harvest and donate this fish.  The NRV of our AquAdvantage salmon biomass was valued at $1.2 million.
+The Company also considers capacity utilization in calculating its inventory value with any excess capacity charged to production costs as idle capacity. Inventory reserves are recorded as needed to represent the difference between the carrying value and the NRV calculation, taking into consideration the expected timing and disposition of the inventory. 
+ 
+Revenue Recognition
+ 
+The Company records revenue on the sale of a product when all revenue recognition criteria are fulfilled, including identifying the contract with a customer; identifying the performance obligations in the contract; determining the transaction price; allocating the transaction price to the performance obligations in the contract; and recognizing revenue when (or as) the Company satisfies a performance obligation. The Company evaluates customer credit risk in order to conclude it is “probable” it will collect the amount of consideration due in exchange for the goods.
+ 
+Results of Operations
+ 
+Comparison of the year ended December 31, 2020 to the year ended December 31, 2019.
+ 
+The following table summarizes our results of operations for the years ended December 31, 2020 and 2019, together with the changes in those items in dollars (in thousands) and as a percentage:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year Ended
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 31,
+ 
+Dollar
+ 
+ 
+%
+ 
+2020
+ 
+2019
+ 
+Change
+ 
+ 
+Change
+Product revenue
+$
+ 128
+ 
+$
+187 
+ 
+$
+ (59)
+ 
+ 
+ (32)
+%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Production costs
+ 
+ 6,680
+ 
+ 
+3,574 
+ 
+ 
+ 3,106
+ 
+ 
+ 87
+%
+Sales and marketing
+ 
+ 533
+ 
+ 
+709 
+ 
+ 
+ (176)
+ 
+ 
+ (25)
+%
+Research and development
+ 
+ 2,365
+ 
+ 
+2,360 
+ 
+ 
+ 5
+ 
+ 
+ —
+%
+General and administrative
+ 
+ 6,798
+ 
+ 
+6,723 
+ 
+ 
+ 75
+ 
+ 
+ 1
+%
+Operating loss
+ 
+ (16,248)
+ 
+ 
+ (13,179)
+ 
+ 
+ (3,069)
+ 
+ 
+ 23
+%
+Total other (income) expense, net
+ 
+ (152)
+ 
+ 
+ (49)
+ 
+ 
+ (103)
+ 
+ 
+ 210
+%
+Net loss
+$
+ (16,400)
+ 
+$
+ (13,228)
+ 
+$
+ (3,172)
+ 
+ 
+ 24
+%
+ 
+31
+ 
+Table of Contents
+ 
+ 
+Product Revenue
+ 
+Product revenue for the year ended December 31, 2020 consisted of conventional Atlantic salmon, fry and eggs. For the comparative period in 2019, revenue included the sale of AquAdvantage salmon from our Panama demonstration farm.
+ 
+Production Costs
+ 
+Production costs for the year ended December 31, 2020, were up from the corresponding period in 2019, due to production cost increases related to increasing fish biomass at the Indiana and Rollo Bay farms as they continued their ramp-up.
+ 
+Costs for the current year include a $1.53 million reserve against the carrying value of the conventional salmon biomass due to management’s plans to donate substantially all of its conventional salmon to local food charities during Q1 2021.  This decision was made in order to ease the capacity constraints at our Indiana farm to provide space for our growing biomass of AquAdvantage salmon.  In addition, current year costs include charges of $900 thousand to reduce the carrying value of all other fish-in-process biomass to its NRV as a result of reduced market price expectations due primarily to the impact of COVID-19 on the food service industry.
+ 
+Sales and Marketing Expenses
+ 
+Sales and marketing expenses for the year ended December 31, 2020, were down from the corresponding period in 2019 due to a decrease in personnel cost, partially offset by an increase in charges related to the commencement of marketing activities for our salmon.
+ 
+Research and Development Expenses
+ 
+Research and development expenses for the year ended December 31, 2020, were slightly up from the corresponding period in 2019 due to an increase in outside contract service fees, offset by lower personnel costs and lower field trial costs, primarily related to the closing of our demonstration farm in Panama.
+ 
+General and Administrative Expenses
+ 
+General and administrative expenses for the year ended December 31, 2020, were slightly up from the corresponding period in 2019 due to an increase in personnel costs, regulatory legal fees associated with the FDA legal challenge, and outside consulting fees, offset by a decrease in travel and stock compensation charges.
+ 
+Total Other (Income) Expense
+ 
+Total other (income) expense for 2020 is comprised of interest on debt, bank charges, interest income, and a net gain on the disposal of assets. Total other (income) expense for 2019 is comprised of interest on debt, bank charges, and interest income.
+ 
+Liquidity and Capital Resources
+ 
+Sources of Liquidity
+ 
+We have incurred losses from operations since our inception in 1991, and, as of December 31, 2020, we had an accumulated deficit of $149 million.
+ 
+In January 2018, we completed a public offering of 3,692,307 Common Shares and warrants for 4,246,153 Common Shares. Net proceeds to the Company were $10.6 million. Precigen, our controlling shareholder at the time, participated in the offering, purchasing 1,538,461 Common Shares and warrants for 1,538,461 Common Shares for gross proceeds of $5.0 million.
+ 
+During 2018, 249,824 Common Shares were issued through the conversion of outstanding warrants for total proceeds of $0.8 million and on October 24, 2018, 2,250,461 Common Shares were issued through the exercise of outstanding warrants at a discounted price of $2.00. Net proceeds to the Company were $4.3 million. Precigen participated in the exercise, converting warrants for 1,538,461 Common Shares, resulting in gross proceeds of $3.1 million.
+ 
+During 2019, we completed two public offerings totaling 6,246,360 Common Shares for net proceeds of approximately $12.4 million and we issued 83,564 Common Shares through the conversion of outstanding warrants for total proceeds of $0.3 million.
+ 
+32
+ 
+Table of Contents
+ 
+ 
+During 2020, we completed three public offerings totaling 33,028,000 Common Shares for net proceeds of approximately $104.6 million and we issued 713,449 Common Shares through the conversion of outstanding warrants for total proceeds of $2.3 million.
+ 
+On February 8, 2021, we completed a public offering of 14,950,000 Common Shares for net proceeds of approximately $119.2 million. 
+ 
+As of December 31, 2020, we had a cash and cash equivalents balance of $95.8 million.
+ 
+Cash Flows
+ 
+The following table sets forth the significant sources and uses of cash for the periods set forth below (in thousands):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Years Ended 
+ 
+December 31,
+ 
+2020
+ 
+2019
+Net cash provided by (used in):
+ 
+ 
+ 
+ 
+ 
+Operating activities
+$
+ (14,289)
+ 
+$
+ (11,249)
+Investing activities
+ 
+ (3,239)
+ 
+ 
+ (2,461)
+Financing activities
+ 
+ 111,003
+ 
+ 
+13,483 
+Effect of exchange rate changes on cash
+ 
+ (23)
+ 
+ 
+23 
+Net increase (decrease) in cash
+$
+ 93,452
+ 
+$
+ (204)
+ 
+Cash Flows from Operating Activities
+ 
+Net cash used in operating activities during the year ended December 31, 2020, was primarily comprised of our $16.4 million net loss, offset by non-cash depreciation and stock compensation charges of $1.9 million and by working capital sources of $136 thousand. Spending on operations increased in 2020 due to increases in production activities at our Rollo Bay and Indiana farm sites, offset by lower field trial costs related to our demonstration farm in Panama and travel expenses. Cash provided by working capital was due primarily to an increase in accounts payable and accrued liabilities, partially offset by increases in inventory and prepaid expenses.
+ 
+Net cash used in operating activities during the year ended December 31, 2019, was primarily comprised of our $13.2 million net loss, offset by non-cash depreciation and stock compensation charges of $2.2 million and a non-cash charge of $253 thousand, and increased by working capital uses of $420 thousand. Spending on operations increased in 2019 due to headcount additions and production ramp up costs at our Rollo Bay and Indiana farm sites. The use of cash in working capital in 2019 was primarily due to an increase in inventory, offset by increases in accounts payable and accrued liabilities, other receivables and in prepaid expenses and other current assets.
+ 
+Cash Flows from Investing Activities
+ 
+During 2020, we used $4.0 million for renovations to our Indiana farm site and for construction charges at our Rollo Bay site, offset by $100 thousand in proceeds from the sale of equipment and $1 million in net proceeds from a settlement agreement. 
+ 
+During 2019, we used $2.5 million for property and equipment purchases for renovations to our Indiana farm site and for construction charges at our Rollo Bay site, offset by $16 thousand in proceeds from the sale of equipment.
+ 
+Cash Flows from Financing Activities
+ 
+During 2020, we received approximately $104.6 million in net proceeds from the issuance of Common Shares in three public offerings, $2.3 million from the exercise of warrants, and $4.1 million from the issuance of debt, net of repayments and debt issuance costs.
+ 
+During 2019, we received approximately $12.4 million in net proceeds from the issuance of Common Shares in two public offerings, $272 thousand from the exercise of warrants, and $815 thousand from the issuance of debt, net of repayments.
+ 
+Future Capital Requirements
+ 
+The Company completed multiple equity raises in 2020 and has $95.8 million in cash and cash equivalents as of December 31, 2020. Subsequent to year end, in February 2021, the Company raised an additional $119.2 million.  While we have experienced net losses 
+33
+ 
+Table of Contents
+ 
+and negative cash flows from operations since inception, management believes that it has sufficient cash to meet the Company's requirements for at least the next twelve months from the filing date.
+ 
+Until such time, if ever, as we can generate positive operating cash flows, we may finance our cash needs through a combination of equity offerings, debt financings, government or other third-party funding, strategic alliances, and licensing arrangements. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interests of holders of our common stock will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of holders of our common stock. Debt financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures, or declaring dividends. If we raise additional funds through government or other third-party funding; marketing and distribution arrangements; or other collaborations, strategic alliances, or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs, or product candidates or to grant licenses on terms that may not be favorable to us.
+ 
+If we are unable to generate additional funds in the future through financings, sales of our products, government grants, loans, or from other sources or transactions, we will exhaust our resources and will be unable to maintain our currently planned operations. If we cannot continue as a going concern, our stockholders would likely lose most or all of their investment in us.
+ 
+Off-Balance Sheet Arrangements
+ 
+We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements as defined under SEC rules.
+ 
+Contractual Obligations
+ 
+The following table summarizes our significant contractual obligations and commercial commitments at December 31, 2020, and the effects such obligations are expected to have on our liquidity and cash flows in future periods (in thousands):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Less than
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More than
+ 
+Total
+ 
+1 year
+ 
+1-3 years
+ 
+3-5 years
+ 
+5 years
+PEI Finance term loan
+$
+ 2,014
+ 
+$
+ 77
+ 
+$
+ 1,937
+ 
+$
+ —
+ 
+$
+— 
+ACOA term loans
+ 
+ 563
+ 
+ 
+ 73
+ 
+ 
+ 146
+ 
+ 
+ 146
+ 
+ 
+ 198
+Kubota Canada Ltd
+ 
+ 44
+ 
+ 
+ 11
+ 
+ 
+ 21
+ 
+ 
+ 12
+ 
+ 
+ —
+ACOA AIF grant (1)
+ 
+ 2,254
+ 
+ 
+ —
+ 
+ 
+ —
+ 
+ 
+— 
+ 
+ 
+ 2,254
+FFBT term loan
+ 
+ 4,000
+ 
+ 
+117
+ 
+ 
+992
+ 
+ 
+1105
+ 
+ 
+ 1,786
+Maynard office lease
+ 
+ 151
+ 
+ 
+ 66
+ 
+ 
+ 85
+ 
+ 
+ —
+ 
+ 
+— 
+Indiana auto lease
+ 
+ 1
+ 
+ 
+ 1
+ 
+ 
+ —
+ 
+ 
+— 
+ 
+ 
+— 
+Indiana well lease
+ 
+ 686
+ 
+ 
+ 16
+ 
+ 
+ 33
+ 
+ 
+ 35
+ 
+ 
+ 602
+Total
+$
+ 9,713
+ 
+$
+ 361
+ 
+$
+ 3,214
+ 
+$
+ 1,298
+ 
+$
+ 4,840
+ 
+(1) Repayment of the AIF grant is royalty-based and estimated on revenue projections of products resulting from the project.
+ 
+Recent Accounting Pronouncements
+ 
+We do not expect any recently issued, but not yet effective, accounting standards to have a material effect on our results of operations or financial condition.
+ 
+ 
+34
+ 
+Table of Contents
+ 
+ 
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk

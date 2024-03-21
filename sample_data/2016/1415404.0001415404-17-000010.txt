@@ -1,0 +1,108 @@
+EXPLANATION OF KEY METRICS AND OTHER ITEMS
+Services and other revenue — DISH Network
+.  “
+Services and other revenue — DISH Network
+” primarily includes revenue associated with satellite and transponder services, satellite uplinking/downlinking, signal processing, conditional access management, telemetry, tracking and control, development of web-based applications for set-top boxes, professional services, facilities rental revenue and other services provided to DISH Network.  “
+Services and other revenue — DISH Network
+” also includes subscriber wholesale service fees for the Hughes service sold to dishNET.
+ 
+Services and other revenue — other
+.  “
+Services and other revenue — other
+” primarily includes the sales of enterprise and consumer broadband services, as well as maintenance and other contracted services.  “
+Services and other revenue — other
+” also includes revenue associated with satellite and transponder services, satellite uplinking/downlinking and other services provided to customers other than DISH Network.
+ 
+Equipment revenue — DISH Network
+.  “
+Equipment revenue — DISH Network
+” primarily includes sales of digital set-top boxes and related components, including Slingbox products and related hardware products, and sales of satellite broadband equipment and related equipment, primarily related to the Hughes service, to DISH Network.
+ 
+Equipment revenue — other
+.  “
+Equipment revenue — other
+” primarily includes sales of digital set-top boxes and related components to Bell TV, Dish Mexico and other domestic and international customers, including sales of Slingbox products and related hardware products, and sales of broadband equipment and networks to customers in our enterprise and consumer markets.
+Cost of sales — services and other
+.  “
+Cost of sales — services and other
+” primarily includes the cost of broadband services provided to our enterprise and consumer customers, and to DISH Network, as well as the cost of providing maintenance and other contracted services.  “
+Cost of sales — services and other
+” also includes the costs associated with satellite and transponder services, satellite uplinking/downlinking, signal processing, conditional access management, telemetry, tracking and control, product support and development of applications for set-top boxes, professional services, facilities rental costs, and other services provided to our customers, including DISH Network.
+ 
+Cost of sales — equipment
+.  “
+Cost of sales — equipment
+” principally includes costs associated with digital set-top boxes and related components sold to DISH Network, Bell TV, Dish Mexico and other domestic and international customers, including costs associated with Slingbox products and related hardware products.  “
+Cost of sales — equipment
+” also includes the cost of broadband equipment and networks sold to customers in our enterprise and consumer markets, and to DISH Network.
+Selling, general and administrative expenses
+.  “
+Selling, general and administrative expenses
+” primarily includes selling and marketing costs and employee-related costs associated with administrative services (e.g., information systems, human resources and other services), including stock-based compensation expense.  It also includes professional fees (e.g. legal, information systems and accounting services) and other items associated with facilities and administrative services provided by DISH Network and other third parties.
+ 
+Research and development expenses
+.  “
+Research and development expenses
+” primarily includes costs associated with the design and development of products to support future growth and provide new technology and innovation to our customers.
+ 
+Impairment of long-lived assets
+.  “
+Impairment of long-lived assets
+” includes our impairment losses related to our property and equipment, goodwill and other intangible assets.
+Interest income
+.  “
+Interest income
+” primarily includes interest earned on our cash, cash equivalents and marketable investment securities, including premium amortization and discount accretion on debt securities.
+ 
+Interest expense, net of amounts capitalized
+.  “
+Interest expense, net of amounts capitalized
+” primarily includes interest expense associated with our debt and capital lease obligations (net of capitalized interest), and amortization of debt issuance costs.
+ 
+70
+Table of Contents
+ 
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued
+Loss from partial redemption of debt
+. 
+ “
+Loss from partial redemption of debt
+” primarily includes the loss from the partial redemption of the 2019 Senior Secured Notes representing the redemption premium that the Company paid to the holders of its 2019 Senior Secured Notes and the write-off of related unamortized debt issuance costs.
+ 
+Gains (losses) and impairment on marketable investment securities, net
+.  “
+Gains (losses) and impairment on marketable investment securities, net
+” primarily includes gains, net of any losses, on the sale or exchange of investments and other-than-temporary impairment on certain of our marketable investment securities.
+ 
+Equity in earnings of unconsolidated affiliates, net
+.  “
+Equity in earnings of unconsolidated affiliates, net
+” includes earnings or losses from our investments accounted for under the equity method.
+ 
+Other, net
+.  “
+Other, net
+” primarily includes foreign exchange gains and losses, dividends received from our marketable investment securities, and other non-operating income or expense items that are not appropriately classified elsewhere in 
+our consolidated statements of operations and comprehensive income (loss)
+.
+ 
+Earnings before interest, taxes, depreciation and amortization (“EBITDA”).  
+EBITDA is defined as “
+Net income
+” excluding “
+Interest expense, net of amounts capitalized
+,” “
+Interest income
+,” “
+Income tax provision, net
+,” and “
+Depreciation and amortization
+.”  EBITDA is not a measure determined in accordance with GAAP.  This non-GAAP measure is reconciled to “
+Net income
+” 
+in our discussion of “Results of Operations” above.  EBITDA should not be considered in isolation or as a substitute for operating income, net income or any other measure determined in accordance with GAAP.  EBITDA is used by our management as a measure of operating efficiency and overall financial performance for benchmarking against our peers and competitors.  Management believes EBITDA provides meaningful supplemental information regarding the underlying operating performance of our business.  Management also believes that EBITDA is useful to investors because it is frequently used by securities analysts, investors, and other interested parties to evaluate the performance of companies in our industry.
+ 
+ 
+Subscribers.  
+“Subscribers” include customers that subscribe to our Hughes segment’s HughesNet broadband services, through retail, wholesale and small/medium enterprise service channels.
+71

@@ -1,0 +1,141 @@
+Item 7.          MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis should be read in conjunction with our audited consolidated financial statements and the related notes that appear elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements reflecting our current expectations that involve risks and uncertainties. Actual results may differ materially from those discussed in these forward-looking statements due to a number of factors, including those set forth in the section entitled “Risk Factors” and elsewhere in this Annual Report on Form 10-K. For further information regarding forward-looking statements, please refer to the “Special Note Regarding Forward-Looking Statements” at the beginning of Part I of this Annual Report on Form 10-K.
+Company Overview
+We are a leading biotechnology company engaged in the development of best-in-class autologous cellular therapies derived from a patient’s own bone marrow cells for the treatment of neurodegenerative diseases. We hold the rights to clinical development and commercialization of the NurOwn® technology platform through an exclusive, worldwide licensing agreement (see details herein). NurOwn® has received Fast Track designation from the FDA in ALS and has additionally been granted Orphan Drug Status by the FDA and the EMA. For more information, visit our website at www.brainstorm-cell.com.
+We are committed to bring innovative central nervous system (“CNS”) adult stem cell therapies to the market to improve the lives of patients with debilitating neurodegenerative diseases. As a leader in CNS regenerative cellular medicines, we are leveraging NurOwn®, its proprietary autologous mesenchymal stem cell platform technology, a strong and expanded intellectual property portfolio, as well as manufacturing and commercialization capabilities, to address growing unmet medical needs across a broad range of neurodegenerative disorders, such as ALS, PMS, AD and other neurodegenerative diseases. NurOwn® uses proprietary cell culture conditions to induce MSCs to secrete high levels of  multiple neurotrophic factors to modulate neuroinflammatory and neurodegenerative disease processes, promote neuronal survival and improve neurological function.
+Results of Operations
+For the period from inception (September 22, 2000) until December 31, 2020, we did not generate any revenues from operations. In addition, we incurred operating costs and expenses of approximately $31,811,000 during the year ended December 31, 2020.
+Research and Development, net
+Our business model calls for significant investments in research and development. Our research and development expenditures, net in the year ended December 31, 2020 were $22,329,000, an increase of $5,125,000 compared to $17,204,000 for the year ended December 31, 2019.
+This increase is due to (i) an increase of $2,135,000 in connection with materials, consultants, depreciation, payroll and stock-based compensation expenses and other activities; (ii) a decrease of $1,481,000 received in connection with the treatment of patients under the hospital exemption regulatory pathway; (iii) a decrease of $2,576,000 in participation of the Israel Innovation Authority (“IIA”) and CIRM in 2020, under various awarded grants and (iv) an increase of $269,000 for costs related to travel, patents and other costs. This increase was partially offset by a decrease of $1,336,000 in connection with the Phase 3 Clinical Trial. Excluding participation from IIA 
+56
+​
+Table of Contents
+and CIRM under the grants and proceeds received under the hospital exemption regulatory pathway, research and development expenses decreased by $133,000 from $24,741,000 in 2019 to $24,608,000 in 2020.
+General and Administrative
+General and administrative expenses for the years ended December 31, 2020 and 2019 were $9,355,000 and $5,797,000, respectively. The increase of $3,558,000 in general and administrative expenses is mainly due to: (i) an increase of $2,611,000 in payroll and stock-based compensation expenses; (ii) an increase of $1,031,000 in the rent, the costs of our stock costs, consultants, costs of our investor relations and public relations activities and various other expenses. This increase was partially offset by a decrease of $84,000 in travel costs.
+Financial Expenses
+Financial expense for the year ended December 31, 2020 was $127,000 as compared to financial expense of $252,000 for the year ended December 31, 2019 as a result of the adoption of the Accounting Standard Update ASU 2016-02 “Leases” and due to interest earned on our cash, cash equivalents and short-term deposits.
+Net Loss
+Net loss for the year ended December 31, 2020 was $31,811,000, as compared to a net loss of $23,253,000 for the year ended December 31, 2019. Net loss per share for the year ended December 31, 2020 and December 31, 2019 was $1.07 and $1.06, respectively.
+The weighted average number of shares of Common Stock used in computing basic and diluted net loss per share for the year ended December 31, 2020 was 29,848,217 compared to 21,906,257 for the year ended December 31, 2019.
+The increase in the weighted average number of shares of Common Stock used in computing basic loss per share for the year ended December 31, 2020 was due to: (i) the issuance of shares to employees and directors, (ii) issuance and sale of shares of Common Stock pursuant to the Distribution Agreement and (iii) the exercise of options and warrants.
+Since its inception, the Company has devoted substantially all of its efforts to research and development. The Company is still in its development and clinical stage and has not yet generated revenues. The extent of the Company's future operating losses and the timing of becoming profitable are uncertain.
+Additional funding will be required to begin the commercialization efforts and to achieve a level of sales adequate to support the Company's cost structure.
+To meet its capital needs, the Company is considering multiple alternatives, including, but not limited to, additional public and private sales of its Common Stock and warrants, the exercise of warrants, the issuance of convertible promissory notes, sales of Common Stock via its September 25, 2020 ATM program and other funding transactions. While the Company has been successful in raising financing recently and in the past, there can be no assurance that it will be able to do so in the future on a timely basis on terms acceptable to the Company, or at all.
+The COVID-19 pandemic may continue to adversely disrupt the Company's operations, including the ability to complete the ongoing clinical trials and may have other adverse effects on Company's business and operations. In addition, this pandemic has caused substantial disruption in the financial markets and may adversely impact economies worldwide, both of which could result in adverse effects on Company's business, operations and ability to raise capital.
+Management expects that the Company will continue to generate losses from the clinical development and regulatory activities, which will result in a negative cash flow from operating activity. The Company has recently completed its Phase 3 ALS clinical trial. The Company currently has sufficient cash to complete its ongoing Phase 2 PMS and Phase 2 AD clinical trials. Over the longer term, if the Company is granted a BLA approval, additional capital raise will be needed in connection with strategic partnerships and to commercialize Nurown® for ALS, and to conduct additional trials for other indications. If the Company is not able to raise additional capital for these purposes, management may need to slow the pace of commercialization or the Company may not be able to continue 
+57
+​
+Table of Contents
+to function as a going concern. The Company's consolidated financial statements do not reflect any adjustments that might result from the outcome of this uncertainty.
+Liquidity and Capital Resources
+Since inception, the Company has financed its operations primarily through public and private sales of its Common Stock and warrants, the exercise of warrants, the issuance of convertible promissory notes, sales via the ATM programs and through various grants. At December 31, 2020 cash, cash equivalents and short-term bank deposits amounted to $41,936,000.
+Net cash used in operating activities for the year ended December 31, 2020 was $35,193,000. Cash used for operating activities was primarily attributed to cost of clinical trials, rent of clean rooms and materials for clinical trials, payroll costs, rent, outside legal fee expenses and public relations expenses.
+Net cash used in investing activities for the year ended December 31, 2020 was $4,452,000 representing primarily a net decrease in short-term deposits and purchase of property and equipment. 
+Net cash provided by financing activities for the year ended December 31, 2020 was $76,938,000 from the exercises of warrants during the year, issuance of new warrants, sales of common stock under March 6, 2020 registered direct offering and sales of common stock under the June 11, 2019 ATM, March 6, 2020 ATM and September 25, 2020 ATM programs.
+On June 8, 2018, we filed a shelf registration statement on Form S-3 (File No. 333-225517) (the “Shelf Registration Statement”), which was declared effective by the SEC on June 29, 2018, relating to Common Stock, warrants and units that we may sell from time to time in one or more offerings, up to a total dollar amount of $100,000,000. Other than the supplements filed on June 11, 2019, March 6, 2020 and on September 25, 2020 in connection with the ATM offerings discussed below, and the prospectus supplement filed on March 6, 2020 in connection with the registered direct offering discussed below, we have not filed any supplemental prospectus defining particular terms of securities to be offered under the shelf registration statement.
+At-the-market (ATM) Offerings:
+On June 11, 2019, the Company entered into the June 11, 2019 ATM in an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, by sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agent. On February 21, 2020, the Company completed the sale of all remaining shares issuable under the June 11, 2019 ATM and exhausted its full ATM capacity. Under the June 11, 2019 ATM, the Company sold an aggregate of 4,141,569 shares of Common Stock at an average price of $4.83 per share, raising gross proceeds of approximately $20 million. 
+On March 6, 2020, the Company entered into a new distribution agreement with Raymond James (the “Agent”), pursuant to which the Company was able to sell from time to time, through the Agent, shares of Common Stock, having an aggregate offering price of up to $50,000,000 (the “March 6, 2020 ATM”). Sales under the March 6, 2020 ATM were made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and Raymond James. Under the March 6, 2020 ATM, the Company sold an aggregate of 2,446,641 shares of Common Stock at an average price of $9.45 per share, raising gross proceeds of approximately $23.11 million.
+On September 25, 2020, the Company entered into an Amended and Restated Distribution Agreement (the “Distribution Agreement”) with SVB Leerink LLC (“Leerink”) and Raymond James & Associates (together with Leerink, the “Agents”) pursuant to which the Company may sell from time to time, through the Agents, shares of Common Stock, having an aggregate offering price of up to $45,000,000, which aggregate amount includes amount unsold pursuant to the March 6, 2020 ATM (the “September 25, 2020 ATM”). Sales under the September 25, 2020 ATM are to be made by any method permitted by law that is deemed to be an “at the market” offering as defined in Rule 415 promulgated under the Securities Act, including, without limitation, sales made directly on the Nasdaq Capital Market, on any other existing trading market for the Shares, through a market maker or as otherwise agreed by the Company and the Agents. The Distribution Agreement amends and restates in its entirety the Company’s prior agreement with Raymond James entered on March 6, 2020 (the “March 6, 2020 ATM”). The Company previously sold 2,446,641 shares of Common Stock for gross proceeds of approximately $23.11 million of Common Stock under the March 6, 2020 ATM. During the quarter ended December 31, 
+58
+​
+Table of Contents
+2020, the Company sold an aggregate of 3,564,385 shares of Common Stock pursuant to the September 25, 2020 ATM at an average price of $6.10 per share, raising gross proceeds of approximately $21.8 million.
+The Company has no obligation under the September 25, 2020 ATM to sell any shares and may at any time suspend sales or terminate the September 25, 2020 ATM in accordance with its terms. Subject to the terms and conditions of the Distribution Agreement, the Agents will use their commercially reasonable efforts to sell on the Company’s behalf, from time to time consistent with its normal sales and trading practices, such Shares based upon instructions from the Company (including any price, time or size limits or other customary parameters or conditions the Company may impose). The Company has provided the Agents with customary indemnification rights, and the Agents will be entitled to a fixed commission of 3.0% of the aggregate gross proceeds from the Shares sold. The Distribution Agreement contains customary representations and warranties, and the Company is required to deliver customary closing documents and certificates in connection with sales of the Shares. Shares sold under the ATMs are issued pursuant to the Company’s existing Shelf Registration Statement, and the Prospectus Supplement to the Registration Statements filed June 11, 2019, March 6, 2020 and September 25, 2020, respectively.
+Registered Direct Offering:
+On March 6, 2020, the Company entered into and closed a $10.0 million registered direct offering of 1,250,000 shares of Common Stock at a per share purchase price equal to $8.00. Purchaser also received a three-year warrant to purchase up to 250,000 shares of Common Stock at an exercise price of $15.00 per share.
+Recent Sales of Unregistered Securities:
+Exercises of 2018 Amended Warrants:
+Between July 20, 2020 and July 24, 2020, 2018 Warrant Holders exercised an aggregate of 280,000 shares of the Amended 2018 Warrants (the “2018 Exercised Shares”), which exercises generated gross cash proceeds to the Company of $1.96 million. 
+The 2018 Warrants have not been registered under the Securities Act of 1933, as amended (the Securities Act), or state securities laws. The 2018 Exercised Shares have been registered for resale on the Company’s registration statement on Form S-3 (File No. 333-225995). The issuance of the 2018 Exercised Shares and 2018 Warrants was exempt from the registration requirements of the Securities Act pursuant to the exemption for transactions by an issuer not involving any public offering under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D promulgated under the Securities Act. The Company made this determination based on the representations that each party is an “accredited investor” within the meaning of Rule 501 of Regulation D. The Company expects to use cash received from exercises for general corporate and working capital purposes.
+Exercises of 2019 Warrants:
+Between July 15, 2020 and July 24, 2020, 2019 Warrant Holders exercised an aggregate of 620,000 shares of the 2019 Warrants (the “2019 Exercised Shares”), which exercises generated gross cash proceeds to the Company of $4.34 million.
+The 2019 Warrants have not been registered under the Securities Act, or state securities laws. The 2019 Exercised Shares have been registered for resale on the Company’s registration statement on Form S-3 (File No. 333-233349).  The issuance of the 2019 Exercised Shares and 2019 Warrants is exempt from the registration requirements of the Securities Act pursuant to the exemption for transactions by an issuer not involving any public offering under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D promulgated under the Securities Act.  The Company made this determination based on the representations that each party is an “accredited investor” within the meaning of Rule 501 of Regulation D.  The Company expects to use cash received from exercises for general corporate and working capital purposes.
+59
+​
+Table of Contents
+With the recent warrant exercises in July 2020, the Company has reduced its outstanding warrants shares to non-affiliates by approximately 37% and reduced its overall warrants shares outstanding by approximately 19%. In total, 900,000 of the 4,724,868 Company warrant shares outstanding were exercised between July 15 and July 24, 2020. 2,266,667 of the remaining 3,824,868 outstanding warrants shares are owned by affiliates of the Company.
+Our material cash needs for the next 12 months, assuming we do not expand our clinical trials beyond our ongoing Phase 2 PMS trials in the United States, and the Phase 2 AD trials in Europe will include (i) costs of the clinical trial in the U.S. and Europe, (ii) employee salaries, (iii) payments for rent and operation of the GMP facilities and manufacturing of NurOwn®, and (iv) fees to our consultants and legal advisors, patents, and fees for facilities to be used in our research and development. 
+We believe our existing cash will be sufficient to fund our anticipated operating cash requirements for at least twelve months following the date of this filing. We currently have sufficient cash to execute on our ongoing Phase 2 PMS and Phase 2 AD clinical trials and support our operating activities. We expect that we will continue to generate losses from the clinical development and regulatory activities, which will result in a negative cash flow from operating activity. If we are granted a BLA approval, additional capital raise will be needed to commercialize NurOwn® for ALS, and to conduct additional trials that may be needed for other indications. The actual amount of cash that the Company will need to operate is subject to many factors, including, but not limited to, the timing, design and conduct of clinical trials for our product candidates along with cost to commercialize these product candidates.
+We anticipate that we will need to raise substantial additional financing in the future to fund our operations. In order to meet these additional cash requirements, we may incur debt, license certain intellectual property, and seek to sell additional equity or convertible securities that may result in dilution to our stockholders. If we raise additional funds through the issuance of equity or convertible securities, these securities could have rights or preferences senior to those of our common stock and could contain covenants that restrict our operations. There can be no assurance that we will be able to obtain additional equity or debt financing on terms acceptable to us, if at all. Our future capital requirements will depend on many factors, including:
+*
+our ability to obtain funding from third parties, including any future collaborative partners;
+*
+the scope, rate of progress and cost of our clinical trials and other research and development programs;
+*
+the time and costs required to gain regulatory approvals;
+*
+the terms and timing of any collaborative, licensing and other arrangements that we may establish;
+*
+the costs of filing, prosecuting, defending and enforcing patents, patent applications, patent claims, trademarks and other intellectual property rights;
+*
+any product liability or other lawsuits related to our product candidates;
+*
+the expenses needed to attract and retain skilled personnel;
+*
+the costs and timing of future commercialization activities, including product manufacturing, marketing, sales, and distribution, for any of our product candidates for which we receive marketing approval;
+*
+the revenue, if any, received from commercial sales of our product candidates for which we receive marketing approval;
+*
+the general and administrative expenses related to being a public company;
+*
+the effect of competition and market developments; and
+*
+future pre-clinical and clinical trial results.
+The full extent to which the COVID 19 pandemic will directly or indirectly impact our business, results of operations, financial condition, liquidity and capital resources will depend on future developments that are highly uncertain and cannot be accurately predicted at this 
+60
+​
+Table of Contents
+time, including new information that may emerge concerning COVID 19, the actions taken to contain it or treat its impact and the economic impact on local, regional, national and international markets. Our management team is actively monitoring this situation and the possible effects on our financial condition and liquidity.
+Contractual Obligations and Commitments
+The following is a table of contractual obligations and commitments as of December 31, 2020 (in thousands):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Payments Due by Period
+​
+    
+Total
+    
+Less than 1 year
+    
+1-3 years
+    
+3-5 years
+Operating Leases
+ 
+ 6,851
+ 
+ 2,760
+ 
+ 3,239
+ 
+ 852
+Total
+ 
+ 6,851
+ 
+ 2,760
+ 
+ 3,239
+ 
+ 852
+​
+Off-Balance Sheet Arrangement
+We have no off balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+Critical Accounting Policies and Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. The preparation of our consolidated financial statements and disclosures requires us to make judgments, estimates, and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements as well as the reported revenue and expenses during the reporting periods. We base our estimates on historical experience, known trends and events and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions and conditions.
+While our significant accounting policies are described in more detail in the notes to our audited consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K we believe that the following accounting policies are those most critical to the judgments and estimates used in the preparation of our consolidated financial statements 
+Accounting for stock-based compensation:
+We grant equity-based awards under share-based compensation plans. We estimate the fair value of share-based payment awards using the Black-Scholes option valuation model. This fair value is then amortized over the requisite service periods of the awards. The Black-Scholes option valuation model requires the input of subjective assumptions, including price volatility of the underlying stock, risk-free interest rate, dividend yield, and expected life of the option. Share-based compensation expense is based on awards ultimately expected to vest, and therefore is reduced by expected forfeitures. Changes in assumptions used under the Black-Scholes option valuation model could materially affect our net loss and net loss per share.
+​

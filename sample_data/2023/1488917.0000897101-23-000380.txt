@@ -1,0 +1,524 @@
+Management’s
+                                        Discussion and Analysis of Financial Condition and Results of Operations.
+ 
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with our
+financial statements and the accompanying notes included elsewhere in this Annual Report on Form 10-K. The forward-looking statements
+include statements that reflect management’s good faith beliefs, plans, objectives, goals, expectations, anticipations and
+intentions with respect to our future development plans, capital resources and requirements, results of operations, and future
+business performance. Our actual results could differ materially from those anticipated in the forward-looking statements included
+in this discussion as a result of certain factors, including, but not limited to, those discussed in the section entitled “Information
+Regarding Forward-Looking Statements” immediately preceding Part I of this Annual Report on Form 10-K.
+ 
+Overview
+ 
+Electromed
+develops and provides innovative airway clearance products applying HFCWO technologies in pulmonary care for patients of all ages.
+ 
+We
+manufacture, market and sell products that provide HFCWO, including the SmartVest System that includes our newest generation SmartVest
+Clearway
+®
+®
+o
+ 
+The
+SmartVest System is often eligible for reimbursement from major private insurance providers, health maintenance organizations
+(“HMOs”), state Medicaid systems, and the federal Medicare system, which we believe is an important consideration
+for patients considering an HFCWO course of therapy. For domestic sales, the SmartVest System may be reimbursed under the Medicare-assigned
+billing code (E0483) for HFCWO devices if the patient has cystic fibrosis, bronchiectasis (including chronic bronchitis or COPD
+that has resulted in a diagnosis of bronchiectasis), or any one of certain enumerated neuromuscular diseases, and can demonstrate
+that another less expensive physical or mechanical treatment did not adequately mobilize retained secretions. Private payers consider
+a variety of sources, including Medicare, as guidelines in setting their coverage policies and payment amounts.
+ 
+ 
+ 
+ 
+We
+employ a direct-to-patient and provider model, through which we obtain patient referrals from clinicians, manage insurance claims
+on behalf of our patients and their clinicians, deliver our solutions to patients and train them on proper use in their homes.
+This model allows us to directly approach patients and clinicians, whereby we disintermediate the traditional durable medical
+equipment channel and capture both the manufacturer and distributor margins. We have engaged a limited number of regional durable
+medical equipment distributors focused on respiratory therapies as an alternate sales channel. Revenue through this channel was
+3% of our total revenues in fiscal 2023.
+ 
+Our
+key growth strategies for fiscal 2024 are to accelerate our revenue growth by taking market share and expanding the addressable
+population for the largest and fastest growing segments of the market: adult pulmonology/bronchiectasis. Actions to support accelerating
+our growth include the following:
+ 
+
+
+●
+Expand
+                                         our sales force in targets geographies with high potential, adding an additional five
+                                         territories and direct sales reps;
+
+
+●
+Increase
+                                         Electromed brand awareness through direct-to-consumer and physician marketing, and peer
+                                         to peer education;
+
+
+●
+Provide
+                                         best-in-class customer care and support; and
+
+
+●
+Develop
+                                         and promulgate the body of bronchiectasis clinical evidence to increase physician adoption
+                                         of the SmartVest System for patients. 
+ 
+Impacts
+of COVID-19 on Our Business and Operations
+ 
+In
+March 2020, the World Health Organization designated COVID-19 as a global pandemic, and the U.S. Department of Health and Human
+Services designated COVID-19 as a public health emergency (“PHE”). In response to the COVID-19 pandemic and the U.S.
+federal government’s declaration of a PHE, the Centers for Medicare & Medicaid Services (“CMS”) implemented
+several temporary rule changes and waivers to allow prescribers to best treat patients during the period of the PHE. These waivers
+became effective on March 1, 2020. Clinical indications and documentation typically required were not enforced for respiratory-related
+products, including the SmartVest System (solely with respect to Medicare patients).
+ 
+On
+January 30, 2023, the Biden administration announced that the COVID-19 national and PHE declarations will end on May 11, 2023.
+The CMS waiver was not extended and expired on May 11, 2023. We believe that we were able to mitigate the potential effects on
+our net revenue resulting from the expiration of the CMS waiver by hiring additional employees to increase capacity and minimize
+the average timeframe to convert a Medicare patient referral to approval and re-educating clinicians on Medicare requirements
+for reimbursement of HFCWO.
+ 
+We
+did not receive any direct financial assistance from any government program during fiscal 2022 or fiscal 2023 in connection with
+COVID-19 relief measures.
+ 
+Impacts
+of Certain Macro-Economic Conditions and the Supply Chain on Our Business and Operations 
+ 
+We
+observed increased lead times for certain components in our supply chain and increased material costs and shipping rates during
+the second half of fiscal 2022 and all of fiscal 2023. The changes to our supply chain lead times resulted in a temporary interruption
+that impacted product availability for certain customers beginning in September 2022 and continuing through June 2023. We anticipate
+that these increased lead times and temporary interruption of supply have the potential to continue through the first half of
+fiscal 2024. If we are unable to procure components to meet our demand or if we extend delivery lead-times to our customers, there
+may be an adverse impact to our revenue and, longer term, the potential of market share losses. We are taking actions to expedite
+components and to identify and qualify alternate suppliers for certain components to minimize any impact to our revenue and customer
+deliveries. We expect that material costs and shipping rates will remain elevated during the first half of fiscal 2024 relating
+to supply chain availability and inflationary trends in electronic components and may extend to other components. In certain instances,
+we have purchased key electronic materials in advance to ensure adequate future supply and mitigate the risk of potential supply
+chain disruptions. It is possible that these macro-economic conditions could have a greater adverse impact on our supply chain
+in the future, including impacts associated with preventative and precautionary measures taken by other businesses and applicable
+governments. A reduction or further interruption in any of our manufacturing processes could have a material adverse effect on
+our business. Any significant increases to our raw material or shipping costs could reduce our gross margins.
+ 
+ 
+ 
+ 
+Critical
+Accounting Estimates
+ 
+During
+the preparation of our financial statements, we are required to make estimates, assumptions and judgment that affect reported
+amounts. Those estimates and assumptions affect our reported amounts of assets and liabilities, our disclosure of contingent assets
+and liabilities, and our reported revenues and expenses. We update these estimates, assumptions, and judgment as appropriate.
+Some of our accounting policies and estimates require us to exercise significant judgment in selecting the appropriate assumptions
+for calculating financial statements. Such judgments are subject to an inherent degree of uncertainty. Among other factors, these
+judgments are based upon our historical experience, known trends in our industry, terms of existing contracts and other information
+from outside sources, as appropriate. The following is a summary of our primary critical accounting policies and estimates. See
+also Note 1 to the Financial Statements, included in Part II, Item 8, of this Annual Report on Form 10-K.
+ 
+Revenue
+Recognition
+ 
+Revenue
+is measured based on consideration specified in the contract with a customer, adjusted for any applicable estimates of variable
+consideration and other factors affecting the transaction price, including consideration paid or payable to customers and significant
+financing components. Revenue from all customers is recognized when a performance obligation is satisfied by transferring control
+of a distinct good or service to a customer.
+ 
+Individual
+promised goods and services in a contract are considered a performance obligation and accounted for separately if the individual
+good or service is distinct (i.e., the customer can benefit from the good or service on its own or with other resources that are
+readily available to the customer and the good or service is separately identifiable from other promises in the arrangement).
+If an arrangement includes multiple performance obligations, the consideration is allocated between the performance obligations
+in proportion to their estimated standalone selling price, unless discounts or variable consideration is attributable to one or
+more but not all the performance obligations. Costs related to products delivered are recognized in the period incurred, unless
+criteria for capitalization of costs under Accounting Standards Codification (“ASC”) 340-40, “Other Assets and
+Deferred Costs,” or the requirements under other applicable accounting guidance are met.
+ 
+The
+Company includes shipping and handling fees in net revenues. Shipping and handling costs associated with the shipment of the Company’s
+SmartVest System after control has transferred to a customer are accounted for as a fulfillment cost and are included in cost
+of revenues.
+ 
+We
+request that customers return previously sold units that are no longer in use to us to limit the possibility that such units would
+be resold by unauthorized parties or used by individuals without a prescription. The customer is under no obligation to return
+the product; however, we do reclaim the majority of previously sold units upon the discontinuance of patient usage. We are certified
+to recondition and resell returned SmartVest System units. Returned units are typically reconditioned and resold and continue
+to be used for demonstration equipment and warranty replacement parts.
+ 
+Inventory
+Valuation
+ 
+Inventories
+are stated at the lower of cost (first-in, first-out method) or net realizable value. Work in process and finished goods are carried
+at standard cost, which approximates actual cost, and includes materials, labor and allocated overhead. The reserve for obsolescence
+is determined by analyzing the inventory on hand and comparing it to expected future sales. Estimated inventory to be returned
+is based on how many devices that have shipped that are expected to be returned prior to completion of the insurance reimbursement
+process.
+ 
+ 
+ 
+ 
+Warranty
+Reserve
+ 
+The
+Company provides a lifetime warranty on its products to the prescribed patient for sales within the U.S. and a three-year warranty
+for all institutional sales and sales to individuals outside the U.S. The Company estimates the costs that may be incurred under
+its warranty and records a liability in the amount of such costs at the time the product is shipped. Factors that affect the Company’s
+warranty reserve include the number of units shipped, historical and anticipated rates of warranty claims, the product’s
+useful life and cost per claim. The Company periodically assesses the adequacy of its recorded warranty reserve and adjusts the
+amounts as necessary.
+ 
+Share-Based
+Compensation
+ 
+Share-based
+payment awards consist of options to purchase shares of our common stock issued to employees. Expense for share-based payment
+awards consist of options to purchase shares of our common stock issued to employees for services. Expense for options is estimated
+using the Black-Scholes pricing model at the date of grant and expense for restricted stock is determined by the closing price
+on the day the grant is made. Expense is recognized on a straight-line basis over the requisite service or vesting period of the
+award, or at the time services are provided for non-employee awards. In determining the fair value of options, we make various
+assumptions using the Black-Scholes pricing model, including expected risk-free interest rate, stock price volatility, and life.
+See Note 8 to the Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for a description of these
+assumptions.
+ 
+ 
+ 
+ 
+Results
+of Operations
+ 
+Fiscal
+Year Ended June 30, 2023 Compared to Fiscal Year Ended June 30, 2022
+ 
+Revenues
+
+ 
+Revenue
+for the fiscal years ended June 30, 2023 and 2022 are summarized in the table below.
+ 
+
+
+
+    
+ 
+ 
+Fiscal
+    Years Ended June 30,
+ 
+ 
+ 
+
+    
+ 
+ 
+2023
+ 
+ 
+2022
+ 
+ 
+Increase
+    (Decrease)
+ 
+
+    
+Home Care Revenue
+ 
+$
+43,945,000
+ 
+ 
+$
+38,004,000
+ 
+ 
+$
+5,941,000
+ 
+ 
+ 
+15.6
+%
+
+    
+Institutional Revenue
+ 
+ 
+2,080,000
+ 
+ 
+ 
+1,660,000
+ 
+ 
+ 
+420,000
+ 
+ 
+ 
+25.3
+%
+
+    
+Home Care Distributor Revenue
+ 
+ 
+1,618,000
+ 
+ 
+ 
+1,474,000
+ 
+ 
+ 
+144,000
+ 
+ 
+ 
+9.8
+%
+
+    
+International Revenue
+ 
+ 
+424,000
+ 
+ 
+ 
+521,000
+ 
+ 
+ 
+(97,000
+)
+ 
+ 
+(18.6
+%)
+
+    
+Total Revenue
+ 
+$
+48,067,000
+ 
+ 
+$
+41,659,000
+ 
+ 
+$
+6,408,000
+ 
+ 
+ 
+15.4
+%
+ 
+Home
+Care Revenue.
+ 
+The
+CMS waiver benefited the non-commercial Medicare portion of our home care revenue by increasing the number of referrals and the
+approval percentage for previously non-covered diagnoses. We believe that our ongoing sales team execution, along with the return
+to pre-COVID-19 levels of patient face-to-face engagement with physicians and clinic access for our sales team mitigated the fourth
+quarter homecare revenue impact of the CMS waiver expiration on May 11, 2023.
+ 
+Institutional
+Revenue.
+ 
+Home
+Care Distributor Revenue.
+ 
+International
+Revenue.
+ 
+Gross
+Profit 
+ 
+Gross
+profit increased to $36,519,000 in fiscal 2023, or 76.0% of net revenues, from $31,442,000 or 75.5% of net revenues, in fiscal
+2022. The increase in gross profit was primarily related to increases in domestic home care revenue including the Medicare allowable
+rate increase that took effect in January 2023.
+ 
+ 
+ 
+ 
+We
+have a goal of improving our gross margin percentage over time due to cost savings initiatives associated with Clearway, supplier
+optimization, and gaining operating leverage on higher volumes.
+ 
+Operating
+Expenses 
+ 
+Selling,
+General and Administrative Expenses.
+ 
+SG&A
+payroll and compensation-related expenses including health insurance benefits and other compensation increased by $2,629,000,
+or 14.7%, to $20,552,000 in fiscal 2023, compared to $17,923,000 in fiscal 2022. The increase in the current year was primarily
+due to a higher average number of sales, sales support and marketing personnel, increased reimbursement personnel to process higher
+patient referrals, increased temporary resources to assist with systems infrastructure investments and increased incentive payments
+on higher home care revenue. We have also continued to provide regular merit-based increases for our employees and are regularly
+benchmarking our compensation ranges for new and existing employees to ensure we can hire and retain the talent needed to drive
+growth in our business. Field sales employees totaled 55, of which 46 were direct sales, as of June 30, 2023, compared to 52 as
+of June 30, 2022, of which 43 were direct sales. We expect to continue to expand our salesforce to align with our revenue growth
+projections.
+ 
+Professional
+and legal fees, including recruiting and insurance expenses, increased by $859,000, or 19.4%, to $5,284,000 in fiscal 2023, compared
+to $4,425,000 in fiscal 2022. Professional fees include services related to legal costs, shareowner services and reporting requirements,
+information technology technical support and consulting fees. The increase in the current year was primarily due to an increased
+investment in our system infrastructure and increased clinical study costs. We continue to make key investments in systems infrastructure
+including implementing a new enterprise resource planning system, enhancing our customer relationship management system and further
+optimizing of the revenue cycle management system that was implemented in June 2021. We expect these system infrastructure investments
+will result in more efficient and scalable operational processes and provide enhanced analytics to drive business performance.
+ 
+Total
+discretionary marketing expenses increased by $211,000, or 25.6% to $1,035,000 in fiscal 2023, compared to $824,000 in fiscal
+2022. The increase in the current year was primarily due to discretionary investment in market research, physician marketing,
+and peer to peer education engagement strategies.
+ 
+Travel,
+meals and entertainment expenses increased $422,000, or 16.4%, to $2,990,000 for fiscal 2023 compared to $2,568,000 in fiscal
+2022. The increase in the current year period was primarily due to an increase in headcount and our annual sales meeting expenses.
+ 
+Research
+and Development Expenses 
+ 
+R&D
+expenses decreased by $440,000, or 32.4%, to $916,000 in fiscal 2023 compared to $1,356,000 in fiscal 2022. The decrease in the
+current year was primarily due to reduced professional consulting costs associated with our next generation platform development
+activities. R&D expenses were 1.9% of revenue in fiscal 2023 compared to 3.3% of revenue in fiscal 2022. We expect R&D
+spending to be between 1.0% and 2.0% of revenue during fiscal 2024.
+ 
+Interest
+Income, net
+ 
+Net
+interest income was approximately $78,000 in fiscal 2023 compared to net interest income of $25,000 in fiscal 2022. The increase
+in the current year was primarily due to higher interest rates earned on our cash deposits despite lower overall cash balances
+in the current year.
+ 
+Income
+Tax Expense
+ 
+Income
+tax expense in fiscal 2023 was $920,000, which includes a current tax expense of $963,000 and a deferred benefit of $43,000. Estimated
+income tax expense includes a current federal and state tax benefit of approximately $250,000 related to the excess tax benefit
+for fully vested stock options and non-qualified stock options that were exercised during the period.
+ 
+ 
+ 
+ 
+Income
+tax expense in fiscal 2022 was $692,000, which included a current tax expense of $1,181,000 and a deferred benefit of $489,000.
+Estimated income tax expense included a current federal and state tax benefit of approximately $12,000 related to excess tax benefit
+for fully vested stock options and non-qualified stock options that were exercised during the period.
+ 
+The
+effective tax rates were 22.5% and 23.1% for fiscal 2023 and 2022, respectively. The effective tax rates differ from the statutory
+federal rate because of state income taxes, R&D tax credits, and other permanent items that are non-deductible for tax purposes
+relative to the amount of taxable income.
+ 
+Net
+Income
+ 
+Net
+income for fiscal 2023 was $3,166,000, compared to net income of $2,305,000 in fiscal 2022. The increase in current year net income
+was primarily due to stronger home care and distributor revenue growth.
+ 
+Liquidity
+and Capital Resources
+ 
+Cash
+Flows and Sources of Liquidity
+ 
+Cash
+Flows from Operating Activities
+ 
+Net cash provided by operating activities in fiscal 2023 was $1,315,000. Cash flows from operating activities consisted of net income of $3,166,000, non-cash expenses of approximately $1,278,000, a decrease in prepaid expenses of $202,000 an increase in tax payable of approximately $285,000 and a $696,000 increase in accounts payable and accrued liabilities, and accrued compensation. These cash flows from operating activities were offset by a $3,078,000 increase in accounts receivable, an increase in inventory of $1,033,000, and a $201,000 increase in contract assets. The increase in accounts receivable was primarily due to an increase in the Medicare portion of our home care business, which has a 13-month payment cycle.  The increase in inventory was primarily due to an increase in raw materials associated with the launch of Clearway. Our cash receipt collection remains strong, with the three months ended June 30, 2023, period having the highest cash receipt collections in our company's history, building upon the prior record that was set in the previous quarter.
+ 
+Cash
+Flows from Investing Activities
+ 
+Net
+cash used in investing activities in fiscal 2023 was approximately $1,716,000. Cash used in investing activities consisted of
+approximately $1,648,000 in expenditures for property and equipment, approximately $1,083,000 for software and $565,000 for equipment,
+and $68,000 in payments for patent and trademark costs.
+ 
+Cash
+Flows from Financing Activities
+ 
+Net
+cash used in financing activities in fiscal 2023 was approximately $380,000, consisting of $153,000 used for our share repurchase
+program and $310,000 for taxes paid on net share settlements of stock option exercises offset by $83,000 of cash provided by the
+issuance of common stock upon exercise of options.
+ 
+Adequacy
+of Capital Resources
+ 
+Our
+primary working capital requirements relate to adding employees to our sales force and support functions, continuing infrastructure
+investments, and supporting general corporate needs, including financing equipment purchases and other capital expenditures incurred
+in the ordinary course of business. Based on our current operational performance, we believe our working capital of approximately
+$29,734,000 and available borrowings under our existing credit facility will provide adequate liquidity for fiscal 2024.
+ 
+Effective
+December 17, 2021, we renewed our credit facility, which provides us with a revolving line of credit. Interest on borrowings on
+the line of credit accrues at the prime rate (8.25% as of June 30, 2023) less 1.0% and is payable monthly. There was no outstanding
+principal balance on the line of credit as of June 30, 2023 or June 30, 2022. The amount eligible for borrowing on the line of
+credit is limited to the lesser of $2,500,000 or 57.0% of eligible accounts receivable, and the line of credit expires on December
+18, 2023, if not renewed. As of June 30, 2023, the maximum $2,500,000 was available under the line of credit. Payment obligations
+under the line of credit are secured by a security interest in substantially all of our tangible and intangible assets.
+ 
+ 
+ 
+ 
+The
+documents governing our line of credit contain certain financial and nonfinancial covenants that include a minimum tangible net
+worth of not less than $10,125,000 and restrictions on our ability to incur certain additional indebtedness or pay dividends.
+ 
+Any
+failure to comply with these covenants in the future may result in an event of default, which if not cured or waived, could result
+in the lender accelerating the maturity of our indebtedness, preventing access to additional funds under the line of credit, requiring
+prepayment of outstanding indebtedness, or refusing to renew the line of credit. If the maturity of the indebtedness is accelerated
+or the line of credit is not renewed, sufficient cash resources to satisfy the debt obligations may not be available and we may
+not be able to continue operations as planned. If we are unable to repay such indebtedness, the lender could foreclose on these
+assets.
+ 
+During
+fiscal 2023 and 2022, we spent approximately $1,648,000 and $1,425,000, respectively, on property and equipment. We currently
+expect to finance planned equipment purchases with cash flows from operations or borrowings under our credit facility. We may
+need to incur additional debt if we have an unforeseen need for additional capital equipment or if our operating performance does
+not generate adequate cash flows.
+ 
+While
+the impact of macroeconomic conditions and other factors such as inflation are difficult to predict, we believe our cash, cash
+equivalents and cash flows from operations will be sufficient to meet our working capital, capital expenditure, operational cash
+requirements for fiscal 2024.
+ 
+Accounting
+Standards Recently Issued But Not Yet Adopted by the Company 
+ 
+See
+Note 1 of the Notes to our Financial Statements in this Annual Report on Form 10-K for information on new accounting standards
+adopted in fiscal 2023 or pending adoption.
+ 
+

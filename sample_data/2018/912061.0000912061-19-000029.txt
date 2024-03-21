@@ -1,0 +1,795 @@
+Table of Contents
+Item 7.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Business Overview
+ 
+We are an international direct-selling and e-commerce company. Subsidiaries controlled by us sell personal care, wellness, and “quality of life” products under the “NHT Global” brand.  Our wholly-owned subsidiaries have an active physical presence in the following markets: the Americas, which consists of the United States, Canada, Cayman Islands, Mexico and Peru; Greater China, which consists of Hong Kong, Taiwan and China; Southeast Asia, which consists of Singapore, Malaysia, Thailand and Vietnam; South Korea; Japan; India; and Europe. We also operate in Russia and Kazakhstan through our engagement with a local service provider. See Note 11 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report for further information about our net sales by geographic area. 
+ 
+As of December 31, 2018, we were conducting business through 
+97,840
+ active members, compared to 
+95,670
+ in 
+2017
+. We consider a member “active” if they have placed at least one product order with us during the preceding year. Our priority is to focus our resources in our most promising markets, which we consider to be Greater China and countries where our existing members have the connections to recruit prospects and sell our products, such as Southeast Asia, India, South America and Europe. 
+ 
+We generate approximately 
+96%
+ of our net sales from subsidiaries located outside the Americas, with sales of our Hong Kong subsidiary representing 
+88%
+ of net sales in the latest fiscal year. Because of the size of our foreign operations, operating results can be impacted negatively or positively by factors such as foreign currency fluctuations, and economic, political and business conditions around the world. In addition, our business is subject to various laws and regulations, in particular, regulations related to direct selling activities that create uncertain risks for our business, including improper claims or activities by our members and potential inability to obtain necessary product registrations.  For further information regarding some of the risks associated with the conduct of our business in China, see “Item 1A. Risk Factors,” and more specifically under the captions “Risk Factors - Because our Hong Kong operations account for a substantial portion of our overall business...” and “Risk Factors - Our operations in China are subject to compliance with a myriad of applicable laws and regulations...”.
+ 
+China has been and continues to be our most important business development project.  We operate an e-commerce direct selling model in Hong Kong that generates revenue derived from the sale of products to members in Hong Kong and elsewhere, including China.  Substantially all of our Hong Kong revenues are derived from the sale of products that are delivered to members in China.  Through a separate Chinese entity, we operate an e-commerce retail platform in China.  We believe that neither of these activities require a direct selling license in China, which we do not currently hold.  We have previously sought to obtain a direct selling license, and in August 2015 initiated the process for submitting a new preliminary application for a direct selling license in China.  If we are able to obtain a direct selling license in China, we believe that the incentives inherent in the direct selling model in China would incrementally benefit our existing business. We do not expect that any increased sales in China derived from obtaining a direct selling license would initially be material and, in any event may be partially offset by the higher fixed costs associated with the establishment and maintenance of required service centers, branch offices, manufacturing facilities, certification programs and other legal requirements.  We are unable to predict whether and when we will be successful in obtaining a direct selling license to operate in China, and if we are successful, when we will be permitted to conduct direct selling operations and whether such operations would be profitable.
+To date, the recently enacted tariffs and the trade disputes between the United States and China have not materially impacted our business, although they may have negatively impacted the value of the Chinese yuan, which has in turn negatively affected our Hong Kong revenues because the prices at which our Chinese members can purchase our products have effectively increased. In the event the trade disputes between the United States and China continue or intensify, our business could be negatively impacted in the future. For more information, see “Item 1A. Risk Factors - Recently enacted tariffs, other potential changes to tariff and import/export regulations, and ongoing trade disputes between the United States and other jurisdictions, particularly China, may have a negative effect on global economic conditions and our business, financial results and financial condition.”
+On January 8, 2019, the Chinese government announced a comprehensive 100-day campaign focusing on companies involved in the sale of food, equipment, daily necessities, small home electrical appliances and services that are claimed to promote health.  The Chinese government ministries in charge of this campaign indicated that they are targeting illegal practices in the industry, particularly the manufacture and sale of counterfeit and substandard products, and false advertising and misleading claims as to the health benefits of products and services.  It is understood that the campaign is specifically focused on the business practices of direct selling companies.  During the campaign, we understand that the government will not issue any additional direct selling licenses, will cease issuing certifications of quality or other approvals of various 
+27
+Table of Contents
+healthcare products, and will review its regulatory oversight of the industry.  We believe that the campaign will negatively impact our business in China in the short-term, but will benefit us and Chinese consumers in the long-term as purveyors of substandard products are driven from the market.  The short-term impact of the campaign may have a significant impact on our business, as we, like some of our peers, voluntarily decided in January 2019 to temporarily suspend our member activities, such as product roadshows, product trainings and larger company-sponsored events, in China.  We did this because we have learned that the 100-day campaign was announced in broad outlines by the central government, and the interpretation and enforcement of the campaign was delegated to the provincial and local governments.  We consider it a top priority for our business to develop an understanding of and cooperate with all levels and jurisdictions of the government agencies, and did not want to run the risk of being inadvertently entangled in government enforcement actions.  Although we understand the 100-day campaign would have expired on or about April 18, 2019, we are not aware of any information indicating that the campaign has been concluded.  In any case, these recent events and our currently effective suspension of member activities are negatively impacting our business in Hong Kong and China, and we expect that Hong Kong net sales (substantially all of which were derived from products shipped to members residing in China) for the first half of 2019, and possibly beyond, will be substantially lower than comparable periods in 2018.  This anticipated decline in revenue will likely be greater than our ability to correspondingly reduce expenses, which could result in negative cash flows and a decreasing cash balance.  See “Item 1A.  Risk Factors - Our operations in China are subject to compliance with a myriad of applicable laws and regulations...”.
+Income Statement Presentation
+ 
+We mainly derive revenue from sales of products. Substantially all of our product sales are to independent members at published wholesale prices. Product sales are recognized when the products are shipped and title passes to independent members, which generally is upon our delivery to the carrier that completes delivery to the members. We estimate and accrue a reserve for product returns based on our return policies and historical experience. We bill members for shipping charges and recognize the freight revenue in net sales. We have elected to account for shipping and handling activities performed after title has passed to members as a fulfillment cost, and accrue for the costs of shipping and handling if revenue is recognized before the contractually obligated shipping and handling activities occurs. Event and training revenue is deferred and recognized as the event or training occurs. 
+ 
+Cost of sales consists primarily of products purchased from third-party manufacturers, freight cost for transporting products to our foreign subsidiaries and shipping products to members, import duties, packing materials, product royalties, costs of promotional materials sold to our members at or near cost, and provisions for slow moving or obsolete inventories. Cost of sales also includes purchasing costs, receiving costs, inspection costs and warehousing costs.
+ 
+Member commissions
+ 
+are our most significant expense and are classified as an operating expense. Under our compensation plan, members are paid weekly commissions by our subsidiary in which they are enrolled, generally in their home country currency, for product purchases by their down-line member network across all geographic markets. Our China subsidiary maintains an e-commerce retail platform and does not pay commissions, although our Chinese members may participate in our compensation plan through our other subsidiaries. This “seamless” compensation plan enables a member located in one country to enroll other members located in other countries where we are authorized to conduct our business. Currently, there are basically two ways in which our members can earn income:
+•
+through commissions paid on the accumulated bonus volume from product purchases made by their down-line members and customers; and
+•
+through retail profits on sales of products purchased by members at wholesale prices and resold at retail prices (for purchasers in some of our smaller markets and purchasers from our China subsidiary, sales are for personal consumption only and income may not be earned through retail profits).
+ 
+Each of our products is designated a specified number of bonus volume points. Commissions are based on total personal and group bonus volume points per weekly sales period. Bonus volume points are essentially a percentage of a product’s wholesale price. As the member’s business expands from successfully enrolling other members who in turn expand their own businesses by selling product to other members, the member receives higher commissions from purchases made by an expanding down-line network. In some of our markets, to be eligible to receive commissions, a member may be required to make nominal monthly or other periodic purchases of our products. Certain of our subsidiaries do not require these nominal purchases for a member to be eligible to receive commissions. In determining commissions, the number of levels of down-line members included within the member’s commissionable group increases as the number of memberships directly below the member increases. 
+28
+Table of Contents
+Under our current compensation plan, certain of our commission payouts may be limited to a hard cap dollar amount per week or a specific percentage of total product sales. In some markets, commissions may be further limited. In some markets, we also pay certain bonuses on purchases by up to three generations of personally sponsored members, as well as bonuses on commissions earned by up to seven generations of personally sponsored members. Members can also earn additional income, trips and other prizes in specific time-limited promotions and contests we hold from time to time. Member commissions are dependent on the sales mix and, for each of fiscal 
+2018
+ and 
+2017
+ represented 
+46%
+ and 
+42%
+, respectively, of net sales. Occasionally, we make modifications and enhancements to our compensation plan to help motivate members, which can have an impact on member commissions. We may also enter into performance-based agreements for business or market development, which can result in additional compensation to specific members.
+ 
+Selling, general and administrative expenses consist of administrative compensation and benefits, travel, credit card fees and assessments, professional fees, certain occupancy costs, and other corporate administrative expenses (including stock-based compensation). In addition, this category includes selling, marketing, and promotion expenses (including the costs of member training events and conventions that are designed to increase both product awareness and member recruitment). Because our various member conventions are not always held at the same time each year, interim period comparisons will be impacted accordingly. 
+The functional currency of our international subsidiaries is generally their local currency. Local currency assets and liabilities are translated at the rates of exchange on the balance sheet date, and local currency revenues and expenses are translated at average rates of exchange during the period. Equity accounts are translated at historical rates.  The resulting translation adjustments are recorded directly into accumulated other comprehensive income.
+ 
+Sales by our foreign subsidiaries are generally transacted in the respective local currencies and are translated into U.S. dollars using average rates of exchange for each monthly accounting period to which they relate.  Most of our product purchases from third-party manufacturers are transacted in U.S. dollars.  Consequently, our sales and net earnings are affected by changes in currency exchange rates, with sales and earnings generally increasing with a weakening U.S. dollar and decreasing with a strengthening U.S. dollar. 
+Results of Operations
+ 
+The following table sets forth our operating results as a percentage of net sales for the periods indicated:
+ 
+Year Ended December 31,
+ 
+2018
+ 
+2017
+Net sales
+100.0
+%
+ 
+100.0
+%
+Cost of sales
+20.5
+ 
+19.6
+Gross profit
+79.5
+ 
+80.4
+Operating expenses:
+ 
+ 
+ 
+Commissions expense
+45.6
+ 
+42.3
+Selling, general and administrative expenses
+16.3
+ 
+16.3
+Total operating expenses
+61.9
+ 
+58.6
+Income from operations
+17.6
+ 
+21.8
+Other income, net
+0.4
+ 
+0.2
+Income before income taxes
+18.0
+ 
+22.0
+Income tax provision
+1.8
+ 
+10.0
+Net income
+16.2
+%
+ 
+12.0
+%
+ 
+29
+Table of Contents
+Net Sales
+The following table sets forth revenue by market for the periods indicated (in thousands):
+ 
+Year Ended December 31,
+ 
+2018
+ 
+2017
+Americas
+1
+$
+6,982
+ 
+3.6
+%
+ 
+$
+5,794
+ 
+2.9
+%
+Hong Kong
+2
+169,452
+ 
+88.3
+ 
+174,926
+ 
+88.5
+China
+7,744
+ 
+4.0
+ 
+7,282
+ 
+3.7
+Taiwan
+3,964
+ 
+2.1
+ 
+5,591
+ 
+2.8
+South Korea
+493
+ 
+0.3
+ 
+466
+ 
+0.2
+Japan
+204
+ 
+0.1
+ 
+129
+ 
+0.1
+Singapore
+169
+ 
+0.1
+ 
+184
+ 
+0.1
+Malaysia
+390
+ 
+0.2
+ 
+—
+ 
+—
+Russia and Kazakhstan
+868
+ 
+0.4
+ 
+913
+ 
+0.5
+Europe
+1,644
+ 
+0.9
+ 
+2,278
+ 
+1.2
+Total
+$
+191,910
+ 
+100.0
+%
+ 
+$
+197,563
+ 
+100.0
+%
+_____________________________
+1
+ 
+United States, Canada, Mexico and Peru.
+2
+ 
+Substantially all of our Hong Kong revenues are derived from the sale of products that are delivered to members in China. See “Item 1A. Risk Factors”.
+ 
+Net sales were 
+$191.9 million
+ for the year ended 
+December 31, 2018
+ compared with 
+$197.6 million
+ a year ago, a decrease of $5.7 million, or 
+3%
+.  Hong Kong net sales, substantially all of which were derived from the sale of products shipped to members residing in China, decreased 
+$5.5 million
+, or 
+3%
+, over the prior year. The sales decrease was primarily attributable to current challenging market conditions of increased global trade tensions, China’s slowing economy and a weaker Chinese currency. 
+ 
+Outside of our Hong Kong business, net sales decreased 
+$179,000
+, or 
+1%
+, compared with the prior year, driven by a 29% decrease in our Taiwan business and offset by a 21% increase in Americas. 
+ 
+As of 
+December 31, 2018
+, deferred revenue was 
+$6.8 million
+, which primarily consisted of 
+$4.6 million
+ in unshipped product orders and 
+$1.9 million
+ pertaining to auto ship advances.
+ 
+Gross Profit
+ 
+Gross profit was 
+79.5%
+ of net sales for the year ended 
+December 31, 2018
+ compared with 
+80.4%
+ of net sales for the year ended 
+December 31, 2017
+. The gross profit margin percentage decrease was primarily due to lower event revenue and product promotions in our China e-commerce business, our Noni Juice promotions and higher freight costs.
+ 
+Commissions
+ 
+Commissions were 
+45.6%
+ of net sales for the year ended 
+December 31, 2018
+ compared with 
+42.3%
+ of net sales for the year ended 
+December 31, 2017
+. The increase as a percentage of net sales was primarily due to higher costs for supplemental on-going cash and other incentive programs. 
+ 
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses were 
+$31.3 million
+ for the year ended 
+December 31, 2018
+ compared with 
+$32.2 million
+ for the year ended 
+December 31, 2017
+. Selling, general and administrative expenses decreased by 
+$912,000
+, or 
+3%
+, mainly due to decreases in professional fees as compared to the year ended 
+December 31, 2017
+.
+ 
+30
+Table of Contents
+Income Taxes
+ 
+An income tax provision of 
+$3.5 million
+ was recognized for the year ended 
+December 31, 2018
+ compared with 
+$19.8 million
+ for the year ended 
+December 31, 2017
+. The decrease is due primarily to the impact of the one-time transition tax on the December 31, 2017 tax year as a result of the enactment of the Tax Cuts and Jobs Act (the “Tax Act”) on December 22, 2017 by the U.S. government. One major provision of the Tax Act, however, increased our effective tax rate for the year ended December 31, 2018. The Global Intangible Low-Taxed Income (“GILTI”) provision, effective for the year ended December 31, 2018, subjects U.S. taxpayers owning at least 10% of a foreign controlled corporation to current taxation on the earnings and profits of the foreign corporation.  We have accounted for GILTI as a current period expense (“period cost method”). 
+Liquidity and Capital Resources
+ 
+At 
+December 31, 2018
+, our cash and cash equivalents totaled 
+$132.7 million
+. Total cash and cash equivalents decreased by $2.6 million at December 31, 2018, as compared to December 31, 2017.  We consider all highly liquid investments with original maturities of three months or less, when purchased, to be cash equivalents.  As of 
+December 31, 2018
+, we had 
+$85.3 million
+ in available-for-sale investments classified as cash equivalents. In addition, cash and cash equivalents included 
+$11.1 million
+ held in banks located in China subject to foreign currency controls.
+ 
+At 
+December 31, 2018
+, the ratio of current assets to current liabilities was 
+3.49
+ to 1.00 and we had 
+$107.1 million
+ of working capital. Working capital as of 
+December 31, 2018
+ decreased $2.2 million compared to our working capital as of 
+December 31, 2017
+, due primarily to the decrease in cash and cash equivalents as stated above and an increase in accrued commissions of $1.3 million when comparing the periods.
+Cash provided by operations during 
+2018
+ was 
+$29.7 million
+ compared to 
+$26.6 million
+ during 
+2017
+. The increase in operating cash flows resulted primarily from lower employee-related costs and eWallet balances paid during 2018, partially offset by an increase in inventories and inventory-related deposits as we build up our inventory in Greater China to enhance our ability to navigate the challenging and uncertain international trade environment.
+Cash flows used in investing activities totaled 
+$214,000
+ during 
+2018
+ and consisted primarily of buildout costs in our Hong Kong and California offices and capitalizable software development costs. Cash flows used in investing activities totaled $278,000 during the year ended December 31, 2017 and consisted primarily of capitalizable software development costs and buildout costs for our expansion into Peru and Vietnam. 
+Cash flows used in financing activities during 
+2018
+ consisted solely of the following cash dividend payments (in thousands, except per share amounts) to holders of our common stock:
+Declaration Date
+ 
+Per Share
+ 
+Amount
+ 
+Record Date
+ 
+Payment Date
+October 21, 2018 (special)
+ 
+$
+0.18
+ 
+$
+2,048
+ 
+November 13, 2018
+ 
+November 23, 2018
+October 21, 2018
+ 
+0.16
+ 
+1,820
+ 
+November 13, 2018
+ 
+November 23, 2018
+July 18, 2018 (special)
+ 
+0.25
+ 
+2,844
+ 
+August 14, 2018
+ 
+August 24, 2018
+July 18, 2018
+ 
+0.15
+ 
+1,707
+ 
+August 14, 2018
+ 
+August 24, 2018
+April 17, 2018 (special)
+ 
+1.76
+ 
+20,022
+ 
+May 15, 2018
+ 
+May 25, 2018
+April 17, 2018
+ 
+0.14
+ 
+1,592
+ 
+May 15, 2018
+ 
+May 25, 2018
+February 6, 2018
+ 
+0.13
+ 
+1,479
+ 
+February 27, 2018
+ 
+March 9, 2018
+Total
+ 
+$
+2.77
+ 
+$
+31,512
+ 
+ 
+ 
+ 
+Subsequent to 
+December 31, 2018
+, on 
+January 27, 2019
+, the Board of Directors declared a quarterly cash dividend of 
+$0.16
+, as well as a special cash dividend of $0.08 on each share of common stock outstanding. The dividends were paid on 
+March 15, 2019
+ to stockholders of record on 
+March 5, 2019
+. Declaration and payment of any future dividends on shares of common stock will be at the discretion of our Board of Directors.
+Cash flows used in financing activities during 2017 consisted solely of dividend payments totaling $17.2 million. 
+We believe that our existing internal liquidity, supported by cash on hand and cash flows from operations should be adequate to fund normal business operations and address our financial commitments for the foreseeable future.
+ 
+31
+Table of Contents
+We do not have any significant unused sources of liquid assets. If necessary, we may attempt to generate more funding from the capital markets, but currently do not believe that will be necessary.
+Our priority is to focus our resources on investing in our most important markets, which we consider to be Greater China and countries where our existing members may have the connections to recruit prospects and sell our products, such as Southeast Asia, India, South America and Europe.  We will continue to invest in our Mainland China entity for such purposes as establishing China-based manufacturing capabilities, increasing public awareness of our brand and our products, sourcing more Chinese-made products, building a chain of service stations, opening additional Healthy Lifestyle Centers or branch offices, adding local staffing and other requirements for a China direct selling license application. 
+Quarterly Results of Operations (Unaudited)
+The following table sets forth unaudited quarterly operating results for each of the last eight fiscal quarters. The information for each of these quarters has been prepared on the same basis as the audited annual financial statements included elsewhere in this annual report and, in the opinion of management, includes all adjustments, which includes only normal recurring adjustments, necessary for the fair statement of the results of operations for these periods. This data should be read in conjunction with our audited consolidated financial statements and related notes included in “Item 8. Financial Statements and Supplementary Data” of this annual report. These quarterly operating results are not necessarily indicative of our operating results for any future period.
+ 
+2018
+ 
+2017
+ 
+4th
+Quarter
+ 
+3rd
+Quarter
+ 
+2nd
+Quarter
+ 
+1st
+Quarter
+ 
+4th
+1
+ 
+3rd
+ 
+2nd
+ 
+1st
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(In Thousands, Except Per Share Data)
+Net sales
+$
+41,590
+ 
+$
+47,043
+ 
+$
+50,910
+ 
+$
+52,367
+ 
+$
+46,092
+ 
+$
+40,132
+ 
+$
+51,465
+ 
+$
+59,874
+Gross profit
+32,769
+ 
+37,117
+ 
+40,511
+ 
+42,146
+ 
+36,668
+ 
+31,949
+ 
+41,672
+ 
+48,629
+Income from operations
+5,733
+ 
+7,847
+ 
+10,108
+ 
+10,044
+ 
+8,686
+ 
+8,514
+ 
+12,867
+ 
+12,992
+Net income (loss)
+5,559
+ 
+7,629
+ 
+9,023
+ 
+8,824
+ 
+(4,488
+)
+ 
+7,338
+ 
+10,303
+ 
+10,425
+Net income (loss) per common share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+0.49
+ 
+0.67
+ 
+0.80
+ 
+0.78
+ 
+(0.40
+)
+ 
+0.65
+ 
+0.92
+ 
+0.93
+Diluted
+0.49
+ 
+0.67
+ 
+0.80
+ 
+0.78
+ 
+(0.40
+)
+ 
+0.65
+ 
+0.91
+ 
+0.93
+_____________________________
+1
+ Reflects the impact of the Tax Cuts and Jobs Act of 2017 enacted in December 2017
+.
+Contractual Obligations
+The following table summarizes our contractual obligations as of 
+December 31, 2018
+ and the expected effect on our cash flow and liquidity in future periods (in thousands):
+ 
+ 
+Total
+ 
+2019
+ 
+2020-2021
+ 
+2022-2023
+ 
+Thereafter
+Operating leases
+ 
+$
+4,455
+ 
+$
+1,796
+ 
+$
+1,792
+ 
+$
+540
+ 
+$
+327
+Purchase obligations
+ 
+280
+ 
+280
+ 
+—
+ 
+—
+ 
+—
+Long-term incentive compensation
+ 
+9,034
+ 
+1,226
+ 
+3,093
+ 
+4,715
+ 
+—
+Tax Cut & Jobs Act repatriation tax liability
+ 
+18,600
+ 
+1,617
+ 
+3,235
+ 
+4,650
+ 
+9,098
+Other commitments
+ 
+157
+ 
+70
+ 
+87
+ 
+—
+ 
+—
+Total
+ 
+$
+32,526
+ 
+$
+4,989
+ 
+$
+8,207
+ 
+$
+9,905
+ 
+$
+9,425
+We have entered into non-cancelable operating lease agreements for locations within the United States and for our international subsidiaries, with expirations through September 2025 totaling 
+$4.5 million
+.
+ 
+In May 2013, we entered into an exclusive distribution agreement with one of our suppliers to purchase their product through July 2016 which automatically renews annually unless terminated 90 days prior to the termination date. To maintain exclusivity, we are required to purchase a minimum of $40,000 of product per month until the termination date. As of 
+December 31, 2018
+, we were in compliance with the exclusivity provision.
+ 
+32
+Table of Contents
+In recognition of the achievement of specified performance goals, financial rewards are awarded under our 2014 Long-Term Incentive Plan with cash payments through December 2023. See Note 1 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report for additional information. 
+On December 22, 2017, the U.S. Tax Cuts and Jobs Act (the “Tax Act”) was signed into law. The Tax Act significantly revised the U.S. corporate income tax regime by, among other things, lowering the U.S. corporate tax rate from 35% to 21% effective January 1, 2018, implementing a territorial tax system and imposing a one-time repatriation tax on deemed repatriated earnings of foreign subsidiaries and an annual tax on the earnings and profits of any greater than 10% owned foreign controlled corporations. We are subject to this annual tax, resulting in a federal income tax liability as of December 31, 2018 in the amount of $2.9 million, net of foreign tax credits. In 2017, we were subject to the one-time repatriation tax, resulting in a federal income tax liability of $20.2 million. The Company made an election to spread the payment of the one-time repatriation tax liability over an eight year installment period. Under the election, 8% of the installment payments are due in each of the first five years, 15% in the sixth year, 20% in the seventh year, and the remaining 25% due in the eighth year. As a result of the Tax Act adoption of a territorial tax regime, any foreign source portion of a qualified dividend received by a 10% U.S. corporate shareholder is exempt from U.S. tax, therefore resulting in any future repatriation having a minimal effect on our tax liability.
+We have evaluated our tax positions and have determined that there are no uncertain tax positions for the current year or years prior.
+ 
+We have employment agreements with certain members of our management team that can be terminated by either the employee or us upon four weeks’ notice.  The employment agreements entered into with the management team contain provisions that guarantee the payments of specified amounts in the event of a change in control, as defined, or if the employee is terminated without cause, as defined, or terminates employment for good reason, as defined. 
+Critical Accounting Policies and Estimates 
+ 
+A summary of our significant accounting policies is provided in Note 1 of the Notes to Consolidated Financial Statements in “Item 8. Financial Statements and Supplementary Data” of this report. The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reported period. The process of determining significant estimates is fact specific and takes into account historical experience and current and expected economic conditions. To the extent that there are material differences between the estimates and actual results, future results of operations will be affected.
+ 
+Critical accounting policies and estimates are defined as both those that are material to the portrayal of our financial condition and results of operations and as those that require management’s most subjective judgments.  Management believes our critical accounting policies and estimates are those related to revenue recognition, as well as those used in the determination of liabilities related to member commissions and income taxes.
+Revenue Recognition.  
+All revenue is recognized when the performance obligations under a contract are satisfied. Product sales are recorded when the products are shipped and title passes to independent members. Product sales to members are made pursuant to a member agreement that provides for transfer of both title and risk of loss upon our delivery to the carrier that completes delivery to the members, which is commonly referred to as “F.O.B. Shipping Point.” We primarily receive payment by credit card at the time members place orders. Our sales arrangements do not contain right of inspection or customer acceptance provisions other than general rights of return. Amounts received for unshipped product are recorded as deferred revenue. Such amounts totaled 
+$4.6 million
+ and 
+$2.4 million
+ at 
+December 31, 2018
+ and 
+2017
+, respectively. Shipping charges billed to members are included in net sales. Costs associated with shipments are included in cost of sales. Event and training revenue is deferred and recognized as the event or training occurs.
+ 
+Additionally, deferred revenue includes advances for auto ship orders. In certain markets, when a member’s cumulative commission income reaches a certain threshold, a percentage of the member’s weekly commission is held back as an advance and applied to an auto ship order once the accumulated amount of the advances is sufficient to pay for the pre-selected auto ship package of the member.  Such advances were 
+$1.9 million
+ and 
+$1.7 million
+ at 
+December 31, 2018
+ and 
+2017
+, respectively.
+ 
+Commissions.
+ Independent members earn commissions based on total personal and group bonus volume points per weekly sales period.  Each of our products are designated a specified number of bonus volume points, which is essentially a 
+33
+Table of Contents
+percentage of the product’s wholesale price.  We accrue commissions when earned and as the related revenue is recognized and pay commissions on product sales generally two weeks following the end of the weekly sales period.
+ 
+Independent members may also earn incentives based on meeting certain qualifications during a designated incentive period, which may range from several weeks to up to a year.  For each individual incentive, we estimate the total number of qualifiers as well as the expected per qualifier cost and accrue all costs associated with incentives throughout the qualification period.  We regularly review and update, if necessary, the estimates of both qualifiers and cost as more information is obtained during the qualification period.  Any resulting change in total cost is recognized over the remaining qualification period. Long-term promotions and incentives (lasting up to one year) can, in particular, result in uncertain ultimate cost. Accrued commissions, including the estimated cost of our international recognition incentive program and other supplemental programs, totaled 
+$12.5 million
+ and 
+$11.2 million
+ at 
+December 31, 2018
+ and 
+2017
+, respectively.
+ 
+Income Taxes. 
+ Deferred income taxes are recognized for differences between the financial reporting and tax bases of assets and liabilities at enacted statutory rates for the years in which the temporary differences are expected to be recovered or settled. We evaluate the probability of realizing the future benefits of any of our deferred tax assets and record a valuation allowance when we believe a portion or all of our deferred tax assets may not be realized. Deferred tax expense or benefit is a result of changes in deferred tax assets and liabilities. Based on the technical merits of our tax position, tax benefits may be recognized if we determine it is more likely than not that our position will be sustained on examination by tax authorities. The complex nature of these estimates requires us to anticipate the likely application of tax law and make judgments on the largest benefit that has a greater than fifty percent likelihood of being realized prior to the completion and filing of tax returns for such periods.  As of 
+December 31, 2018
+, we do not have a valuation allowance against our U.S. deferred tax assets. We maintain a valuation allowance in certain foreign jurisdictions with an overall tax loss. The valuation allowance will be reduced at such time as management believes it is more likely than not that the deferred tax assets will be realized. Any reductions in the valuation allowance will reduce future income tax provision.
+Provision for income taxes depends on the statutory tax rates in each of the jurisdictions in which we operate. As a result of capital return activities, we determined that a portion of our current undistributed foreign earnings are no longer deemed reinvested indefinitely by our non-U.S. subsidiaries. For state income tax purposes, we will continue to periodically reassess the needs of our foreign subsidiaries and update our indefinite reinvestment assertion as necessary. The Tax Act, enacted on December 22, 2017 by the U.S. government, required a one-time repatriation tax on certain un-repatriated earnings of foreign subsidiaries at a rate of 15.5% tax on post-1986 foreign earnings held in cash and an 8% rate on all other post-1986 earnings. Due to the adoption of a territorial tax regime, any foreign source portion of a qualified dividend received by a 10% U.S. corporate shareholder is exempt from U.S. federal tax, therefore resulting in any future repatriation having a minimal effect on our effective tax rate. To the extent that additional foreign earnings are not deemed permanently reinvested, we expect to recognize additional income tax provision at the applicable U.S. state corporate tax rate(s). As of 
+December 31, 2018
+, we have accrued tax liabilities for earnings that we plan to repatriate out of accumulated earnings in future periods for state tax purposes only. All undistributed earnings in excess of 50% of current earnings on an annual basis are intended to be reinvested indefinitely as of 
+December 31, 2018
+. 
+We estimate what our effective tax rate will be for the full fiscal year at each interim reporting period and record a quarterly tax provision based on that estimated effective tax rate. Throughout the year that estimated rate may change based on variations in our business, changes in our corporate structure, changes in the geographic mix and amount of income, applicable tax laws and regulations, communications with tax authorities, as well as our estimated and actual level of annual pre-tax income. We adjust our income tax provision in the reporting period in which the change in our estimated rate occurs so that the year-to-date provision is consistent with the anticipated annual tax rate. 
