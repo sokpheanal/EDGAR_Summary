@@ -40,7 +40,8 @@ def get_summary(year: str, cik: str) -> str:
     chat_history = []
     #TODO: add in rate limiting
     # this gets hit a lot when you have more than 1 tab open
-    with OpenAI(api_key = st.secrets["openai_api_key"]) as client:
+    #with OpenAI(api_key = st.secrets["openai_api_key"]) as client:
+    with OpenAI() as client:
         chat_completion = client.chat.completions.create(
             messages = system + chat_history + user,
             model = "gpt-3.5-turbo",
