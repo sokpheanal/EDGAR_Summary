@@ -54,8 +54,8 @@ st.set_page_config(page_title = "Summary")
 st.cache_data.clear()
 st.cache_resource.clear()
 
-year = st.sidebar.selectbox('year', get_years())
-cik = st.sidebar.selectbox('cik', get_ciks(year))
+year = st.sidebar.selectbox('Year', get_years())
+cik = st.sidebar.selectbox('CIK', get_ciks(year))
 st.title("EDGAR's Summary Viewer")
 tab1, tab2, tab3 = st.tabs(["About", "Item 7", "Summary"])
 with tab1:
