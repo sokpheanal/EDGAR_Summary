@@ -4,7 +4,7 @@ The app is aimed to summarize item 7 (Management's Discussion and Analysis of Fi
 It is aiming to assist venture capital firms in making investment decisions.
 The app demo can be accessed at this [link](https://edgar-summary.onrender.com).
 As a demo, this app contains Item 7 texts, extracted from 10-K reports from 2015-2023, 5 for each year.
-The app is using OpenAI gpt-3.5-turbo.
+The app is using the OpenAI gpt-3.5-turbo model.
 
 # How to use
 
@@ -76,7 +76,7 @@ The summaries were generated, using the OpenAI gpt-3.5-turbo model.
 3. Incorporate spaCy's sentence tokenizer to prevent sentences being cut off by the gpt model.
 4. Implement gpt-4 model, which will have a higher number of tokens limit, more suitable for longer text, mostly from larger companies.
 
-# Requiremts
+# Requiremets
 
 ```
 streamlit >= 1.32.2, <2.0.0
