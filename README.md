@@ -24,7 +24,7 @@ The data were downloaded with the steps below.
 2. Convert the tickers into an array, then sort it.
 3. Save the tickers to a CSV
 
-# Step 2
+## Step 2
 
 For each CIK in _tickers.csv_ (Step 1)
 
@@ -41,14 +41,14 @@ It is possible for a CIK (or ticker) to have no associated documents of a partic
 `get_filing_metadatas()` responds to this case by throwing an error.
 On our side, it just means skip the record.
 
-# Step 3
+## Step 3
 
 For each accession in _accessions.csv_ (Step 2)
 
 1. Get the XHTML document
 2. save it to disk as _~/data/10-k/raw/{year}/{cik}.{accession number}.xhtml_
 
-# Step 4
+## Step 4
 
 For each XHTML document:
 
