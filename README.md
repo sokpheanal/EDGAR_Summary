@@ -17,6 +17,7 @@ The app is using the OpenAI gpt-3.5-turbo model.
 # Data ingestion
 
 The data were downloaded with the steps below.
+**Note:** If your are interested in analyzing the actual script that performs the steps below, please navigate to the repository [here](https://github.com/TextCorpusLabs/Edgar). 
 
 ## Step 1
 
