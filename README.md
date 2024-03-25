@@ -64,7 +64,9 @@ The data ingestion documentation can be accessed [here](https://github.com/TextC
 
 # Data
 
-If you would like to access the 10-K corpus, you can do so [here](https://github.com/TextCorpusLabs/Edgar/releases/tag/1.1).
+If you would like to access the full 10-K corpus, you can do so [here](https://github.com/TextCorpusLabs/Edgar/releases/tag/1.1).
+
+If you would like to access the full item 7 corpus, you can do so [here](https://github.com/sokpheanal/EDGAR_Summary/releases/tag/1.0) and select the **corpus.zip** link.
 
 # App Back-End
 
