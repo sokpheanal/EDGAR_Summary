@@ -4,7 +4,7 @@ The app is aimed to summarize item 7 (Management's Discussion and Analysis of Fi
 It is aiming to assist venture capital firms in making investment decisions.
 The app demo can be accessed at this [link](https://edgar-summary.onrender.com).
 As a demo, this app contains Item 7 texts, extracted from 10-K reports from 2015-2023, 5 for each year.
-The app is using OpenAI gpt-3.5-turbo.
+The app is using the OpenAI gpt-3.5-turbo model.
 
 # How to use
 
@@ -18,13 +18,15 @@ The app is using OpenAI gpt-3.5-turbo.
 
 The data were downloaded with the steps below.
 
+**Note:** If your are interested in analyzing the actual script that performs the steps below, please navigate to the repository [here](https://github.com/TextCorpusLabs/Edgar). 
+
 ## Step 1
 
 1. Get the list of tickers from the SEC
 2. Convert the tickers into an array, then sort it.
 3. Save the tickers to a CSV
 
-# Step 2
+## Step 2
 
 For each CIK in _tickers.csv_ (Step 1)
 
@@ -41,14 +43,14 @@ It is possible for a CIK (or ticker) to have no associated documents of a partic
 `get_filing_metadatas()` responds to this case by throwing an error.
 On our side, it just means skip the record.
 
-# Step 3
+## Step 3
 
 For each accession in _accessions.csv_ (Step 2)
 
 1. Get the XHTML document
 2. save it to disk as _~/data/10-k/raw/{year}/{cik}.{accession number}.xhtml_
 
-# Step 4
+## Step 4
 
 For each XHTML document:
 
@@ -62,7 +64,9 @@ The data ingestion documentation can be accessed [here](https://github.com/TextC
 
 # Data
 
-If you would like to access the 10-K corpus, you can do so [here](https://github.com/TextCorpusLabs/Edgar/releases/tag/1.1).
+If you would like to access the full 10-K corpus, you can do so [here](https://github.com/TextCorpusLabs/Edgar/releases/tag/1.1).
+
+If you would like to access the full item 7 corpus, you can do so [here](https://github.com/sokpheanal/EDGAR_Summary/releases/tag/1.0) and select the **corpus.zip** link.
 
 # App Back-End
 
@@ -76,7 +80,7 @@ The summaries were generated, using the OpenAI gpt-3.5-turbo model.
 3. Incorporate spaCy's sentence tokenizer to prevent sentences being cut off by the gpt model.
 4. Implement gpt-4 model, which will have a higher number of tokens limit, more suitable for longer text, mostly from larger companies.
 
-# Requiremts
+# Requiremets
 
 ```
 streamlit >= 1.32.2, <2.0.0
