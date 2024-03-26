@@ -6,6 +6,10 @@ The app demo can be accessed at this [link](https://edgar-summary.onrender.com).
 As a demo, this app contains Item 7 texts, extracted from 10-K reports from 2015-2023, 5 for each year.
 The app is using the OpenAI gpt-3.5-turbo model.
 
+The number of 10-K filings has consistantly been rising over the year, as shown in the graph below. The dip in fiscal year 2023 is likely due to reports still trickling in.
+
+![](FileCount.jpg)
+
 # How to use
 
 1. Select the year parameter
